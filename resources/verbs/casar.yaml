@@ -1,0 +1,186 @@
+casar:
+  infinitive: casar
+  gerund: casando
+  pastparticiple: casado
+  definitions: {en: 'to marry, join in marriage, join in wedlock'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I marry, am marrying'}
+      1s: caso
+      1p: casamos
+      2s: casas
+      2p: casáis
+      3s: casa
+      3p: casan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will marry}
+      1s: casaré
+      1p: casaremos
+      2s: casarás
+      2p: casaréis
+      3s: casará
+      3p: casarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was marrying, used to marry, married'}
+      1s: casaba
+      1p: casábamos
+      2s: casabas
+      2p: casabais
+      3s: casaba
+      3p: casaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I married}
+      1s: casé
+      1p: casamos
+      2s: casaste
+      2p: casasteis
+      3s: casó
+      3p: casaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would marry}
+      1s: casaría
+      1p: casaríamos
+      2s: casarías
+      2p: casaríais
+      3s: casaría
+      3p: casarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have married}
+      1s: he casado
+      1p: hemos casado
+      2s: has casado
+      2p: habéis casado
+      3s: ha casado
+      3p: han casado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have married}
+      1s: habré casado
+      1p: habremos casado
+      2s: habrás casado
+      2p: habréis casado
+      3s: habrá casado
+      3p: habrán casado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had married}
+      1s: había casado
+      1p: habíamos casado
+      2s: habías casado
+      2p: habíais casado
+      3s: había casado
+      3p: habían casado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had married}
+      1s: hube casado
+      1p: hubimos casado
+      2s: hubiste casado
+      2p: hubisteis casado
+      3s: hubo casado
+      3p: hubieron casado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have married}
+      1s: habría casado
+      1p: habríamos casado
+      2s: habrías casado
+      2p: habríais casado
+      3s: habría casado
+      3p: habrían casado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I marry, am marrying'}
+      1s: case
+      1p: casemos
+      2s: cases
+      2p: caséis
+      3s: case
+      3p: casen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I married, was marrying'}
+      1s: casara
+      1p: casáramos
+      2s: casaras
+      2p: casarais
+      3s: casara
+      3p: casaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will marry}
+      1s: casare
+      1p: casáremos
+      2s: casares
+      2p: casareis
+      3s: casare
+      3p: casaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have married, married'}
+      1s: haya casado
+      1p: hayamos casado
+      2s: hayas casado
+      2p: hayáis casado
+      3s: haya casado
+      3p: hayan casado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have married}
+      1s: hubiere casado
+      1p: hubiéremos casado
+      2s: hubieres casado
+      2p: hubiereis casado
+      3s: hubiere casado
+      3p: hubieren casado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had married}
+      1s: hubiera casado
+      1p: hubiéramos casado
+      2s: hubieras casado
+      2p: hubierais casado
+      3s: hubiera casado
+      3p: hubieran casado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Marry! Don't marry!}
+      1s: ''
+      1p: ''
+      2s: casa
+      2p: case
+      3s: casad
+      3p: casen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Marry! Don't marry!}
+      1s: ''
+      1p: ''
+      2s: no cases
+      2p: no case
+      3s: no caséis
+      3p: no casen

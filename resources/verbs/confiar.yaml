@@ -1,0 +1,186 @@
+confiar:
+  infinitive: confiar
+  gerund: confiando
+  pastparticiple: confiado
+  definitions: {en: 'to trust, be trusting, entrust'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I trust, am trusting'}
+      1s: confío
+      1p: confiamos
+      2s: confías
+      2p: confiáis
+      3s: confía
+      3p: confían
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will trust}
+      1s: confiaré
+      1p: confiaremos
+      2s: confiarás
+      2p: confiaréis
+      3s: confiará
+      3p: confiarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was trusting, used to trust, trusted'}
+      1s: confiaba
+      1p: confiábamos
+      2s: confiabas
+      2p: confiabais
+      3s: confiaba
+      3p: confiaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I trusted}
+      1s: confié
+      1p: confiamos
+      2s: confiaste
+      2p: confiasteis
+      3s: confió
+      3p: confiaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would trust}
+      1s: confiaría
+      1p: confiaríamos
+      2s: confiarías
+      2p: confiaríais
+      3s: confiaría
+      3p: confiarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have trusted}
+      1s: he confiado
+      1p: hemos confiado
+      2s: has confiado
+      2p: habéis confiado
+      3s: ha confiado
+      3p: han confiado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have trusted}
+      1s: habré confiado
+      1p: habremos confiado
+      2s: habrás confiado
+      2p: habréis confiado
+      3s: habrá confiado
+      3p: habrán confiado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had trusted}
+      1s: había confiado
+      1p: habíamos confiado
+      2s: habías confiado
+      2p: habíais confiado
+      3s: había confiado
+      3p: habían confiado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had trusted}
+      1s: hube confiado
+      1p: hubimos confiado
+      2s: hubiste confiado
+      2p: hubisteis confiado
+      3s: hubo confiado
+      3p: hubieron confiado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have trusted}
+      1s: habría confiado
+      1p: habríamos confiado
+      2s: habrías confiado
+      2p: habríais confiado
+      3s: habría confiado
+      3p: habrían confiado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I trust, am trusting'}
+      1s: confíe
+      1p: confiemos
+      2s: confíes
+      2p: confiéis
+      3s: confíe
+      3p: confíen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I trusted, was trusting'}
+      1s: confiara
+      1p: confiáramos
+      2s: confiaras
+      2p: confiarais
+      3s: confiara
+      3p: confiaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will trust}
+      1s: confiare
+      1p: confiáremos
+      2s: confiares
+      2p: confiareis
+      3s: confiare
+      3p: confiaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have trusted, trusted'}
+      1s: haya confiado
+      1p: hayamos confiado
+      2s: hayas confiado
+      2p: hayáis confiado
+      3s: haya confiado
+      3p: hayan confiado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have trusted}
+      1s: hubiere confiado
+      1p: hubiéremos confiado
+      2s: hubieres confiado
+      2p: hubiereis confiado
+      3s: hubiere confiado
+      3p: hubieren confiado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had trusted}
+      1s: hubiera confiado
+      1p: hubiéramos confiado
+      2s: hubieras confiado
+      2p: hubierais confiado
+      3s: hubiera confiado
+      3p: hubieran confiado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Trust! Don't trust!}
+      1s: ''
+      1p: ''
+      2s: confía
+      2p: confíe
+      3s: confiad
+      3p: confíen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Trust! Don't trust!}
+      1s: ''
+      1p: ''
+      2s: no confíes
+      2p: no confíe
+      3s: no confiéis
+      3p: no confíen

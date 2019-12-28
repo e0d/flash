@@ -1,0 +1,186 @@
+meter:
+  infinitive: meter
+  gerund: metiendo
+  pastparticiple: metido
+  definitions: {en: 'to put [in], place, insert'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I put, am putting'}
+      1s: meto
+      1p: metemos
+      2s: metes
+      2p: metéis
+      3s: mete
+      3p: meten
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will put}
+      1s: meteré
+      1p: meteremos
+      2s: meterás
+      2p: meteréis
+      3s: meterá
+      3p: meterán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was putting, used to put, put'}
+      1s: metía
+      1p: metíamos
+      2s: metías
+      2p: metíais
+      3s: metía
+      3p: metían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I put}
+      1s: metí
+      1p: metimos
+      2s: metiste
+      2p: metisteis
+      3s: metió
+      3p: metieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would put}
+      1s: metería
+      1p: meteríamos
+      2s: meterías
+      2p: meteríais
+      3s: metería
+      3p: meterían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have put}
+      1s: he metido
+      1p: hemos metido
+      2s: has metido
+      2p: habéis metido
+      3s: ha metido
+      3p: han metido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have put}
+      1s: habré metido
+      1p: habremos metido
+      2s: habrás metido
+      2p: habréis metido
+      3s: habrá metido
+      3p: habrán metido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had put}
+      1s: había metido
+      1p: habíamos metido
+      2s: habías metido
+      2p: habíais metido
+      3s: había metido
+      3p: habían metido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had put}
+      1s: hube metido
+      1p: hubimos metido
+      2s: hubiste metido
+      2p: hubisteis metido
+      3s: hubo metido
+      3p: hubieron metido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have put}
+      1s: habría metido
+      1p: habríamos metido
+      2s: habrías metido
+      2p: habríais metido
+      3s: habría metido
+      3p: habrían metido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I put, am putting'}
+      1s: meta
+      1p: metamos
+      2s: metas
+      2p: metáis
+      3s: meta
+      3p: metan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I put, was putting'}
+      1s: metiera
+      1p: metiéramos
+      2s: metieras
+      2p: metierais
+      3s: metiera
+      3p: metieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will put}
+      1s: metiere
+      1p: metiéremos
+      2s: metieres
+      2p: metiereis
+      3s: metiere
+      3p: metieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have put, put'}
+      1s: haya metido
+      1p: hayamos metido
+      2s: hayas metido
+      2p: hayáis metido
+      3s: haya metido
+      3p: hayan metido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have put}
+      1s: hubiere metido
+      1p: hubiéremos metido
+      2s: hubieres metido
+      2p: hubiereis metido
+      3s: hubiere metido
+      3p: hubieren metido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had put}
+      1s: hubiera metido
+      1p: hubiéramos metido
+      2s: hubieras metido
+      2p: hubierais metido
+      3s: hubiera metido
+      3p: hubieran metido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Put! Don't put!}
+      1s: ''
+      1p: ''
+      2s: mete
+      2p: meta
+      3s: meted
+      3p: metan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Put! Don't put!}
+      1s: ''
+      1p: ''
+      2s: no metas
+      2p: no meta
+      3s: no metáis
+      3p: no metan

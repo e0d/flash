@@ -1,0 +1,186 @@
+competir:
+  infinitive: competir
+  gerund: compitiendo
+  pastparticiple: competido
+  definitions: {en: to compete}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I compete, am competing'}
+      1s: compito
+      1p: competimos
+      2s: compites
+      2p: competís
+      3s: compite
+      3p: compiten
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will compete}
+      1s: competiré
+      1p: competiremos
+      2s: competirás
+      2p: competiréis
+      3s: competirá
+      3p: competirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was competing, used to compete, competed'}
+      1s: competía
+      1p: competíamos
+      2s: competías
+      2p: competíais
+      3s: competía
+      3p: competían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I competed}
+      1s: competí
+      1p: competimos
+      2s: competiste
+      2p: competisteis
+      3s: compitió
+      3p: compitieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would compete}
+      1s: competiría
+      1p: competiríamos
+      2s: competirías
+      2p: competiríais
+      3s: competiría
+      3p: competirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have competed}
+      1s: he competido
+      1p: hemos competido
+      2s: has competido
+      2p: habéis competido
+      3s: ha competido
+      3p: han competido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have competed}
+      1s: habré competido
+      1p: habremos competido
+      2s: habrás competido
+      2p: habréis competido
+      3s: habrá competido
+      3p: habrán competido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had competed}
+      1s: había competido
+      1p: habíamos competido
+      2s: habías competido
+      2p: habíais competido
+      3s: había competido
+      3p: habían competido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had competed}
+      1s: hube competido
+      1p: hubimos competido
+      2s: hubiste competido
+      2p: hubisteis competido
+      3s: hubo competido
+      3p: hubieron competido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have competed}
+      1s: habría competido
+      1p: habríamos competido
+      2s: habrías competido
+      2p: habríais competido
+      3s: habría competido
+      3p: habrían competido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I compete, am competing'}
+      1s: compita
+      1p: compitamos
+      2s: compitas
+      2p: compitáis
+      3s: compita
+      3p: compitan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I competed, was competing'}
+      1s: compitiera
+      1p: compitiéramos
+      2s: compitieras
+      2p: compitierais
+      3s: compitiera
+      3p: compitieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will compete}
+      1s: compitiere
+      1p: compitiéremos
+      2s: compitieres
+      2p: compitiereis
+      3s: compitiere
+      3p: compitieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have competed, competed'}
+      1s: haya competido
+      1p: hayamos competido
+      2s: hayas competido
+      2p: hayáis competido
+      3s: haya competido
+      3p: hayan competido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have competed}
+      1s: hubiere competido
+      1p: hubiéremos competido
+      2s: hubieres competido
+      2p: hubiereis competido
+      3s: hubiere competido
+      3p: hubieren competido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had competed}
+      1s: hubiera competido
+      1p: hubiéramos competido
+      2s: hubieras competido
+      2p: hubierais competido
+      3s: hubiera competido
+      3p: hubieran competido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Compete! Don't compete!}
+      1s: ''
+      1p: ''
+      2s: compite
+      2p: compita
+      3s: competid
+      3p: compitan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Compete! Don't compete!}
+      1s: ''
+      1p: ''
+      2s: no compitas
+      2p: no compita
+      3s: no compitáis
+      3p: no compitan

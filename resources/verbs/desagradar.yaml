@@ -1,0 +1,186 @@
+desagradar:
+  infinitive: desagradar
+  gerund: desagradando
+  pastparticiple: desagradado
+  definitions: {en: 'to displease, be displeasing'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I displease, am displeasing'}
+      1s: desagrado
+      1p: desagradamos
+      2s: desagradas
+      2p: desagradáis
+      3s: desagrada
+      3p: desagradan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will displease}
+      1s: desagradaré
+      1p: desagradaremos
+      2s: desagradarás
+      2p: desagradaréis
+      3s: desagradará
+      3p: desagradarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was displeasing, used to displease, displeased'}
+      1s: desagradaba
+      1p: desagradábamos
+      2s: desagradabas
+      2p: desagradabais
+      3s: desagradaba
+      3p: desagradaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I displeased}
+      1s: desagradé
+      1p: desagradamos
+      2s: desagradaste
+      2p: desagradasteis
+      3s: desagradó
+      3p: desagradaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would displease}
+      1s: desagradaría
+      1p: desagradaríamos
+      2s: desagradarías
+      2p: desagradaríais
+      3s: desagradaría
+      3p: desagradarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have displeased}
+      1s: he desagradado
+      1p: hemos desagradado
+      2s: has desagradado
+      2p: habéis desagradado
+      3s: ha desagradado
+      3p: han desagradado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have displeased}
+      1s: habré desagradado
+      1p: habremos desagradado
+      2s: habrás desagradado
+      2p: habréis desagradado
+      3s: habrá desagradado
+      3p: habrán desagradado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had displeased}
+      1s: había desagradado
+      1p: habíamos desagradado
+      2s: habías desagradado
+      2p: habíais desagradado
+      3s: había desagradado
+      3p: habían desagradado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had displeased}
+      1s: hube desagradado
+      1p: hubimos desagradado
+      2s: hubiste desagradado
+      2p: hubisteis desagradado
+      3s: hubo desagradado
+      3p: hubieron desagradado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have displeased}
+      1s: habría desagradado
+      1p: habríamos desagradado
+      2s: habrías desagradado
+      2p: habríais desagradado
+      3s: habría desagradado
+      3p: habrían desagradado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I displease, am displeasing'}
+      1s: desagrade
+      1p: desagrademos
+      2s: desagrades
+      2p: desagradéis
+      3s: desagrade
+      3p: desagraden
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I displeased, was displeasing'}
+      1s: desagradara
+      1p: desagradáramos
+      2s: desagradaras
+      2p: desagradarais
+      3s: desagradara
+      3p: desagradaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will displease}
+      1s: desagradare
+      1p: desagradáremos
+      2s: desagradares
+      2p: desagradareis
+      3s: desagradare
+      3p: desagradaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have displeased, displeased'}
+      1s: haya desagradado
+      1p: hayamos desagradado
+      2s: hayas desagradado
+      2p: hayáis desagradado
+      3s: haya desagradado
+      3p: hayan desagradado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have displeased}
+      1s: hubiere desagradado
+      1p: hubiéremos desagradado
+      2s: hubieres desagradado
+      2p: hubiereis desagradado
+      3s: hubiere desagradado
+      3p: hubieren desagradado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had displeased}
+      1s: hubiera desagradado
+      1p: hubiéramos desagradado
+      2s: hubieras desagradado
+      2p: hubierais desagradado
+      3s: hubiera desagradado
+      3p: hubieran desagradado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Displease! Don't displease!}
+      1s: ''
+      1p: ''
+      2s: desagrada
+      2p: desagrade
+      3s: desagradad
+      3p: desagraden
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Displease! Don't displease!}
+      1s: ''
+      1p: ''
+      2s: no desagrades
+      2p: no desagrade
+      3s: no desagradéis
+      3p: no desagraden

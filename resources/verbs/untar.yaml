@@ -1,0 +1,186 @@
+untar:
+  infinitive: untar
+  gerund: untando
+  pastparticiple: untado
+  definitions: {en: 'to anoint; to smear, rub'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I anoint, am anointing'}
+      1s: unto
+      1p: untamos
+      2s: untas
+      2p: untáis
+      3s: unta
+      3p: untan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will anoint}
+      1s: untaré
+      1p: untaremos
+      2s: untarás
+      2p: untaréis
+      3s: untará
+      3p: untarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was anointing, used to anoint, anointed'}
+      1s: untaba
+      1p: untábamos
+      2s: untabas
+      2p: untabais
+      3s: untaba
+      3p: untaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I anointed}
+      1s: unté
+      1p: untamos
+      2s: untaste
+      2p: untasteis
+      3s: untó
+      3p: untaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would anoint}
+      1s: untaría
+      1p: untaríamos
+      2s: untarías
+      2p: untaríais
+      3s: untaría
+      3p: untarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have anointed}
+      1s: he untado
+      1p: hemos untado
+      2s: has untado
+      2p: habéis untado
+      3s: ha untado
+      3p: han untado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have anointed}
+      1s: habré untado
+      1p: habremos untado
+      2s: habrás untado
+      2p: habréis untado
+      3s: habrá untado
+      3p: habrán untado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had anointed}
+      1s: había untado
+      1p: habíamos untado
+      2s: habías untado
+      2p: habíais untado
+      3s: había untado
+      3p: habían untado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had anointed}
+      1s: hube untado
+      1p: hubimos untado
+      2s: hubiste untado
+      2p: hubisteis untado
+      3s: hubo untado
+      3p: hubieron untado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have anointed}
+      1s: habría untado
+      1p: habríamos untado
+      2s: habrías untado
+      2p: habríais untado
+      3s: habría untado
+      3p: habrían untado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I anoint, am anointing'}
+      1s: unte
+      1p: untemos
+      2s: untes
+      2p: untéis
+      3s: unte
+      3p: unten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I anointed, was anointing'}
+      1s: untara
+      1p: untáramos
+      2s: untaras
+      2p: untarais
+      3s: untara
+      3p: untaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will anoint}
+      1s: untare
+      1p: untáremos
+      2s: untares
+      2p: untareis
+      3s: untare
+      3p: untaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have anointed, anointed'}
+      1s: haya untado
+      1p: hayamos untado
+      2s: hayas untado
+      2p: hayáis untado
+      3s: haya untado
+      3p: hayan untado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have anointed}
+      1s: hubiere untado
+      1p: hubiéremos untado
+      2s: hubieres untado
+      2p: hubiereis untado
+      3s: hubiere untado
+      3p: hubieren untado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had anointed}
+      1s: hubiera untado
+      1p: hubiéramos untado
+      2s: hubieras untado
+      2p: hubierais untado
+      3s: hubiera untado
+      3p: hubieran untado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Anoint! Don't anoint!}
+      1s: ''
+      1p: ''
+      2s: unta
+      2p: unte
+      3s: untad
+      3p: unten
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Anoint! Don't anoint!}
+      1s: ''
+      1p: ''
+      2s: no untes
+      2p: no unte
+      3s: no untéis
+      3p: no unten

@@ -1,0 +1,186 @@
+predecir:
+  infinitive: predecir
+  gerund: prediciendo
+  pastparticiple: predicho
+  definitions: {en: 'to predict, foretell, forecast'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I predict, am predicting'}
+      1s: predigo
+      1p: predecimos
+      2s: predices
+      2p: predecís
+      3s: predice
+      3p: predicen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will predict}
+      1s: predeciré
+      1p: predeciremos
+      2s: predecirás
+      2p: predeciréis
+      3s: predecirá
+      3p: predecirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was predicting, used to predict, predicted'}
+      1s: predecía
+      1p: predecíamos
+      2s: predecías
+      2p: predecíais
+      3s: predecía
+      3p: predecían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I predicted}
+      1s: predije
+      1p: predijimos
+      2s: predijiste
+      2p: predijisteis
+      3s: predijo
+      3p: predijeron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would predict}
+      1s: predeciría
+      1p: predeciríamos
+      2s: predecirías
+      2p: predeciríais
+      3s: predeciría
+      3p: predecirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have predicted}
+      1s: he predicho
+      1p: hemos predicho
+      2s: has predicho
+      2p: habéis predicho
+      3s: ha predicho
+      3p: han predicho
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have predicted}
+      1s: habré predicho
+      1p: habremos predicho
+      2s: habrás predicho
+      2p: habréis predicho
+      3s: habrá predicho
+      3p: habrán predicho
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had predicted}
+      1s: había predicho
+      1p: habíamos predicho
+      2s: habías predicho
+      2p: habíais predicho
+      3s: había predicho
+      3p: habían predicho
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had predicted}
+      1s: hube predicho
+      1p: hubimos predicho
+      2s: hubiste predicho
+      2p: hubisteis predicho
+      3s: hubo predicho
+      3p: hubieron predicho
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have predicted}
+      1s: habría predicho
+      1p: habríamos predicho
+      2s: habrías predicho
+      2p: habríais predicho
+      3s: habría predicho
+      3p: habrían predicho
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I predict, am predicting'}
+      1s: prediga
+      1p: predigamos
+      2s: predigas
+      2p: predigáis
+      3s: prediga
+      3p: predigan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I predicted, was predicting'}
+      1s: predijera
+      1p: predijéramos
+      2s: predijeras
+      2p: predijerais
+      3s: predijera
+      3p: predijeran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will predict}
+      1s: predijere
+      1p: predijéremos
+      2s: predijeres
+      2p: predijereis
+      3s: predijere
+      3p: predijeren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have predicted, predicted'}
+      1s: haya predicho
+      1p: hayamos predicho
+      2s: hayas predicho
+      2p: hayáis predicho
+      3s: haya predicho
+      3p: hayan predicho
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have predicted}
+      1s: hubiere predicho
+      1p: hubiéremos predicho
+      2s: hubieres predicho
+      2p: hubiereis predicho
+      3s: hubiere predicho
+      3p: hubieren predicho
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had predicted}
+      1s: hubiera predicho
+      1p: hubiéramos predicho
+      2s: hubieras predicho
+      2p: hubierais predicho
+      3s: hubiera predicho
+      3p: hubieran predicho
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Predict! Don't predict!}
+      1s: ''
+      1p: ''
+      2s: predice
+      2p: prediga
+      3s: predecid
+      3p: predigan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Predict! Don't predict!}
+      1s: ''
+      1p: ''
+      2s: no predigas
+      2p: no prediga
+      3s: no predigáis
+      3p: no predigan

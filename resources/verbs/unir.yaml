@@ -1,0 +1,186 @@
+unir:
+  infinitive: unir
+  gerund: uniendo
+  pastparticiple: unido
+  definitions: {en: 'to unite, join; to tie together; to merge'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I unite, am uniting'}
+      1s: uno
+      1p: unimos
+      2s: unes
+      2p: unís
+      3s: une
+      3p: unen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will unite}
+      1s: uniré
+      1p: uniremos
+      2s: unirás
+      2p: uniréis
+      3s: unirá
+      3p: unirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was uniting, used to unite, united'}
+      1s: unía
+      1p: uníamos
+      2s: unías
+      2p: uníais
+      3s: unía
+      3p: unían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I united}
+      1s: uní
+      1p: unimos
+      2s: uniste
+      2p: unisteis
+      3s: unió
+      3p: unieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would unite}
+      1s: uniría
+      1p: uniríamos
+      2s: unirías
+      2p: uniríais
+      3s: uniría
+      3p: unirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have united}
+      1s: he unido
+      1p: hemos unido
+      2s: has unido
+      2p: habéis unido
+      3s: ha unido
+      3p: han unido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have united}
+      1s: habré unido
+      1p: habremos unido
+      2s: habrás unido
+      2p: habréis unido
+      3s: habrá unido
+      3p: habrán unido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had united}
+      1s: había unido
+      1p: habíamos unido
+      2s: habías unido
+      2p: habíais unido
+      3s: había unido
+      3p: habían unido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had united}
+      1s: hube unido
+      1p: hubimos unido
+      2s: hubiste unido
+      2p: hubisteis unido
+      3s: hubo unido
+      3p: hubieron unido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have united}
+      1s: habría unido
+      1p: habríamos unido
+      2s: habrías unido
+      2p: habríais unido
+      3s: habría unido
+      3p: habrían unido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I unite, am uniting'}
+      1s: una
+      1p: unamos
+      2s: unas
+      2p: unáis
+      3s: una
+      3p: unan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I united, was uniting'}
+      1s: uniera
+      1p: uniéramos
+      2s: unieras
+      2p: unierais
+      3s: uniera
+      3p: unieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will unite}
+      1s: uniere
+      1p: uniéremos
+      2s: unieres
+      2p: uniereis
+      3s: uniere
+      3p: unieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have united, united'}
+      1s: haya unido
+      1p: hayamos unido
+      2s: hayas unido
+      2p: hayáis unido
+      3s: haya unido
+      3p: hayan unido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have united}
+      1s: hubiere unido
+      1p: hubiéremos unido
+      2s: hubieres unido
+      2p: hubiereis unido
+      3s: hubiere unido
+      3p: hubieren unido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had united}
+      1s: hubiera unido
+      1p: hubiéramos unido
+      2s: hubieras unido
+      2p: hubierais unido
+      3s: hubiera unido
+      3p: hubieran unido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Unite! Don't unite!}
+      1s: ''
+      1p: ''
+      2s: une
+      2p: una
+      3s: unid
+      3p: unan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Unite! Don't unite!}
+      1s: ''
+      1p: ''
+      2s: no unas
+      2p: no una
+      3s: no unáis
+      3p: no unan

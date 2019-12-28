@@ -1,0 +1,186 @@
+anunciar:
+  infinitive: anunciar
+  gerund: anunciando
+  pastparticiple: anunciado
+  definitions: {en: to announce}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I announce, am announcing'}
+      1s: anuncio
+      1p: anunciamos
+      2s: anuncias
+      2p: anunciáis
+      3s: anuncia
+      3p: anuncian
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will announce}
+      1s: anunciaré
+      1p: anunciaremos
+      2s: anunciarás
+      2p: anunciaréis
+      3s: anunciará
+      3p: anunciarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was announcing, used to announce, announced'}
+      1s: anunciaba
+      1p: anunciábamos
+      2s: anunciabas
+      2p: anunciabais
+      3s: anunciaba
+      3p: anunciaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I announced}
+      1s: anuncié
+      1p: anunciamos
+      2s: anunciaste
+      2p: anunciasteis
+      3s: anunció
+      3p: anunciaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would announce}
+      1s: anunciaría
+      1p: anunciaríamos
+      2s: anunciarías
+      2p: anunciaríais
+      3s: anunciaría
+      3p: anunciarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have announced}
+      1s: he anunciado
+      1p: hemos anunciado
+      2s: has anunciado
+      2p: habéis anunciado
+      3s: ha anunciado
+      3p: han anunciado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have announced}
+      1s: habré anunciado
+      1p: habremos anunciado
+      2s: habrás anunciado
+      2p: habréis anunciado
+      3s: habrá anunciado
+      3p: habrán anunciado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had announced}
+      1s: había anunciado
+      1p: habíamos anunciado
+      2s: habías anunciado
+      2p: habíais anunciado
+      3s: había anunciado
+      3p: habían anunciado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had announced}
+      1s: hube anunciado
+      1p: hubimos anunciado
+      2s: hubiste anunciado
+      2p: hubisteis anunciado
+      3s: hubo anunciado
+      3p: hubieron anunciado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have announced}
+      1s: habría anunciado
+      1p: habríamos anunciado
+      2s: habrías anunciado
+      2p: habríais anunciado
+      3s: habría anunciado
+      3p: habrían anunciado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I announce, am announcing'}
+      1s: anuncie
+      1p: anunciemos
+      2s: anuncies
+      2p: anunciéis
+      3s: anuncie
+      3p: anuncien
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I announced, was announcing'}
+      1s: anunciara
+      1p: anunciáramos
+      2s: anunciaras
+      2p: anunciarais
+      3s: anunciara
+      3p: anunciaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will announce}
+      1s: anunciare
+      1p: anunciáremos
+      2s: anunciares
+      2p: anunciareis
+      3s: anunciare
+      3p: anunciaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have announced, announced'}
+      1s: haya anunciado
+      1p: hayamos anunciado
+      2s: hayas anunciado
+      2p: hayáis anunciado
+      3s: haya anunciado
+      3p: hayan anunciado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have announced}
+      1s: hubiere anunciado
+      1p: hubiéremos anunciado
+      2s: hubieres anunciado
+      2p: hubiereis anunciado
+      3s: hubiere anunciado
+      3p: hubieren anunciado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had announced}
+      1s: hubiera anunciado
+      1p: hubiéramos anunciado
+      2s: hubieras anunciado
+      2p: hubierais anunciado
+      3s: hubiera anunciado
+      3p: hubieran anunciado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Announce! Don't announce!}
+      1s: ''
+      1p: ''
+      2s: anuncia
+      2p: anuncie
+      3s: anunciad
+      3p: anuncien
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Announce! Don't announce!}
+      1s: ''
+      1p: ''
+      2s: no anuncies
+      2p: no anuncie
+      3s: no anunciéis
+      3p: no anuncien

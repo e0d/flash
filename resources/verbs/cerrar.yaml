@@ -1,0 +1,186 @@
+cerrar:
+  infinitive: cerrar
+  gerund: cerrando
+  pastparticiple: cerrado
+  definitions: {en: 'to close, shut'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I close, am closing'}
+      1s: cierro
+      1p: cerramos
+      2s: cierras
+      2p: cerráis
+      3s: cierra
+      3p: cierran
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will close}
+      1s: cerraré
+      1p: cerraremos
+      2s: cerrarás
+      2p: cerraréis
+      3s: cerrará
+      3p: cerrarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was closing, used to close, closed'}
+      1s: cerraba
+      1p: cerrábamos
+      2s: cerrabas
+      2p: cerrabais
+      3s: cerraba
+      3p: cerraban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I closed}
+      1s: cerré
+      1p: cerramos
+      2s: cerraste
+      2p: cerrasteis
+      3s: cerró
+      3p: cerraron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would close}
+      1s: cerraría
+      1p: cerraríamos
+      2s: cerrarías
+      2p: cerraríais
+      3s: cerraría
+      3p: cerrarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have closed}
+      1s: he cerrado
+      1p: hemos cerrado
+      2s: has cerrado
+      2p: habéis cerrado
+      3s: ha cerrado
+      3p: han cerrado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have closed}
+      1s: habré cerrado
+      1p: habremos cerrado
+      2s: habrás cerrado
+      2p: habréis cerrado
+      3s: habrá cerrado
+      3p: habrán cerrado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had closed}
+      1s: había cerrado
+      1p: habíamos cerrado
+      2s: habías cerrado
+      2p: habíais cerrado
+      3s: había cerrado
+      3p: habían cerrado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had closed}
+      1s: hube cerrado
+      1p: hubimos cerrado
+      2s: hubiste cerrado
+      2p: hubisteis cerrado
+      3s: hubo cerrado
+      3p: hubieron cerrado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have closed}
+      1s: habría cerrado
+      1p: habríamos cerrado
+      2s: habrías cerrado
+      2p: habríais cerrado
+      3s: habría cerrado
+      3p: habrían cerrado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I close, am closing'}
+      1s: cierre
+      1p: cerremos
+      2s: cierres
+      2p: cerréis
+      3s: cierre
+      3p: cierren
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I closed, was closing'}
+      1s: cerrara
+      1p: cerráramos
+      2s: cerraras
+      2p: cerrarais
+      3s: cerrara
+      3p: cerraran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will close}
+      1s: cerrare
+      1p: cerráremos
+      2s: cerrares
+      2p: cerrareis
+      3s: cerrare
+      3p: cerraren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have closed, closed'}
+      1s: haya cerrado
+      1p: hayamos cerrado
+      2s: hayas cerrado
+      2p: hayáis cerrado
+      3s: haya cerrado
+      3p: hayan cerrado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have closed}
+      1s: hubiere cerrado
+      1p: hubiéremos cerrado
+      2s: hubieres cerrado
+      2p: hubiereis cerrado
+      3s: hubiere cerrado
+      3p: hubieren cerrado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had closed}
+      1s: hubiera cerrado
+      1p: hubiéramos cerrado
+      2s: hubieras cerrado
+      2p: hubierais cerrado
+      3s: hubiera cerrado
+      3p: hubieran cerrado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Close! Don't close!}
+      1s: ''
+      1p: ''
+      2s: cierra
+      2p: cierre
+      3s: cerrad
+      3p: cierren
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Close! Don't close!}
+      1s: ''
+      1p: ''
+      2s: no cierres
+      2p: no cierre
+      3s: no cerréis
+      3p: no cierren

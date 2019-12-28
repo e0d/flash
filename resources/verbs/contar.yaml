@@ -1,0 +1,186 @@
+contar:
+  infinitive: contar
+  gerund: contando
+  pastparticiple: contado
+  definitions: {en: 'to count, relate, tell'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I count, am counting'}
+      1s: cuento
+      1p: contamos
+      2s: cuentas
+      2p: contáis
+      3s: cuenta
+      3p: cuentan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will count}
+      1s: contaré
+      1p: contaremos
+      2s: contarás
+      2p: contaréis
+      3s: contará
+      3p: contarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was counting, used to count, counted'}
+      1s: contaba
+      1p: contábamos
+      2s: contabas
+      2p: contabais
+      3s: contaba
+      3p: contaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I counted}
+      1s: conté
+      1p: contamos
+      2s: contaste
+      2p: contasteis
+      3s: contó
+      3p: contaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would count}
+      1s: contaría
+      1p: contaríamos
+      2s: contarías
+      2p: contaríais
+      3s: contaría
+      3p: contarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have counted}
+      1s: he contado
+      1p: hemos contado
+      2s: has contado
+      2p: habéis contado
+      3s: ha contado
+      3p: han contado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have counted}
+      1s: habré contado
+      1p: habremos contado
+      2s: habrás contado
+      2p: habréis contado
+      3s: habrá contado
+      3p: habrán contado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had counted}
+      1s: había contado
+      1p: habíamos contado
+      2s: habías contado
+      2p: habíais contado
+      3s: había contado
+      3p: habían contado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had counted}
+      1s: hube contado
+      1p: hubimos contado
+      2s: hubiste contado
+      2p: hubisteis contado
+      3s: hubo contado
+      3p: hubieron contado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have counted}
+      1s: habría contado
+      1p: habríamos contado
+      2s: habrías contado
+      2p: habríais contado
+      3s: habría contado
+      3p: habrían contado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I count, am counting'}
+      1s: cuente
+      1p: contemos
+      2s: cuentes
+      2p: contéis
+      3s: cuente
+      3p: cuenten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I counted, was counting'}
+      1s: contara
+      1p: contáramos
+      2s: contaras
+      2p: contarais
+      3s: contara
+      3p: contaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will count}
+      1s: contare
+      1p: contáremos
+      2s: contares
+      2p: contareis
+      3s: contare
+      3p: contaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have counted, counted'}
+      1s: haya contado
+      1p: hayamos contado
+      2s: hayas contado
+      2p: hayáis contado
+      3s: haya contado
+      3p: hayan contado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have counted}
+      1s: hubiere contado
+      1p: hubiéremos contado
+      2s: hubieres contado
+      2p: hubiereis contado
+      3s: hubiere contado
+      3p: hubieren contado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had counted}
+      1s: hubiera contado
+      1p: hubiéramos contado
+      2s: hubieras contado
+      2p: hubierais contado
+      3s: hubiera contado
+      3p: hubieran contado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Count! Don't count!}
+      1s: ''
+      1p: ''
+      2s: cuenta
+      2p: cuente
+      3s: contad
+      3p: cuenten
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Count! Don't count!}
+      1s: ''
+      1p: ''
+      2s: no cuentes
+      2p: no cuente
+      3s: no contéis
+      3p: no cuenten

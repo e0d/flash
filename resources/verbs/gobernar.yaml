@@ -1,0 +1,186 @@
+gobernar:
+  infinitive: gobernar
+  gerund: gobernando
+  pastparticiple: gobernado
+  definitions: {en: to govern}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I govern, am governing'}
+      1s: gobierno
+      1p: gobernamos
+      2s: gobiernas
+      2p: gobernáis
+      3s: gobierna
+      3p: gobiernan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will govern}
+      1s: gobernaré
+      1p: gobernaremos
+      2s: gobernarás
+      2p: gobernaréis
+      3s: gobernará
+      3p: gobernarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was governing, used to govern, governed'}
+      1s: gobernaba
+      1p: gobernábamos
+      2s: gobernabas
+      2p: gobernabais
+      3s: gobernaba
+      3p: gobernaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I governed}
+      1s: goberné
+      1p: gobernamos
+      2s: gobernaste
+      2p: gobernasteis
+      3s: gobernó
+      3p: gobernaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would govern}
+      1s: gobernaría
+      1p: gobernaríamos
+      2s: gobernarías
+      2p: gobernaríais
+      3s: gobernaría
+      3p: gobernarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have governed}
+      1s: he gobernado
+      1p: hemos gobernado
+      2s: has gobernado
+      2p: habéis gobernado
+      3s: ha gobernado
+      3p: han gobernado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have governed}
+      1s: habré gobernado
+      1p: habremos gobernado
+      2s: habrás gobernado
+      2p: habréis gobernado
+      3s: habrá gobernado
+      3p: habrán gobernado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had governed}
+      1s: había gobernado
+      1p: habíamos gobernado
+      2s: habías gobernado
+      2p: habíais gobernado
+      3s: había gobernado
+      3p: habían gobernado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had governed}
+      1s: hube gobernado
+      1p: hubimos gobernado
+      2s: hubiste gobernado
+      2p: hubisteis gobernado
+      3s: hubo gobernado
+      3p: hubieron gobernado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have governed}
+      1s: habría gobernado
+      1p: habríamos gobernado
+      2s: habrías gobernado
+      2p: habríais gobernado
+      3s: habría gobernado
+      3p: habrían gobernado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I govern, am governing'}
+      1s: gobierne
+      1p: gobernemos
+      2s: gobiernes
+      2p: gobernéis
+      3s: gobierne
+      3p: gobiernen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I governed, was governing'}
+      1s: gobernara
+      1p: gobernáramos
+      2s: gobernaras
+      2p: gobernarais
+      3s: gobernara
+      3p: gobernaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will govern}
+      1s: gobernare
+      1p: gobernáremos
+      2s: gobernares
+      2p: gobernareis
+      3s: gobernare
+      3p: gobernaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have governed, governed'}
+      1s: haya gobernado
+      1p: hayamos gobernado
+      2s: hayas gobernado
+      2p: hayáis gobernado
+      3s: haya gobernado
+      3p: hayan gobernado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have governed}
+      1s: hubiere gobernado
+      1p: hubiéremos gobernado
+      2s: hubieres gobernado
+      2p: hubiereis gobernado
+      3s: hubiere gobernado
+      3p: hubieren gobernado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had governed}
+      1s: hubiera gobernado
+      1p: hubiéramos gobernado
+      2s: hubieras gobernado
+      2p: hubierais gobernado
+      3s: hubiera gobernado
+      3p: hubieran gobernado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Govern! Don't govern!}
+      1s: ''
+      1p: ''
+      2s: gobierna
+      2p: gobierne
+      3s: gobernad
+      3p: gobiernen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Govern! Don't govern!}
+      1s: ''
+      1p: ''
+      2s: no gobiernes
+      2p: no gobierne
+      3s: no gobernéis
+      3p: no gobiernen

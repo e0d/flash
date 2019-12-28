@@ -1,0 +1,186 @@
+acampar:
+  infinitive: acampar
+  gerund: acampando
+  pastparticiple: acampado
+  definitions: {en: 'to camp, encamp, go camping'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I camp, am camping'}
+      1s: acampo
+      1p: acampamos
+      2s: acampas
+      2p: acampáis
+      3s: acampa
+      3p: acampan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will camp}
+      1s: acamparé
+      1p: acamparemos
+      2s: acamparás
+      2p: acamparéis
+      3s: acampará
+      3p: acamparán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was camping, used to camp, camped'}
+      1s: acampaba
+      1p: acampábamos
+      2s: acampabas
+      2p: acampabais
+      3s: acampaba
+      3p: acampaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I camped}
+      1s: acampé
+      1p: acampamos
+      2s: acampaste
+      2p: acampasteis
+      3s: acampó
+      3p: acamparon
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would camp}
+      1s: acamparía
+      1p: acamparíamos
+      2s: acamparías
+      2p: acamparíais
+      3s: acamparía
+      3p: acamparían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have camped}
+      1s: he acampado
+      1p: hemos acampado
+      2s: has acampado
+      2p: habéis acampado
+      3s: ha acampado
+      3p: han acampado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have camped}
+      1s: habré acampado
+      1p: habremos acampado
+      2s: habrás acampado
+      2p: habréis acampado
+      3s: habrá acampado
+      3p: habrán acampado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had camped}
+      1s: había acampado
+      1p: habíamos acampado
+      2s: habías acampado
+      2p: habíais acampado
+      3s: había acampado
+      3p: habían acampado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had camped}
+      1s: hube acampado
+      1p: hubimos acampado
+      2s: hubiste acampado
+      2p: hubisteis acampado
+      3s: hubo acampado
+      3p: hubieron acampado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have camped}
+      1s: habría acampado
+      1p: habríamos acampado
+      2s: habrías acampado
+      2p: habríais acampado
+      3s: habría acampado
+      3p: habrían acampado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I camp, am camping'}
+      1s: acampe
+      1p: acampemos
+      2s: acampes
+      2p: acampéis
+      3s: acampe
+      3p: acampen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I camped, was camping'}
+      1s: acampara
+      1p: acampáramos
+      2s: acamparas
+      2p: acamparais
+      3s: acampara
+      3p: acamparan
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will camp}
+      1s: acampare
+      1p: acampáremos
+      2s: acampares
+      2p: acampareis
+      3s: acampare
+      3p: acamparen
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have camped, camped'}
+      1s: haya acampado
+      1p: hayamos acampado
+      2s: hayas acampado
+      2p: hayáis acampado
+      3s: haya acampado
+      3p: hayan acampado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have camped}
+      1s: hubiere acampado
+      1p: hubiéremos acampado
+      2s: hubieres acampado
+      2p: hubiereis acampado
+      3s: hubiere acampado
+      3p: hubieren acampado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had camped}
+      1s: hubiera acampado
+      1p: hubiéramos acampado
+      2s: hubieras acampado
+      2p: hubierais acampado
+      3s: hubiera acampado
+      3p: hubieran acampado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Camp! Don't camp!}
+      1s: ''
+      1p: ''
+      2s: acampa
+      2p: acampe
+      3s: acampad
+      3p: acampen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Camp! Don't camp!}
+      1s: ''
+      1p: ''
+      2s: no acampes
+      2p: no acampe
+      3s: no acampéis
+      3p: no acampen

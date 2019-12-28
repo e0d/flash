@@ -1,0 +1,186 @@
+aspirar:
+  infinitive: aspirar
+  gerund: aspirando
+  pastparticiple: aspirado
+  definitions: {en: 'to breath in, inhale; to suck in; to aspirate; to aspire'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I breath in, am breathing in'}
+      1s: aspiro
+      1p: aspiramos
+      2s: aspiras
+      2p: aspiráis
+      3s: aspira
+      3p: aspiran
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will breath in}
+      1s: aspiraré
+      1p: aspiraremos
+      2s: aspirarás
+      2p: aspiraréis
+      3s: aspirará
+      3p: aspirarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was breathing in, used to breath in, breathed in'}
+      1s: aspiraba
+      1p: aspirábamos
+      2s: aspirabas
+      2p: aspirabais
+      3s: aspiraba
+      3p: aspiraban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I breathed in}
+      1s: aspiré
+      1p: aspiramos
+      2s: aspiraste
+      2p: aspirasteis
+      3s: aspiró
+      3p: aspiraron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would breath in}
+      1s: aspiraría
+      1p: aspiraríamos
+      2s: aspirarías
+      2p: aspiraríais
+      3s: aspiraría
+      3p: aspirarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have breathed in}
+      1s: he aspirado
+      1p: hemos aspirado
+      2s: has aspirado
+      2p: habéis aspirado
+      3s: ha aspirado
+      3p: han aspirado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have breathed in}
+      1s: habré aspirado
+      1p: habremos aspirado
+      2s: habrás aspirado
+      2p: habréis aspirado
+      3s: habrá aspirado
+      3p: habrán aspirado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had breathed in}
+      1s: había aspirado
+      1p: habíamos aspirado
+      2s: habías aspirado
+      2p: habíais aspirado
+      3s: había aspirado
+      3p: habían aspirado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had breathed in}
+      1s: hube aspirado
+      1p: hubimos aspirado
+      2s: hubiste aspirado
+      2p: hubisteis aspirado
+      3s: hubo aspirado
+      3p: hubieron aspirado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have breathed in}
+      1s: habría aspirado
+      1p: habríamos aspirado
+      2s: habrías aspirado
+      2p: habríais aspirado
+      3s: habría aspirado
+      3p: habrían aspirado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I breath in, am breathing in'}
+      1s: aspire
+      1p: aspiremos
+      2s: aspires
+      2p: aspiréis
+      3s: aspire
+      3p: aspiren
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I breathed in, was breathing in'}
+      1s: aspirara
+      1p: aspiráramos
+      2s: aspiraras
+      2p: aspirarais
+      3s: aspirara
+      3p: aspiraran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will breath in}
+      1s: aspirare
+      1p: aspiráremos
+      2s: aspirares
+      2p: aspirareis
+      3s: aspirare
+      3p: aspiraren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have breathed in, breathed in'}
+      1s: haya aspirado
+      1p: hayamos aspirado
+      2s: hayas aspirado
+      2p: hayáis aspirado
+      3s: haya aspirado
+      3p: hayan aspirado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have breathed in}
+      1s: hubiere aspirado
+      1p: hubiéremos aspirado
+      2s: hubieres aspirado
+      2p: hubiereis aspirado
+      3s: hubiere aspirado
+      3p: hubieren aspirado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had breathed in}
+      1s: hubiera aspirado
+      1p: hubiéramos aspirado
+      2s: hubieras aspirado
+      2p: hubierais aspirado
+      3s: hubiera aspirado
+      3p: hubieran aspirado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Breath in! Don't breath in!}
+      1s: ''
+      1p: ''
+      2s: aspira
+      2p: aspire
+      3s: aspirad
+      3p: aspiren
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Breath in! Don't breath in!}
+      1s: ''
+      1p: ''
+      2s: no aspires
+      2p: no aspire
+      3s: no aspiréis
+      3p: no aspiren

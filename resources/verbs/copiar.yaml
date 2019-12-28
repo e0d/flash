@@ -1,0 +1,186 @@
+copiar:
+  infinitive: copiar
+  gerund: copiando
+  pastparticiple: copiado
+  definitions: {en: to copy}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I copy, am copying'}
+      1s: copio
+      1p: copiamos
+      2s: copias
+      2p: copiáis
+      3s: copia
+      3p: copian
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will copy}
+      1s: copiaré
+      1p: copiaremos
+      2s: copiarás
+      2p: copiaréis
+      3s: copiará
+      3p: copiarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was copying, used to copy, copied'}
+      1s: copiaba
+      1p: copiábamos
+      2s: copiabas
+      2p: copiabais
+      3s: copiaba
+      3p: copiaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I copied}
+      1s: copié
+      1p: copiamos
+      2s: copiaste
+      2p: copiasteis
+      3s: copió
+      3p: copiaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would copy}
+      1s: copiaría
+      1p: copiaríamos
+      2s: copiarías
+      2p: copiaríais
+      3s: copiaría
+      3p: copiarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have copied}
+      1s: he copiado
+      1p: hemos copiado
+      2s: has copiado
+      2p: habéis copiado
+      3s: ha copiado
+      3p: han copiado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have copied}
+      1s: habré copiado
+      1p: habremos copiado
+      2s: habrás copiado
+      2p: habréis copiado
+      3s: habrá copiado
+      3p: habrán copiado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had copied}
+      1s: había copiado
+      1p: habíamos copiado
+      2s: habías copiado
+      2p: habíais copiado
+      3s: había copiado
+      3p: habían copiado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had copied}
+      1s: hube copiado
+      1p: hubimos copiado
+      2s: hubiste copiado
+      2p: hubisteis copiado
+      3s: hubo copiado
+      3p: hubieron copiado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have copied}
+      1s: habría copiado
+      1p: habríamos copiado
+      2s: habrías copiado
+      2p: habríais copiado
+      3s: habría copiado
+      3p: habrían copiado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I copy, am copying'}
+      1s: copie
+      1p: copiemos
+      2s: copies
+      2p: copiéis
+      3s: copie
+      3p: copien
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I copied, was copying'}
+      1s: copiara
+      1p: copiáramos
+      2s: copiaras
+      2p: copiarais
+      3s: copiara
+      3p: copiaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will copy}
+      1s: copiare
+      1p: copiáremos
+      2s: copiares
+      2p: copiareis
+      3s: copiare
+      3p: copiaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have copied, copied'}
+      1s: haya copiado
+      1p: hayamos copiado
+      2s: hayas copiado
+      2p: hayáis copiado
+      3s: haya copiado
+      3p: hayan copiado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have copied}
+      1s: hubiere copiado
+      1p: hubiéremos copiado
+      2s: hubieres copiado
+      2p: hubiereis copiado
+      3s: hubiere copiado
+      3p: hubieren copiado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had copied}
+      1s: hubiera copiado
+      1p: hubiéramos copiado
+      2s: hubieras copiado
+      2p: hubierais copiado
+      3s: hubiera copiado
+      3p: hubieran copiado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Copy! Don't copy!}
+      1s: ''
+      1p: ''
+      2s: copia
+      2p: copie
+      3s: copiad
+      3p: copien
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Copy! Don't copy!}
+      1s: ''
+      1p: ''
+      2s: no copies
+      2p: no copie
+      3s: no copiéis
+      3p: no copien

@@ -1,0 +1,186 @@
+divertir:
+  infinitive: divertir
+  gerund: divirtiendo
+  pastparticiple: divertido
+  definitions: {en: 'to amuse, entertain'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I amuse, am amusing'}
+      1s: divierto
+      1p: divertimos
+      2s: diviertes
+      2p: divertís
+      3s: divierte
+      3p: divierten
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will amuse}
+      1s: divertiré
+      1p: divertiremos
+      2s: divertirás
+      2p: divertiréis
+      3s: divertirá
+      3p: divertirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was amusing, used to amuse, amused'}
+      1s: divertía
+      1p: divertíamos
+      2s: divertías
+      2p: divertíais
+      3s: divertía
+      3p: divertían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I amused}
+      1s: divertí
+      1p: divertimos
+      2s: divertiste
+      2p: divertisteis
+      3s: divirtió
+      3p: divirtieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would amuse}
+      1s: divertiría
+      1p: divertiríamos
+      2s: divertirías
+      2p: divertiríais
+      3s: divertiría
+      3p: divertirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have amused}
+      1s: he divertido
+      1p: hemos divertido
+      2s: has divertido
+      2p: habéis divertido
+      3s: ha divertido
+      3p: han divertido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have amused}
+      1s: habré divertido
+      1p: habremos divertido
+      2s: habrás divertido
+      2p: habréis divertido
+      3s: habrá divertido
+      3p: habrán divertido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had amused}
+      1s: había divertido
+      1p: habíamos divertido
+      2s: habías divertido
+      2p: habíais divertido
+      3s: había divertido
+      3p: habían divertido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had amused}
+      1s: hube divertido
+      1p: hubimos divertido
+      2s: hubiste divertido
+      2p: hubisteis divertido
+      3s: hubo divertido
+      3p: hubieron divertido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have amused}
+      1s: habría divertido
+      1p: habríamos divertido
+      2s: habrías divertido
+      2p: habríais divertido
+      3s: habría divertido
+      3p: habrían divertido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I amuse, am amusing'}
+      1s: divierta
+      1p: divirtamos
+      2s: diviertas
+      2p: divirtáis
+      3s: divierta
+      3p: diviertan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I amused, was amusing'}
+      1s: divirtiera
+      1p: divirtiéramos
+      2s: divirtieras
+      2p: divirtierais
+      3s: divirtiera
+      3p: divirtieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will amuse}
+      1s: divirtiere
+      1p: divirtiéremos
+      2s: divirtieres
+      2p: divirtiereis
+      3s: divirtiere
+      3p: divirtieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have amused, amused'}
+      1s: haya divertido
+      1p: hayamos divertido
+      2s: hayas divertido
+      2p: hayáis divertido
+      3s: haya divertido
+      3p: hayan divertido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have amused}
+      1s: hubiere divertido
+      1p: hubiéremos divertido
+      2s: hubieres divertido
+      2p: hubiereis divertido
+      3s: hubiere divertido
+      3p: hubieren divertido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had amused}
+      1s: hubiera divertido
+      1p: hubiéramos divertido
+      2s: hubieras divertido
+      2p: hubierais divertido
+      3s: hubiera divertido
+      3p: hubieran divertido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Amuse! Don't amuse!}
+      1s: ''
+      1p: ''
+      2s: divierte
+      2p: divierta
+      3s: divertid
+      3p: diviertan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Amuse! Don't amuse!}
+      1s: ''
+      1p: ''
+      2s: no diviertas
+      2p: no divierta
+      3s: no divirtáis
+      3p: no diviertan

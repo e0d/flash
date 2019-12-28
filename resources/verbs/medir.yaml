@@ -1,0 +1,186 @@
+medir:
+  infinitive: medir
+  gerund: midiendo
+  pastparticiple: medido
+  definitions: {en: 'to measure, be'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I measure, am measuring'}
+      1s: mido
+      1p: medimos
+      2s: mides
+      2p: medís
+      3s: mide
+      3p: miden
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will measure}
+      1s: mediré
+      1p: mediremos
+      2s: medirás
+      2p: mediréis
+      3s: medirá
+      3p: medirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was measuring, used to measure, measured'}
+      1s: medía
+      1p: medíamos
+      2s: medías
+      2p: medíais
+      3s: medía
+      3p: medían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I measured}
+      1s: medí
+      1p: medimos
+      2s: mediste
+      2p: medisteis
+      3s: midió
+      3p: midieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would measure}
+      1s: mediría
+      1p: mediríamos
+      2s: medirías
+      2p: mediríais
+      3s: mediría
+      3p: medirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have measured}
+      1s: he medido
+      1p: hemos medido
+      2s: has medido
+      2p: habéis medido
+      3s: ha medido
+      3p: han medido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have measured}
+      1s: habré medido
+      1p: habremos medido
+      2s: habrás medido
+      2p: habréis medido
+      3s: habrá medido
+      3p: habrán medido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had measured}
+      1s: había medido
+      1p: habíamos medido
+      2s: habías medido
+      2p: habíais medido
+      3s: había medido
+      3p: habían medido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had measured}
+      1s: hube medido
+      1p: hubimos medido
+      2s: hubiste medido
+      2p: hubisteis medido
+      3s: hubo medido
+      3p: hubieron medido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have measured}
+      1s: habría medido
+      1p: habríamos medido
+      2s: habrías medido
+      2p: habríais medido
+      3s: habría medido
+      3p: habrían medido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I measure, am measuring'}
+      1s: mida
+      1p: midamos
+      2s: midas
+      2p: midáis
+      3s: mida
+      3p: midan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I measured, was measuring'}
+      1s: midiera
+      1p: midiéramos
+      2s: midieras
+      2p: midierais
+      3s: midiera
+      3p: midieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will measure}
+      1s: midiere
+      1p: midiéremos
+      2s: midieres
+      2p: midiereis
+      3s: midiere
+      3p: midieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have measured, measured'}
+      1s: haya medido
+      1p: hayamos medido
+      2s: hayas medido
+      2p: hayáis medido
+      3s: haya medido
+      3p: hayan medido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have measured}
+      1s: hubiere medido
+      1p: hubiéremos medido
+      2s: hubieres medido
+      2p: hubiereis medido
+      3s: hubiere medido
+      3p: hubieren medido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had measured}
+      1s: hubiera medido
+      1p: hubiéramos medido
+      2s: hubieras medido
+      2p: hubierais medido
+      3s: hubiera medido
+      3p: hubieran medido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Measure! Don't measure!}
+      1s: ''
+      1p: ''
+      2s: mide
+      2p: mida
+      3s: medid
+      3p: midan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Measure! Don't measure!}
+      1s: ''
+      1p: ''
+      2s: no midas
+      2p: no mida
+      3s: no midáis
+      3p: no midan

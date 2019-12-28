@@ -1,0 +1,186 @@
+querer:
+  infinitive: querer
+  gerund: queriendo
+  pastparticiple: querido
+  definitions: {en: 'to want, love'}
+  tenses:
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will want}
+      1s: querré
+      1p: querremos
+      2s: querrás
+      2p: querréis
+      3s: querrá
+      3p: querrán
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I want, am wanting'}
+      1s: quiero
+      1p: queremos
+      2s: quieres
+      2p: queréis
+      3s: quiere
+      3p: quieren
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was wanting, used to want, wanted'}
+      1s: quería
+      1p: queríamos
+      2s: querías
+      2p: queríais
+      3s: quería
+      3p: querían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I wanted}
+      1s: quise
+      1p: quisimos
+      2s: quisiste
+      2p: quisisteis
+      3s: quiso
+      3p: quisieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would want}
+      1s: querría
+      1p: querríamos
+      2s: querrías
+      2p: querríais
+      3s: querría
+      3p: querrían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have wanted}
+      1s: he querido
+      1p: hemos querido
+      2s: has querido
+      2p: habéis querido
+      3s: ha querido
+      3p: han querido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have wanted}
+      1s: habré querido
+      1p: habremos querido
+      2s: habrás querido
+      2p: habréis querido
+      3s: habrá querido
+      3p: habrán querido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had wanted}
+      1s: había querido
+      1p: habíamos querido
+      2s: habías querido
+      2p: habíais querido
+      3s: había querido
+      3p: habían querido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had wanted}
+      1s: hube querido
+      1p: hubimos querido
+      2s: hubiste querido
+      2p: hubisteis querido
+      3s: hubo querido
+      3p: hubieron querido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have wanted}
+      1s: habría querido
+      1p: habríamos querido
+      2s: habrías querido
+      2p: habríais querido
+      3s: habría querido
+      3p: habrían querido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I want, am wanting'}
+      1s: quiera
+      1p: queramos
+      2s: quieras
+      2p: queráis
+      3s: quiera
+      3p: quieran
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I wanted, was wanting'}
+      1s: quisiera
+      1p: quisiéramos
+      2s: quisieras
+      2p: quisierais
+      3s: quisiera
+      3p: quisieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will want}
+      1s: quisiere
+      1p: quisiéremos
+      2s: quisieres
+      2p: quisiereis
+      3s: quisiere
+      3p: quisieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have wanted, wanted'}
+      1s: haya querido
+      1p: hayamos querido
+      2s: hayas querido
+      2p: hayáis querido
+      3s: haya querido
+      3p: hayan querido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have wanted}
+      1s: hubiere querido
+      1p: hubiéremos querido
+      2s: hubieres querido
+      2p: hubiereis querido
+      3s: hubiere querido
+      3p: hubieren querido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had wanted}
+      1s: hubiera querido
+      1p: hubiéramos querido
+      2s: hubieras querido
+      2p: hubierais querido
+      3s: hubiera querido
+      3p: hubieran querido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Want! Don't want!}
+      1s: ''
+      1p: ''
+      2s: quiere
+      2p: quiera
+      3s: quered
+      3p: quieran
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Want! Don't want!}
+      1s: ''
+      1p: ''
+      2s: no quieras
+      2p: no quiera
+      3s: no queráis
+      3p: no quieran

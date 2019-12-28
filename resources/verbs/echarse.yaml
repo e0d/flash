@@ -1,0 +1,186 @@
+echarse:
+  infinitive: echarse
+  gerund: echándose
+  pastparticiple: echado
+  definitions: {en: 'to throw, fling, hurl [oneself]'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I throw myself, am throwing myself'}
+      1s: me echo
+      1p: nos echamos
+      2s: te echas
+      2p: os echáis
+      3s: se echa
+      3p: se echan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will throw myself}
+      1s: me echaré
+      1p: nos echaremos
+      2s: te echarás
+      2p: os echaréis
+      3s: se echará
+      3p: se echarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was throwing myself, used to throw myself, threw myself'}
+      1s: me echaba
+      1p: nos echábamos
+      2s: te echabas
+      2p: os echabais
+      3s: se echaba
+      3p: se echaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I threw myself}
+      1s: me eché
+      1p: nos echamos
+      2s: te echaste
+      2p: os echasteis
+      3s: se echó
+      3p: se echaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would throw myself}
+      1s: me echaría
+      1p: nos echaríamos
+      2s: te echarías
+      2p: os echaríais
+      3s: se echaría
+      3p: se echarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have thrown myself}
+      1s: me he echado
+      1p: nos hemos echado
+      2s: te has echado
+      2p: os habéis echado
+      3s: se ha echado
+      3p: se han echado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have thrown myself}
+      1s: me habré echado
+      1p: nos habremos echado
+      2s: te habrás echado
+      2p: os habréis echado
+      3s: se habrá echado
+      3p: se habrán echado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had thrown myself}
+      1s: me había echado
+      1p: nos habíamos echado
+      2s: te habías echado
+      2p: os habíais echado
+      3s: se había echado
+      3p: se habían echado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had thrown myself}
+      1s: me hube echado
+      1p: nos hubimos echado
+      2s: te hubiste echado
+      2p: os hubisteis echado
+      3s: se hubo echado
+      3p: se hubieron echado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have thrown myself}
+      1s: me habría echado
+      1p: nos habríamos echado
+      2s: te habrías echado
+      2p: os habríais echado
+      3s: se habría echado
+      3p: se habrían echado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I throw myself, am throwing myself'}
+      1s: me eche
+      1p: nos echemos
+      2s: te eches
+      2p: os echéis
+      3s: se eche
+      3p: se echen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I threw myself, was throwing myself'}
+      1s: me echara
+      1p: nos echáramos
+      2s: te echaras
+      2p: os echarais
+      3s: se echara
+      3p: se echaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will throw myself}
+      1s: me echare
+      1p: nos echáremos
+      2s: te echares
+      2p: os echareis
+      3s: se echare
+      3p: se echaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have thrown myself, threw myself'}
+      1s: me haya echado
+      1p: nos hayamos echado
+      2s: te hayas echado
+      2p: os hayáis echado
+      3s: se haya echado
+      3p: se hayan echado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have thrown myself}
+      1s: me hubiere echado
+      1p: nos hubiéremos echado
+      2s: te hubieres echado
+      2p: os hubiereis echado
+      3s: se hubiere echado
+      3p: se hubieren echado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had thrown myself}
+      1s: me hubiera echado
+      1p: nos hubiéramos echado
+      2s: te hubieras echado
+      2p: os hubierais echado
+      3s: se hubiera echado
+      3p: se hubieran echado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Throw yourself! Don't throw yourself!}
+      1s: ''
+      1p: ''
+      2s: échate
+      2p: échese
+      3s: echaos
+      3p: échense
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Throw yourself! Don't throw yourself!}
+      1s: ''
+      1p: ''
+      2s: no te eches
+      2p: no se eche
+      3s: no os echéis
+      3p: no se echen

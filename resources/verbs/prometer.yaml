@@ -1,0 +1,186 @@
+prometer:
+  infinitive: prometer
+  gerund: prometiendo
+  pastparticiple: prometido
+  definitions: {en: to promise}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I promise, am promising'}
+      1s: prometo
+      1p: prometemos
+      2s: prometes
+      2p: prometéis
+      3s: promete
+      3p: prometen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will promise}
+      1s: prometeré
+      1p: prometeremos
+      2s: prometerás
+      2p: prometeréis
+      3s: prometerá
+      3p: prometerán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was promising, used to promise, promised'}
+      1s: prometía
+      1p: prometíamos
+      2s: prometías
+      2p: prometíais
+      3s: prometía
+      3p: prometían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I promised}
+      1s: prometí
+      1p: prometimos
+      2s: prometiste
+      2p: prometisteis
+      3s: prometió
+      3p: prometieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would promise}
+      1s: prometería
+      1p: prometeríamos
+      2s: prometerías
+      2p: prometeríais
+      3s: prometería
+      3p: prometerían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have promised}
+      1s: he prometido
+      1p: hemos prometido
+      2s: has prometido
+      2p: habéis prometido
+      3s: ha prometido
+      3p: han prometido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have promised}
+      1s: habré prometido
+      1p: habremos prometido
+      2s: habrás prometido
+      2p: habréis prometido
+      3s: habrá prometido
+      3p: habrán prometido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had promised}
+      1s: había prometido
+      1p: habíamos prometido
+      2s: habías prometido
+      2p: habíais prometido
+      3s: había prometido
+      3p: habían prometido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had promised}
+      1s: hube prometido
+      1p: hubimos prometido
+      2s: hubiste prometido
+      2p: hubisteis prometido
+      3s: hubo prometido
+      3p: hubieron prometido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have promised}
+      1s: habría prometido
+      1p: habríamos prometido
+      2s: habrías prometido
+      2p: habríais prometido
+      3s: habría prometido
+      3p: habrían prometido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I promise, am promising'}
+      1s: prometa
+      1p: prometamos
+      2s: prometas
+      2p: prometáis
+      3s: prometa
+      3p: prometan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I promised, was promising'}
+      1s: prometiera
+      1p: prometiéramos
+      2s: prometieras
+      2p: prometierais
+      3s: prometiera
+      3p: prometieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will promise}
+      1s: prometiere
+      1p: prometiéremos
+      2s: prometieres
+      2p: prometiereis
+      3s: prometiere
+      3p: prometieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have promised, promised'}
+      1s: haya prometido
+      1p: hayamos prometido
+      2s: hayas prometido
+      2p: hayáis prometido
+      3s: haya prometido
+      3p: hayan prometido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have promised}
+      1s: hubiere prometido
+      1p: hubiéremos prometido
+      2s: hubieres prometido
+      2p: hubiereis prometido
+      3s: hubiere prometido
+      3p: hubieren prometido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had promised}
+      1s: hubiera prometido
+      1p: hubiéramos prometido
+      2s: hubieras prometido
+      2p: hubierais prometido
+      3s: hubiera prometido
+      3p: hubieran prometido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Promise! Don't promise!}
+      1s: ''
+      1p: ''
+      2s: promete
+      2p: prometa
+      3s: prometed
+      3p: prometan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Promise! Don't promise!}
+      1s: ''
+      1p: ''
+      2s: no prometas
+      2p: no prometa
+      3s: no prometáis
+      3p: no prometan

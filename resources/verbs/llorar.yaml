@@ -1,0 +1,186 @@
+llorar:
+  infinitive: llorar
+  gerund: llorando
+  pastparticiple: llorado
+  definitions: {en: 'to cry, weep; to weep for/about, cry about, lament'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I cry, am crying'}
+      1s: lloro
+      1p: lloramos
+      2s: lloras
+      2p: lloráis
+      3s: llora
+      3p: lloran
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will cry}
+      1s: lloraré
+      1p: lloraremos
+      2s: llorarás
+      2p: lloraréis
+      3s: llorará
+      3p: llorarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was crying, used to cry, cried'}
+      1s: lloraba
+      1p: llorábamos
+      2s: llorabas
+      2p: llorabais
+      3s: lloraba
+      3p: lloraban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I cried}
+      1s: lloré
+      1p: lloramos
+      2s: lloraste
+      2p: llorasteis
+      3s: lloró
+      3p: lloraron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would cry}
+      1s: lloraría
+      1p: lloraríamos
+      2s: llorarías
+      2p: lloraríais
+      3s: lloraría
+      3p: llorarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have cried}
+      1s: he llorado
+      1p: hemos llorado
+      2s: has llorado
+      2p: habéis llorado
+      3s: ha llorado
+      3p: han llorado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have cried}
+      1s: habré llorado
+      1p: habremos llorado
+      2s: habrás llorado
+      2p: habréis llorado
+      3s: habrá llorado
+      3p: habrán llorado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had cried}
+      1s: había llorado
+      1p: habíamos llorado
+      2s: habías llorado
+      2p: habíais llorado
+      3s: había llorado
+      3p: habían llorado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had cried}
+      1s: hube llorado
+      1p: hubimos llorado
+      2s: hubiste llorado
+      2p: hubisteis llorado
+      3s: hubo llorado
+      3p: hubieron llorado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have cried}
+      1s: habría llorado
+      1p: habríamos llorado
+      2s: habrías llorado
+      2p: habríais llorado
+      3s: habría llorado
+      3p: habrían llorado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I cry, am crying'}
+      1s: llore
+      1p: lloremos
+      2s: llores
+      2p: lloréis
+      3s: llore
+      3p: lloren
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I cried, was crying'}
+      1s: llorara
+      1p: lloráramos
+      2s: lloraras
+      2p: llorarais
+      3s: llorara
+      3p: lloraran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will cry}
+      1s: llorare
+      1p: lloráremos
+      2s: llorares
+      2p: llorareis
+      3s: llorare
+      3p: lloraren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have cried, cried'}
+      1s: haya llorado
+      1p: hayamos llorado
+      2s: hayas llorado
+      2p: hayáis llorado
+      3s: haya llorado
+      3p: hayan llorado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have cried}
+      1s: hubiere llorado
+      1p: hubiéremos llorado
+      2s: hubieres llorado
+      2p: hubiereis llorado
+      3s: hubiere llorado
+      3p: hubieren llorado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had cried}
+      1s: hubiera llorado
+      1p: hubiéramos llorado
+      2s: hubieras llorado
+      2p: hubierais llorado
+      3s: hubiera llorado
+      3p: hubieran llorado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Cry! Don't cry!}
+      1s: ''
+      1p: ''
+      2s: llora
+      2p: llore
+      3s: llorad
+      3p: lloren
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Cry! Don't cry!}
+      1s: ''
+      1p: ''
+      2s: no llores
+      2p: no llore
+      3s: no lloréis
+      3p: no lloren

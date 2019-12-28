@@ -1,0 +1,186 @@
+barrer:
+  infinitive: barrer
+  gerund: barriendo
+  pastparticiple: barrido
+  definitions: {en: 'to sweep, sweep clean, sweep out, sweep away'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I sweep, am sweeping'}
+      1s: barro
+      1p: barremos
+      2s: barres
+      2p: barréis
+      3s: barre
+      3p: barren
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will sweep}
+      1s: barreré
+      1p: barreremos
+      2s: barrerás
+      2p: barreréis
+      3s: barrerá
+      3p: barrerán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was sweeping, used to sweep, swept'}
+      1s: barría
+      1p: barríamos
+      2s: barrías
+      2p: barríais
+      3s: barría
+      3p: barrían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I swept}
+      1s: barrí
+      1p: barrimos
+      2s: barriste
+      2p: barristeis
+      3s: barrió
+      3p: barrieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would sweep}
+      1s: barrería
+      1p: barreríamos
+      2s: barrerías
+      2p: barreríais
+      3s: barrería
+      3p: barrerían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have swept}
+      1s: he barrido
+      1p: hemos barrido
+      2s: has barrido
+      2p: habéis barrido
+      3s: ha barrido
+      3p: han barrido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have swept}
+      1s: habré barrido
+      1p: habremos barrido
+      2s: habrás barrido
+      2p: habréis barrido
+      3s: habrá barrido
+      3p: habrán barrido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had swept}
+      1s: había barrido
+      1p: habíamos barrido
+      2s: habías barrido
+      2p: habíais barrido
+      3s: había barrido
+      3p: habían barrido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had swept}
+      1s: hube barrido
+      1p: hubimos barrido
+      2s: hubiste barrido
+      2p: hubisteis barrido
+      3s: hubo barrido
+      3p: hubieron barrido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have swept}
+      1s: habría barrido
+      1p: habríamos barrido
+      2s: habrías barrido
+      2p: habríais barrido
+      3s: habría barrido
+      3p: habrían barrido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I sweep, am sweeping'}
+      1s: barra
+      1p: barramos
+      2s: barras
+      2p: barráis
+      3s: barra
+      3p: barran
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I swept, was sweeping'}
+      1s: barriera
+      1p: barriéramos
+      2s: barrieras
+      2p: barrierais
+      3s: barriera
+      3p: barrieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will sweep}
+      1s: barriere
+      1p: barriéremos
+      2s: barrieres
+      2p: barriereis
+      3s: barriere
+      3p: barrieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have swept, swept'}
+      1s: haya barrido
+      1p: hayamos barrido
+      2s: hayas barrido
+      2p: hayáis barrido
+      3s: haya barrido
+      3p: hayan barrido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have swept}
+      1s: hubiere barrido
+      1p: hubiéremos barrido
+      2s: hubieres barrido
+      2p: hubiereis barrido
+      3s: hubiere barrido
+      3p: hubieren barrido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had swept}
+      1s: hubiera barrido
+      1p: hubiéramos barrido
+      2s: hubieras barrido
+      2p: hubierais barrido
+      3s: hubiera barrido
+      3p: hubieran barrido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Sweep! Don't sweep!}
+      1s: ''
+      1p: ''
+      2s: barre
+      2p: barra
+      3s: barred
+      3p: barran
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Sweep! Don't sweep!}
+      1s: ''
+      1p: ''
+      2s: no barras
+      2p: no barra
+      3s: no barráis
+      3p: no barran

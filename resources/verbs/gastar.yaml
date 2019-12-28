@@ -1,0 +1,186 @@
+gastar:
+  infinitive: gastar
+  gerund: gastando
+  pastparticiple: gastado
+  definitions: {en: 'to spend, expend; to use up, consume; to wear away, wear down'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I spend, am spending'}
+      1s: gasto
+      1p: gastamos
+      2s: gastas
+      2p: gastáis
+      3s: gasta
+      3p: gastan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will spend}
+      1s: gastaré
+      1p: gastaremos
+      2s: gastarás
+      2p: gastaréis
+      3s: gastará
+      3p: gastarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was spending, used to spend, spent'}
+      1s: gastaba
+      1p: gastábamos
+      2s: gastabas
+      2p: gastabais
+      3s: gastaba
+      3p: gastaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I spent}
+      1s: gasté
+      1p: gastamos
+      2s: gastaste
+      2p: gastasteis
+      3s: gastó
+      3p: gastaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would spend}
+      1s: gastaría
+      1p: gastaríamos
+      2s: gastarías
+      2p: gastaríais
+      3s: gastaría
+      3p: gastarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have spent}
+      1s: he gastado
+      1p: hemos gastado
+      2s: has gastado
+      2p: habéis gastado
+      3s: ha gastado
+      3p: han gastado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have spent}
+      1s: habré gastado
+      1p: habremos gastado
+      2s: habrás gastado
+      2p: habréis gastado
+      3s: habrá gastado
+      3p: habrán gastado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had spent}
+      1s: había gastado
+      1p: habíamos gastado
+      2s: habías gastado
+      2p: habíais gastado
+      3s: había gastado
+      3p: habían gastado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had spent}
+      1s: hube gastado
+      1p: hubimos gastado
+      2s: hubiste gastado
+      2p: hubisteis gastado
+      3s: hubo gastado
+      3p: hubieron gastado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have spent}
+      1s: habría gastado
+      1p: habríamos gastado
+      2s: habrías gastado
+      2p: habríais gastado
+      3s: habría gastado
+      3p: habrían gastado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I spend, am spending'}
+      1s: gaste
+      1p: gastemos
+      2s: gastes
+      2p: gastéis
+      3s: gaste
+      3p: gasten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I spent, was spending'}
+      1s: gastara
+      1p: gastáramos
+      2s: gastaras
+      2p: gastarais
+      3s: gastara
+      3p: gastaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will spend}
+      1s: gastare
+      1p: gastáremos
+      2s: gastares
+      2p: gastareis
+      3s: gastare
+      3p: gastaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have spent, spent'}
+      1s: haya gastado
+      1p: hayamos gastado
+      2s: hayas gastado
+      2p: hayáis gastado
+      3s: haya gastado
+      3p: hayan gastado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have spent}
+      1s: hubiere gastado
+      1p: hubiéremos gastado
+      2s: hubieres gastado
+      2p: hubiereis gastado
+      3s: hubiere gastado
+      3p: hubieren gastado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had spent}
+      1s: hubiera gastado
+      1p: hubiéramos gastado
+      2s: hubieras gastado
+      2p: hubierais gastado
+      3s: hubiera gastado
+      3p: hubieran gastado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Spend! Don't spend!}
+      1s: ''
+      1p: ''
+      2s: gasta
+      2p: gaste
+      3s: gastad
+      3p: gasten
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Spend! Don't spend!}
+      1s: ''
+      1p: ''
+      2s: no gastes
+      2p: no gaste
+      3s: no gastéis
+      3p: no gasten

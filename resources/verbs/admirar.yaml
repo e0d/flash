@@ -1,0 +1,186 @@
+admirar:
+  infinitive: admirar
+  gerund: admirando
+  pastparticiple: admirado
+  definitions: {en: 'to admire, respect, look up to'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I admire, am admiring'}
+      1s: admiro
+      1p: admiramos
+      2s: admiras
+      2p: admiráis
+      3s: admira
+      3p: admiran
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will admire}
+      1s: admiraré
+      1p: admiraremos
+      2s: admirarás
+      2p: admiraréis
+      3s: admirará
+      3p: admirarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was admiring, used to admire, admired'}
+      1s: admiraba
+      1p: admirábamos
+      2s: admirabas
+      2p: admirabais
+      3s: admiraba
+      3p: admiraban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I admired}
+      1s: admiré
+      1p: admiramos
+      2s: admiraste
+      2p: admirasteis
+      3s: admiró
+      3p: admiraron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would admire}
+      1s: admiraría
+      1p: admiraríamos
+      2s: admirarías
+      2p: admiraríais
+      3s: admiraría
+      3p: admirarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have admired}
+      1s: he admirado
+      1p: hemos admirado
+      2s: has admirado
+      2p: habéis admirado
+      3s: ha admirado
+      3p: han admirado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have admired}
+      1s: habré admirado
+      1p: habremos admirado
+      2s: habrás admirado
+      2p: habréis admirado
+      3s: habrá admirado
+      3p: habrán admirado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had admired}
+      1s: había admirado
+      1p: habíamos admirado
+      2s: habías admirado
+      2p: habíais admirado
+      3s: había admirado
+      3p: habían admirado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had admired}
+      1s: hube admirado
+      1p: hubimos admirado
+      2s: hubiste admirado
+      2p: hubisteis admirado
+      3s: hubo admirado
+      3p: hubieron admirado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have admired}
+      1s: habría admirado
+      1p: habríamos admirado
+      2s: habrías admirado
+      2p: habríais admirado
+      3s: habría admirado
+      3p: habrían admirado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I admire, am admiring'}
+      1s: admire
+      1p: admiremos
+      2s: admires
+      2p: admiréis
+      3s: admire
+      3p: admiren
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I admired, was admiring'}
+      1s: admirara
+      1p: admiráramos
+      2s: admiraras
+      2p: admirarais
+      3s: admirara
+      3p: admiraran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will admire}
+      1s: admirare
+      1p: admiráremos
+      2s: admirares
+      2p: admirareis
+      3s: admirare
+      3p: admiraren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have admired, admired'}
+      1s: haya admirado
+      1p: hayamos admirado
+      2s: hayas admirado
+      2p: hayáis admirado
+      3s: haya admirado
+      3p: hayan admirado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have admired}
+      1s: hubiere admirado
+      1p: hubiéremos admirado
+      2s: hubieres admirado
+      2p: hubiereis admirado
+      3s: hubiere admirado
+      3p: hubieren admirado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had admired}
+      1s: hubiera admirado
+      1p: hubiéramos admirado
+      2s: hubieras admirado
+      2p: hubierais admirado
+      3s: hubiera admirado
+      3p: hubieran admirado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Admire! Don't admire!}
+      1s: ''
+      1p: ''
+      2s: admira
+      2p: admire
+      3s: admirad
+      3p: admiren
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Admire! Don't admire!}
+      1s: ''
+      1p: ''
+      2s: no admires
+      2p: no admire
+      3s: no admiréis
+      3p: no admiren

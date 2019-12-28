@@ -1,0 +1,186 @@
+doler:
+  infinitive: doler
+  gerund: doliendo
+  pastparticiple: dolido
+  definitions: {en: 'to hurt, pain, ache'}
+  tenses:
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'it hurts, is hurting'}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: duela
+      3p: duelan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'it hurt, was hurting'}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: doliera
+      3p: dolieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: it will hurt}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: doliere
+      3p: dolieren
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'it hurts, is hurting'}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: duele
+      3p: duelen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: it will hurt}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: dolerá
+      3p: dolerán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'it was hurting, used to hurt, hurt'}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: dolía
+      3p: dolían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: it hurt}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: dolió
+      3p: dolieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: it would hurt}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: dolería
+      3p: dolerían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: it has hurt}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: ha dolido
+      3p: han dolido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: it will have hurt}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: habrá dolido
+      3p: habrán dolido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: it had hurt}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: había dolido
+      3p: habían dolido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: it had hurt}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: hubo dolido
+      3p: hubieron dolido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: it would have hurt}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: habría dolido
+      3p: habrían dolido
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'it has hurt, hurt'}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: haya dolido
+      3p: hayan dolido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: it will have hurt}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: hubiere dolido
+      3p: hubieren dolido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: it had hurt}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: hubiera dolido
+      3p: hubieran dolido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Hurt! Don't hurt!}
+      1s: ''
+      1p: ''
+      2s: duele
+      2p: duela
+      3s: doled
+      3p: duelan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Hurt! Don't hurt!}
+      1s: ''
+      1p: ''
+      2s: no duelas
+      2p: no duela
+      3s: no doláis
+      3p: no duelan

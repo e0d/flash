@@ -1,0 +1,186 @@
+abortar:
+  infinitive: abortar
+  gerund: abortando
+  pastparticiple: abortado
+  definitions: {en: 'to abort, cause to miscarry; to have a miscarriage'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I abort, am aborting'}
+      1s: aborto
+      1p: abortamos
+      2s: abortas
+      2p: abortáis
+      3s: aborta
+      3p: abortan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will abort}
+      1s: abortaré
+      1p: abortaremos
+      2s: abortarás
+      2p: abortaréis
+      3s: abortará
+      3p: abortarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was aborting, used to abort, aborted'}
+      1s: abortaba
+      1p: abortábamos
+      2s: abortabas
+      2p: abortabais
+      3s: abortaba
+      3p: abortaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I aborted}
+      1s: aborté
+      1p: abortamos
+      2s: abortaste
+      2p: abortasteis
+      3s: abortó
+      3p: abortaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would abort}
+      1s: abortaría
+      1p: abortaríamos
+      2s: abortarías
+      2p: abortaríais
+      3s: abortaría
+      3p: abortarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have aborted}
+      1s: he abortado
+      1p: hemos abortado
+      2s: has abortado
+      2p: habéis abortado
+      3s: ha abortado
+      3p: han abortado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have aborted}
+      1s: habré abortado
+      1p: habremos abortado
+      2s: habrás abortado
+      2p: habréis abortado
+      3s: habrá abortado
+      3p: habrán abortado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had aborted}
+      1s: había abortado
+      1p: habíamos abortado
+      2s: habías abortado
+      2p: habíais abortado
+      3s: había abortado
+      3p: habían abortado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had aborted}
+      1s: hube abortado
+      1p: hubimos abortado
+      2s: hubiste abortado
+      2p: hubisteis abortado
+      3s: hubo abortado
+      3p: hubieron abortado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have aborted}
+      1s: habría abortado
+      1p: habríamos abortado
+      2s: habrías abortado
+      2p: habríais abortado
+      3s: habría abortado
+      3p: habrían abortado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I abort, am aborting'}
+      1s: aborte
+      1p: abortemos
+      2s: abortes
+      2p: abortéis
+      3s: aborte
+      3p: aborten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I aborted, was aborting'}
+      1s: abortara
+      1p: abortáramos
+      2s: abortaras
+      2p: abortarais
+      3s: abortara
+      3p: abortaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will abort}
+      1s: abortare
+      1p: abortáremos
+      2s: abortares
+      2p: abortareis
+      3s: abortare
+      3p: abortaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have aborted, aborted'}
+      1s: haya abortado
+      1p: hayamos abortado
+      2s: hayas abortado
+      2p: hayáis abortado
+      3s: haya abortado
+      3p: hayan abortado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have aborted}
+      1s: hubiere abortado
+      1p: hubiéremos abortado
+      2s: hubieres abortado
+      2p: hubiereis abortado
+      3s: hubiere abortado
+      3p: hubieren abortado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had aborted}
+      1s: hubiera abortado
+      1p: hubiéramos abortado
+      2s: hubieras abortado
+      2p: hubierais abortado
+      3s: hubiera abortado
+      3p: hubieran abortado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Abort! Don't abort!}
+      1s: ''
+      1p: ''
+      2s: aborta
+      2p: aborte
+      3s: abortad
+      3p: aborten
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Abort! Don't abort!}
+      1s: ''
+      1p: ''
+      2s: no abortes
+      2p: no aborte
+      3s: no abortéis
+      3p: no aborten

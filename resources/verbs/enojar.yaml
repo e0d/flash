@@ -1,0 +1,186 @@
+enojar:
+  infinitive: enojar
+  gerund: enojando
+  pastparticiple: enojado
+  definitions: {en: 'to anger, upset, annoy; to make angry'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I anger, am angering'}
+      1s: enojo
+      1p: enojamos
+      2s: enojas
+      2p: enojáis
+      3s: enoja
+      3p: enojan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will anger}
+      1s: enojaré
+      1p: enojaremos
+      2s: enojarás
+      2p: enojaréis
+      3s: enojará
+      3p: enojarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was angering, used to anger, angered'}
+      1s: enojaba
+      1p: enojábamos
+      2s: enojabas
+      2p: enojabais
+      3s: enojaba
+      3p: enojaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I angered}
+      1s: enojé
+      1p: enojamos
+      2s: enojaste
+      2p: enojasteis
+      3s: enojó
+      3p: enojaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would anger}
+      1s: enojaría
+      1p: enojaríamos
+      2s: enojarías
+      2p: enojaríais
+      3s: enojaría
+      3p: enojarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have angered}
+      1s: he enojado
+      1p: hemos enojado
+      2s: has enojado
+      2p: habéis enojado
+      3s: ha enojado
+      3p: han enojado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have angered}
+      1s: habré enojado
+      1p: habremos enojado
+      2s: habrás enojado
+      2p: habréis enojado
+      3s: habrá enojado
+      3p: habrán enojado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had angered}
+      1s: había enojado
+      1p: habíamos enojado
+      2s: habías enojado
+      2p: habíais enojado
+      3s: había enojado
+      3p: habían enojado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had angered}
+      1s: hube enojado
+      1p: hubimos enojado
+      2s: hubiste enojado
+      2p: hubisteis enojado
+      3s: hubo enojado
+      3p: hubieron enojado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have angered}
+      1s: habría enojado
+      1p: habríamos enojado
+      2s: habrías enojado
+      2p: habríais enojado
+      3s: habría enojado
+      3p: habrían enojado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I anger, am angering'}
+      1s: enoje
+      1p: enojemos
+      2s: enojes
+      2p: enojéis
+      3s: enoje
+      3p: enojen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I angered, was angering'}
+      1s: enojara
+      1p: enojáramos
+      2s: enojaras
+      2p: enojarais
+      3s: enojara
+      3p: enojaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will anger}
+      1s: enojare
+      1p: enojáremos
+      2s: enojares
+      2p: enojareis
+      3s: enojare
+      3p: enojaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have angered, angered'}
+      1s: haya enojado
+      1p: hayamos enojado
+      2s: hayas enojado
+      2p: hayáis enojado
+      3s: haya enojado
+      3p: hayan enojado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have angered}
+      1s: hubiere enojado
+      1p: hubiéremos enojado
+      2s: hubieres enojado
+      2p: hubiereis enojado
+      3s: hubiere enojado
+      3p: hubieren enojado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had angered}
+      1s: hubiera enojado
+      1p: hubiéramos enojado
+      2s: hubieras enojado
+      2p: hubierais enojado
+      3s: hubiera enojado
+      3p: hubieran enojado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Anger! Don't anger!}
+      1s: ''
+      1p: ''
+      2s: enoja
+      2p: enoje
+      3s: enojad
+      3p: enojen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Anger! Don't anger!}
+      1s: ''
+      1p: ''
+      2s: no enojes
+      2p: no enoje
+      3s: no enojéis
+      3p: no enojen

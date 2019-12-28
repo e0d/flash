@@ -1,0 +1,186 @@
+reconocer:
+  infinitive: reconocer
+  gerund: reconociendo
+  pastparticiple: reconocido
+  definitions: {en: to recognize}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I recognize, am recognizing'}
+      1s: reconozco
+      1p: reconocemos
+      2s: reconoces
+      2p: reconocéis
+      3s: reconoce
+      3p: reconocen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will recognize}
+      1s: reconoceré
+      1p: reconoceremos
+      2s: reconocerás
+      2p: reconoceréis
+      3s: reconocerá
+      3p: reconocerán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was recognizing, used to recognize, recognized'}
+      1s: reconocía
+      1p: reconocíamos
+      2s: reconocías
+      2p: reconocíais
+      3s: reconocía
+      3p: reconocían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I recognized}
+      1s: reconocí
+      1p: reconocimos
+      2s: reconociste
+      2p: reconocisteis
+      3s: reconoció
+      3p: reconocieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would recognize}
+      1s: reconocería
+      1p: reconoceríamos
+      2s: reconocerías
+      2p: reconoceríais
+      3s: reconocería
+      3p: reconocerían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have recognized}
+      1s: he reconocido
+      1p: hemos reconocido
+      2s: has reconocido
+      2p: habéis reconocido
+      3s: ha reconocido
+      3p: han reconocido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have recognized}
+      1s: habré reconocido
+      1p: habremos reconocido
+      2s: habrás reconocido
+      2p: habréis reconocido
+      3s: habrá reconocido
+      3p: habrán reconocido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had recognized}
+      1s: había reconocido
+      1p: habíamos reconocido
+      2s: habías reconocido
+      2p: habíais reconocido
+      3s: había reconocido
+      3p: habían reconocido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had recognized}
+      1s: hube reconocido
+      1p: hubimos reconocido
+      2s: hubiste reconocido
+      2p: hubisteis reconocido
+      3s: hubo reconocido
+      3p: hubieron reconocido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have recognized}
+      1s: habría reconocido
+      1p: habríamos reconocido
+      2s: habrías reconocido
+      2p: habríais reconocido
+      3s: habría reconocido
+      3p: habrían reconocido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I recognize, am recognizing'}
+      1s: reconozca
+      1p: reconozcamos
+      2s: reconozcas
+      2p: reconozcáis
+      3s: reconozca
+      3p: reconozcan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I recognized, was recognizing'}
+      1s: reconociera
+      1p: reconociéramos
+      2s: reconocieras
+      2p: reconocierais
+      3s: reconociera
+      3p: reconocieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will recognize}
+      1s: reconociere
+      1p: reconociéremos
+      2s: reconocieres
+      2p: reconociereis
+      3s: reconociere
+      3p: reconocieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have recognized, recognized'}
+      1s: haya reconocido
+      1p: hayamos reconocido
+      2s: hayas reconocido
+      2p: hayáis reconocido
+      3s: haya reconocido
+      3p: hayan reconocido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have recognized}
+      1s: hubiere reconocido
+      1p: hubiéremos reconocido
+      2s: hubieres reconocido
+      2p: hubiereis reconocido
+      3s: hubiere reconocido
+      3p: hubieren reconocido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had recognized}
+      1s: hubiera reconocido
+      1p: hubiéramos reconocido
+      2s: hubieras reconocido
+      2p: hubierais reconocido
+      3s: hubiera reconocido
+      3p: hubieran reconocido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Recognize! Don't recognize!}
+      1s: ''
+      1p: ''
+      2s: reconoce
+      2p: reconozca
+      3s: reconoced
+      3p: reconozcan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Recognize! Don't recognize!}
+      1s: ''
+      1p: ''
+      2s: no reconozcas
+      2p: no reconozca
+      3s: no reconozcáis
+      3p: no reconozcan

@@ -1,0 +1,186 @@
+llover:
+  infinitive: llover
+  gerund: lloviendo
+  pastparticiple: llovido
+  definitions: {en: to rain}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'it rains, is raining'}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: llueve
+      3p: ''
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: it will rain}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: lloverá
+      3p: ''
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'it was raining, used to rain, rained'}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: llovía
+      3p: ''
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: it rained}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: llovió
+      3p: ''
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: it would rain}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: llovería
+      3p: ''
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: it has rained}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: ha llovido
+      3p: ''
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: it will have rained}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: habrá llovido
+      3p: ''
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: it had rained}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: había llovido
+      3p: ''
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: it had rained}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: hubo llovido
+      3p: ''
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: it would have rained}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: habría llovido
+      3p: ''
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'it rains, is raining'}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: llueva
+      3p: ''
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'it rained, was raining'}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: lloviera
+      3p: ''
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: it will rain}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: lloviere
+      3p: ''
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'it has rained, rained'}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: haya llovido
+      3p: ''
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: it will have rained}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: hubiere llovido
+      3p: ''
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: it had rained}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: hubiera llovido
+      3p: ''
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Rain! Don't rain!}
+      1s: ''
+      1p: ''
+      2s: llueve
+      2p: llueva
+      3s: lloved
+      3p: lluevan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Rain! Don't rain!}
+      1s: ''
+      1p: ''
+      2s: no lluevas
+      2p: no llueva
+      3s: no llováis
+      3p: no lluevan

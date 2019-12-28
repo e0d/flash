@@ -1,0 +1,186 @@
+jugar:
+  infinitive: jugar
+  gerund: jugando
+  pastparticiple: jugado
+  definitions: {en: to play}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I play, am playing'}
+      1s: juego
+      1p: jugamos
+      2s: juegas
+      2p: jugáis
+      3s: juega
+      3p: juegan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will play}
+      1s: jugaré
+      1p: jugaremos
+      2s: jugarás
+      2p: jugaréis
+      3s: jugará
+      3p: jugarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was playing, used to play, played'}
+      1s: jugaba
+      1p: jugábamos
+      2s: jugabas
+      2p: jugabais
+      3s: jugaba
+      3p: jugaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I played}
+      1s: jugué
+      1p: jugamos
+      2s: jugaste
+      2p: jugasteis
+      3s: jugó
+      3p: jugaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would play}
+      1s: jugaría
+      1p: jugaríamos
+      2s: jugarías
+      2p: jugaríais
+      3s: jugaría
+      3p: jugarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have played}
+      1s: he jugado
+      1p: hemos jugado
+      2s: has jugado
+      2p: habéis jugado
+      3s: ha jugado
+      3p: han jugado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have played}
+      1s: habré jugado
+      1p: habremos jugado
+      2s: habrás jugado
+      2p: habréis jugado
+      3s: habrá jugado
+      3p: habrán jugado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had played}
+      1s: había jugado
+      1p: habíamos jugado
+      2s: habías jugado
+      2p: habíais jugado
+      3s: había jugado
+      3p: habían jugado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had played}
+      1s: hube jugado
+      1p: hubimos jugado
+      2s: hubiste jugado
+      2p: hubisteis jugado
+      3s: hubo jugado
+      3p: hubieron jugado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have played}
+      1s: habría jugado
+      1p: habríamos jugado
+      2s: habrías jugado
+      2p: habríais jugado
+      3s: habría jugado
+      3p: habrían jugado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I play, am playing'}
+      1s: juegue
+      1p: juguemos
+      2s: juegues
+      2p: juguéis
+      3s: juegue
+      3p: jueguen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I played, was playing'}
+      1s: jugara
+      1p: jugáramos
+      2s: jugaras
+      2p: jugarais
+      3s: jugara
+      3p: jugaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will play}
+      1s: jugare
+      1p: jugáremos
+      2s: jugares
+      2p: jugareis
+      3s: jugare
+      3p: jugaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have played, played'}
+      1s: haya jugado
+      1p: hayamos jugado
+      2s: hayas jugado
+      2p: hayáis jugado
+      3s: haya jugado
+      3p: hayan jugado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have played}
+      1s: hubiere jugado
+      1p: hubiéremos jugado
+      2s: hubieres jugado
+      2p: hubiereis jugado
+      3s: hubiere jugado
+      3p: hubieren jugado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had played}
+      1s: hubiera jugado
+      1p: hubiéramos jugado
+      2s: hubieras jugado
+      2p: hubierais jugado
+      3s: hubiera jugado
+      3p: hubieran jugado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Play! Don't play!}
+      1s: ''
+      1p: ''
+      2s: juega
+      2p: juegue
+      3s: jugad
+      3p: jueguen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Play! Don't play!}
+      1s: ''
+      1p: ''
+      2s: no juegues
+      2p: no juegue
+      3s: no juguéis
+      3p: no jueguen

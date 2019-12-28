@@ -1,0 +1,186 @@
+equivocar:
+  infinitive: equivocar
+  gerund: equivocando
+  pastparticiple: equivocado
+  definitions: {en: to mistake}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I mistake, am mistaking'}
+      1s: equivoco
+      1p: equivocamos
+      2s: equivocas
+      2p: equivocáis
+      3s: equivoca
+      3p: equivocan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will mistake}
+      1s: equivocaré
+      1p: equivocaremos
+      2s: equivocarás
+      2p: equivocaréis
+      3s: equivocará
+      3p: equivocarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was mistaking, used to mistake, mistook'}
+      1s: equivocaba
+      1p: equivocábamos
+      2s: equivocabas
+      2p: equivocabais
+      3s: equivocaba
+      3p: equivocaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I mistook}
+      1s: equivoqué
+      1p: equivocamos
+      2s: equivocaste
+      2p: equivocasteis
+      3s: equivocó
+      3p: equivocaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would mistake}
+      1s: equivocaría
+      1p: equivocaríamos
+      2s: equivocarías
+      2p: equivocaríais
+      3s: equivocaría
+      3p: equivocarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have mistaken}
+      1s: he equivocado
+      1p: hemos equivocado
+      2s: has equivocado
+      2p: habéis equivocado
+      3s: ha equivocado
+      3p: han equivocado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have mistaken}
+      1s: habré equivocado
+      1p: habremos equivocado
+      2s: habrás equivocado
+      2p: habréis equivocado
+      3s: habrá equivocado
+      3p: habrán equivocado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had mistaken}
+      1s: había equivocado
+      1p: habíamos equivocado
+      2s: habías equivocado
+      2p: habíais equivocado
+      3s: había equivocado
+      3p: habían equivocado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had mistaken}
+      1s: hube equivocado
+      1p: hubimos equivocado
+      2s: hubiste equivocado
+      2p: hubisteis equivocado
+      3s: hubo equivocado
+      3p: hubieron equivocado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have mistaken}
+      1s: habría equivocado
+      1p: habríamos equivocado
+      2s: habrías equivocado
+      2p: habríais equivocado
+      3s: habría equivocado
+      3p: habrían equivocado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I mistake, am mistaking'}
+      1s: equivoque
+      1p: equivoquemos
+      2s: equivoques
+      2p: equivoquéis
+      3s: equivoque
+      3p: equivoquen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I mistook, was mistaking'}
+      1s: equivocara
+      1p: equivocáramos
+      2s: equivocaras
+      2p: equivocarais
+      3s: equivocara
+      3p: equivocaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will mistake}
+      1s: equivocare
+      1p: equivocáremos
+      2s: equivocares
+      2p: equivocareis
+      3s: equivocare
+      3p: equivocaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have mistaken, mistook'}
+      1s: haya equivocado
+      1p: hayamos equivocado
+      2s: hayas equivocado
+      2p: hayáis equivocado
+      3s: haya equivocado
+      3p: hayan equivocado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have mistaken}
+      1s: hubiere equivocado
+      1p: hubiéremos equivocado
+      2s: hubieres equivocado
+      2p: hubiereis equivocado
+      3s: hubiere equivocado
+      3p: hubieren equivocado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had mistaken}
+      1s: hubiera equivocado
+      1p: hubiéramos equivocado
+      2s: hubieras equivocado
+      2p: hubierais equivocado
+      3s: hubiera equivocado
+      3p: hubieran equivocado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Mistake! Don't mistake!}
+      1s: ''
+      1p: ''
+      2s: equivoca
+      2p: equivoque
+      3s: equivocad
+      3p: equivoquen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Mistake! Don't mistake!}
+      1s: ''
+      1p: ''
+      2s: no equivoques
+      2p: no equivoque
+      3s: no equivoquéis
+      3p: no equivoquen

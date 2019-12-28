@@ -1,0 +1,186 @@
+caber:
+  infinitive: caber
+  gerund: cabiendo
+  pastparticiple: cabido
+  definitions: {en: to fit}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I fit}
+      1s: quepo
+      1p: cabemos
+      2s: cabes
+      2p: cabéis
+      3s: cabe
+      3p: caben
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will fit}
+      1s: cabré
+      1p: cabremos
+      2s: cabrás
+      2p: cabréis
+      3s: cabrá
+      3p: cabrán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I used to fit, fit'}
+      1s: cabía
+      1p: cabíamos
+      2s: cabías
+      2p: cabíais
+      3s: cabía
+      3p: cabían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I fit}
+      1s: cupe
+      1p: cupimos
+      2s: cupiste
+      2p: cupisteis
+      3s: cupo
+      3p: cupieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would fit}
+      1s: cabría
+      1p: cabríamos
+      2s: cabrías
+      2p: cabríais
+      3s: cabría
+      3p: cabrían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have fit}
+      1s: he cabido
+      1p: hemos cabido
+      2s: has cabido
+      2p: habéis cabido
+      3s: ha cabido
+      3p: han cabido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have fit}
+      1s: habré cabido
+      1p: habremos cabido
+      2s: habrás cabido
+      2p: habréis cabido
+      3s: habrá cabido
+      3p: habrán cabido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had fit}
+      1s: había cabido
+      1p: habíamos cabido
+      2s: habías cabido
+      2p: habíais cabido
+      3s: había cabido
+      3p: habían cabido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had fit}
+      1s: hube cabido
+      1p: hubimos cabido
+      2s: hubiste cabido
+      2p: hubisteis cabido
+      3s: hubo cabido
+      3p: hubieron cabido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have fit}
+      1s: habría cabido
+      1p: habríamos cabido
+      2s: habrías cabido
+      2p: habríais cabido
+      3s: habría cabido
+      3p: habrían cabido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I fit}
+      1s: quepa
+      1p: quepamos
+      2s: quepas
+      2p: quepáis
+      3s: quepa
+      3p: quepan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I fit, was fitting'}
+      1s: cupiera
+      1p: cupiéramos
+      2s: cupieras
+      2p: cupierais
+      3s: cupiera
+      3p: cupieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will fit}
+      1s: cupiere
+      1p: cupiéremos
+      2s: cupieres
+      2p: cupiereis
+      3s: cupiere
+      3p: cupieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have fit, fit'}
+      1s: haya cabido
+      1p: hayamos cabido
+      2s: hayas cabido
+      2p: hayáis cabido
+      3s: haya cabido
+      3p: hayan cabido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have fit}
+      1s: hubiere cabido
+      1p: hubiéremos cabido
+      2s: hubieres cabido
+      2p: hubiereis cabido
+      3s: hubiere cabido
+      3p: hubieren cabido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had fit}
+      1s: hubiera cabido
+      1p: hubiéramos cabido
+      2s: hubieras cabido
+      2p: hubierais cabido
+      3s: hubiera cabido
+      3p: hubieran cabido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Fit! Don't fit!}
+      1s: ''
+      1p: ''
+      2s: cabe
+      2p: quepa
+      3s: cabed
+      3p: quepan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Fit! Don't fit!}
+      1s: ''
+      1p: ''
+      2s: no quepas
+      2p: no quepa
+      3s: no quepáis
+      3p: no quepan

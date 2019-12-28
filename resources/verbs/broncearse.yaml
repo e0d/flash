@@ -1,0 +1,186 @@
+broncearse:
+  infinitive: broncearse
+  gerund: bronceándose
+  pastparticiple: bronceado
+  definitions: {en: 'to get a suntan, tan'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I get a suntan, am getting a suntan'}
+      1s: me bronceo
+      1p: nos bronceamos
+      2s: te bronceas
+      2p: os bronceáis
+      3s: se broncea
+      3p: se broncean
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will get a suntan}
+      1s: me broncearé
+      1p: nos broncearemos
+      2s: te broncearás
+      2p: os broncearéis
+      3s: se bronceará
+      3p: se broncearán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was getting a suntan, used to get a suntan, got a suntan'}
+      1s: me bronceaba
+      1p: nos bronceábamos
+      2s: te bronceabas
+      2p: os bronceabais
+      3s: se bronceaba
+      3p: se bronceaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I got a suntan}
+      1s: me bronceé
+      1p: nos bronceamos
+      2s: te bronceaste
+      2p: os bronceasteis
+      3s: se bronceó
+      3p: se broncearon
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would get a suntan}
+      1s: me broncearía
+      1p: nos broncearíamos
+      2s: te broncearías
+      2p: os broncearíais
+      3s: se broncearía
+      3p: se broncearían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have gotten a suntan}
+      1s: me he bronceado
+      1p: nos hemos bronceado
+      2s: te has bronceado
+      2p: os habéis bronceado
+      3s: se ha bronceado
+      3p: se han bronceado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have gotten a suntan}
+      1s: me habré bronceado
+      1p: nos habremos bronceado
+      2s: te habrás bronceado
+      2p: os habréis bronceado
+      3s: se habrá bronceado
+      3p: se habrán bronceado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had gotten a suntan}
+      1s: me había bronceado
+      1p: nos habíamos bronceado
+      2s: te habías bronceado
+      2p: os habíais bronceado
+      3s: se había bronceado
+      3p: se habían bronceado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had gotten a suntan}
+      1s: me hube bronceado
+      1p: nos hubimos bronceado
+      2s: te hubiste bronceado
+      2p: os hubisteis bronceado
+      3s: se hubo bronceado
+      3p: se hubieron bronceado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have gotten a suntan}
+      1s: me habría bronceado
+      1p: nos habríamos bronceado
+      2s: te habrías bronceado
+      2p: os habríais bronceado
+      3s: se habría bronceado
+      3p: se habrían bronceado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I get a suntan, am getting a suntan'}
+      1s: me broncee
+      1p: nos bronceemos
+      2s: te broncees
+      2p: os bronceéis
+      3s: se broncee
+      3p: se bronceen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I got a suntan, was getting a suntan'}
+      1s: me bronceara
+      1p: nos bronceáramos
+      2s: te broncearas
+      2p: os broncearais
+      3s: se bronceara
+      3p: se broncearan
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will get a suntan}
+      1s: me bronceare
+      1p: nos bronceáremos
+      2s: te bronceares
+      2p: os bronceareis
+      3s: se bronceare
+      3p: se broncearen
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have gotten a suntan, got a suntan'}
+      1s: me haya bronceado
+      1p: nos hayamos bronceado
+      2s: te hayas bronceado
+      2p: os hayáis bronceado
+      3s: se haya bronceado
+      3p: se hayan bronceado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have gotten a suntan}
+      1s: me hubiere bronceado
+      1p: nos hubiéremos bronceado
+      2s: te hubieres bronceado
+      2p: os hubiereis bronceado
+      3s: se hubiere bronceado
+      3p: se hubieren bronceado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had gotten a suntan}
+      1s: me hubiera bronceado
+      1p: nos hubiéramos bronceado
+      2s: te hubieras bronceado
+      2p: os hubierais bronceado
+      3s: se hubiera bronceado
+      3p: se hubieran bronceado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Get a suntan! Don't get a suntan!}
+      1s: ''
+      1p: ''
+      2s: broncéate
+      2p: broncéese
+      3s: bronceaos
+      3p: broncéense
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Get a suntan! Don't get a suntan!}
+      1s: ''
+      1p: ''
+      2s: no te broncees
+      2p: no se broncee
+      3s: no os bronceéis
+      3p: no se bronceen

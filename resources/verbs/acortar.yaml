@@ -1,0 +1,186 @@
+acortar:
+  infinitive: acortar
+  gerund: acortando
+  pastparticiple: acortado
+  definitions: {en: to shorten}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I shorten, am shortening'}
+      1s: acorto
+      1p: acortamos
+      2s: acortas
+      2p: acortáis
+      3s: acorta
+      3p: acortan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will shorten}
+      1s: acortaré
+      1p: acortaremos
+      2s: acortarás
+      2p: acortaréis
+      3s: acortará
+      3p: acortarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was shortening, used to shorten, shortened'}
+      1s: acortaba
+      1p: acortábamos
+      2s: acortabas
+      2p: acortabais
+      3s: acortaba
+      3p: acortaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I shortened}
+      1s: acorté
+      1p: acortamos
+      2s: acortaste
+      2p: acortasteis
+      3s: acortó
+      3p: acortaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would shorten}
+      1s: acortaría
+      1p: acortaríamos
+      2s: acortarías
+      2p: acortaríais
+      3s: acortaría
+      3p: acortarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have shortened}
+      1s: he acortado
+      1p: hemos acortado
+      2s: has acortado
+      2p: habéis acortado
+      3s: ha acortado
+      3p: han acortado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have shortened}
+      1s: habré acortado
+      1p: habremos acortado
+      2s: habrás acortado
+      2p: habréis acortado
+      3s: habrá acortado
+      3p: habrán acortado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had shortened}
+      1s: había acortado
+      1p: habíamos acortado
+      2s: habías acortado
+      2p: habíais acortado
+      3s: había acortado
+      3p: habían acortado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had shortened}
+      1s: hube acortado
+      1p: hubimos acortado
+      2s: hubiste acortado
+      2p: hubisteis acortado
+      3s: hubo acortado
+      3p: hubieron acortado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have shortened}
+      1s: habría acortado
+      1p: habríamos acortado
+      2s: habrías acortado
+      2p: habríais acortado
+      3s: habría acortado
+      3p: habrían acortado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I shorten, am shortening'}
+      1s: acorte
+      1p: acortemos
+      2s: acortes
+      2p: acortéis
+      3s: acorte
+      3p: acorten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I shortened, was shortening'}
+      1s: acortara
+      1p: acortáramos
+      2s: acortaras
+      2p: acortarais
+      3s: acortara
+      3p: acortaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will shorten}
+      1s: acortare
+      1p: acortáremos
+      2s: acortares
+      2p: acortareis
+      3s: acortare
+      3p: acortaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have shortened, shortened'}
+      1s: haya acortado
+      1p: hayamos acortado
+      2s: hayas acortado
+      2p: hayáis acortado
+      3s: haya acortado
+      3p: hayan acortado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have shortened}
+      1s: hubiere acortado
+      1p: hubiéremos acortado
+      2s: hubieres acortado
+      2p: hubiereis acortado
+      3s: hubiere acortado
+      3p: hubieren acortado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had shortened}
+      1s: hubiera acortado
+      1p: hubiéramos acortado
+      2s: hubieras acortado
+      2p: hubierais acortado
+      3s: hubiera acortado
+      3p: hubieran acortado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Shorten! Don't shorten!}
+      1s: ''
+      1p: ''
+      2s: acorta
+      2p: acorte
+      3s: acortad
+      3p: acorten
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Shorten! Don't shorten!}
+      1s: ''
+      1p: ''
+      2s: no acortes
+      2p: no acorte
+      3s: no acortéis
+      3p: no acorten

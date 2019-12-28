@@ -1,0 +1,186 @@
+desayunar:
+  infinitive: desayunar
+  gerund: desayunando
+  pastparticiple: desayunado
+  definitions: {en: 'to eat breakfast, have breakfast'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I eat breakfast, am eating breakfast'}
+      1s: desayuno
+      1p: desayunamos
+      2s: desayunas
+      2p: desayunáis
+      3s: desayuna
+      3p: desayunan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will eat breakfast}
+      1s: desayunaré
+      1p: desayunaremos
+      2s: desayunarás
+      2p: desayunaréis
+      3s: desayunará
+      3p: desayunarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was eating breakfast, used to eat breakfast, ate breakfast'}
+      1s: desayunaba
+      1p: desayunábamos
+      2s: desayunabas
+      2p: desayunabais
+      3s: desayunaba
+      3p: desayunaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I ate breakfast}
+      1s: desayuné
+      1p: desayunamos
+      2s: desayunaste
+      2p: desayunasteis
+      3s: desayunó
+      3p: desayunaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would eat breakfast}
+      1s: desayunaría
+      1p: desayunaríamos
+      2s: desayunarías
+      2p: desayunaríais
+      3s: desayunaría
+      3p: desayunarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have eaten breakfast}
+      1s: he desayunado
+      1p: hemos desayunado
+      2s: has desayunado
+      2p: habéis desayunado
+      3s: ha desayunado
+      3p: han desayunado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have eaten breakfast}
+      1s: habré desayunado
+      1p: habremos desayunado
+      2s: habrás desayunado
+      2p: habréis desayunado
+      3s: habrá desayunado
+      3p: habrán desayunado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had eaten breakfast}
+      1s: había desayunado
+      1p: habíamos desayunado
+      2s: habías desayunado
+      2p: habíais desayunado
+      3s: había desayunado
+      3p: habían desayunado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had eaten breakfast}
+      1s: hube desayunado
+      1p: hubimos desayunado
+      2s: hubiste desayunado
+      2p: hubisteis desayunado
+      3s: hubo desayunado
+      3p: hubieron desayunado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have eaten breakfast}
+      1s: habría desayunado
+      1p: habríamos desayunado
+      2s: habrías desayunado
+      2p: habríais desayunado
+      3s: habría desayunado
+      3p: habrían desayunado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I eat breakfast, am eating breakfast'}
+      1s: desayune
+      1p: desayunemos
+      2s: desayunes
+      2p: desayunéis
+      3s: desayune
+      3p: desayunen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I ate breakfast, was eating breakfast'}
+      1s: desayunara
+      1p: desayunáramos
+      2s: desayunaras
+      2p: desayunarais
+      3s: desayunara
+      3p: desayunaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will eat breakfast}
+      1s: desayunare
+      1p: desayunáremos
+      2s: desayunares
+      2p: desayunareis
+      3s: desayunare
+      3p: desayunaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have eaten breakfast, ate breakfast'}
+      1s: haya desayunado
+      1p: hayamos desayunado
+      2s: hayas desayunado
+      2p: hayáis desayunado
+      3s: haya desayunado
+      3p: hayan desayunado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have eaten breakfast}
+      1s: hubiere desayunado
+      1p: hubiéremos desayunado
+      2s: hubieres desayunado
+      2p: hubiereis desayunado
+      3s: hubiere desayunado
+      3p: hubieren desayunado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had eaten breakfast}
+      1s: hubiera desayunado
+      1p: hubiéramos desayunado
+      2s: hubieras desayunado
+      2p: hubierais desayunado
+      3s: hubiera desayunado
+      3p: hubieran desayunado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Eat breakfast! Don't eat breakfast!}
+      1s: ''
+      1p: ''
+      2s: desayuna
+      2p: desayune
+      3s: desayunad
+      3p: desayunen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Eat breakfast! Don't eat breakfast!}
+      1s: ''
+      1p: ''
+      2s: no desayunes
+      2p: no desayune
+      3s: no desayunéis
+      3p: no desayunen

@@ -1,0 +1,186 @@
+comer:
+  infinitive: comer
+  gerund: comiendo
+  pastparticiple: comido
+  definitions: {en: to eat}
+  tenses:
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would eat}
+      1s: comería
+      1p: comeríamos
+      2s: comerías
+      2p: comeríais
+      3s: comería
+      3p: comerían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have eaten}
+      1s: he comido
+      1p: hemos comido
+      2s: has comido
+      2p: habéis comido
+      3s: ha comido
+      3p: han comido
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I eat, am eating'}
+      1s: como
+      1p: comemos
+      2s: comes
+      2p: coméis
+      3s: come
+      3p: comen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will eat}
+      1s: comeré
+      1p: comeremos
+      2s: comerás
+      2p: comeréis
+      3s: comerá
+      3p: comerán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was eating, used to eat, ate'}
+      1s: comía
+      1p: comíamos
+      2s: comías
+      2p: comíais
+      3s: comía
+      3p: comían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I ate}
+      1s: comí
+      1p: comimos
+      2s: comiste
+      2p: comisteis
+      3s: comió
+      3p: comieron
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have eaten}
+      1s: habré comido
+      1p: habremos comido
+      2s: habrás comido
+      2p: habréis comido
+      3s: habrá comido
+      3p: habrán comido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had eaten}
+      1s: había comido
+      1p: habíamos comido
+      2s: habías comido
+      2p: habíais comido
+      3s: había comido
+      3p: habían comido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had eaten}
+      1s: hube comido
+      1p: hubimos comido
+      2s: hubiste comido
+      2p: hubisteis comido
+      3s: hubo comido
+      3p: hubieron comido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have eaten}
+      1s: habría comido
+      1p: habríamos comido
+      2s: habrías comido
+      2p: habríais comido
+      3s: habría comido
+      3p: habrían comido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I eat, am eating'}
+      1s: coma
+      1p: comamos
+      2s: comas
+      2p: comáis
+      3s: coma
+      3p: coman
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I ate, was eating'}
+      1s: comiera
+      1p: comiéramos
+      2s: comieras
+      2p: comierais
+      3s: comiera
+      3p: comieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will eat}
+      1s: comiere
+      1p: comiéremos
+      2s: comieres
+      2p: comiereis
+      3s: comiere
+      3p: comieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have eaten, ate'}
+      1s: haya comido
+      1p: hayamos comido
+      2s: hayas comido
+      2p: hayáis comido
+      3s: haya comido
+      3p: hayan comido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have eaten}
+      1s: hubiere comido
+      1p: hubiéremos comido
+      2s: hubieres comido
+      2p: hubiereis comido
+      3s: hubiere comido
+      3p: hubieren comido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had eaten}
+      1s: hubiera comido
+      1p: hubiéramos comido
+      2s: hubieras comido
+      2p: hubierais comido
+      3s: hubiera comido
+      3p: hubieran comido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Eat! Don't eat!}
+      1s: ''
+      1p: ''
+      2s: come
+      2p: coma
+      3s: comed
+      3p: coman
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Eat! Don't eat!}
+      1s: ''
+      1p: ''
+      2s: no comas
+      2p: no coma
+      3s: no comáis
+      3p: no coman

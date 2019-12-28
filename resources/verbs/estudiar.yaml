@@ -1,0 +1,186 @@
+estudiar:
+  infinitive: estudiar
+  gerund: estudiando
+  pastparticiple: estudiado
+  definitions: {en: to study}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I study, am studying'}
+      1s: estudio
+      1p: estudiamos
+      2s: estudias
+      2p: estudiáis
+      3s: estudia
+      3p: estudian
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will study}
+      1s: estudiaré
+      1p: estudiaremos
+      2s: estudiarás
+      2p: estudiaréis
+      3s: estudiará
+      3p: estudiarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was studying, used to study, studied'}
+      1s: estudiaba
+      1p: estudiábamos
+      2s: estudiabas
+      2p: estudiabais
+      3s: estudiaba
+      3p: estudiaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I studied}
+      1s: estudié
+      1p: estudiamos
+      2s: estudiaste
+      2p: estudiasteis
+      3s: estudió
+      3p: estudiaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would study}
+      1s: estudiaría
+      1p: estudiaríamos
+      2s: estudiarías
+      2p: estudiaríais
+      3s: estudiaría
+      3p: estudiarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have studied}
+      1s: he estudiado
+      1p: hemos estudiado
+      2s: has estudiado
+      2p: habéis estudiado
+      3s: ha estudiado
+      3p: han estudiado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have studied}
+      1s: habré estudiado
+      1p: habremos estudiado
+      2s: habrás estudiado
+      2p: habréis estudiado
+      3s: habrá estudiado
+      3p: habrán estudiado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had studied}
+      1s: había estudiado
+      1p: habíamos estudiado
+      2s: habías estudiado
+      2p: habíais estudiado
+      3s: había estudiado
+      3p: habían estudiado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had studied}
+      1s: hube estudiado
+      1p: hubimos estudiado
+      2s: hubiste estudiado
+      2p: hubisteis estudiado
+      3s: hubo estudiado
+      3p: hubieron estudiado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have studied}
+      1s: habría estudiado
+      1p: habríamos estudiado
+      2s: habrías estudiado
+      2p: habríais estudiado
+      3s: habría estudiado
+      3p: habrían estudiado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I study, am studying'}
+      1s: estudie
+      1p: estudiemos
+      2s: estudies
+      2p: estudiéis
+      3s: estudie
+      3p: estudien
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I studied, was studying'}
+      1s: estudiara
+      1p: estudiáramos
+      2s: estudiaras
+      2p: estudiarais
+      3s: estudiara
+      3p: estudiaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will study}
+      1s: estudiare
+      1p: estudiáremos
+      2s: estudiares
+      2p: estudiareis
+      3s: estudiare
+      3p: estudiaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have studied, studied'}
+      1s: haya estudiado
+      1p: hayamos estudiado
+      2s: hayas estudiado
+      2p: hayáis estudiado
+      3s: haya estudiado
+      3p: hayan estudiado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have studied}
+      1s: hubiere estudiado
+      1p: hubiéremos estudiado
+      2s: hubieres estudiado
+      2p: hubiereis estudiado
+      3s: hubiere estudiado
+      3p: hubieren estudiado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had studied}
+      1s: hubiera estudiado
+      1p: hubiéramos estudiado
+      2s: hubieras estudiado
+      2p: hubierais estudiado
+      3s: hubiera estudiado
+      3p: hubieran estudiado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Study! Don't study!}
+      1s: ''
+      1p: ''
+      2s: estudia
+      2p: estudie
+      3s: estudiad
+      3p: estudien
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Study! Don't study!}
+      1s: ''
+      1p: ''
+      2s: no estudies
+      2p: no estudie
+      3s: no estudiéis
+      3p: no estudien

@@ -1,0 +1,186 @@
+llevar:
+  infinitive: llevar
+  gerund: llevando
+  pastparticiple: llevado
+  definitions: {en: 'to carry, bring'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I carry, am carrying'}
+      1s: llevo
+      1p: llevamos
+      2s: llevas
+      2p: lleváis
+      3s: lleva
+      3p: llevan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will carry}
+      1s: llevaré
+      1p: llevaremos
+      2s: llevarás
+      2p: llevaréis
+      3s: llevará
+      3p: llevarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was carrying, used to carry, carried'}
+      1s: llevaba
+      1p: llevábamos
+      2s: llevabas
+      2p: llevabais
+      3s: llevaba
+      3p: llevaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I carried}
+      1s: llevé
+      1p: llevamos
+      2s: llevaste
+      2p: llevasteis
+      3s: llevó
+      3p: llevaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would carry}
+      1s: llevaría
+      1p: llevaríamos
+      2s: llevarías
+      2p: llevaríais
+      3s: llevaría
+      3p: llevarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have carried}
+      1s: he llevado
+      1p: hemos llevado
+      2s: has llevado
+      2p: habéis llevado
+      3s: ha llevado
+      3p: han llevado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have carried}
+      1s: habré llevado
+      1p: habremos llevado
+      2s: habrás llevado
+      2p: habréis llevado
+      3s: habrá llevado
+      3p: habrán llevado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had carried}
+      1s: había llevado
+      1p: habíamos llevado
+      2s: habías llevado
+      2p: habíais llevado
+      3s: había llevado
+      3p: habían llevado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had carried}
+      1s: hube llevado
+      1p: hubimos llevado
+      2s: hubiste llevado
+      2p: hubisteis llevado
+      3s: hubo llevado
+      3p: hubieron llevado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have carried}
+      1s: habría llevado
+      1p: habríamos llevado
+      2s: habrías llevado
+      2p: habríais llevado
+      3s: habría llevado
+      3p: habrían llevado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I carry, am carrying'}
+      1s: lleve
+      1p: llevemos
+      2s: lleves
+      2p: llevéis
+      3s: lleve
+      3p: lleven
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I carried, was carrying'}
+      1s: llevara
+      1p: lleváramos
+      2s: llevaras
+      2p: llevarais
+      3s: llevara
+      3p: llevaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will carry}
+      1s: llevare
+      1p: lleváremos
+      2s: llevares
+      2p: llevareis
+      3s: llevare
+      3p: llevaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have carried, carried'}
+      1s: haya llevado
+      1p: hayamos llevado
+      2s: hayas llevado
+      2p: hayáis llevado
+      3s: haya llevado
+      3p: hayan llevado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have carried}
+      1s: hubiere llevado
+      1p: hubiéremos llevado
+      2s: hubieres llevado
+      2p: hubiereis llevado
+      3s: hubiere llevado
+      3p: hubieren llevado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had carried}
+      1s: hubiera llevado
+      1p: hubiéramos llevado
+      2s: hubieras llevado
+      2p: hubierais llevado
+      3s: hubiera llevado
+      3p: hubieran llevado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Carry! Don't carry!}
+      1s: ''
+      1p: ''
+      2s: lleva
+      2p: lleve
+      3s: llevad
+      3p: lleven
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Carry! Don't carry!}
+      1s: ''
+      1p: ''
+      2s: no lleves
+      2p: no lleve
+      3s: no llevéis
+      3p: no lleven

@@ -1,0 +1,186 @@
+beber:
+  infinitive: beber
+  gerund: bebiendo
+  pastparticiple: bebido
+  definitions: {en: to drink}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I drink, am drinking'}
+      1s: bebo
+      1p: bebemos
+      2s: bebes
+      2p: bebéis
+      3s: bebe
+      3p: beben
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will drink}
+      1s: beberé
+      1p: beberemos
+      2s: beberás
+      2p: beberéis
+      3s: beberá
+      3p: beberán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was drinking, used to drink, drank'}
+      1s: bebía
+      1p: bebíamos
+      2s: bebías
+      2p: bebíais
+      3s: bebía
+      3p: bebían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I drank}
+      1s: bebí
+      1p: bebimos
+      2s: bebiste
+      2p: bebisteis
+      3s: bebió
+      3p: bebieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would drink}
+      1s: bebería
+      1p: beberíamos
+      2s: beberías
+      2p: beberíais
+      3s: bebería
+      3p: beberían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have drunk}
+      1s: he bebido
+      1p: hemos bebido
+      2s: has bebido
+      2p: habéis bebido
+      3s: ha bebido
+      3p: han bebido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have drunk}
+      1s: habré bebido
+      1p: habremos bebido
+      2s: habrás bebido
+      2p: habréis bebido
+      3s: habrá bebido
+      3p: habrán bebido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had drunk}
+      1s: había bebido
+      1p: habíamos bebido
+      2s: habías bebido
+      2p: habíais bebido
+      3s: había bebido
+      3p: habían bebido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had drunk}
+      1s: hube bebido
+      1p: hubimos bebido
+      2s: hubiste bebido
+      2p: hubisteis bebido
+      3s: hubo bebido
+      3p: hubieron bebido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have drunk}
+      1s: habría bebido
+      1p: habríamos bebido
+      2s: habrías bebido
+      2p: habríais bebido
+      3s: habría bebido
+      3p: habrían bebido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I drink, am drinking'}
+      1s: beba
+      1p: bebamos
+      2s: bebas
+      2p: bebáis
+      3s: beba
+      3p: beban
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I drank, was drinking'}
+      1s: bebiera
+      1p: bebiéramos
+      2s: bebieras
+      2p: bebierais
+      3s: bebiera
+      3p: bebieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will drink}
+      1s: bebiere
+      1p: bebiéremos
+      2s: bebieres
+      2p: bebiereis
+      3s: bebiere
+      3p: bebieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have drunk, drank'}
+      1s: haya bebido
+      1p: hayamos bebido
+      2s: hayas bebido
+      2p: hayáis bebido
+      3s: haya bebido
+      3p: hayan bebido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have drunk}
+      1s: hubiere bebido
+      1p: hubiéremos bebido
+      2s: hubieres bebido
+      2p: hubiereis bebido
+      3s: hubiere bebido
+      3p: hubieren bebido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had drunk}
+      1s: hubiera bebido
+      1p: hubiéramos bebido
+      2s: hubieras bebido
+      2p: hubierais bebido
+      3s: hubiera bebido
+      3p: hubieran bebido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Drink! Don't drink!}
+      1s: ''
+      1p: ''
+      2s: bebe
+      2p: beba
+      3s: bebed
+      3p: beban
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Drink! Don't drink!}
+      1s: ''
+      1p: ''
+      2s: no bebas
+      2p: no beba
+      3s: no bebáis
+      3p: no beban

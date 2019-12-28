@@ -1,0 +1,186 @@
+avanzar:
+  infinitive: avanzar
+  gerund: avanzando
+  pastparticiple: avanzado
+  definitions: {en: 'to advance, move forward'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I advance, am advancing'}
+      1s: avanzo
+      1p: avanzamos
+      2s: avanzas
+      2p: avanzáis
+      3s: avanza
+      3p: avanzan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will advance}
+      1s: avanzaré
+      1p: avanzaremos
+      2s: avanzarás
+      2p: avanzaréis
+      3s: avanzará
+      3p: avanzarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was advancing, used to advance, advanced'}
+      1s: avanzaba
+      1p: avanzábamos
+      2s: avanzabas
+      2p: avanzabais
+      3s: avanzaba
+      3p: avanzaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I advanced}
+      1s: avancé
+      1p: avanzamos
+      2s: avanzaste
+      2p: avanzasteis
+      3s: avanzó
+      3p: avanzaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would advance}
+      1s: avanzaría
+      1p: avanzaríamos
+      2s: avanzarías
+      2p: avanzaríais
+      3s: avanzaría
+      3p: avanzarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have advanced}
+      1s: he avanzado
+      1p: hemos avanzado
+      2s: has avanzado
+      2p: habéis avanzado
+      3s: ha avanzado
+      3p: han avanzado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have advanced}
+      1s: habré avanzado
+      1p: habremos avanzado
+      2s: habrás avanzado
+      2p: habréis avanzado
+      3s: habrá avanzado
+      3p: habrán avanzado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had advanced}
+      1s: había avanzado
+      1p: habíamos avanzado
+      2s: habías avanzado
+      2p: habíais avanzado
+      3s: había avanzado
+      3p: habían avanzado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had advanced}
+      1s: hube avanzado
+      1p: hubimos avanzado
+      2s: hubiste avanzado
+      2p: hubisteis avanzado
+      3s: hubo avanzado
+      3p: hubieron avanzado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have advanced}
+      1s: habría avanzado
+      1p: habríamos avanzado
+      2s: habrías avanzado
+      2p: habríais avanzado
+      3s: habría avanzado
+      3p: habrían avanzado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I advance, am advancing'}
+      1s: avance
+      1p: avancemos
+      2s: avances
+      2p: avancéis
+      3s: avance
+      3p: avancen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I advanced, was advancing'}
+      1s: avanzara
+      1p: avanzáramos
+      2s: avanzaras
+      2p: avanzarais
+      3s: avanzara
+      3p: avanzaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will advance}
+      1s: avanzare
+      1p: avanzáremos
+      2s: avanzares
+      2p: avanzareis
+      3s: avanzare
+      3p: avanzaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have advanced, advanced'}
+      1s: haya avanzado
+      1p: hayamos avanzado
+      2s: hayas avanzado
+      2p: hayáis avanzado
+      3s: haya avanzado
+      3p: hayan avanzado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have advanced}
+      1s: hubiere avanzado
+      1p: hubiéremos avanzado
+      2s: hubieres avanzado
+      2p: hubiereis avanzado
+      3s: hubiere avanzado
+      3p: hubieren avanzado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had advanced}
+      1s: hubiera avanzado
+      1p: hubiéramos avanzado
+      2s: hubieras avanzado
+      2p: hubierais avanzado
+      3s: hubiera avanzado
+      3p: hubieran avanzado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Advance! Don't advance!}
+      1s: ''
+      1p: ''
+      2s: avanza
+      2p: avance
+      3s: avanzad
+      3p: avancen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Advance! Don't advance!}
+      1s: ''
+      1p: ''
+      2s: no avances
+      2p: no avance
+      3s: no avancéis
+      3p: no avancen

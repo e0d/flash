@@ -1,0 +1,186 @@
+fumar:
+  infinitive: fumar
+  gerund: fumando
+  pastparticiple: fumado
+  definitions: {en: to smoke}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I smoke, am smoking'}
+      1s: fumo
+      1p: fumamos
+      2s: fumas
+      2p: fumáis
+      3s: fuma
+      3p: fuman
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will smoke}
+      1s: fumaré
+      1p: fumaremos
+      2s: fumarás
+      2p: fumaréis
+      3s: fumará
+      3p: fumarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was smoking, used to smoke, smoked'}
+      1s: fumaba
+      1p: fumábamos
+      2s: fumabas
+      2p: fumabais
+      3s: fumaba
+      3p: fumaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I smoked}
+      1s: fumé
+      1p: fumamos
+      2s: fumaste
+      2p: fumasteis
+      3s: fumó
+      3p: fumaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would smoke}
+      1s: fumaría
+      1p: fumaríamos
+      2s: fumarías
+      2p: fumaríais
+      3s: fumaría
+      3p: fumarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have smoked}
+      1s: he fumado
+      1p: hemos fumado
+      2s: has fumado
+      2p: habéis fumado
+      3s: ha fumado
+      3p: han fumado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have smoked}
+      1s: habré fumado
+      1p: habremos fumado
+      2s: habrás fumado
+      2p: habréis fumado
+      3s: habrá fumado
+      3p: habrán fumado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had smoked}
+      1s: había fumado
+      1p: habíamos fumado
+      2s: habías fumado
+      2p: habíais fumado
+      3s: había fumado
+      3p: habían fumado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had smoked}
+      1s: hube fumado
+      1p: hubimos fumado
+      2s: hubiste fumado
+      2p: hubisteis fumado
+      3s: hubo fumado
+      3p: hubieron fumado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have smoked}
+      1s: habría fumado
+      1p: habríamos fumado
+      2s: habrías fumado
+      2p: habríais fumado
+      3s: habría fumado
+      3p: habrían fumado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I smoke, am smoking'}
+      1s: fume
+      1p: fumemos
+      2s: fumes
+      2p: fuméis
+      3s: fume
+      3p: fumen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I smoked, was smoking'}
+      1s: fumara
+      1p: fumáramos
+      2s: fumaras
+      2p: fumarais
+      3s: fumara
+      3p: fumaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will smoke}
+      1s: fumare
+      1p: fumáremos
+      2s: fumares
+      2p: fumareis
+      3s: fumare
+      3p: fumaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have smoked, smoked'}
+      1s: haya fumado
+      1p: hayamos fumado
+      2s: hayas fumado
+      2p: hayáis fumado
+      3s: haya fumado
+      3p: hayan fumado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have smoked}
+      1s: hubiere fumado
+      1p: hubiéremos fumado
+      2s: hubieres fumado
+      2p: hubiereis fumado
+      3s: hubiere fumado
+      3p: hubieren fumado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had smoked}
+      1s: hubiera fumado
+      1p: hubiéramos fumado
+      2s: hubieras fumado
+      2p: hubierais fumado
+      3s: hubiera fumado
+      3p: hubieran fumado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Smoke! Don't smoke!}
+      1s: ''
+      1p: ''
+      2s: fuma
+      2p: fume
+      3s: fumad
+      3p: fumen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Smoke! Don't smoke!}
+      1s: ''
+      1p: ''
+      2s: no fumes
+      2p: no fume
+      3s: no fuméis
+      3p: no fumen

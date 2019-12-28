@@ -1,0 +1,186 @@
+devorar:
+  infinitive: devorar
+  gerund: devorando
+  pastparticiple: devorado
+  definitions: {en: 'to devour, eat up, gobble up'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I devour, am devouring'}
+      1s: devoro
+      1p: devoramos
+      2s: devoras
+      2p: devoráis
+      3s: devora
+      3p: devoran
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will devour}
+      1s: devoraré
+      1p: devoraremos
+      2s: devorarás
+      2p: devoraréis
+      3s: devorará
+      3p: devorarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was devouring, used to devour, devoured'}
+      1s: devoraba
+      1p: devorábamos
+      2s: devorabas
+      2p: devorabais
+      3s: devoraba
+      3p: devoraban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I devoured}
+      1s: devoré
+      1p: devoramos
+      2s: devoraste
+      2p: devorasteis
+      3s: devoró
+      3p: devoraron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would devour}
+      1s: devoraría
+      1p: devoraríamos
+      2s: devorarías
+      2p: devoraríais
+      3s: devoraría
+      3p: devorarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have devoured}
+      1s: he devorado
+      1p: hemos devorado
+      2s: has devorado
+      2p: habéis devorado
+      3s: ha devorado
+      3p: han devorado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have devoured}
+      1s: habré devorado
+      1p: habremos devorado
+      2s: habrás devorado
+      2p: habréis devorado
+      3s: habrá devorado
+      3p: habrán devorado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had devoured}
+      1s: había devorado
+      1p: habíamos devorado
+      2s: habías devorado
+      2p: habíais devorado
+      3s: había devorado
+      3p: habían devorado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had devoured}
+      1s: hube devorado
+      1p: hubimos devorado
+      2s: hubiste devorado
+      2p: hubisteis devorado
+      3s: hubo devorado
+      3p: hubieron devorado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have devoured}
+      1s: habría devorado
+      1p: habríamos devorado
+      2s: habrías devorado
+      2p: habríais devorado
+      3s: habría devorado
+      3p: habrían devorado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I devour, am devouring'}
+      1s: devore
+      1p: devoremos
+      2s: devores
+      2p: devoréis
+      3s: devore
+      3p: devoren
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I devoured, was devouring'}
+      1s: devorara
+      1p: devoráramos
+      2s: devoraras
+      2p: devorarais
+      3s: devorara
+      3p: devoraran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will devour}
+      1s: devorare
+      1p: devoráremos
+      2s: devorares
+      2p: devorareis
+      3s: devorare
+      3p: devoraren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have devoured, devoured'}
+      1s: haya devorado
+      1p: hayamos devorado
+      2s: hayas devorado
+      2p: hayáis devorado
+      3s: haya devorado
+      3p: hayan devorado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have devoured}
+      1s: hubiere devorado
+      1p: hubiéremos devorado
+      2s: hubieres devorado
+      2p: hubiereis devorado
+      3s: hubiere devorado
+      3p: hubieren devorado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had devoured}
+      1s: hubiera devorado
+      1p: hubiéramos devorado
+      2s: hubieras devorado
+      2p: hubierais devorado
+      3s: hubiera devorado
+      3p: hubieran devorado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Devour! Don't devour!}
+      1s: ''
+      1p: ''
+      2s: devora
+      2p: devore
+      3s: devorad
+      3p: devoren
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Devour! Don't devour!}
+      1s: ''
+      1p: ''
+      2s: no devores
+      2p: no devore
+      3s: no devoréis
+      3p: no devoren

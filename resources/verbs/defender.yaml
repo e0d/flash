@@ -1,0 +1,186 @@
+defender:
+  infinitive: defender
+  gerund: defendiendo
+  pastparticiple: defendido
+  definitions: {en: to defend}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I defend, am defending'}
+      1s: defiendo
+      1p: defendemos
+      2s: defiendes
+      2p: defendéis
+      3s: defiende
+      3p: defienden
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will defend}
+      1s: defenderé
+      1p: defenderemos
+      2s: defenderás
+      2p: defenderéis
+      3s: defenderá
+      3p: defenderán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was defending, used to defend, defended'}
+      1s: defendía
+      1p: defendíamos
+      2s: defendías
+      2p: defendíais
+      3s: defendía
+      3p: defendían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I defended}
+      1s: defendí
+      1p: defendimos
+      2s: defendiste
+      2p: defendisteis
+      3s: defendió
+      3p: defendieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would defend}
+      1s: defendería
+      1p: defenderíamos
+      2s: defenderías
+      2p: defenderíais
+      3s: defendería
+      3p: defenderían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have defended}
+      1s: he defendido
+      1p: hemos defendido
+      2s: has defendido
+      2p: habéis defendido
+      3s: ha defendido
+      3p: han defendido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have defended}
+      1s: habré defendido
+      1p: habremos defendido
+      2s: habrás defendido
+      2p: habréis defendido
+      3s: habrá defendido
+      3p: habrán defendido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had defended}
+      1s: había defendido
+      1p: habíamos defendido
+      2s: habías defendido
+      2p: habíais defendido
+      3s: había defendido
+      3p: habían defendido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had defended}
+      1s: hube defendido
+      1p: hubimos defendido
+      2s: hubiste defendido
+      2p: hubisteis defendido
+      3s: hubo defendido
+      3p: hubieron defendido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have defended}
+      1s: habría defendido
+      1p: habríamos defendido
+      2s: habrías defendido
+      2p: habríais defendido
+      3s: habría defendido
+      3p: habrían defendido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I defend, am defending'}
+      1s: defienda
+      1p: defendamos
+      2s: defiendas
+      2p: defendáis
+      3s: defienda
+      3p: defiendan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I defended, was defending'}
+      1s: defendiera
+      1p: defendiéramos
+      2s: defendieras
+      2p: defendierais
+      3s: defendiera
+      3p: defendieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will defend}
+      1s: defendiere
+      1p: defendiéremos
+      2s: defendieres
+      2p: defendiereis
+      3s: defendiere
+      3p: defendieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have defended, defended'}
+      1s: haya defendido
+      1p: hayamos defendido
+      2s: hayas defendido
+      2p: hayáis defendido
+      3s: haya defendido
+      3p: hayan defendido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have defended}
+      1s: hubiere defendido
+      1p: hubiéremos defendido
+      2s: hubieres defendido
+      2p: hubiereis defendido
+      3s: hubiere defendido
+      3p: hubieren defendido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had defended}
+      1s: hubiera defendido
+      1p: hubiéramos defendido
+      2s: hubieras defendido
+      2p: hubierais defendido
+      3s: hubiera defendido
+      3p: hubieran defendido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Defend! Don't defend!}
+      1s: ''
+      1p: ''
+      2s: defiende
+      2p: defienda
+      3s: defended
+      3p: defiendan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Defend! Don't defend!}
+      1s: ''
+      1p: ''
+      2s: no defiendas
+      2p: no defienda
+      3s: no defendáis
+      3p: no defiendan

@@ -1,0 +1,186 @@
+alcanzar:
+  infinitive: alcanzar
+  gerund: alcanzando
+  pastparticiple: alcanzado
+  definitions: {en: 'to reach, catch, catch up to, catch up with'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I reach, am reaching'}
+      1s: alcanzo
+      1p: alcanzamos
+      2s: alcanzas
+      2p: alcanzáis
+      3s: alcanza
+      3p: alcanzan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will reach}
+      1s: alcanzaré
+      1p: alcanzaremos
+      2s: alcanzarás
+      2p: alcanzaréis
+      3s: alcanzará
+      3p: alcanzarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was reaching, used to reach, reached'}
+      1s: alcanzaba
+      1p: alcanzábamos
+      2s: alcanzabas
+      2p: alcanzabais
+      3s: alcanzaba
+      3p: alcanzaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I reached}
+      1s: alcancé
+      1p: alcanzamos
+      2s: alcanzaste
+      2p: alcanzasteis
+      3s: alcanzó
+      3p: alcanzaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would reach}
+      1s: alcanzaría
+      1p: alcanzaríamos
+      2s: alcanzarías
+      2p: alcanzaríais
+      3s: alcanzaría
+      3p: alcanzarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have reached}
+      1s: he alcanzado
+      1p: hemos alcanzado
+      2s: has alcanzado
+      2p: habéis alcanzado
+      3s: ha alcanzado
+      3p: han alcanzado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have reached}
+      1s: habré alcanzado
+      1p: habremos alcanzado
+      2s: habrás alcanzado
+      2p: habréis alcanzado
+      3s: habrá alcanzado
+      3p: habrán alcanzado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had reached}
+      1s: había alcanzado
+      1p: habíamos alcanzado
+      2s: habías alcanzado
+      2p: habíais alcanzado
+      3s: había alcanzado
+      3p: habían alcanzado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had reached}
+      1s: hube alcanzado
+      1p: hubimos alcanzado
+      2s: hubiste alcanzado
+      2p: hubisteis alcanzado
+      3s: hubo alcanzado
+      3p: hubieron alcanzado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have reached}
+      1s: habría alcanzado
+      1p: habríamos alcanzado
+      2s: habrías alcanzado
+      2p: habríais alcanzado
+      3s: habría alcanzado
+      3p: habrían alcanzado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I reach, am reaching'}
+      1s: alcance
+      1p: alcancemos
+      2s: alcances
+      2p: alcancéis
+      3s: alcance
+      3p: alcancen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I reached, was reaching'}
+      1s: alcanzara
+      1p: alcanzáramos
+      2s: alcanzaras
+      2p: alcanzarais
+      3s: alcanzara
+      3p: alcanzaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will reach}
+      1s: alcanzare
+      1p: alcanzáremos
+      2s: alcanzares
+      2p: alcanzareis
+      3s: alcanzare
+      3p: alcanzaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have reached, reached'}
+      1s: haya alcanzado
+      1p: hayamos alcanzado
+      2s: hayas alcanzado
+      2p: hayáis alcanzado
+      3s: haya alcanzado
+      3p: hayan alcanzado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have reached}
+      1s: hubiere alcanzado
+      1p: hubiéremos alcanzado
+      2s: hubieres alcanzado
+      2p: hubiereis alcanzado
+      3s: hubiere alcanzado
+      3p: hubieren alcanzado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had reached}
+      1s: hubiera alcanzado
+      1p: hubiéramos alcanzado
+      2s: hubieras alcanzado
+      2p: hubierais alcanzado
+      3s: hubiera alcanzado
+      3p: hubieran alcanzado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Reach! Don't reach!}
+      1s: ''
+      1p: ''
+      2s: alcanza
+      2p: alcance
+      3s: alcanzad
+      3p: alcancen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Reach! Don't reach!}
+      1s: ''
+      1p: ''
+      2s: no alcances
+      2p: no alcance
+      3s: no alcancéis
+      3p: no alcancen

@@ -1,0 +1,186 @@
+descubrir:
+  infinitive: descubrir
+  gerund: descubriendo
+  pastparticiple: descubierto
+  definitions: {en: to discover}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I discover, am discovering'}
+      1s: descubro
+      1p: descubrimos
+      2s: descubres
+      2p: descubrís
+      3s: descubre
+      3p: descubren
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will discover}
+      1s: descubriré
+      1p: descubriremos
+      2s: descubrirás
+      2p: descubriréis
+      3s: descubrirá
+      3p: descubrirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was discovering, used to discover, discovered'}
+      1s: descubría
+      1p: descubríamos
+      2s: descubrías
+      2p: descubríais
+      3s: descubría
+      3p: descubrían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I discovered}
+      1s: descubrí
+      1p: descubrimos
+      2s: descubriste
+      2p: descubristeis
+      3s: descubrió
+      3p: descubrieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would discover}
+      1s: descubriría
+      1p: descubriríamos
+      2s: descubrirías
+      2p: descubriríais
+      3s: descubriría
+      3p: descubrirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have discovered}
+      1s: he descubierto
+      1p: hemos descubierto
+      2s: has descubierto
+      2p: habéis descubierto
+      3s: ha descubierto
+      3p: han descubierto
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have discovered}
+      1s: habré descubierto
+      1p: habremos descubierto
+      2s: habrás descubierto
+      2p: habréis descubierto
+      3s: habrá descubierto
+      3p: habrán descubierto
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had discovered}
+      1s: había descubierto
+      1p: habíamos descubierto
+      2s: habías descubierto
+      2p: habíais descubierto
+      3s: había descubierto
+      3p: habían descubierto
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had discovered}
+      1s: hube descubierto
+      1p: hubimos descubierto
+      2s: hubiste descubierto
+      2p: hubisteis descubierto
+      3s: hubo descubierto
+      3p: hubieron descubierto
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have discovered}
+      1s: habría descubierto
+      1p: habríamos descubierto
+      2s: habrías descubierto
+      2p: habríais descubierto
+      3s: habría descubierto
+      3p: habrían descubierto
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I discover, am discovering'}
+      1s: descubra
+      1p: descubramos
+      2s: descubras
+      2p: descubráis
+      3s: descubra
+      3p: descubran
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I discovered, was discovering'}
+      1s: descubriera
+      1p: descubriéramos
+      2s: descubrieras
+      2p: descubrierais
+      3s: descubriera
+      3p: descubrieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will discover}
+      1s: descubriere
+      1p: descubriéremos
+      2s: descubrieres
+      2p: descubriereis
+      3s: descubriere
+      3p: descubrieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have discovered, discovered'}
+      1s: haya descubierto
+      1p: hayamos descubierto
+      2s: hayas descubierto
+      2p: hayáis descubierto
+      3s: haya descubierto
+      3p: hayan descubierto
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have discovered}
+      1s: hubiere descubierto
+      1p: hubiéremos descubierto
+      2s: hubieres descubierto
+      2p: hubiereis descubierto
+      3s: hubiere descubierto
+      3p: hubieren descubierto
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had discovered}
+      1s: hubiera descubierto
+      1p: hubiéramos descubierto
+      2s: hubieras descubierto
+      2p: hubierais descubierto
+      3s: hubiera descubierto
+      3p: hubieran descubierto
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Discover! Don't discover!}
+      1s: ''
+      1p: ''
+      2s: descubre
+      2p: descubra
+      3s: descubrid
+      3p: descubran
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Discover! Don't discover!}
+      1s: ''
+      1p: ''
+      2s: no descubras
+      2p: no descubra
+      3s: no descubráis
+      3p: no descubran

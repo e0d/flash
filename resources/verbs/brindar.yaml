@@ -1,0 +1,186 @@
+brindar:
+  infinitive: brindar
+  gerund: brindando
+  pastparticiple: brindado
+  definitions: {en: to toast}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I toast, am toasting'}
+      1s: brindo
+      1p: brindamos
+      2s: brindas
+      2p: brindáis
+      3s: brinda
+      3p: brindan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will toast}
+      1s: brindaré
+      1p: brindaremos
+      2s: brindarás
+      2p: brindaréis
+      3s: brindará
+      3p: brindarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was toasting, used to toast, toasted'}
+      1s: brindaba
+      1p: brindábamos
+      2s: brindabas
+      2p: brindabais
+      3s: brindaba
+      3p: brindaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I toasted}
+      1s: brindé
+      1p: brindamos
+      2s: brindaste
+      2p: brindasteis
+      3s: brindó
+      3p: brindaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would toast}
+      1s: brindaría
+      1p: brindaríamos
+      2s: brindarías
+      2p: brindaríais
+      3s: brindaría
+      3p: brindarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have toasted}
+      1s: he brindado
+      1p: hemos brindado
+      2s: has brindado
+      2p: habéis brindado
+      3s: ha brindado
+      3p: han brindado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have toasted}
+      1s: habré brindado
+      1p: habremos brindado
+      2s: habrás brindado
+      2p: habréis brindado
+      3s: habrá brindado
+      3p: habrán brindado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had toasted}
+      1s: había brindado
+      1p: habíamos brindado
+      2s: habías brindado
+      2p: habíais brindado
+      3s: había brindado
+      3p: habían brindado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had toasted}
+      1s: hube brindado
+      1p: hubimos brindado
+      2s: hubiste brindado
+      2p: hubisteis brindado
+      3s: hubo brindado
+      3p: hubieron brindado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have toasted}
+      1s: habría brindado
+      1p: habríamos brindado
+      2s: habrías brindado
+      2p: habríais brindado
+      3s: habría brindado
+      3p: habrían brindado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I toast, am toasting'}
+      1s: brinde
+      1p: brindemos
+      2s: brindes
+      2p: brindéis
+      3s: brinde
+      3p: brinden
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I toasted, was toasting'}
+      1s: brindara
+      1p: brindáramos
+      2s: brindaras
+      2p: brindarais
+      3s: brindara
+      3p: brindaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will toast}
+      1s: brindare
+      1p: brindáremos
+      2s: brindares
+      2p: brindareis
+      3s: brindare
+      3p: brindaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have toasted, toasted'}
+      1s: haya brindado
+      1p: hayamos brindado
+      2s: hayas brindado
+      2p: hayáis brindado
+      3s: haya brindado
+      3p: hayan brindado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have toasted}
+      1s: hubiere brindado
+      1p: hubiéremos brindado
+      2s: hubieres brindado
+      2p: hubiereis brindado
+      3s: hubiere brindado
+      3p: hubieren brindado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had toasted}
+      1s: hubiera brindado
+      1p: hubiéramos brindado
+      2s: hubieras brindado
+      2p: hubierais brindado
+      3s: hubiera brindado
+      3p: hubieran brindado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Toast! Don't toast!}
+      1s: ''
+      1p: ''
+      2s: brinda
+      2p: brinde
+      3s: brindad
+      3p: brinden
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Toast! Don't toast!}
+      1s: ''
+      1p: ''
+      2s: no brindes
+      2p: no brinde
+      3s: no brindéis
+      3p: no brinden

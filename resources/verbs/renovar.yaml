@@ -1,0 +1,186 @@
+renovar:
+  infinitive: renovar
+  gerund: renovando
+  pastparticiple: renovado
+  definitions: {en: to renew; to renovate}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I renew, am renewing'}
+      1s: renuevo
+      1p: renovamos
+      2s: renuevas
+      2p: renováis
+      3s: renueva
+      3p: renuevan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will renew}
+      1s: renovaré
+      1p: renovaremos
+      2s: renovarás
+      2p: renovaréis
+      3s: renovará
+      3p: renovarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was renewing, used to renew, renewed'}
+      1s: renovaba
+      1p: renovábamos
+      2s: renovabas
+      2p: renovabais
+      3s: renovaba
+      3p: renovaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I renewed}
+      1s: renové
+      1p: renovamos
+      2s: renovaste
+      2p: renovasteis
+      3s: renovó
+      3p: renovaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would renew}
+      1s: renovaría
+      1p: renovaríamos
+      2s: renovarías
+      2p: renovaríais
+      3s: renovaría
+      3p: renovarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have renewed}
+      1s: he renovado
+      1p: hemos renovado
+      2s: has renovado
+      2p: habéis renovado
+      3s: ha renovado
+      3p: han renovado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have renewed}
+      1s: habré renovado
+      1p: habremos renovado
+      2s: habrás renovado
+      2p: habréis renovado
+      3s: habrá renovado
+      3p: habrán renovado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had renewed}
+      1s: había renovado
+      1p: habíamos renovado
+      2s: habías renovado
+      2p: habíais renovado
+      3s: había renovado
+      3p: habían renovado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had renewed}
+      1s: hube renovado
+      1p: hubimos renovado
+      2s: hubiste renovado
+      2p: hubisteis renovado
+      3s: hubo renovado
+      3p: hubieron renovado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have renewed}
+      1s: habría renovado
+      1p: habríamos renovado
+      2s: habrías renovado
+      2p: habríais renovado
+      3s: habría renovado
+      3p: habrían renovado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I renew, am renewing'}
+      1s: renueve
+      1p: renovemos
+      2s: renueves
+      2p: renovéis
+      3s: renueve
+      3p: renueven
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I renew, was renewing'}
+      1s: renovara
+      1p: renováramos
+      2s: renovaras
+      2p: renovarais
+      3s: renovara
+      3p: renovaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will renew}
+      1s: renovare
+      1p: renováremos
+      2s: renovares
+      2p: renovareis
+      3s: renovare
+      3p: renovaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have renewed, renewed'}
+      1s: haya renovado
+      1p: hayamos renovado
+      2s: hayas renovado
+      2p: hayáis renovado
+      3s: haya renovado
+      3p: hayan renovado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have renewed}
+      1s: hubiere renovado
+      1p: hubiéremos renovado
+      2s: hubieres renovado
+      2p: hubiereis renovado
+      3s: hubiere renovado
+      3p: hubieren renovado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had renewed}
+      1s: hubiera renovado
+      1p: hubiéramos renovado
+      2s: hubieras renovado
+      2p: hubierais renovado
+      3s: hubiera renovado
+      3p: hubieran renovado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Renew! Don't renew!}
+      1s: ''
+      1p: ''
+      2s: renueva
+      2p: renueve
+      3s: renovad
+      3p: renueven
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Renew! Don't renew!}
+      1s: ''
+      1p: ''
+      2s: no renueves
+      2p: no renueve
+      3s: no renovéis
+      3p: no renueven

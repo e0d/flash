@@ -1,0 +1,186 @@
+encontrar:
+  infinitive: encontrar
+  gerund: encontrando
+  pastparticiple: encontrado
+  definitions: {en: 'to find, encounter'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I find, am finding'}
+      1s: encuentro
+      1p: encontramos
+      2s: encuentras
+      2p: encontráis
+      3s: encuentra
+      3p: encuentran
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will find}
+      1s: encontraré
+      1p: encontraremos
+      2s: encontrarás
+      2p: encontraréis
+      3s: encontrará
+      3p: encontrarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was finding, used to find, found'}
+      1s: encontraba
+      1p: encontrábamos
+      2s: encontrabas
+      2p: encontrabais
+      3s: encontraba
+      3p: encontraban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I found}
+      1s: encontré
+      1p: encontramos
+      2s: encontraste
+      2p: encontrasteis
+      3s: encontró
+      3p: encontraron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would find}
+      1s: encontraría
+      1p: encontraríamos
+      2s: encontrarías
+      2p: encontraríais
+      3s: encontraría
+      3p: encontrarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have found}
+      1s: he encontrado
+      1p: hemos encontrado
+      2s: has encontrado
+      2p: habéis encontrado
+      3s: ha encontrado
+      3p: han encontrado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have found}
+      1s: habré encontrado
+      1p: habremos encontrado
+      2s: habrás encontrado
+      2p: habréis encontrado
+      3s: habrá encontrado
+      3p: habrán encontrado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had found}
+      1s: había encontrado
+      1p: habíamos encontrado
+      2s: habías encontrado
+      2p: habíais encontrado
+      3s: había encontrado
+      3p: habían encontrado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had found}
+      1s: hube encontrado
+      1p: hubimos encontrado
+      2s: hubiste encontrado
+      2p: hubisteis encontrado
+      3s: hubo encontrado
+      3p: hubieron encontrado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have found}
+      1s: habría encontrado
+      1p: habríamos encontrado
+      2s: habrías encontrado
+      2p: habríais encontrado
+      3s: habría encontrado
+      3p: habrían encontrado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I find, am finding'}
+      1s: encuentre
+      1p: encontremos
+      2s: encuentres
+      2p: encontréis
+      3s: encuentre
+      3p: encuentren
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I found, was finding'}
+      1s: encontrara
+      1p: encontráramos
+      2s: encontraras
+      2p: encontrarais
+      3s: encontrara
+      3p: encontraran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will find}
+      1s: encontrare
+      1p: encontráremos
+      2s: encontrares
+      2p: encontrareis
+      3s: encontrare
+      3p: encontraren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have found, found'}
+      1s: haya encontrado
+      1p: hayamos encontrado
+      2s: hayas encontrado
+      2p: hayáis encontrado
+      3s: haya encontrado
+      3p: hayan encontrado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have found}
+      1s: hubiere encontrado
+      1p: hubiéremos encontrado
+      2s: hubieres encontrado
+      2p: hubiereis encontrado
+      3s: hubiere encontrado
+      3p: hubieren encontrado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had found}
+      1s: hubiera encontrado
+      1p: hubiéramos encontrado
+      2s: hubieras encontrado
+      2p: hubierais encontrado
+      3s: hubiera encontrado
+      3p: hubieran encontrado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Find! Don't find!}
+      1s: ''
+      1p: ''
+      2s: encuentra
+      2p: encuentre
+      3s: encontrad
+      3p: encuentren
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Find! Don't find!}
+      1s: ''
+      1p: ''
+      2s: no encuentres
+      2p: no encuentre
+      3s: no encontréis
+      3p: no encuentren

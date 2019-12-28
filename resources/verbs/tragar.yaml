@@ -1,0 +1,187 @@
+tragar:
+  infinitive: tragar
+  gerund: tragando
+  pastparticiple: tragado
+  definitions: {en: 'to swallow, drink up, gulp down; to absorb, soak up; to put up
+      with'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I swallow, am swallowing'}
+      1s: trago
+      1p: tragamos
+      2s: tragas
+      2p: tragáis
+      3s: traga
+      3p: tragan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will swallow}
+      1s: tragaré
+      1p: tragaremos
+      2s: tragarás
+      2p: tragaréis
+      3s: tragará
+      3p: tragarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was swallowing, used to swallow, swallowed'}
+      1s: tragaba
+      1p: tragábamos
+      2s: tragabas
+      2p: tragabais
+      3s: tragaba
+      3p: tragaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I swallowed}
+      1s: tragué
+      1p: tragamos
+      2s: tragaste
+      2p: tragasteis
+      3s: tragó
+      3p: tragaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would swallow}
+      1s: tragaría
+      1p: tragaríamos
+      2s: tragarías
+      2p: tragaríais
+      3s: tragaría
+      3p: tragarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have swallowed}
+      1s: he tragado
+      1p: hemos tragado
+      2s: has tragado
+      2p: habéis tragado
+      3s: ha tragado
+      3p: han tragado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have swallowed}
+      1s: habré tragado
+      1p: habremos tragado
+      2s: habrás tragado
+      2p: habréis tragado
+      3s: habrá tragado
+      3p: habrán tragado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had swallowed}
+      1s: había tragado
+      1p: habíamos tragado
+      2s: habías tragado
+      2p: habíais tragado
+      3s: había tragado
+      3p: habían tragado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had swallowed}
+      1s: hube tragado
+      1p: hubimos tragado
+      2s: hubiste tragado
+      2p: hubisteis tragado
+      3s: hubo tragado
+      3p: hubieron tragado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have swallowed}
+      1s: habría tragado
+      1p: habríamos tragado
+      2s: habrías tragado
+      2p: habríais tragado
+      3s: habría tragado
+      3p: habrían tragado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I swallow, am swallowing'}
+      1s: trague
+      1p: traguemos
+      2s: tragues
+      2p: traguéis
+      3s: trague
+      3p: traguen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I swallowed, was swallowing'}
+      1s: tragara
+      1p: tragáramos
+      2s: tragaras
+      2p: tragarais
+      3s: tragara
+      3p: tragaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will swallow}
+      1s: tragare
+      1p: tragáremos
+      2s: tragares
+      2p: tragareis
+      3s: tragare
+      3p: tragaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have swallowed, swallowed'}
+      1s: haya tragado
+      1p: hayamos tragado
+      2s: hayas tragado
+      2p: hayáis tragado
+      3s: haya tragado
+      3p: hayan tragado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have swallowed}
+      1s: hubiere tragado
+      1p: hubiéremos tragado
+      2s: hubieres tragado
+      2p: hubiereis tragado
+      3s: hubiere tragado
+      3p: hubieren tragado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had swallowed}
+      1s: hubiera tragado
+      1p: hubiéramos tragado
+      2s: hubieras tragado
+      2p: hubierais tragado
+      3s: hubiera tragado
+      3p: hubieran tragado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Swallow! Don't swallow!}
+      1s: ''
+      1p: ''
+      2s: traga
+      2p: trague
+      3s: tragad
+      3p: traguen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Swallow! Don't swallow!}
+      1s: ''
+      1p: ''
+      2s: no tragues
+      2p: no trague
+      3s: no traguéis
+      3p: no traguen

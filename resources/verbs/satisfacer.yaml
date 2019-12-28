@@ -1,0 +1,186 @@
+satisfacer:
+  infinitive: satisfacer
+  gerund: satisfaciendo
+  pastparticiple: satisfecho
+  definitions: {en: to satisfy}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I satisfy, am satisfying'}
+      1s: satisfago
+      1p: satisfacemos
+      2s: satisfaces
+      2p: satisfacéis
+      3s: satisface
+      3p: satisfacen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will satisfy}
+      1s: satisfaré
+      1p: satisfaremos
+      2s: satisfarás
+      2p: satisfaréis
+      3s: satisfará
+      3p: satisfarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was satisfying, used to satisfy, satisfied'}
+      1s: satisfacía
+      1p: satisfacíamos
+      2s: satisfacías
+      2p: satisfacíais
+      3s: satisfacía
+      3p: satisfacían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I satisfied}
+      1s: satisfice
+      1p: satisficimos
+      2s: satisficiste
+      2p: satisficisteis
+      3s: satisfizo
+      3p: satisficieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would satisfy}
+      1s: satisfaría
+      1p: satisfaríamos
+      2s: satisfarías
+      2p: satisfaríais
+      3s: satisfaría
+      3p: satisfarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have satisfied}
+      1s: he satisfecho
+      1p: hemos satisfecho
+      2s: has satisfecho
+      2p: habéis satisfecho
+      3s: ha satisfecho
+      3p: han satisfecho
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have satisfied}
+      1s: habré satisfecho
+      1p: habremos satisfecho
+      2s: habrás satisfecho
+      2p: habréis satisfecho
+      3s: habrá satisfecho
+      3p: habrán satisfecho
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had satisfied}
+      1s: había satisfecho
+      1p: habíamos satisfecho
+      2s: habías satisfecho
+      2p: habíais satisfecho
+      3s: había satisfecho
+      3p: habían satisfecho
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had satisfied}
+      1s: hube satisfecho
+      1p: hubimos satisfecho
+      2s: hubiste satisfecho
+      2p: hubisteis satisfecho
+      3s: hubo satisfecho
+      3p: hubieron satisfecho
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have satisfied}
+      1s: habría satisfecho
+      1p: habríamos satisfecho
+      2s: habrías satisfecho
+      2p: habríais satisfecho
+      3s: habría satisfecho
+      3p: habrían satisfecho
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I satisfy, am satisfying'}
+      1s: satisfaga
+      1p: satisfagamos
+      2s: satisfagas
+      2p: satisfagáis
+      3s: satisfaga
+      3p: satisfagan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I satisfied, was satisfying'}
+      1s: satisficiera
+      1p: satisficiéramos
+      2s: satisficieras
+      2p: satisficierais
+      3s: satisficiera
+      3p: satisficieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will satisfy}
+      1s: satisficiere
+      1p: satisficiéremos
+      2s: satisficieres
+      2p: satisficiereis
+      3s: satisficiere
+      3p: satisficieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have satisfied, satisfied'}
+      1s: haya satisfecho
+      1p: hayamos satisfecho
+      2s: hayas satisfecho
+      2p: hayáis satisfecho
+      3s: haya satisfecho
+      3p: hayan satisfecho
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have satisfied}
+      1s: hubiere satisfecho
+      1p: hubiéremos satisfecho
+      2s: hubieres satisfecho
+      2p: hubiereis satisfecho
+      3s: hubiere satisfecho
+      3p: hubieren satisfecho
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had satisfied}
+      1s: hubiera satisfecho
+      1p: hubiéramos satisfecho
+      2s: hubieras satisfecho
+      2p: hubierais satisfecho
+      3s: hubiera satisfecho
+      3p: hubieran satisfecho
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Satisfy! Don't satisfy!}
+      1s: ''
+      1p: ''
+      2s: satisfaz
+      2p: satisfaga
+      3s: satisfaced
+      3p: satisfagan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Satisfy! Don't satisfy!}
+      1s: ''
+      1p: ''
+      2s: no satisfagas
+      2p: no satisfaga
+      3s: no satisfagáis
+      3p: no satisfagan

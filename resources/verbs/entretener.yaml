@@ -1,0 +1,186 @@
+entretener:
+  infinitive: entretener
+  gerund: entreteniendo
+  pastparticiple: entretenido
+  definitions: {en: 'to entertain, amuse'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I entertain, am entertaining'}
+      1s: entretengo
+      1p: entretenemos
+      2s: entretienes
+      2p: entretenéis
+      3s: entretiene
+      3p: entretienen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will entertain}
+      1s: entretendré
+      1p: entretendremos
+      2s: entretendrás
+      2p: entretendréis
+      3s: entretendrá
+      3p: entretendrán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was entertaining, used to entertain, entertained'}
+      1s: entretenía
+      1p: entreteníamos
+      2s: entretenías
+      2p: entreteníais
+      3s: entretenía
+      3p: entretenían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I entertained}
+      1s: entretuve
+      1p: entretuvimos
+      2s: entretuviste
+      2p: entretuvisteis
+      3s: entretuvo
+      3p: entretuvieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would entertain}
+      1s: entretendría
+      1p: entretendríamos
+      2s: entretendrías
+      2p: entretendríais
+      3s: entretendría
+      3p: entretendrían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have entertained}
+      1s: he entretenido
+      1p: hemos entretenido
+      2s: has entretenido
+      2p: habéis entretenido
+      3s: ha entretenido
+      3p: han entretenido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have entertained}
+      1s: habré entretenido
+      1p: habremos entretenido
+      2s: habrás entretenido
+      2p: habréis entretenido
+      3s: habrá entretenido
+      3p: habrán entretenido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had entertained}
+      1s: había entretenido
+      1p: habíamos entretenido
+      2s: habías entretenido
+      2p: habíais entretenido
+      3s: había entretenido
+      3p: habían entretenido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had entertained}
+      1s: hube entretenido
+      1p: hubimos entretenido
+      2s: hubiste entretenido
+      2p: hubisteis entretenido
+      3s: hubo entretenido
+      3p: hubieron entretenido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have entertained}
+      1s: habría entretenido
+      1p: habríamos entretenido
+      2s: habrías entretenido
+      2p: habríais entretenido
+      3s: habría entretenido
+      3p: habrían entretenido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I entertain, am entertaining'}
+      1s: entretenga
+      1p: entretengamos
+      2s: entretengas
+      2p: entretengáis
+      3s: entretenga
+      3p: entretengan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I entertained, was entertaining'}
+      1s: entretuviera
+      1p: entretuviéramos
+      2s: entretuvieras
+      2p: entretuvierais
+      3s: entretuviera
+      3p: entretuvieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will entertain}
+      1s: entretuviere
+      1p: entretuviéremos
+      2s: entretuvieres
+      2p: entretuviereis
+      3s: entretuviere
+      3p: entretuvieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have entertained, entertained'}
+      1s: haya entretenido
+      1p: hayamos entretenido
+      2s: hayas entretenido
+      2p: hayáis entretenido
+      3s: haya entretenido
+      3p: hayan entretenido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have entertained}
+      1s: hubiere entretenido
+      1p: hubiéremos entretenido
+      2s: hubieres entretenido
+      2p: hubiereis entretenido
+      3s: hubiere entretenido
+      3p: hubieren entretenido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had entertained}
+      1s: hubiera entretenido
+      1p: hubiéramos entretenido
+      2s: hubieras entretenido
+      2p: hubierais entretenido
+      3s: hubiera entretenido
+      3p: hubieran entretenido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Entertain! Don't entertain!}
+      1s: ''
+      1p: ''
+      2s: entretén
+      2p: entretenga
+      3s: entretened
+      3p: entretengan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Entertain! Don't entertain!}
+      1s: ''
+      1p: ''
+      2s: no entretengas
+      2p: no entretenga
+      3s: no entretengáis
+      3p: no entretengan

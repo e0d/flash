@@ -1,0 +1,186 @@
+arreglar:
+  infinitive: arreglar
+  gerund: arreglando
+  pastparticiple: arreglado
+  definitions: {en: 'to arrange, settle, fix up, repair, tidy up'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I arrange, am arranging'}
+      1s: arreglo
+      1p: arreglamos
+      2s: arreglas
+      2p: arregláis
+      3s: arregla
+      3p: arreglan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will arrange}
+      1s: arreglaré
+      1p: arreglaremos
+      2s: arreglarás
+      2p: arreglaréis
+      3s: arreglará
+      3p: arreglarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was arranging, used to arrange, arranged'}
+      1s: arreglaba
+      1p: arreglábamos
+      2s: arreglabas
+      2p: arreglabais
+      3s: arreglaba
+      3p: arreglaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I arranged}
+      1s: arreglé
+      1p: arreglamos
+      2s: arreglaste
+      2p: arreglasteis
+      3s: arregló
+      3p: arreglaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would arrange}
+      1s: arreglaría
+      1p: arreglaríamos
+      2s: arreglarías
+      2p: arreglaríais
+      3s: arreglaría
+      3p: arreglarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have arranged}
+      1s: he arreglado
+      1p: hemos arreglado
+      2s: has arreglado
+      2p: habéis arreglado
+      3s: ha arreglado
+      3p: han arreglado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have arranged}
+      1s: habré arreglado
+      1p: habremos arreglado
+      2s: habrás arreglado
+      2p: habréis arreglado
+      3s: habrá arreglado
+      3p: habrán arreglado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had arranged}
+      1s: había arreglado
+      1p: habíamos arreglado
+      2s: habías arreglado
+      2p: habíais arreglado
+      3s: había arreglado
+      3p: habían arreglado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had arranged}
+      1s: hube arreglado
+      1p: hubimos arreglado
+      2s: hubiste arreglado
+      2p: hubisteis arreglado
+      3s: hubo arreglado
+      3p: hubieron arreglado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have arranged}
+      1s: habría arreglado
+      1p: habríamos arreglado
+      2s: habrías arreglado
+      2p: habríais arreglado
+      3s: habría arreglado
+      3p: habrían arreglado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I arrange, am arranging'}
+      1s: arregle
+      1p: arreglemos
+      2s: arregles
+      2p: arregléis
+      3s: arregle
+      3p: arreglen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I arranged, was arranging'}
+      1s: arreglara
+      1p: arregláramos
+      2s: arreglaras
+      2p: arreglarais
+      3s: arreglara
+      3p: arreglaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will arrange}
+      1s: arreglare
+      1p: arregláremos
+      2s: arreglares
+      2p: arreglareis
+      3s: arreglare
+      3p: arreglaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have arranged, arranged'}
+      1s: haya arreglado
+      1p: hayamos arreglado
+      2s: hayas arreglado
+      2p: hayáis arreglado
+      3s: haya arreglado
+      3p: hayan arreglado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have arranged}
+      1s: hubiere arreglado
+      1p: hubiéremos arreglado
+      2s: hubieres arreglado
+      2p: hubiereis arreglado
+      3s: hubiere arreglado
+      3p: hubieren arreglado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had arranged}
+      1s: hubiera arreglado
+      1p: hubiéramos arreglado
+      2s: hubieras arreglado
+      2p: hubierais arreglado
+      3s: hubiera arreglado
+      3p: hubieran arreglado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Arrange! Don't arrange!}
+      1s: ''
+      1p: ''
+      2s: arregla
+      2p: arregle
+      3s: arreglad
+      3p: arreglen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Arrange! Don't arrange!}
+      1s: ''
+      1p: ''
+      2s: no arregles
+      2p: no arregle
+      3s: no arregléis
+      3p: no arreglen

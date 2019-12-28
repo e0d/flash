@@ -1,0 +1,186 @@
+destruir:
+  infinitive: destruir
+  gerund: destruyendo
+  pastparticiple: destruido
+  definitions: {en: to destroy}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I destroy, am destroying'}
+      1s: destruyo
+      1p: destruimos
+      2s: destruyes
+      2p: destruís
+      3s: destruye
+      3p: destruyen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will destroy}
+      1s: destruiré
+      1p: destruiremos
+      2s: destruirás
+      2p: destruiréis
+      3s: destruirá
+      3p: destruirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was destroying, used to destroy, destroyed'}
+      1s: destruía
+      1p: destruíamos
+      2s: destruías
+      2p: destruíais
+      3s: destruía
+      3p: destruían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I destroyed}
+      1s: destruí
+      1p: destruimos
+      2s: destruiste
+      2p: destruisteis
+      3s: destruyó
+      3p: destruyeron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would destroy}
+      1s: destruiría
+      1p: destruiríamos
+      2s: destruirías
+      2p: destruiríais
+      3s: destruiría
+      3p: destruirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have destroyed}
+      1s: he destruido
+      1p: hemos destruido
+      2s: has destruido
+      2p: habéis destruido
+      3s: ha destruido
+      3p: han destruido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have destroyed}
+      1s: habré destruido
+      1p: habremos destruido
+      2s: habrás destruido
+      2p: habréis destruido
+      3s: habrá destruido
+      3p: habrán destruido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had destroyed}
+      1s: había destruido
+      1p: habíamos destruido
+      2s: habías destruido
+      2p: habíais destruido
+      3s: había destruido
+      3p: habían destruido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had destroyed}
+      1s: hube destruido
+      1p: hubimos destruido
+      2s: hubiste destruido
+      2p: hubisteis destruido
+      3s: hubo destruido
+      3p: hubieron destruido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have destroyed}
+      1s: habría destruido
+      1p: habríamos destruido
+      2s: habrías destruido
+      2p: habríais destruido
+      3s: habría destruido
+      3p: habrían destruido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I destroy, am destroying'}
+      1s: destruya
+      1p: destruyamos
+      2s: destruyas
+      2p: destruyáis
+      3s: destruya
+      3p: destruyan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I destroyed, was destroying'}
+      1s: destruyera
+      1p: destruyéramos
+      2s: destruyeras
+      2p: destruyerais
+      3s: destruyera
+      3p: destruyeran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will destroy}
+      1s: destruyere
+      1p: destruyéremos
+      2s: destruyeres
+      2p: destruyereis
+      3s: destruyere
+      3p: destruyeren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have destroyed, destroyed'}
+      1s: haya destruido
+      1p: hayamos destruido
+      2s: hayas destruido
+      2p: hayáis destruido
+      3s: haya destruido
+      3p: hayan destruido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have destroyed}
+      1s: hubiere destruido
+      1p: hubiéremos destruido
+      2s: hubieres destruido
+      2p: hubiereis destruido
+      3s: hubiere destruido
+      3p: hubieren destruido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had destroyed}
+      1s: hubiera destruido
+      1p: hubiéramos destruido
+      2s: hubieras destruido
+      2p: hubierais destruido
+      3s: hubiera destruido
+      3p: hubieran destruido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Destroy! Don't destroy!}
+      1s: ''
+      1p: ''
+      2s: destruye
+      2p: destruya
+      3s: destruid
+      3p: destruyan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Destroy! Don't destroy!}
+      1s: ''
+      1p: ''
+      2s: no destruyas
+      2p: no destruya
+      3s: no destruyáis
+      3p: no destruyan

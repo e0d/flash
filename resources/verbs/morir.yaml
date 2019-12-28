@@ -1,0 +1,186 @@
+morir:
+  infinitive: morir
+  gerund: muriendo
+  pastparticiple: muerto
+  definitions: {en: to die}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I die, am dying'}
+      1s: muero
+      1p: morimos
+      2s: mueres
+      2p: morís
+      3s: muere
+      3p: mueren
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will die}
+      1s: moriré
+      1p: moriremos
+      2s: morirás
+      2p: moriréis
+      3s: morirá
+      3p: morirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was dying, used to die, died'}
+      1s: moría
+      1p: moríamos
+      2s: morías
+      2p: moríais
+      3s: moría
+      3p: morían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I died}
+      1s: morí
+      1p: morimos
+      2s: moriste
+      2p: moristeis
+      3s: murió
+      3p: murieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would die}
+      1s: moriría
+      1p: moriríamos
+      2s: morirías
+      2p: moriríais
+      3s: moriría
+      3p: morirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have died}
+      1s: he muerto
+      1p: hemos muerto
+      2s: has muerto
+      2p: habéis muerto
+      3s: ha muerto
+      3p: han muerto
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have died}
+      1s: habré muerto
+      1p: habremos muerto
+      2s: habrás muerto
+      2p: habréis muerto
+      3s: habrá muerto
+      3p: habrán muerto
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had died}
+      1s: había muerto
+      1p: habíamos muerto
+      2s: habías muerto
+      2p: habíais muerto
+      3s: había muerto
+      3p: habían muerto
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had died}
+      1s: hube muerto
+      1p: hubimos muerto
+      2s: hubiste muerto
+      2p: hubisteis muerto
+      3s: hubo muerto
+      3p: hubieron muerto
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have died}
+      1s: habría muerto
+      1p: habríamos muerto
+      2s: habrías muerto
+      2p: habríais muerto
+      3s: habría muerto
+      3p: habrían muerto
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I die, am dying'}
+      1s: muera
+      1p: muramos
+      2s: mueras
+      2p: muráis
+      3s: muera
+      3p: mueran
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I died, was dying'}
+      1s: muriera
+      1p: muriéramos
+      2s: murieras
+      2p: murierais
+      3s: muriera
+      3p: murieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will die}
+      1s: muriere
+      1p: muriéremos
+      2s: murieres
+      2p: muriereis
+      3s: muriere
+      3p: murieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have died, died'}
+      1s: haya muerto
+      1p: hayamos muerto
+      2s: hayas muerto
+      2p: hayáis muerto
+      3s: haya muerto
+      3p: hayan muerto
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have died}
+      1s: hubiere muerto
+      1p: hubiéremos muerto
+      2s: hubieres muerto
+      2p: hubiereis muerto
+      3s: hubiere muerto
+      3p: hubieren muerto
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had died}
+      1s: hubiera muerto
+      1p: hubiéramos muerto
+      2s: hubieras muerto
+      2p: hubierais muerto
+      3s: hubiera muerto
+      3p: hubieran muerto
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Die! Don't die!}
+      1s: ''
+      1p: ''
+      2s: muere
+      2p: muera
+      3s: morid
+      3p: mueran
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Die! Don't die!}
+      1s: ''
+      1p: ''
+      2s: no mueras
+      2p: no muera
+      3s: no muráis
+      3p: no mueran

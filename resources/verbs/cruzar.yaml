@@ -1,0 +1,186 @@
+cruzar:
+  infinitive: cruzar
+  gerund: cruzando
+  pastparticiple: cruzado
+  definitions: {en: to cross}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I cross, am crossing'}
+      1s: cruzo
+      1p: cruzamos
+      2s: cruzas
+      2p: cruzáis
+      3s: cruza
+      3p: cruzan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will cross}
+      1s: cruzaré
+      1p: cruzaremos
+      2s: cruzarás
+      2p: cruzaréis
+      3s: cruzará
+      3p: cruzarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was crossing, used to cross, crossed'}
+      1s: cruzaba
+      1p: cruzábamos
+      2s: cruzabas
+      2p: cruzabais
+      3s: cruzaba
+      3p: cruzaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I crossed}
+      1s: crucé
+      1p: cruzamos
+      2s: cruzaste
+      2p: cruzasteis
+      3s: cruzó
+      3p: cruzaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would cross}
+      1s: cruzaría
+      1p: cruzaríamos
+      2s: cruzarías
+      2p: cruzaríais
+      3s: cruzaría
+      3p: cruzarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have crossed}
+      1s: he cruzado
+      1p: hemos cruzado
+      2s: has cruzado
+      2p: habéis cruzado
+      3s: ha cruzado
+      3p: han cruzado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have crossed}
+      1s: habré cruzado
+      1p: habremos cruzado
+      2s: habrás cruzado
+      2p: habréis cruzado
+      3s: habrá cruzado
+      3p: habrán cruzado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had crossed}
+      1s: había cruzado
+      1p: habíamos cruzado
+      2s: habías cruzado
+      2p: habíais cruzado
+      3s: había cruzado
+      3p: habían cruzado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had crossed}
+      1s: hube cruzado
+      1p: hubimos cruzado
+      2s: hubiste cruzado
+      2p: hubisteis cruzado
+      3s: hubo cruzado
+      3p: hubieron cruzado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have crossed}
+      1s: habría cruzado
+      1p: habríamos cruzado
+      2s: habrías cruzado
+      2p: habríais cruzado
+      3s: habría cruzado
+      3p: habrían cruzado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I cross, am crossing'}
+      1s: cruce
+      1p: crucemos
+      2s: cruces
+      2p: crucéis
+      3s: cruce
+      3p: crucen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I crossed, was crossing'}
+      1s: cruzara
+      1p: cruzáramos
+      2s: cruzaras
+      2p: cruzarais
+      3s: cruzara
+      3p: cruzaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will cross}
+      1s: cruzare
+      1p: cruzáremos
+      2s: cruzares
+      2p: cruzareis
+      3s: cruzare
+      3p: cruzaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have crossed, crossed'}
+      1s: haya cruzado
+      1p: hayamos cruzado
+      2s: hayas cruzado
+      2p: hayáis cruzado
+      3s: haya cruzado
+      3p: hayan cruzado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have crossed}
+      1s: hubiere cruzado
+      1p: hubiéremos cruzado
+      2s: hubieres cruzado
+      2p: hubiereis cruzado
+      3s: hubiere cruzado
+      3p: hubieren cruzado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had crossed}
+      1s: hubiera cruzado
+      1p: hubiéramos cruzado
+      2s: hubieras cruzado
+      2p: hubierais cruzado
+      3s: hubiera cruzado
+      3p: hubieran cruzado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Cross! Don't cross!}
+      1s: ''
+      1p: ''
+      2s: cruza
+      2p: cruce
+      3s: cruzad
+      3p: crucen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Cross! Don't cross!}
+      1s: ''
+      1p: ''
+      2s: no cruces
+      2p: no cruce
+      3s: no crucéis
+      3p: no crucen

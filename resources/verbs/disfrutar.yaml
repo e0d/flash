@@ -1,0 +1,186 @@
+disfrutar:
+  infinitive: disfrutar
+  gerund: disfrutando
+  pastparticiple: disfrutado
+  definitions: {en: to enjoy}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I enjoy, am enjoying'}
+      1s: disfruto
+      1p: disfrutamos
+      2s: disfrutas
+      2p: disfrutáis
+      3s: disfruta
+      3p: disfrutan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will enjoy}
+      1s: disfrutaré
+      1p: disfrutaremos
+      2s: disfrutarás
+      2p: disfrutaréis
+      3s: disfrutará
+      3p: disfrutarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was enjoying, used to enjoy, enjoyed'}
+      1s: disfrutaba
+      1p: disfrutábamos
+      2s: disfrutabas
+      2p: disfrutabais
+      3s: disfrutaba
+      3p: disfrutaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I enjoyed}
+      1s: disfruté
+      1p: disfrutamos
+      2s: disfrutaste
+      2p: disfrutasteis
+      3s: disfrutó
+      3p: disfrutaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would enjoy}
+      1s: disfrutaría
+      1p: disfrutaríamos
+      2s: disfrutarías
+      2p: disfrutaríais
+      3s: disfrutaría
+      3p: disfrutarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have enjoyed}
+      1s: he disfrutado
+      1p: hemos disfrutado
+      2s: has disfrutado
+      2p: habéis disfrutado
+      3s: ha disfrutado
+      3p: han disfrutado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have enjoyed}
+      1s: habré disfrutado
+      1p: habremos disfrutado
+      2s: habrás disfrutado
+      2p: habréis disfrutado
+      3s: habrá disfrutado
+      3p: habrán disfrutado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had enjoyed}
+      1s: había disfrutado
+      1p: habíamos disfrutado
+      2s: habías disfrutado
+      2p: habíais disfrutado
+      3s: había disfrutado
+      3p: habían disfrutado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had enjoyed}
+      1s: hube disfrutado
+      1p: hubimos disfrutado
+      2s: hubiste disfrutado
+      2p: hubisteis disfrutado
+      3s: hubo disfrutado
+      3p: hubieron disfrutado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have enjoyed}
+      1s: habría disfrutado
+      1p: habríamos disfrutado
+      2s: habrías disfrutado
+      2p: habríais disfrutado
+      3s: habría disfrutado
+      3p: habrían disfrutado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I enjoy, am enjoying'}
+      1s: disfrute
+      1p: disfrutemos
+      2s: disfrutes
+      2p: disfrutéis
+      3s: disfrute
+      3p: disfruten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I enjoyed, was enjoying'}
+      1s: disfrutara
+      1p: disfrutáramos
+      2s: disfrutaras
+      2p: disfrutarais
+      3s: disfrutara
+      3p: disfrutaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will enjoy}
+      1s: disfrutare
+      1p: disfrutáremos
+      2s: disfrutares
+      2p: disfrutareis
+      3s: disfrutare
+      3p: disfrutaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have enjoyed, enjoyed'}
+      1s: haya disfrutado
+      1p: hayamos disfrutado
+      2s: hayas disfrutado
+      2p: hayáis disfrutado
+      3s: haya disfrutado
+      3p: hayan disfrutado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have enjoyed}
+      1s: hubiere disfrutado
+      1p: hubiéremos disfrutado
+      2s: hubieres disfrutado
+      2p: hubiereis disfrutado
+      3s: hubiere disfrutado
+      3p: hubieren disfrutado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had enjoyed}
+      1s: hubiera disfrutado
+      1p: hubiéramos disfrutado
+      2s: hubieras disfrutado
+      2p: hubierais disfrutado
+      3s: hubiera disfrutado
+      3p: hubieran disfrutado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: enjoy! Don't enjoy!}
+      1s: ''
+      1p: ''
+      2s: disfruta
+      2p: disfrute
+      3s: disfrutad
+      3p: disfruten
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: enjoy! Don't enjoy!}
+      1s: ''
+      1p: ''
+      2s: no disfrutes
+      2p: no disfrute
+      3s: no disfrutéis
+      3p: no disfruten

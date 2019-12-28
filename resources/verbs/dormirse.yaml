@@ -1,0 +1,186 @@
+dormirse:
+  infinitive: dormirse
+  gerund: durmiéndose
+  pastparticiple: dormido
+  definitions: {en: 'to go to sleep, fall asleep'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I go to sleep, am going to sleep'}
+      1s: me duermo
+      1p: nos dormimos
+      2s: te duermes
+      2p: os dormís
+      3s: se duerme
+      3p: se duermen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will go to sleep}
+      1s: me dormiré
+      1p: nos dormiremos
+      2s: te dormirás
+      2p: os dormiréis
+      3s: se dormirá
+      3p: se dormirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was going to sleep, used to go to sleep, went to sleep'}
+      1s: me dormía
+      1p: nos dormíamos
+      2s: te dormías
+      2p: os dormíais
+      3s: se dormía
+      3p: se dormían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I went to sleep}
+      1s: me dormí
+      1p: nos dormimos
+      2s: te dormiste
+      2p: os dormisteis
+      3s: se durmió
+      3p: se durmieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would go to sleep}
+      1s: me dormiría
+      1p: nos dormiríamos
+      2s: te dormirías
+      2p: os dormiríais
+      3s: se dormiría
+      3p: se dormirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have gone to sleep}
+      1s: me he dormido
+      1p: nos hemos dormido
+      2s: te has dormido
+      2p: os habéis dormido
+      3s: se ha dormido
+      3p: se han dormido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have gone to sleep}
+      1s: me habré dormido
+      1p: nos habremos dormido
+      2s: te habrás dormido
+      2p: os habréis dormido
+      3s: se habrá dormido
+      3p: se habrán dormido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had gone to sleep}
+      1s: me había dormido
+      1p: nos habíamos dormido
+      2s: te habías dormido
+      2p: os habíais dormido
+      3s: se había dormido
+      3p: se habían dormido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had gone to sleep}
+      1s: me hube dormido
+      1p: nos hubimos dormido
+      2s: te hubiste dormido
+      2p: os hubisteis dormido
+      3s: se hubo dormido
+      3p: se hubieron dormido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have gone to sleep}
+      1s: me habría dormido
+      1p: nos habríamos dormido
+      2s: te habrías dormido
+      2p: os habríais dormido
+      3s: se habría dormido
+      3p: se habrían dormido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I go to sleep, am going to sleep'}
+      1s: me duerma
+      1p: nos durmamos
+      2s: te duermas
+      2p: os durmáis
+      3s: se duerma
+      3p: se duerman
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I went to sleep, was going to sleep'}
+      1s: me durmiera
+      1p: nos durmiéramos
+      2s: te durmieras
+      2p: os durmierais
+      3s: se durmiera
+      3p: se durmieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will go to sleep}
+      1s: me durmiere
+      1p: nos durmiéremos
+      2s: te durmieres
+      2p: os durmiereis
+      3s: se durmiere
+      3p: se durmieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have gone to sleep, went to sleep'}
+      1s: me haya dormido
+      1p: nos hayamos dormido
+      2s: te hayas dormido
+      2p: os hayáis dormido
+      3s: se haya dormido
+      3p: se hayan dormido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have gone to sleep}
+      1s: me hubiere dormido
+      1p: nos hubiéremos dormido
+      2s: te hubieres dormido
+      2p: os hubiereis dormido
+      3s: se hubiere dormido
+      3p: se hubieren dormido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had gone to sleep}
+      1s: me hubiera dormido
+      1p: nos hubiéramos dormido
+      2s: te hubieras dormido
+      2p: os hubierais dormido
+      3s: se hubiera dormido
+      3p: se hubieran dormido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Go to sleep! Don't go to sleep!}
+      1s: ''
+      1p: ''
+      2s: duérmete
+      2p: duérmase
+      3s: dormíos
+      3p: duérmanse
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Go to sleep! Don't go to sleep!}
+      1s: ''
+      1p: ''
+      2s: no te duermas
+      2p: no se duerma
+      3s: no os durmáis
+      3p: no se duerman

@@ -1,0 +1,186 @@
+comprender:
+  infinitive: comprender
+  gerund: comprendiendo
+  pastparticiple: comprendido
+  definitions: {en: 'to understand, comprehend'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I understand, am understanding'}
+      1s: comprendo
+      1p: comprendemos
+      2s: comprendes
+      2p: comprendéis
+      3s: comprende
+      3p: comprenden
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will understand}
+      1s: comprenderé
+      1p: comprenderemos
+      2s: comprenderás
+      2p: comprenderéis
+      3s: comprenderá
+      3p: comprenderán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was understanding, used to understand, understood'}
+      1s: comprendía
+      1p: comprendíamos
+      2s: comprendías
+      2p: comprendíais
+      3s: comprendía
+      3p: comprendían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I understood}
+      1s: comprendí
+      1p: comprendimos
+      2s: comprendiste
+      2p: comprendisteis
+      3s: comprendió
+      3p: comprendieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would understand}
+      1s: comprendería
+      1p: comprenderíamos
+      2s: comprenderías
+      2p: comprenderíais
+      3s: comprendería
+      3p: comprenderían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have understood}
+      1s: he comprendido
+      1p: hemos comprendido
+      2s: has comprendido
+      2p: habéis comprendido
+      3s: ha comprendido
+      3p: han comprendido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have understood}
+      1s: habré comprendido
+      1p: habremos comprendido
+      2s: habrás comprendido
+      2p: habréis comprendido
+      3s: habrá comprendido
+      3p: habrán comprendido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had understood}
+      1s: había comprendido
+      1p: habíamos comprendido
+      2s: habías comprendido
+      2p: habíais comprendido
+      3s: había comprendido
+      3p: habían comprendido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had understood}
+      1s: hube comprendido
+      1p: hubimos comprendido
+      2s: hubiste comprendido
+      2p: hubisteis comprendido
+      3s: hubo comprendido
+      3p: hubieron comprendido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have understood}
+      1s: habría comprendido
+      1p: habríamos comprendido
+      2s: habrías comprendido
+      2p: habríais comprendido
+      3s: habría comprendido
+      3p: habrían comprendido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I understand, am understanding'}
+      1s: comprenda
+      1p: comprendamos
+      2s: comprendas
+      2p: comprendáis
+      3s: comprenda
+      3p: comprendan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I understood, was understanding'}
+      1s: comprendiera
+      1p: comprendiéramos
+      2s: comprendieras
+      2p: comprendierais
+      3s: comprendiera
+      3p: comprendieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will understand}
+      1s: comprendiere
+      1p: comprendiéremos
+      2s: comprendieres
+      2p: comprendiereis
+      3s: comprendiere
+      3p: comprendieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have understood, understood'}
+      1s: haya comprendido
+      1p: hayamos comprendido
+      2s: hayas comprendido
+      2p: hayáis comprendido
+      3s: haya comprendido
+      3p: hayan comprendido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have understood}
+      1s: hubiere comprendido
+      1p: hubiéremos comprendido
+      2s: hubieres comprendido
+      2p: hubiereis comprendido
+      3s: hubiere comprendido
+      3p: hubieren comprendido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had understood}
+      1s: hubiera comprendido
+      1p: hubiéramos comprendido
+      2s: hubieras comprendido
+      2p: hubierais comprendido
+      3s: hubiera comprendido
+      3p: hubieran comprendido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Understand! Don't understand!}
+      1s: ''
+      1p: ''
+      2s: comprende
+      2p: comprenda
+      3s: comprended
+      3p: comprendan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Understand! Don't understand!}
+      1s: ''
+      1p: ''
+      2s: no comprendas
+      2p: no comprenda
+      3s: no comprendáis
+      3p: no comprendan

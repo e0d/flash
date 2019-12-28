@@ -1,0 +1,186 @@
+atravesar:
+  infinitive: atravesar
+  gerund: atravesando
+  pastparticiple: atravesado
+  definitions: {en: 'to cross, cross over, go across, go over, pass through'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I cross, am crossing'}
+      1s: atravieso
+      1p: atravesamos
+      2s: atraviesas
+      2p: atravesáis
+      3s: atraviesa
+      3p: atraviesan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will cross}
+      1s: atravesaré
+      1p: atravesaremos
+      2s: atravesarás
+      2p: atravesaréis
+      3s: atravesará
+      3p: atravesarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was crossing, used to cross, crossed'}
+      1s: atravesaba
+      1p: atravesábamos
+      2s: atravesabas
+      2p: atravesabais
+      3s: atravesaba
+      3p: atravesaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I crossed}
+      1s: atravesé
+      1p: atravesamos
+      2s: atravesaste
+      2p: atravesasteis
+      3s: atravesó
+      3p: atravesaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would cross}
+      1s: atravesaría
+      1p: atravesaríamos
+      2s: atravesarías
+      2p: atravesaríais
+      3s: atravesaría
+      3p: atravesarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have crossed}
+      1s: he atravesado
+      1p: hemos atravesado
+      2s: has atravesado
+      2p: habéis atravesado
+      3s: ha atravesado
+      3p: han atravesado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have crossed}
+      1s: habré atravesado
+      1p: habremos atravesado
+      2s: habrás atravesado
+      2p: habréis atravesado
+      3s: habrá atravesado
+      3p: habrán atravesado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had crossed}
+      1s: había atravesado
+      1p: habíamos atravesado
+      2s: habías atravesado
+      2p: habíais atravesado
+      3s: había atravesado
+      3p: habían atravesado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had crossed}
+      1s: hube atravesado
+      1p: hubimos atravesado
+      2s: hubiste atravesado
+      2p: hubisteis atravesado
+      3s: hubo atravesado
+      3p: hubieron atravesado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have crossed}
+      1s: habría atravesado
+      1p: habríamos atravesado
+      2s: habrías atravesado
+      2p: habríais atravesado
+      3s: habría atravesado
+      3p: habrían atravesado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I cross, am crossing'}
+      1s: atraviese
+      1p: atravesemos
+      2s: atravieses
+      2p: atraveséis
+      3s: atraviese
+      3p: atraviesen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I crossed, was crossing'}
+      1s: atravesara
+      1p: atravesáramos
+      2s: atravesaras
+      2p: atravesarais
+      3s: atravesara
+      3p: atravesaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will cross}
+      1s: atravesare
+      1p: atravesáremos
+      2s: atravesares
+      2p: atravesareis
+      3s: atravesare
+      3p: atravesaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have crossed, crossed'}
+      1s: haya atravesado
+      1p: hayamos atravesado
+      2s: hayas atravesado
+      2p: hayáis atravesado
+      3s: haya atravesado
+      3p: hayan atravesado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have crossed}
+      1s: hubiere atravesado
+      1p: hubiéremos atravesado
+      2s: hubieres atravesado
+      2p: hubiereis atravesado
+      3s: hubiere atravesado
+      3p: hubieren atravesado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had crossed}
+      1s: hubiera atravesado
+      1p: hubiéramos atravesado
+      2s: hubieras atravesado
+      2p: hubierais atravesado
+      3s: hubiera atravesado
+      3p: hubieran atravesado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Cross! Don't cross!}
+      1s: ''
+      1p: ''
+      2s: atraviesa
+      2p: atraviese
+      3s: atravesad
+      3p: atraviesen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Cross! Don't cross!}
+      1s: ''
+      1p: ''
+      2s: no atravieses
+      2p: no atraviese
+      3s: no atraveséis
+      3p: no atraviesen

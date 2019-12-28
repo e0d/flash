@@ -1,0 +1,186 @@
+pescar:
+  infinitive: pescar
+  gerund: pescando
+  pastparticiple: pescado
+  definitions: {en: to fish}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I fish, am fishing'}
+      1s: pesco
+      1p: pescamos
+      2s: pescas
+      2p: pescáis
+      3s: pesca
+      3p: pescan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will fish}
+      1s: pescaré
+      1p: pescaremos
+      2s: pescarás
+      2p: pescaréis
+      3s: pescará
+      3p: pescarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was fishing, used to fish, fished'}
+      1s: pescaba
+      1p: pescábamos
+      2s: pescabas
+      2p: pescabais
+      3s: pescaba
+      3p: pescaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I fished}
+      1s: pesqué
+      1p: pescamos
+      2s: pescaste
+      2p: pescasteis
+      3s: pescó
+      3p: pescaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would fish}
+      1s: pescaría
+      1p: pescaríamos
+      2s: pescarías
+      2p: pescaríais
+      3s: pescaría
+      3p: pescarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have fished}
+      1s: he pescado
+      1p: hemos pescado
+      2s: has pescado
+      2p: habéis pescado
+      3s: ha pescado
+      3p: han pescado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have fished}
+      1s: habré pescado
+      1p: habremos pescado
+      2s: habrás pescado
+      2p: habréis pescado
+      3s: habrá pescado
+      3p: habrán pescado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had fished}
+      1s: había pescado
+      1p: habíamos pescado
+      2s: habías pescado
+      2p: habíais pescado
+      3s: había pescado
+      3p: habían pescado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had fished}
+      1s: hube pescado
+      1p: hubimos pescado
+      2s: hubiste pescado
+      2p: hubisteis pescado
+      3s: hubo pescado
+      3p: hubieron pescado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have fished}
+      1s: habría pescado
+      1p: habríamos pescado
+      2s: habrías pescado
+      2p: habríais pescado
+      3s: habría pescado
+      3p: habrían pescado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I fish, am fishing'}
+      1s: pesque
+      1p: pesquemos
+      2s: pesques
+      2p: pesquéis
+      3s: pesque
+      3p: pesquen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I fished, was fishing'}
+      1s: pescara
+      1p: pescáramos
+      2s: pescaras
+      2p: pescarais
+      3s: pescara
+      3p: pescaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will fish}
+      1s: pescare
+      1p: pescáremos
+      2s: pescares
+      2p: pescareis
+      3s: pescare
+      3p: pescaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have fished, fished'}
+      1s: haya pescado
+      1p: hayamos pescado
+      2s: hayas pescado
+      2p: hayáis pescado
+      3s: haya pescado
+      3p: hayan pescado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have fished}
+      1s: hubiere pescado
+      1p: hubiéremos pescado
+      2s: hubieres pescado
+      2p: hubiereis pescado
+      3s: hubiere pescado
+      3p: hubieren pescado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had fished}
+      1s: hubiera pescado
+      1p: hubiéramos pescado
+      2s: hubieras pescado
+      2p: hubierais pescado
+      3s: hubiera pescado
+      3p: hubieran pescado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Fish! Don't fish!}
+      1s: ''
+      1p: ''
+      2s: pesca
+      2p: pesque
+      3s: pescad
+      3p: pesquen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Fish! Don't fish!}
+      1s: ''
+      1p: ''
+      2s: no pesques
+      2p: no pesque
+      3s: no pesquéis
+      3p: no pesquen

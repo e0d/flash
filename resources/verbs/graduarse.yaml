@@ -1,0 +1,186 @@
+graduarse:
+  infinitive: graduarse
+  gerund: graduándose
+  pastparticiple: graduado
+  definitions: {en: to graduate}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I graduate, am graduating'}
+      1s: me gradúo
+      1p: nos graduamos
+      2s: te gradúas
+      2p: os graduáis
+      3s: se gradúa
+      3p: se gradúan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will graduate}
+      1s: me graduaré
+      1p: nos graduaremos
+      2s: te graduarás
+      2p: os graduaréis
+      3s: se graduará
+      3p: se graduarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was graduating, used to graduate, graduated'}
+      1s: me graduaba
+      1p: nos graduábamos
+      2s: te graduabas
+      2p: os graduabais
+      3s: se graduaba
+      3p: se graduaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I graduated}
+      1s: me gradué
+      1p: nos graduamos
+      2s: te graduaste
+      2p: os graduasteis
+      3s: se graduó
+      3p: se graduaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would graduate}
+      1s: me graduaría
+      1p: nos graduaríamos
+      2s: te graduarías
+      2p: os graduaríais
+      3s: se graduaría
+      3p: se graduarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have graduated}
+      1s: me he graduado
+      1p: nos hemos graduado
+      2s: te has graduado
+      2p: os habéis graduado
+      3s: se ha graduado
+      3p: se han graduado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have graduated}
+      1s: me habré graduado
+      1p: nos habremos graduado
+      2s: te habrás graduado
+      2p: os habréis graduado
+      3s: se habrá graduado
+      3p: se habrán graduado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had graduated}
+      1s: me había graduado
+      1p: nos habíamos graduado
+      2s: te habías graduado
+      2p: os habíais graduado
+      3s: se había graduado
+      3p: se habían graduado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had graduated}
+      1s: me hube graduado
+      1p: nos hubimos graduado
+      2s: te hubiste graduado
+      2p: os hubisteis graduado
+      3s: se hubo graduado
+      3p: se hubieron graduado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have graduated}
+      1s: me habría graduado
+      1p: nos habríamos graduado
+      2s: te habrías graduado
+      2p: os habríais graduado
+      3s: se habría graduado
+      3p: se habrían graduado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I graduate, am graduating'}
+      1s: me gradúe
+      1p: nos graduemos
+      2s: te gradúes
+      2p: os graduéis
+      3s: se gradúe
+      3p: se gradúen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I graduated, was graduating'}
+      1s: me graduara
+      1p: nos graduáramos
+      2s: te graduaras
+      2p: os graduarais
+      3s: se graduara
+      3p: se graduaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will graduate}
+      1s: me graduare
+      1p: nos graduáremos
+      2s: te graduares
+      2p: os graduareis
+      3s: se graduare
+      3p: se graduaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have graduated, graduated'}
+      1s: me haya graduado
+      1p: nos hayamos graduado
+      2s: te hayas graduado
+      2p: os hayáis graduado
+      3s: se haya graduado
+      3p: se hayan graduado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have graduated}
+      1s: me hubiere graduado
+      1p: nos hubiéremos graduado
+      2s: te hubieres graduado
+      2p: os hubiereis graduado
+      3s: se hubiere graduado
+      3p: se hubieren graduado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had graduated}
+      1s: me hubiera graduado
+      1p: nos hubiéramos graduado
+      2s: te hubieras graduado
+      2p: os hubierais graduado
+      3s: se hubiera graduado
+      3p: se hubieran graduado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Graduate! Don't graduate!}
+      1s: ''
+      1p: ''
+      2s: gradúate
+      2p: gradúese
+      3s: graduaos
+      3p: gradúense
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Graduate! Don't graduate!}
+      1s: ''
+      1p: ''
+      2s: no te gradúes
+      2p: no se gradúe
+      3s: no os graduéis
+      3p: no se gradúen

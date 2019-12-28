@@ -1,0 +1,186 @@
+sorprender:
+  infinitive: sorprender
+  gerund: sorprendiendo
+  pastparticiple: sorprendido
+  definitions: {en: 'to surprise, take by surprise, startle, amaze'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I surprise, am surprising'}
+      1s: sorprendo
+      1p: sorprendemos
+      2s: sorprendes
+      2p: sorprendéis
+      3s: sorprende
+      3p: sorprenden
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will surprise}
+      1s: sorprenderé
+      1p: sorprenderemos
+      2s: sorprenderás
+      2p: sorprenderéis
+      3s: sorprenderá
+      3p: sorprenderán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was surprising, used to surprise, surprised'}
+      1s: sorprendía
+      1p: sorprendíamos
+      2s: sorprendías
+      2p: sorprendíais
+      3s: sorprendía
+      3p: sorprendían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I surprised}
+      1s: sorprendí
+      1p: sorprendimos
+      2s: sorprendiste
+      2p: sorprendisteis
+      3s: sorprendió
+      3p: sorprendieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would surprise}
+      1s: sorprendería
+      1p: sorprenderíamos
+      2s: sorprenderías
+      2p: sorprenderíais
+      3s: sorprendería
+      3p: sorprenderían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have surprised}
+      1s: he sorprendido
+      1p: hemos sorprendido
+      2s: has sorprendido
+      2p: habéis sorprendido
+      3s: ha sorprendido
+      3p: han sorprendido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have surprised}
+      1s: habré sorprendido
+      1p: habremos sorprendido
+      2s: habrás sorprendido
+      2p: habréis sorprendido
+      3s: habrá sorprendido
+      3p: habrán sorprendido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had surprised}
+      1s: había sorprendido
+      1p: habíamos sorprendido
+      2s: habías sorprendido
+      2p: habíais sorprendido
+      3s: había sorprendido
+      3p: habían sorprendido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had surprised}
+      1s: hube sorprendido
+      1p: hubimos sorprendido
+      2s: hubiste sorprendido
+      2p: hubisteis sorprendido
+      3s: hubo sorprendido
+      3p: hubieron sorprendido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have surprised}
+      1s: habría sorprendido
+      1p: habríamos sorprendido
+      2s: habrías sorprendido
+      2p: habríais sorprendido
+      3s: habría sorprendido
+      3p: habrían sorprendido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I surprise, am surprising'}
+      1s: sorprenda
+      1p: sorprendamos
+      2s: sorprendas
+      2p: sorprendáis
+      3s: sorprenda
+      3p: sorprendan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I surprised, was surprising'}
+      1s: sorprendiera
+      1p: sorprendiéramos
+      2s: sorprendieras
+      2p: sorprendierais
+      3s: sorprendiera
+      3p: sorprendieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will surprise}
+      1s: sorprendiere
+      1p: sorprendiéremos
+      2s: sorprendieres
+      2p: sorprendiereis
+      3s: sorprendiere
+      3p: sorprendieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have surprised, surprised'}
+      1s: haya sorprendido
+      1p: hayamos sorprendido
+      2s: hayas sorprendido
+      2p: hayáis sorprendido
+      3s: haya sorprendido
+      3p: hayan sorprendido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have surprised}
+      1s: hubiere sorprendido
+      1p: hubiéremos sorprendido
+      2s: hubieres sorprendido
+      2p: hubiereis sorprendido
+      3s: hubiere sorprendido
+      3p: hubieren sorprendido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had surprised}
+      1s: hubiera sorprendido
+      1p: hubiéramos sorprendido
+      2s: hubieras sorprendido
+      2p: hubierais sorprendido
+      3s: hubiera sorprendido
+      3p: hubieran sorprendido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Surprise! Don't surprise!}
+      1s: ''
+      1p: ''
+      2s: sorprende
+      2p: sorprenda
+      3s: sorprended
+      3p: sorprendan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Surprise! Don't surprise!}
+      1s: ''
+      1p: ''
+      2s: no sorprendas
+      2p: no sorprenda
+      3s: no sorprendáis
+      3p: no sorprendan

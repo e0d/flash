@@ -1,0 +1,186 @@
+divorciar:
+  infinitive: divorciar
+  gerund: divorciando
+  pastparticiple: divorciado
+  definitions: {en: to divorce}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I divorce, am divorcing'}
+      1s: divorcio
+      1p: divorciamos
+      2s: divorcias
+      2p: divorciáis
+      3s: divorcia
+      3p: divorcian
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will divorce}
+      1s: divorciaré
+      1p: divorciaremos
+      2s: divorciarás
+      2p: divorciaréis
+      3s: divorciará
+      3p: divorciarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was divorcing, used to divorce, divorced'}
+      1s: divorciaba
+      1p: divorciábamos
+      2s: divorciabas
+      2p: divorciabais
+      3s: divorciaba
+      3p: divorciaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I divorced}
+      1s: divorcié
+      1p: divorciamos
+      2s: divorciaste
+      2p: divorciasteis
+      3s: divorció
+      3p: divorciaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would divorce}
+      1s: divorciaría
+      1p: divorciaríamos
+      2s: divorciarías
+      2p: divorciaríais
+      3s: divorciaría
+      3p: divorciarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have divorced}
+      1s: he divorciado
+      1p: hemos divorciado
+      2s: has divorciado
+      2p: habéis divorciado
+      3s: ha divorciado
+      3p: han divorciado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have divorced}
+      1s: habré divorciado
+      1p: habremos divorciado
+      2s: habrás divorciado
+      2p: habréis divorciado
+      3s: habrá divorciado
+      3p: habrán divorciado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had divorced}
+      1s: había divorciado
+      1p: habíamos divorciado
+      2s: habías divorciado
+      2p: habíais divorciado
+      3s: había divorciado
+      3p: habían divorciado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had divorced}
+      1s: hube divorciado
+      1p: hubimos divorciado
+      2s: hubiste divorciado
+      2p: hubisteis divorciado
+      3s: hubo divorciado
+      3p: hubieron divorciado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have divorced}
+      1s: habría divorciado
+      1p: habríamos divorciado
+      2s: habrías divorciado
+      2p: habríais divorciado
+      3s: habría divorciado
+      3p: habrían divorciado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I divorce, am divorcing'}
+      1s: divorcie
+      1p: divorciemos
+      2s: divorcies
+      2p: divorciéis
+      3s: divorcie
+      3p: divorcien
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I divorced, was divorcing'}
+      1s: divorciara
+      1p: divorciáramos
+      2s: divorciaras
+      2p: divorciarais
+      3s: divorciara
+      3p: divorciaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will divorce}
+      1s: divorciare
+      1p: divorciáremos
+      2s: divorciares
+      2p: divorciareis
+      3s: divorciare
+      3p: divorciaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have divorced, divorced'}
+      1s: haya divorciado
+      1p: hayamos divorciado
+      2s: hayas divorciado
+      2p: hayáis divorciado
+      3s: haya divorciado
+      3p: hayan divorciado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have divorced}
+      1s: hubiere divorciado
+      1p: hubiéremos divorciado
+      2s: hubieres divorciado
+      2p: hubiereis divorciado
+      3s: hubiere divorciado
+      3p: hubieren divorciado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had divorced}
+      1s: hubiera divorciado
+      1p: hubiéramos divorciado
+      2s: hubieras divorciado
+      2p: hubierais divorciado
+      3s: hubiera divorciado
+      3p: hubieran divorciado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Divorce! Don't divorce!}
+      1s: ''
+      1p: ''
+      2s: divorcia
+      2p: divorcie
+      3s: divorciad
+      3p: divorcien
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Divorce! Don't divorce!}
+      1s: ''
+      1p: ''
+      2s: no divorcies
+      2p: no divorcie
+      3s: no divorciéis
+      3p: no divorcien

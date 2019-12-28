@@ -1,0 +1,186 @@
+resolver:
+  infinitive: resolver
+  gerund: resolviendo
+  pastparticiple: resuelto
+  definitions: {en: 'to solve, resolve'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I solve, am solving'}
+      1s: resuelvo
+      1p: resolvemos
+      2s: resuelves
+      2p: resolvéis
+      3s: resuelve
+      3p: resuelven
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will solve}
+      1s: resolveré
+      1p: resolveremos
+      2s: resolverás
+      2p: resolveréis
+      3s: resolverá
+      3p: resolverán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was solving, used to solve, solved'}
+      1s: resolvía
+      1p: resolvíamos
+      2s: resolvías
+      2p: resolvíais
+      3s: resolvía
+      3p: resolvían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I solved}
+      1s: resolví
+      1p: resolvimos
+      2s: resolviste
+      2p: resolvisteis
+      3s: resolvió
+      3p: resolvieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would solve}
+      1s: resolvería
+      1p: resolveríamos
+      2s: resolverías
+      2p: resolveríais
+      3s: resolvería
+      3p: resolverían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have solved}
+      1s: he resuelto
+      1p: hemos resuelto
+      2s: has resuelto
+      2p: habéis resuelto
+      3s: ha resuelto
+      3p: han resuelto
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have solved}
+      1s: habré resuelto
+      1p: habremos resuelto
+      2s: habrás resuelto
+      2p: habréis resuelto
+      3s: habrá resuelto
+      3p: habrán resuelto
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had solved}
+      1s: había resuelto
+      1p: habíamos resuelto
+      2s: habías resuelto
+      2p: habíais resuelto
+      3s: había resuelto
+      3p: habían resuelto
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had solved}
+      1s: hube resuelto
+      1p: hubimos resuelto
+      2s: hubiste resuelto
+      2p: hubisteis resuelto
+      3s: hubo resuelto
+      3p: hubieron resuelto
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have solved}
+      1s: habría resuelto
+      1p: habríamos resuelto
+      2s: habrías resuelto
+      2p: habríais resuelto
+      3s: habría resuelto
+      3p: habrían resuelto
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I solve, am solving'}
+      1s: resuelva
+      1p: resolvamos
+      2s: resuelvas
+      2p: resolváis
+      3s: resuelva
+      3p: resuelvan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I solved, was solving'}
+      1s: resolviera
+      1p: resolviéramos
+      2s: resolvieras
+      2p: resolvierais
+      3s: resolviera
+      3p: resolvieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will solve}
+      1s: resolviere
+      1p: resolviéremos
+      2s: resolvieres
+      2p: resolviereis
+      3s: resolviere
+      3p: resolvieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have solved, solved'}
+      1s: haya resuelto
+      1p: hayamos resuelto
+      2s: hayas resuelto
+      2p: hayáis resuelto
+      3s: haya resuelto
+      3p: hayan resuelto
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have solved}
+      1s: hubiere resuelto
+      1p: hubiéremos resuelto
+      2s: hubieres resuelto
+      2p: hubiereis resuelto
+      3s: hubiere resuelto
+      3p: hubieren resuelto
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had solved}
+      1s: hubiera resuelto
+      1p: hubiéramos resuelto
+      2s: hubieras resuelto
+      2p: hubierais resuelto
+      3s: hubiera resuelto
+      3p: hubieran resuelto
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Solve! Don't solve!}
+      1s: ''
+      1p: ''
+      2s: resuelve
+      2p: resuelva
+      3s: resolved
+      3p: resuelvan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Solve! Don't solve!}
+      1s: ''
+      1p: ''
+      2s: no resuelvas
+      2p: no resuelva
+      3s: no resolváis
+      3p: no resuelvan

@@ -1,0 +1,186 @@
+enriquecer:
+  infinitive: enriquecer
+  gerund: enriqueciendo
+  pastparticiple: enriquecido
+  definitions: {en: 'to enrich, make rich'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I enrich, am enriching'}
+      1s: enriquezco
+      1p: enriquecemos
+      2s: enriqueces
+      2p: enriquecéis
+      3s: enriquece
+      3p: enriquecen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will enrich}
+      1s: enriqueceré
+      1p: enriqueceremos
+      2s: enriquecerás
+      2p: enriqueceréis
+      3s: enriquecerá
+      3p: enriquecerán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was enriching, used to enrich, enriched'}
+      1s: enriquecía
+      1p: enriquecíamos
+      2s: enriquecías
+      2p: enriquecíais
+      3s: enriquecía
+      3p: enriquecían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I enriched}
+      1s: enriquecí
+      1p: enriquecimos
+      2s: enriqueciste
+      2p: enriquecisteis
+      3s: enriqueció
+      3p: enriquecieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would enrich}
+      1s: enriquecería
+      1p: enriqueceríamos
+      2s: enriquecerías
+      2p: enriqueceríais
+      3s: enriquecería
+      3p: enriquecerían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have enriched}
+      1s: he enriquecido
+      1p: hemos enriquecido
+      2s: has enriquecido
+      2p: habéis enriquecido
+      3s: ha enriquecido
+      3p: han enriquecido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have enriched}
+      1s: habré enriquecido
+      1p: habremos enriquecido
+      2s: habrás enriquecido
+      2p: habréis enriquecido
+      3s: habrá enriquecido
+      3p: habrán enriquecido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had enriched}
+      1s: había enriquecido
+      1p: habíamos enriquecido
+      2s: habías enriquecido
+      2p: habíais enriquecido
+      3s: había enriquecido
+      3p: habían enriquecido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had enriched}
+      1s: hube enriquecido
+      1p: hubimos enriquecido
+      2s: hubiste enriquecido
+      2p: hubisteis enriquecido
+      3s: hubo enriquecido
+      3p: hubieron enriquecido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have enriched}
+      1s: habría enriquecido
+      1p: habríamos enriquecido
+      2s: habrías enriquecido
+      2p: habríais enriquecido
+      3s: habría enriquecido
+      3p: habrían enriquecido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I enrich, am enriching'}
+      1s: enriquezca
+      1p: enriquezcamos
+      2s: enriquezcas
+      2p: enriquezcáis
+      3s: enriquezca
+      3p: enriquezcan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I enriched, was enriching'}
+      1s: enriqueciera
+      1p: enriqueciéramos
+      2s: enriquecieras
+      2p: enriquecierais
+      3s: enriqueciera
+      3p: enriquecieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will enrich}
+      1s: enriqueciere
+      1p: enriqueciéremos
+      2s: enriquecieres
+      2p: enriqueciereis
+      3s: enriqueciere
+      3p: enriquecieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have enriched, enriched'}
+      1s: haya enriquecido
+      1p: hayamos enriquecido
+      2s: hayas enriquecido
+      2p: hayáis enriquecido
+      3s: haya enriquecido
+      3p: hayan enriquecido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have enriched}
+      1s: hubiere enriquecido
+      1p: hubiéremos enriquecido
+      2s: hubieres enriquecido
+      2p: hubiereis enriquecido
+      3s: hubiere enriquecido
+      3p: hubieren enriquecido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had enriched}
+      1s: hubiera enriquecido
+      1p: hubiéramos enriquecido
+      2s: hubieras enriquecido
+      2p: hubierais enriquecido
+      3s: hubiera enriquecido
+      3p: hubieran enriquecido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Enrich! Don't enrich!}
+      1s: ''
+      1p: ''
+      2s: enriquece
+      2p: enriquezca
+      3s: enriqueced
+      3p: enriquezcan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Enrich! Don't enrich!}
+      1s: ''
+      1p: ''
+      2s: no enriquezcas
+      2p: no enriquezca
+      3s: no enriquezcáis
+      3p: no enriquezcan

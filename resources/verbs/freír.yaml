@@ -1,0 +1,186 @@
+freír:
+  infinitive: freír
+  gerund: friendo
+  pastparticiple: frito
+  definitions: {en: to fry}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I fry, am frying'}
+      1s: frío
+      1p: freímos
+      2s: fríes
+      2p: freís
+      3s: fríe
+      3p: fríen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will fry}
+      1s: freiré
+      1p: freiremos
+      2s: freirás
+      2p: freiréis
+      3s: freirá
+      3p: freirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was frying, used to fry, fried'}
+      1s: freía
+      1p: freíamos
+      2s: freías
+      2p: freíais
+      3s: freía
+      3p: freían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I fried}
+      1s: freí
+      1p: freímos
+      2s: freíste
+      2p: freísteis
+      3s: frió
+      3p: frieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would fry}
+      1s: freiría
+      1p: freiríamos
+      2s: freirías
+      2p: freiríais
+      3s: freiría
+      3p: freirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have fried}
+      1s: he frito
+      1p: hemos frito
+      2s: has frito
+      2p: habéis frito
+      3s: ha frito
+      3p: han frito
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have fried}
+      1s: habré frito
+      1p: habremos frito
+      2s: habrás frito
+      2p: habréis frito
+      3s: habrá frito
+      3p: habrán frito
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had fried}
+      1s: había frito
+      1p: habíamos frito
+      2s: habías frito
+      2p: habíais frito
+      3s: había frito
+      3p: habían frito
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had fried}
+      1s: hube frito
+      1p: hubimos frito
+      2s: hubiste frito
+      2p: hubisteis frito
+      3s: hubo frito
+      3p: hubieron frito
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have fried}
+      1s: habría frito
+      1p: habríamos frito
+      2s: habrías frito
+      2p: habríais frito
+      3s: habría frito
+      3p: habrían frito
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I fry, am frying'}
+      1s: fría
+      1p: friamos
+      2s: frías
+      2p: friáis
+      3s: fría
+      3p: frían
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I fried, was frying'}
+      1s: friera
+      1p: friéramos
+      2s: frieras
+      2p: frierais
+      3s: friera
+      3p: frieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will fry}
+      1s: friere
+      1p: friéremos
+      2s: frieres
+      2p: friereis
+      3s: friere
+      3p: frieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have fried, fried'}
+      1s: haya frito
+      1p: hayamos frito
+      2s: hayas frito
+      2p: hayáis frito
+      3s: haya frito
+      3p: hayan frito
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have fried}
+      1s: hubiere frito
+      1p: hubiéremos frito
+      2s: hubieres frito
+      2p: hubiereis frito
+      3s: hubiere frito
+      3p: hubieren frito
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had fried}
+      1s: hubiera frito
+      1p: hubiéramos frito
+      2s: hubieras frito
+      2p: hubierais frito
+      3s: hubiera frito
+      3p: hubieran frito
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Fry! Don't fry!}
+      1s: ''
+      1p: ''
+      2s: fríe
+      2p: fría
+      3s: freíd
+      3p: frían
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Fry! Don't fry!}
+      1s: ''
+      1p: ''
+      2s: no frías
+      2p: no fría
+      3s: no friáis
+      3p: no frían

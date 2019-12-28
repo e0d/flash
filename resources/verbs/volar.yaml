@@ -1,0 +1,186 @@
+volar:
+  infinitive: volar
+  gerund: volando
+  pastparticiple: volado
+  definitions: {en: to fly}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I fly, am flying'}
+      1s: vuelo
+      1p: volamos
+      2s: vuelas
+      2p: voláis
+      3s: vuela
+      3p: vuelan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will fly}
+      1s: volaré
+      1p: volaremos
+      2s: volarás
+      2p: volaréis
+      3s: volará
+      3p: volarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was flying, used to fly, flew'}
+      1s: volaba
+      1p: volábamos
+      2s: volabas
+      2p: volabais
+      3s: volaba
+      3p: volaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I flew}
+      1s: volé
+      1p: volamos
+      2s: volaste
+      2p: volasteis
+      3s: voló
+      3p: volaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would fly}
+      1s: volaría
+      1p: volaríamos
+      2s: volarías
+      2p: volaríais
+      3s: volaría
+      3p: volarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have flown}
+      1s: he volado
+      1p: hemos volado
+      2s: has volado
+      2p: habéis volado
+      3s: ha volado
+      3p: han volado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have flown}
+      1s: habré volado
+      1p: habremos volado
+      2s: habrás volado
+      2p: habréis volado
+      3s: habrá volado
+      3p: habrán volado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had flown}
+      1s: había volado
+      1p: habíamos volado
+      2s: habías volado
+      2p: habíais volado
+      3s: había volado
+      3p: habían volado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had flown}
+      1s: hube volado
+      1p: hubimos volado
+      2s: hubiste volado
+      2p: hubisteis volado
+      3s: hubo volado
+      3p: hubieron volado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have flown}
+      1s: habría volado
+      1p: habríamos volado
+      2s: habrías volado
+      2p: habríais volado
+      3s: habría volado
+      3p: habrían volado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I fly, am flying'}
+      1s: vuele
+      1p: volemos
+      2s: vueles
+      2p: voléis
+      3s: vuele
+      3p: vuelen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I flew, was flying'}
+      1s: volara
+      1p: voláramos
+      2s: volaras
+      2p: volarais
+      3s: volara
+      3p: volaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will fly}
+      1s: volare
+      1p: voláremos
+      2s: volares
+      2p: volareis
+      3s: volare
+      3p: volaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have flown, flew'}
+      1s: haya volado
+      1p: hayamos volado
+      2s: hayas volado
+      2p: hayáis volado
+      3s: haya volado
+      3p: hayan volado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have flown}
+      1s: hubiere volado
+      1p: hubiéremos volado
+      2s: hubieres volado
+      2p: hubiereis volado
+      3s: hubiere volado
+      3p: hubieren volado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had flown}
+      1s: hubiera volado
+      1p: hubiéramos volado
+      2s: hubieras volado
+      2p: hubierais volado
+      3s: hubiera volado
+      3p: hubieran volado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Fly! Don't fly!}
+      1s: ''
+      1p: ''
+      2s: vuela
+      2p: vuele
+      3s: volad
+      3p: vuelen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Fly! Don't fly!}
+      1s: ''
+      1p: ''
+      2s: no vueles
+      2p: no vuele
+      3s: no voléis
+      3p: no vuelen

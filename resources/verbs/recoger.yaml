@@ -1,0 +1,186 @@
+recoger:
+  infinitive: recoger
+  gerund: recogiendo
+  pastparticiple: recogido
+  definitions: {en: to pick up}
+  tenses:
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I pick up, am picking up'}
+      1s: recoja
+      1p: recojamos
+      2s: recojas
+      2p: recojáis
+      3s: recoja
+      3p: recojan
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I pick up, am picking up'}
+      1s: recojo
+      1p: recogemos
+      2s: recoges
+      2p: recogéis
+      3s: recoge
+      3p: recogen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will pick up}
+      1s: recogeré
+      1p: recogeremos
+      2s: recogerás
+      2p: recogeréis
+      3s: recogerá
+      3p: recogerán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was picking up, used to pick up, picked up'}
+      1s: recogía
+      1p: recogíamos
+      2s: recogías
+      2p: recogíais
+      3s: recogía
+      3p: recogían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I picked up}
+      1s: recogí
+      1p: recogimos
+      2s: recogiste
+      2p: recogisteis
+      3s: recogió
+      3p: recogieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would pick up}
+      1s: recogería
+      1p: recogeríamos
+      2s: recogerías
+      2p: recogeríais
+      3s: recogería
+      3p: recogerían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have picked up}
+      1s: he recogido
+      1p: hemos recogido
+      2s: has recogido
+      2p: habéis recogido
+      3s: ha recogido
+      3p: han recogido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have picked up}
+      1s: habré recogido
+      1p: habremos recogido
+      2s: habrás recogido
+      2p: habréis recogido
+      3s: habrá recogido
+      3p: habrán recogido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had picked up}
+      1s: había recogido
+      1p: habíamos recogido
+      2s: habías recogido
+      2p: habíais recogido
+      3s: había recogido
+      3p: habían recogido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had picked up}
+      1s: hube recogido
+      1p: hubimos recogido
+      2s: hubiste recogido
+      2p: hubisteis recogido
+      3s: hubo recogido
+      3p: hubieron recogido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have picked up}
+      1s: habría recogido
+      1p: habríamos recogido
+      2s: habrías recogido
+      2p: habríais recogido
+      3s: habría recogido
+      3p: habrían recogido
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I picked up, was picking up'}
+      1s: recogiera
+      1p: recogiéramos
+      2s: recogieras
+      2p: recogierais
+      3s: recogiera
+      3p: recogieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will pick up}
+      1s: recogiere
+      1p: recogiéremos
+      2s: recogieres
+      2p: recogiereis
+      3s: recogiere
+      3p: recogieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have picked up, picked up'}
+      1s: haya recogido
+      1p: hayamos recogido
+      2s: hayas recogido
+      2p: hayáis recogido
+      3s: haya recogido
+      3p: hayan recogido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have picked up}
+      1s: hubiere recogido
+      1p: hubiéremos recogido
+      2s: hubieres recogido
+      2p: hubiereis recogido
+      3s: hubiere recogido
+      3p: hubieren recogido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had picked up}
+      1s: hubiera recogido
+      1p: hubiéramos recogido
+      2s: hubieras recogido
+      2p: hubierais recogido
+      3s: hubiera recogido
+      3p: hubieran recogido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Pick up! Don't pick up!}
+      1s: ''
+      1p: ''
+      2s: recoge
+      2p: recoja
+      3s: recoged
+      3p: recojan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Pick up! Don't pick up!}
+      1s: ''
+      1p: ''
+      2s: no recojas
+      2p: no recoja
+      3s: no recojáis
+      3p: no recojan

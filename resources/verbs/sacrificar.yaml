@@ -1,0 +1,186 @@
+sacrificar:
+  infinitive: sacrificar
+  gerund: sacrificando
+  pastparticiple: sacrificado
+  definitions: {en: to sacrifice}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I sacrifice, am sacrificing'}
+      1s: sacrifico
+      1p: sacrificamos
+      2s: sacrificas
+      2p: sacrificáis
+      3s: sacrifica
+      3p: sacrifican
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will sacrifice}
+      1s: sacrificaré
+      1p: sacrificaremos
+      2s: sacrificarás
+      2p: sacrificaréis
+      3s: sacrificará
+      3p: sacrificarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was sacrificing, used to sacrifice, sacrificed'}
+      1s: sacrificaba
+      1p: sacrificábamos
+      2s: sacrificabas
+      2p: sacrificabais
+      3s: sacrificaba
+      3p: sacrificaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I sacrificed}
+      1s: sacrifiqué
+      1p: sacrificamos
+      2s: sacrificaste
+      2p: sacrificasteis
+      3s: sacrificó
+      3p: sacrificaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would sacrifice}
+      1s: sacrificaría
+      1p: sacrificaríamos
+      2s: sacrificarías
+      2p: sacrificaríais
+      3s: sacrificaría
+      3p: sacrificarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have sacrificed}
+      1s: he sacrificado
+      1p: hemos sacrificado
+      2s: has sacrificado
+      2p: habéis sacrificado
+      3s: ha sacrificado
+      3p: han sacrificado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have sacrificed}
+      1s: habré sacrificado
+      1p: habremos sacrificado
+      2s: habrás sacrificado
+      2p: habréis sacrificado
+      3s: habrá sacrificado
+      3p: habrán sacrificado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had sacrificed}
+      1s: había sacrificado
+      1p: habíamos sacrificado
+      2s: habías sacrificado
+      2p: habíais sacrificado
+      3s: había sacrificado
+      3p: habían sacrificado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had sacrificed}
+      1s: hube sacrificado
+      1p: hubimos sacrificado
+      2s: hubiste sacrificado
+      2p: hubisteis sacrificado
+      3s: hubo sacrificado
+      3p: hubieron sacrificado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have sacrificed}
+      1s: habría sacrificado
+      1p: habríamos sacrificado
+      2s: habrías sacrificado
+      2p: habríais sacrificado
+      3s: habría sacrificado
+      3p: habrían sacrificado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I sacrifice, am sacrificing'}
+      1s: sacrifique
+      1p: sacrifiquemos
+      2s: sacrifiques
+      2p: sacrifiquéis
+      3s: sacrifique
+      3p: sacrifiquen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I sacrificed, was sacrificing'}
+      1s: sacrificara
+      1p: sacrificáramos
+      2s: sacrificaras
+      2p: sacrificarais
+      3s: sacrificara
+      3p: sacrificaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will sacrifice}
+      1s: sacrificare
+      1p: sacrificáremos
+      2s: sacrificares
+      2p: sacrificareis
+      3s: sacrificare
+      3p: sacrificaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have sacrificed, sacrificed'}
+      1s: haya sacrificado
+      1p: hayamos sacrificado
+      2s: hayas sacrificado
+      2p: hayáis sacrificado
+      3s: haya sacrificado
+      3p: hayan sacrificado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have sacrificed}
+      1s: hubiere sacrificado
+      1p: hubiéremos sacrificado
+      2s: hubieres sacrificado
+      2p: hubiereis sacrificado
+      3s: hubiere sacrificado
+      3p: hubieren sacrificado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had sacrificed}
+      1s: hubiera sacrificado
+      1p: hubiéramos sacrificado
+      2s: hubieras sacrificado
+      2p: hubierais sacrificado
+      3s: hubiera sacrificado
+      3p: hubieran sacrificado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Sacrifice! Don't sacrifice!}
+      1s: ''
+      1p: ''
+      2s: sacrifica
+      2p: sacrifique
+      3s: sacrificad
+      3p: sacrifiquen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Sacrifice! Don't sacrifice!}
+      1s: ''
+      1p: ''
+      2s: no sacrifiques
+      2p: no sacrifique
+      3s: no sacrifiquéis
+      3p: no sacrifiquen

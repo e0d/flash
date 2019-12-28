@@ -1,0 +1,186 @@
+describir:
+  infinitive: describir
+  gerund: describiendo
+  pastparticiple: descrito
+  definitions: {en: to describe}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I describe, am describing'}
+      1s: describo
+      1p: describimos
+      2s: describes
+      2p: describís
+      3s: describe
+      3p: describen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will describe}
+      1s: describiré
+      1p: describiremos
+      2s: describirás
+      2p: describiréis
+      3s: describirá
+      3p: describirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was describing, used to describe, described'}
+      1s: describía
+      1p: describíamos
+      2s: describías
+      2p: describíais
+      3s: describía
+      3p: describían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I described}
+      1s: describí
+      1p: describimos
+      2s: describiste
+      2p: describisteis
+      3s: describió
+      3p: describieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would describe}
+      1s: describiría
+      1p: describiríamos
+      2s: describirías
+      2p: describiríais
+      3s: describiría
+      3p: describirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have described}
+      1s: he descrito
+      1p: hemos descrito
+      2s: has descrito
+      2p: habéis descrito
+      3s: ha descrito
+      3p: han descrito
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have described}
+      1s: habré descrito
+      1p: habremos descrito
+      2s: habrás descrito
+      2p: habréis descrito
+      3s: habrá descrito
+      3p: habrán descrito
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had described}
+      1s: había descrito
+      1p: habíamos descrito
+      2s: habías descrito
+      2p: habíais descrito
+      3s: había descrito
+      3p: habían descrito
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had described}
+      1s: hube descrito
+      1p: hubimos descrito
+      2s: hubiste descrito
+      2p: hubisteis descrito
+      3s: hubo descrito
+      3p: hubieron descrito
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have described}
+      1s: habría descrito
+      1p: habríamos descrito
+      2s: habrías descrito
+      2p: habríais descrito
+      3s: habría descrito
+      3p: habrían descrito
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I describe, am describing'}
+      1s: describa
+      1p: describamos
+      2s: describas
+      2p: describáis
+      3s: describa
+      3p: describan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I described, was describing'}
+      1s: describiera
+      1p: describiéramos
+      2s: describieras
+      2p: describierais
+      3s: describiera
+      3p: describieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will describe}
+      1s: describiere
+      1p: describiéremos
+      2s: describieres
+      2p: describiereis
+      3s: describiere
+      3p: describieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have described, described'}
+      1s: haya descrito
+      1p: hayamos descrito
+      2s: hayas descrito
+      2p: hayáis descrito
+      3s: haya descrito
+      3p: hayan descrito
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have described}
+      1s: hubiere descrito
+      1p: hubiéremos descrito
+      2s: hubieres descrito
+      2p: hubiereis descrito
+      3s: hubiere descrito
+      3p: hubieren descrito
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had described}
+      1s: hubiera descrito
+      1p: hubiéramos descrito
+      2s: hubieras descrito
+      2p: hubierais descrito
+      3s: hubiera descrito
+      3p: hubieran descrito
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Describe! Don't describe!}
+      1s: ''
+      1p: ''
+      2s: describe
+      2p: describa
+      3s: describid
+      3p: describan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Describe! Don't describe!}
+      1s: ''
+      1p: ''
+      2s: no describas
+      2p: no describa
+      3s: no describáis
+      3p: no describan

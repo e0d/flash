@@ -1,0 +1,186 @@
+divertirse:
+  infinitive: divertirse
+  gerund: divirtiéndose
+  pastparticiple: divertido
+  definitions: {en: 'to have fun, have a good time, enjoy oneself'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I have fun, am having fun'}
+      1s: me divierto
+      1p: nos divertimos
+      2s: te diviertes
+      2p: os divertís
+      3s: se divierte
+      3p: se divierten
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have fun}
+      1s: me divertiré
+      1p: nos divertiremos
+      2s: te divertirás
+      2p: os divertiréis
+      3s: se divertirá
+      3p: se divertirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was having fun, used to have fun, had fun'}
+      1s: me divertía
+      1p: nos divertíamos
+      2s: te divertías
+      2p: os divertíais
+      3s: se divertía
+      3p: se divertían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had fun}
+      1s: me divertí
+      1p: nos divertimos
+      2s: te divertiste
+      2p: os divertisteis
+      3s: se divirtió
+      3p: se divirtieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have fun}
+      1s: me divertiría
+      1p: nos divertiríamos
+      2s: te divertirías
+      2p: os divertiríais
+      3s: se divertiría
+      3p: se divertirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have had fun}
+      1s: me he divertido
+      1p: nos hemos divertido
+      2s: te has divertido
+      2p: os habéis divertido
+      3s: se ha divertido
+      3p: se han divertido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have had fun}
+      1s: me habré divertido
+      1p: nos habremos divertido
+      2s: te habrás divertido
+      2p: os habréis divertido
+      3s: se habrá divertido
+      3p: se habrán divertido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had had fun}
+      1s: me había divertido
+      1p: nos habíamos divertido
+      2s: te habías divertido
+      2p: os habíais divertido
+      3s: se había divertido
+      3p: se habían divertido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had had fun}
+      1s: me hube divertido
+      1p: nos hubimos divertido
+      2s: te hubiste divertido
+      2p: os hubisteis divertido
+      3s: se hubo divertido
+      3p: se hubieron divertido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have had fun}
+      1s: me habría divertido
+      1p: nos habríamos divertido
+      2s: te habrías divertido
+      2p: os habríais divertido
+      3s: se habría divertido
+      3p: se habrían divertido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have fun, am having fun'}
+      1s: me divierta
+      1p: nos divirtamos
+      2s: te diviertas
+      2p: os divirtáis
+      3s: se divierta
+      3p: se diviertan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I had fun, was having fun'}
+      1s: me divirtiera
+      1p: nos divirtiéramos
+      2s: te divirtieras
+      2p: os divirtierais
+      3s: se divirtiera
+      3p: se divirtieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have fun}
+      1s: me divirtiere
+      1p: nos divirtiéremos
+      2s: te divirtieres
+      2p: os divirtiereis
+      3s: se divirtiere
+      3p: se divirtieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have had fun, had fun'}
+      1s: me haya divertido
+      1p: nos hayamos divertido
+      2s: te hayas divertido
+      2p: os hayáis divertido
+      3s: se haya divertido
+      3p: se hayan divertido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have had fun}
+      1s: me hubiere divertido
+      1p: nos hubiéremos divertido
+      2s: te hubieres divertido
+      2p: os hubiereis divertido
+      3s: se hubiere divertido
+      3p: se hubieren divertido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had had fun}
+      1s: me hubiera divertido
+      1p: nos hubiéramos divertido
+      2s: te hubieras divertido
+      2p: os hubierais divertido
+      3s: se hubiera divertido
+      3p: se hubieran divertido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Have fun! Don't have fun!}
+      1s: ''
+      1p: ''
+      2s: diviértete
+      2p: diviértase
+      3s: divertíos
+      3p: diviértanse
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Have fun! Don't have fun!}
+      1s: ''
+      1p: ''
+      2s: no te diviertas
+      2p: no se divierta
+      3s: no os divirtáis
+      3p: no se diviertan

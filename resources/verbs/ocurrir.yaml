@@ -1,0 +1,186 @@
+ocurrir:
+  infinitive: ocurrir
+  gerund: ocurriendo
+  pastparticiple: ocurrido
+  definitions: {en: 'to occur, happen'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'it occurs, is occurring'}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: ocurre
+      3p: ocurren
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: it will occur}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: ocurrirá
+      3p: ocurrirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'it was occurring, used to occur, occurred'}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: ocurría
+      3p: ocurrían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: it occurred}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: ocurrió
+      3p: ocurrieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: it would occur}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: ocurriría
+      3p: ocurrirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: it has occurred}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: ha ocurrido
+      3p: han ocurrido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: it will have occurred}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: habrá ocurrido
+      3p: habrán ocurrido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: it had occurred}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: había ocurrido
+      3p: habían ocurrido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: it had occurred}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: hubo ocurrido
+      3p: hubieron ocurrido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: it would have occurred}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: habría ocurrido
+      3p: habrían ocurrido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'it occurs, is occurring'}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: ocurra
+      3p: ocurran
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'it occurred, was occurring'}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: ocurriera
+      3p: ocurrieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: it will occur}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: ocurriere
+      3p: ocurrieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'it has occurred, occurred'}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: haya ocurrido
+      3p: hayan ocurrido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: it will have occurred}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: hubiere ocurrido
+      3p: hubieren ocurrido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: it had occurred}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: hubiera ocurrido
+      3p: hubieran ocurrido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Occur! Don't occur!}
+      1s: ''
+      1p: ''
+      2s: ocurre
+      2p: ocurra
+      3s: ocurrid
+      3p: ocurran
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Occur! Don't occur!}
+      1s: ''
+      1p: ''
+      2s: no ocurras
+      2p: no ocurra
+      3s: no ocurráis
+      3p: no ocurran

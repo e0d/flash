@@ -1,0 +1,186 @@
+bendecir:
+  infinitive: bendecir
+  gerund: bendiciendo
+  pastparticiple: bendito
+  definitions: {en: 'to bless, foretell, forecast'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I bless, am blessing'}
+      1s: bendigo
+      1p: bendecimos
+      2s: bendices
+      2p: bendecís
+      3s: bendice
+      3p: bendicen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will bless}
+      1s: bendeciré
+      1p: bendeciremos
+      2s: bendecirás
+      2p: bendeciréis
+      3s: bendecirá
+      3p: bendecirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was blessing, used to bless, blessed'}
+      1s: bendecía
+      1p: bendecíamos
+      2s: bendecías
+      2p: bendecíais
+      3s: bendecía
+      3p: bendecían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I blessed}
+      1s: bendije
+      1p: bendijimos
+      2s: bendijiste
+      2p: bendijisteis
+      3s: bendijo
+      3p: bendijeron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would bless}
+      1s: bendeciría
+      1p: bendeciríamos
+      2s: bendecirías
+      2p: bendeciríais
+      3s: bendeciría
+      3p: bendecirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have blessed}
+      1s: he bendecido
+      1p: hemos bendecido
+      2s: has bendecido
+      2p: habéis bendecido
+      3s: ha bendecido
+      3p: han bendecido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have blessed}
+      1s: habré bendecido
+      1p: habremos bendecido
+      2s: habrás bendecido
+      2p: habréis bendecido
+      3s: habrá bendecido
+      3p: habrán bendecido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had blessed}
+      1s: había bendecido
+      1p: habíamos bendecido
+      2s: habías bendecido
+      2p: habíais bendecido
+      3s: había bendecido
+      3p: habían bendecido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had blessed}
+      1s: hube bendecido
+      1p: hubimos bendecido
+      2s: hubiste bendecido
+      2p: hubisteis bendecido
+      3s: hubo bendecido
+      3p: hubieron bendecido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have blessed}
+      1s: habría bendecido
+      1p: habríamos bendecido
+      2s: habrías bendecido
+      2p: habríais bendecido
+      3s: habría bendecido
+      3p: habrían bendecido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I bless, am blessing'}
+      1s: bendiga
+      1p: bendigamos
+      2s: bendigas
+      2p: bendigáis
+      3s: bendiga
+      3p: bendigan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I blessed, was blessing'}
+      1s: bendijera
+      1p: bendijéramos
+      2s: bendijeras
+      2p: bendijerais
+      3s: bendijera
+      3p: bendijeran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will bless}
+      1s: bendijere
+      1p: bendijéremos
+      2s: bendijeres
+      2p: bendijereis
+      3s: bendijere
+      3p: bendijeren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have blessed, blessed'}
+      1s: haya bendecido
+      1p: hayamos bendecido
+      2s: hayas bendecido
+      2p: hayáis bendecido
+      3s: haya bendecido
+      3p: hayan bendecido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have blessed}
+      1s: hubiere bendecido
+      1p: hubiéremos bendecido
+      2s: hubieres bendecido
+      2p: hubiereis bendecido
+      3s: hubiere bendecido
+      3p: hubieren bendecido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had blessed}
+      1s: hubiera bendecido
+      1p: hubiéramos bendecido
+      2s: hubieras bendecido
+      2p: hubierais bendecido
+      3s: hubiera bendecido
+      3p: hubieran bendecido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Bless! Don't bless!}
+      1s: ''
+      1p: ''
+      2s: bendice
+      2p: bendiga
+      3s: bendecid
+      3p: bendigan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Bless! Don't bless!}
+      1s: ''
+      1p: ''
+      2s: no bendigas
+      2p: no bendiga
+      3s: no bendigáis
+      3p: no bendigan

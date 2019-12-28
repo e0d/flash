@@ -1,0 +1,187 @@
+vencer:
+  infinitive: vencer
+  gerund: venciendo
+  pastparticiple: vencido
+  definitions: {en: 'to conquer, defeat, beat, overcome, win; to expire, cease to
+      apply'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I conquer, am conquering'}
+      1s: venzo
+      1p: vencemos
+      2s: vences
+      2p: vencéis
+      3s: vence
+      3p: vencen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will conquer}
+      1s: venceré
+      1p: venceremos
+      2s: vencerás
+      2p: venceréis
+      3s: vencerá
+      3p: vencerán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was conquering, used to conquer, conquered'}
+      1s: vencía
+      1p: vencíamos
+      2s: vencías
+      2p: vencíais
+      3s: vencía
+      3p: vencían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I conquered}
+      1s: vencí
+      1p: vencimos
+      2s: venciste
+      2p: vencisteis
+      3s: venció
+      3p: vencieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would conquer}
+      1s: vencería
+      1p: venceríamos
+      2s: vencerías
+      2p: venceríais
+      3s: vencería
+      3p: vencerían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have conquered}
+      1s: he vencido
+      1p: hemos vencido
+      2s: has vencido
+      2p: habéis vencido
+      3s: ha vencido
+      3p: han vencido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have conquered}
+      1s: habré vencido
+      1p: habremos vencido
+      2s: habrás vencido
+      2p: habréis vencido
+      3s: habrá vencido
+      3p: habrán vencido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had conquered}
+      1s: había vencido
+      1p: habíamos vencido
+      2s: habías vencido
+      2p: habíais vencido
+      3s: había vencido
+      3p: habían vencido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had conquered}
+      1s: hube vencido
+      1p: hubimos vencido
+      2s: hubiste vencido
+      2p: hubisteis vencido
+      3s: hubo vencido
+      3p: hubieron vencido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have conquered}
+      1s: habría vencido
+      1p: habríamos vencido
+      2s: habrías vencido
+      2p: habríais vencido
+      3s: habría vencido
+      3p: habrían vencido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I conquer, am conquering'}
+      1s: venza
+      1p: venzamos
+      2s: venzas
+      2p: venzáis
+      3s: venza
+      3p: venzan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I conquered, was conquering'}
+      1s: venciera
+      1p: venciéramos
+      2s: vencieras
+      2p: vencierais
+      3s: venciera
+      3p: vencieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will conquer}
+      1s: venciere
+      1p: venciéremos
+      2s: vencieres
+      2p: venciereis
+      3s: venciere
+      3p: vencieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have conquered, conquered'}
+      1s: haya vencido
+      1p: hayamos vencido
+      2s: hayas vencido
+      2p: hayáis vencido
+      3s: haya vencido
+      3p: hayan vencido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have conquered}
+      1s: hubiere vencido
+      1p: hubiéremos vencido
+      2s: hubieres vencido
+      2p: hubiereis vencido
+      3s: hubiere vencido
+      3p: hubieren vencido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had conquered}
+      1s: hubiera vencido
+      1p: hubiéramos vencido
+      2s: hubieras vencido
+      2p: hubierais vencido
+      3s: hubiera vencido
+      3p: hubieran vencido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Conquer! Don't conquer!}
+      1s: ''
+      1p: ''
+      2s: vence
+      2p: venza
+      3s: venced
+      3p: venzan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Conquer! Don't conquer!}
+      1s: ''
+      1p: ''
+      2s: no venzas
+      2p: no venza
+      3s: no venzáis
+      3p: no venzan

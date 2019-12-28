@@ -1,0 +1,186 @@
+huir:
+  infinitive: huir
+  gerund: huyendo
+  pastparticiple: huido
+  definitions: {en: 'to flee, run away'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I flee, am fleeing'}
+      1s: huyo
+      1p: huimos
+      2s: huyes
+      2p: huís
+      3s: huye
+      3p: huyen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will flee}
+      1s: huiré
+      1p: huiremos
+      2s: huirás
+      2p: huiréis
+      3s: huirá
+      3p: huirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was fleeing, used to flee, fled'}
+      1s: huía
+      1p: huíamos
+      2s: huías
+      2p: huíais
+      3s: huía
+      3p: huían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I fled}
+      1s: huí
+      1p: huimos
+      2s: huiste
+      2p: huisteis
+      3s: huyó
+      3p: huyeron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would flee}
+      1s: huiría
+      1p: huiríamos
+      2s: huirías
+      2p: huiríais
+      3s: huiría
+      3p: huirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have fled}
+      1s: he huido
+      1p: hemos huido
+      2s: has huido
+      2p: habéis huido
+      3s: ha huido
+      3p: han huido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have fled}
+      1s: habré huido
+      1p: habremos huido
+      2s: habrás huido
+      2p: habréis huido
+      3s: habrá huido
+      3p: habrán huido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had fled}
+      1s: había huido
+      1p: habíamos huido
+      2s: habías huido
+      2p: habíais huido
+      3s: había huido
+      3p: habían huido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had fled}
+      1s: hube huido
+      1p: hubimos huido
+      2s: hubiste huido
+      2p: hubisteis huido
+      3s: hubo huido
+      3p: hubieron huido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have fled}
+      1s: habría huido
+      1p: habríamos huido
+      2s: habrías huido
+      2p: habríais huido
+      3s: habría huido
+      3p: habrían huido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I flee, am fleeing'}
+      1s: huya
+      1p: huyamos
+      2s: huyas
+      2p: huyáis
+      3s: huya
+      3p: huyan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I fled, was fleeing'}
+      1s: huyera
+      1p: huyéramos
+      2s: huyeras
+      2p: huyerais
+      3s: huyera
+      3p: huyeran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will flee}
+      1s: huyere
+      1p: huyéremos
+      2s: huyeres
+      2p: huyereis
+      3s: huyere
+      3p: huyeren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have fled, fled'}
+      1s: haya huido
+      1p: hayamos huido
+      2s: hayas huido
+      2p: hayáis huido
+      3s: haya huido
+      3p: hayan huido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have fled}
+      1s: hubiere huido
+      1p: hubiéremos huido
+      2s: hubieres huido
+      2p: hubiereis huido
+      3s: hubiere huido
+      3p: hubieren huido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had fled}
+      1s: hubiera huido
+      1p: hubiéramos huido
+      2s: hubieras huido
+      2p: hubierais huido
+      3s: hubiera huido
+      3p: hubieran huido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Flee! Don't flee!}
+      1s: ''
+      1p: ''
+      2s: huye
+      2p: huya
+      3s: huid
+      3p: huyan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Flee! Don't flee!}
+      1s: ''
+      1p: ''
+      2s: no huyas
+      2p: no huya
+      3s: no huyáis
+      3p: no huyan

@@ -1,0 +1,186 @@
+traducir:
+  infinitive: traducir
+  gerund: traduciendo
+  pastparticiple: traducido
+  definitions: {en: to translate}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I translate, am translating'}
+      1s: traduzco
+      1p: traducimos
+      2s: traduces
+      2p: traducís
+      3s: traduce
+      3p: traducen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will translate}
+      1s: traduciré
+      1p: traduciremos
+      2s: traducirás
+      2p: traduciréis
+      3s: traducirá
+      3p: traducirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was translating, used to translate, translated'}
+      1s: traducía
+      1p: traducíamos
+      2s: traducías
+      2p: traducíais
+      3s: traducía
+      3p: traducían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I translated}
+      1s: traduje
+      1p: tradujimos
+      2s: tradujiste
+      2p: tradujisteis
+      3s: tradujo
+      3p: tradujeron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would translate}
+      1s: traduciría
+      1p: traduciríamos
+      2s: traducirías
+      2p: traduciríais
+      3s: traduciría
+      3p: traducirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have translated}
+      1s: he traducido
+      1p: hemos traducido
+      2s: has traducido
+      2p: habéis traducido
+      3s: ha traducido
+      3p: han traducido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have translated}
+      1s: habré traducido
+      1p: habremos traducido
+      2s: habrás traducido
+      2p: habréis traducido
+      3s: habrá traducido
+      3p: habrán traducido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had translated}
+      1s: había traducido
+      1p: habíamos traducido
+      2s: habías traducido
+      2p: habíais traducido
+      3s: había traducido
+      3p: habían traducido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had translated}
+      1s: hube traducido
+      1p: hubimos traducido
+      2s: hubiste traducido
+      2p: hubisteis traducido
+      3s: hubo traducido
+      3p: hubieron traducido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have translated}
+      1s: habría traducido
+      1p: habríamos traducido
+      2s: habrías traducido
+      2p: habríais traducido
+      3s: habría traducido
+      3p: habrían traducido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I translate, am translating'}
+      1s: traduzca
+      1p: traduzcamos
+      2s: traduzcas
+      2p: traduzcáis
+      3s: traduzca
+      3p: traduzcan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I was translating, translated'}
+      1s: tradujera
+      1p: tradujéramos
+      2s: tradujeras
+      2p: tradujerais
+      3s: tradujera
+      3p: tradujeran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will translate}
+      1s: tradujere
+      1p: tradujéremos
+      2s: tradujeres
+      2p: tradujereis
+      3s: tradujere
+      3p: tradujeren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have translated, translated'}
+      1s: haya traducido
+      1p: hayamos traducido
+      2s: hayas traducido
+      2p: hayáis traducido
+      3s: haya traducido
+      3p: hayan traducido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have translated}
+      1s: hubiere traducido
+      1p: hubiéremos traducido
+      2s: hubieres traducido
+      2p: hubiereis traducido
+      3s: hubiere traducido
+      3p: hubieren traducido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had translated}
+      1s: hubiera traducido
+      1p: hubiéramos traducido
+      2s: hubieras traducido
+      2p: hubierais traducido
+      3s: hubiera traducido
+      3p: hubieran traducido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: 'Translate!, Don''t translate!'}
+      1s: ''
+      1p: ''
+      2s: traduce
+      2p: traduzca
+      3s: traducid
+      3p: traduzcan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: 'Translate!, Don''t translate!'}
+      1s: ''
+      1p: ''
+      2s: no traduzcas
+      2p: no traduzca
+      3s: no traduzcáis
+      3p: no traduzcan

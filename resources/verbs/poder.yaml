@@ -1,0 +1,186 @@
+poder:
+  infinitive: poder
+  gerund: pudiendo
+  pastparticiple: podido
+  definitions: {en: 'to be able, can'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I am able, can'}
+      1s: puedo
+      1p: podemos
+      2s: puedes
+      2p: podéis
+      3s: puede
+      3p: pueden
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will be able}
+      1s: podré
+      1p: podremos
+      2s: podrás
+      2p: podréis
+      3s: podrá
+      3p: podrán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I used to be able, was able, could'}
+      1s: podía
+      1p: podíamos
+      2s: podías
+      2p: podíais
+      3s: podía
+      3p: podían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was able, could'}
+      1s: pude
+      1p: pudimos
+      2s: pudiste
+      2p: pudisteis
+      3s: pudo
+      3p: pudieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would be able}
+      1s: podría
+      1p: podríamos
+      2s: podrías
+      2p: podríais
+      3s: podría
+      3p: podrían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have been able}
+      1s: he podido
+      1p: hemos podido
+      2s: has podido
+      2p: habéis podido
+      3s: ha podido
+      3p: han podido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have been able}
+      1s: habré podido
+      1p: habremos podido
+      2s: habrás podido
+      2p: habréis podido
+      3s: habrá podido
+      3p: habrán podido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had been able}
+      1s: había podido
+      1p: habíamos podido
+      2s: habías podido
+      2p: habíais podido
+      3s: había podido
+      3p: habían podido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had been able}
+      1s: hube podido
+      1p: hubimos podido
+      2s: hubiste podido
+      2p: hubisteis podido
+      3s: hubo podido
+      3p: hubieron podido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have been able}
+      1s: habría podido
+      1p: habríamos podido
+      2s: habrías podido
+      2p: habríais podido
+      3s: habría podido
+      3p: habrían podido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I am able, can'}
+      1s: pueda
+      1p: podamos
+      2s: puedas
+      2p: podáis
+      3s: pueda
+      3p: puedan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I was able, could'}
+      1s: pudiera
+      1p: pudiéramos
+      2s: pudieras
+      2p: pudierais
+      3s: pudiera
+      3p: pudieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will be able}
+      1s: pudiere
+      1p: pudiéremos
+      2s: pudieres
+      2p: pudiereis
+      3s: pudiere
+      3p: pudieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have been able, was able'}
+      1s: haya podido
+      1p: hayamos podido
+      2s: hayas podido
+      2p: hayáis podido
+      3s: haya podido
+      3p: hayan podido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have been able}
+      1s: hubiere podido
+      1p: hubiéremos podido
+      2s: hubieres podido
+      2p: hubiereis podido
+      3s: hubiere podido
+      3p: hubieren podido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had been able}
+      1s: hubiera podido
+      1p: hubiéramos podido
+      2s: hubieras podido
+      2p: hubierais podido
+      3s: hubiera podido
+      3p: hubieran podido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Be able! Don't be able!}
+      1s: ''
+      1p: ''
+      2s: puede
+      2p: pueda
+      3s: poded
+      3p: puedan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Be able! Don't be able!}
+      1s: ''
+      1p: ''
+      2s: no puedas
+      2p: no pueda
+      3s: no podáis
+      3p: no puedan

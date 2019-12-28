@@ -1,0 +1,186 @@
+callarse:
+  infinitive: callarse
+  gerund: callándose
+  pastparticiple: callado
+  definitions: {en: 'to keep quiet , be quiet, shut up, be silent, remain silent'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I keep quiet, am keeping quiet'}
+      1s: me callo
+      1p: nos callamos
+      2s: te callas
+      2p: os calláis
+      3s: se calla
+      3p: se callan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will keep quiet}
+      1s: me callaré
+      1p: nos callaremos
+      2s: te callarás
+      2p: os callaréis
+      3s: se callará
+      3p: se callarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was keeping quiet, used to keep quiet, kept quiet'}
+      1s: me callaba
+      1p: nos callábamos
+      2s: te callabas
+      2p: os callabais
+      3s: se callaba
+      3p: se callaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I kept quiet}
+      1s: me callé
+      1p: nos callamos
+      2s: te callaste
+      2p: os callasteis
+      3s: se calló
+      3p: se callaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would keep quiet}
+      1s: me callaría
+      1p: nos callaríamos
+      2s: te callarías
+      2p: os callaríais
+      3s: se callaría
+      3p: se callarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have kept quiet}
+      1s: me he callado
+      1p: nos hemos callado
+      2s: te has callado
+      2p: os habéis callado
+      3s: se ha callado
+      3p: se han callado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have kept quiet}
+      1s: me habré callado
+      1p: nos habremos callado
+      2s: te habrás callado
+      2p: os habréis callado
+      3s: se habrá callado
+      3p: se habrán callado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had kept quiet}
+      1s: me había callado
+      1p: nos habíamos callado
+      2s: te habías callado
+      2p: os habíais callado
+      3s: se había callado
+      3p: se habían callado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had kept quiet}
+      1s: me hube callado
+      1p: nos hubimos callado
+      2s: te hubiste callado
+      2p: os hubisteis callado
+      3s: se hubo callado
+      3p: se hubieron callado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have kept quiet}
+      1s: me habría callado
+      1p: nos habríamos callado
+      2s: te habrías callado
+      2p: os habríais callado
+      3s: se habría callado
+      3p: se habrían callado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I keep quiet, am keeping quiet'}
+      1s: me calle
+      1p: nos callemos
+      2s: te calles
+      2p: os calléis
+      3s: se calle
+      3p: se callen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I kept quiet, was keeping quiet'}
+      1s: me callara
+      1p: nos calláramos
+      2s: te callaras
+      2p: os callarais
+      3s: se callara
+      3p: se callaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will keep quiet}
+      1s: me callare
+      1p: nos calláremos
+      2s: te callares
+      2p: os callareis
+      3s: se callare
+      3p: se callaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have kept quiet, kept quiet'}
+      1s: me haya callado
+      1p: nos hayamos callado
+      2s: te hayas callado
+      2p: os hayáis callado
+      3s: se haya callado
+      3p: se hayan callado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have kept quiet}
+      1s: me hubiere callado
+      1p: nos hubiéremos callado
+      2s: te hubieres callado
+      2p: os hubiereis callado
+      3s: se hubiere callado
+      3p: se hubieren callado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had kept quiet}
+      1s: me hubiera callado
+      1p: nos hubiéramos callado
+      2s: te hubieras callado
+      2p: os hubierais callado
+      3s: se hubiera callado
+      3p: se hubieran callado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Keep quiet! Don't keep quiet!}
+      1s: ''
+      1p: ''
+      2s: cállate
+      2p: cállese
+      3s: callaos
+      3p: cállense
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Keep quiet! Don't keep quiet!}
+      1s: ''
+      1p: ''
+      2s: no te calles
+      2p: no se calle
+      3s: no os calléis
+      3p: no se callen

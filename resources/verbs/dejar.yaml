@@ -1,0 +1,186 @@
+dejar:
+  infinitive: dejar
+  gerund: dejando
+  pastparticiple: dejado
+  definitions: {en: 'to leave, abandon; to let, allow'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I leave, am leaving'}
+      1s: dejo
+      1p: dejamos
+      2s: dejas
+      2p: dejáis
+      3s: deja
+      3p: dejan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will leave}
+      1s: dejaré
+      1p: dejaremos
+      2s: dejarás
+      2p: dejaréis
+      3s: dejará
+      3p: dejarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was leaving, used to leave, left'}
+      1s: dejaba
+      1p: dejábamos
+      2s: dejabas
+      2p: dejabais
+      3s: dejaba
+      3p: dejaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I left}
+      1s: dejé
+      1p: dejamos
+      2s: dejaste
+      2p: dejasteis
+      3s: dejó
+      3p: dejaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would leave}
+      1s: dejaría
+      1p: dejaríamos
+      2s: dejarías
+      2p: dejaríais
+      3s: dejaría
+      3p: dejarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have left}
+      1s: he dejado
+      1p: hemos dejado
+      2s: has dejado
+      2p: habéis dejado
+      3s: ha dejado
+      3p: han dejado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have left}
+      1s: habré dejado
+      1p: habremos dejado
+      2s: habrás dejado
+      2p: habréis dejado
+      3s: habrá dejado
+      3p: habrán dejado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had left}
+      1s: había dejado
+      1p: habíamos dejado
+      2s: habías dejado
+      2p: habíais dejado
+      3s: había dejado
+      3p: habían dejado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had left}
+      1s: hube dejado
+      1p: hubimos dejado
+      2s: hubiste dejado
+      2p: hubisteis dejado
+      3s: hubo dejado
+      3p: hubieron dejado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have left}
+      1s: habría dejado
+      1p: habríamos dejado
+      2s: habrías dejado
+      2p: habríais dejado
+      3s: habría dejado
+      3p: habrían dejado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I leave, am leaving'}
+      1s: deje
+      1p: dejemos
+      2s: dejes
+      2p: dejéis
+      3s: deje
+      3p: dejen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I left, was leaving'}
+      1s: dejara
+      1p: dejáramos
+      2s: dejaras
+      2p: dejarais
+      3s: dejara
+      3p: dejaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will leave}
+      1s: dejare
+      1p: dejáremos
+      2s: dejares
+      2p: dejareis
+      3s: dejare
+      3p: dejaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have left, left'}
+      1s: haya dejado
+      1p: hayamos dejado
+      2s: hayas dejado
+      2p: hayáis dejado
+      3s: haya dejado
+      3p: hayan dejado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have left}
+      1s: hubiere dejado
+      1p: hubiéremos dejado
+      2s: hubieres dejado
+      2p: hubiereis dejado
+      3s: hubiere dejado
+      3p: hubieren dejado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had left}
+      1s: hubiera dejado
+      1p: hubiéramos dejado
+      2s: hubieras dejado
+      2p: hubierais dejado
+      3s: hubiera dejado
+      3p: hubieran dejado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Leave! Don't leave!}
+      1s: ''
+      1p: ''
+      2s: deja
+      2p: deje
+      3s: dejad
+      3p: dejen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Leave! Don't leave!}
+      1s: ''
+      1p: ''
+      2s: no dejes
+      2p: no deje
+      3s: no dejéis
+      3p: no dejen

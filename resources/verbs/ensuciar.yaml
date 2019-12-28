@@ -1,0 +1,186 @@
+ensuciar:
+  infinitive: ensuciar
+  gerund: ensuciando
+  pastparticiple: ensuciado
+  definitions: {en: to dirty}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I dirty, am dirtying'}
+      1s: ensucio
+      1p: ensuciamos
+      2s: ensucias
+      2p: ensuciáis
+      3s: ensucia
+      3p: ensucian
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will dirty}
+      1s: ensuciaré
+      1p: ensuciaremos
+      2s: ensuciarás
+      2p: ensuciaréis
+      3s: ensuciará
+      3p: ensuciarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was dirtying, used to dirty, dirtied'}
+      1s: ensuciaba
+      1p: ensuciábamos
+      2s: ensuciabas
+      2p: ensuciabais
+      3s: ensuciaba
+      3p: ensuciaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I dirtied}
+      1s: ensucié
+      1p: ensuciamos
+      2s: ensuciaste
+      2p: ensuciasteis
+      3s: ensució
+      3p: ensuciaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would dirty}
+      1s: ensuciaría
+      1p: ensuciaríamos
+      2s: ensuciarías
+      2p: ensuciaríais
+      3s: ensuciaría
+      3p: ensuciarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have dirtied}
+      1s: he ensuciado
+      1p: hemos ensuciado
+      2s: has ensuciado
+      2p: habéis ensuciado
+      3s: ha ensuciado
+      3p: han ensuciado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have dirtied}
+      1s: habré ensuciado
+      1p: habremos ensuciado
+      2s: habrás ensuciado
+      2p: habréis ensuciado
+      3s: habrá ensuciado
+      3p: habrán ensuciado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had dirtied}
+      1s: había ensuciado
+      1p: habíamos ensuciado
+      2s: habías ensuciado
+      2p: habíais ensuciado
+      3s: había ensuciado
+      3p: habían ensuciado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had dirtied}
+      1s: hube ensuciado
+      1p: hubimos ensuciado
+      2s: hubiste ensuciado
+      2p: hubisteis ensuciado
+      3s: hubo ensuciado
+      3p: hubieron ensuciado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have dirtied}
+      1s: habría ensuciado
+      1p: habríamos ensuciado
+      2s: habrías ensuciado
+      2p: habríais ensuciado
+      3s: habría ensuciado
+      3p: habrían ensuciado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I dirty, am dirtying'}
+      1s: ensucie
+      1p: ensuciemos
+      2s: ensucies
+      2p: ensuciéis
+      3s: ensucie
+      3p: ensucien
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I dirtied, was dirtying'}
+      1s: ensuciara
+      1p: ensuciáramos
+      2s: ensuciaras
+      2p: ensuciarais
+      3s: ensuciara
+      3p: ensuciaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will dirty}
+      1s: ensuciare
+      1p: ensuciáremos
+      2s: ensuciares
+      2p: ensuciareis
+      3s: ensuciare
+      3p: ensuciaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have dirtied, dirtied'}
+      1s: haya ensuciado
+      1p: hayamos ensuciado
+      2s: hayas ensuciado
+      2p: hayáis ensuciado
+      3s: haya ensuciado
+      3p: hayan ensuciado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have dirtied}
+      1s: hubiere ensuciado
+      1p: hubiéremos ensuciado
+      2s: hubieres ensuciado
+      2p: hubiereis ensuciado
+      3s: hubiere ensuciado
+      3p: hubieren ensuciado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had dirtied}
+      1s: hubiera ensuciado
+      1p: hubiéramos ensuciado
+      2s: hubieras ensuciado
+      2p: hubierais ensuciado
+      3s: hubiera ensuciado
+      3p: hubieran ensuciado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Dirty! Don't dirty!}
+      1s: ''
+      1p: ''
+      2s: ensucia
+      2p: ensucie
+      3s: ensuciad
+      3p: ensucien
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Dirty! Don't dirty!}
+      1s: ''
+      1p: ''
+      2s: no ensucies
+      2p: no ensucie
+      3s: no ensuciéis
+      3p: no ensucien

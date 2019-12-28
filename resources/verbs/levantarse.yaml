@@ -1,0 +1,186 @@
+levantarse:
+  infinitive: levantarse
+  gerund: levantándose
+  pastparticiple: levantado
+  definitions: {en: to get up}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I get up, am getting up'}
+      1s: me levanto
+      1p: nos levantamos
+      2s: te levantas
+      2p: os levantáis
+      3s: se levanta
+      3p: se levantan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will get up}
+      1s: me levantaré
+      1p: nos levantaremos
+      2s: te levantarás
+      2p: os levantaréis
+      3s: se levantará
+      3p: se levantarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was getting up, used to get up, got up'}
+      1s: me levantaba
+      1p: nos levantábamos
+      2s: te levantabas
+      2p: os levantabais
+      3s: se levantaba
+      3p: se levantaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I got up}
+      1s: me levanté
+      1p: nos levantamos
+      2s: te levantaste
+      2p: levantasteis
+      3s: se levantó
+      3p: se levantaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would get up}
+      1s: me levantaría
+      1p: nos levantaríamos
+      2s: te levantarías
+      2p: os levantaríais
+      3s: se levantaría
+      3p: se levantarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have gotten up}
+      1s: me he levantado
+      1p: nos hemos levantado
+      2s: te has levantado
+      2p: os habéis levantado
+      3s: se ha levantado
+      3p: se han levantado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have gotten up}
+      1s: me habré levantado
+      1p: nos habremos levantado
+      2s: te habrás levantado
+      2p: os habréis levantado
+      3s: se habrá levantado
+      3p: se habrán levantado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had gotten up}
+      1s: me había levantado
+      1p: nos habíamos levantado
+      2s: te habías levantado
+      2p: os habíais levantado
+      3s: se había levantado
+      3p: se habían levantado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had gotten up}
+      1s: me hube levantado
+      1p: nos hubimos levantado
+      2s: te hubiste levantado
+      2p: os hubisteis levantado
+      3s: se hubo levantado
+      3p: se hubieron levantado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have gotten up}
+      1s: me habría levantado
+      1p: nos habríamos levantado
+      2s: te habrías levantado
+      2p: os habríais levantado
+      3s: se habría levantado
+      3p: se habrían levantado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I get up, am getting up'}
+      1s: me levante
+      1p: nos levantemos
+      2s: te levantes
+      2p: os levantéis
+      3s: se levante
+      3p: se levanten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I got up, was getting up'}
+      1s: me levantara
+      1p: nos levantáramos
+      2s: te levantaras
+      2p: os levantarais
+      3s: se levantara
+      3p: se levantaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will get up}
+      1s: me levantare
+      1p: nos levantáremos
+      2s: te levantares
+      2p: os levantareis
+      3s: se levantare
+      3p: se levantaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have gotten up, got up'}
+      1s: me haya levantado
+      1p: nos hayamos levantado
+      2s: te hayas levantado
+      2p: os hayáis levantado
+      3s: se haya levantado
+      3p: se hayan levantado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have gotten up}
+      1s: me hubiere levantado
+      1p: nos hubiéremos levantado
+      2s: te hubieres levantado
+      2p: os hubiereis levantado
+      3s: se hubiere levantado
+      3p: se hubieren levantado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had gotten up}
+      1s: me hubiera levantado
+      1p: nos hubiéramos levantado
+      2s: te hubieras levantado
+      2p: os hubierais levantado
+      3s: se hubiera levantado
+      3p: se hubieran levantado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Get up! Don't get up!}
+      1s: ''
+      1p: ''
+      2s: levántate
+      2p: levántese
+      3s: levantaos
+      3p: levántense
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Get up! Don't get up!}
+      1s: ''
+      1p: ''
+      2s: no te levantes
+      2p: no se levante
+      3s: no os levantéis
+      3p: no se levanten

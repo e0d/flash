@@ -1,0 +1,186 @@
+ayudar:
+  infinitive: ayudar
+  gerund: ayudando
+  pastparticiple: ayudado
+  definitions: {en: to help}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I help, am helping'}
+      1s: ayudo
+      1p: ayudamos
+      2s: ayudas
+      2p: ayudáis
+      3s: ayuda
+      3p: ayudan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will help}
+      1s: ayudaré
+      1p: ayudaremos
+      2s: ayudarás
+      2p: ayudaréis
+      3s: ayudará
+      3p: ayudarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was helping, used to help, helped'}
+      1s: ayudaba
+      1p: ayudábamos
+      2s: ayudabas
+      2p: ayudabais
+      3s: ayudaba
+      3p: ayudaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I helped}
+      1s: ayudé
+      1p: ayudamos
+      2s: ayudaste
+      2p: ayudasteis
+      3s: ayudó
+      3p: ayudaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would help}
+      1s: ayudaría
+      1p: ayudaríamos
+      2s: ayudarías
+      2p: ayudaríais
+      3s: ayudaría
+      3p: ayudarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have helped}
+      1s: he ayudado
+      1p: hemos ayudado
+      2s: has ayudado
+      2p: habéis ayudado
+      3s: ha ayudado
+      3p: han ayudado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have helped}
+      1s: habré ayudado
+      1p: habremos ayudado
+      2s: habrás ayudado
+      2p: habréis ayudado
+      3s: habrá ayudado
+      3p: habrán ayudado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had helped}
+      1s: había ayudado
+      1p: habíamos ayudado
+      2s: habías ayudado
+      2p: habíais ayudado
+      3s: había ayudado
+      3p: habían ayudado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had helped}
+      1s: hube ayudado
+      1p: hubimos ayudado
+      2s: hubiste ayudado
+      2p: hubisteis ayudado
+      3s: hubo ayudado
+      3p: hubieron ayudado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have helped}
+      1s: habría ayudado
+      1p: habríamos ayudado
+      2s: habrías ayudado
+      2p: habríais ayudado
+      3s: habría ayudado
+      3p: habrían ayudado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I help, am helping'}
+      1s: ayude
+      1p: ayudemos
+      2s: ayudes
+      2p: ayudéis
+      3s: ayude
+      3p: ayuden
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I helped, was helping'}
+      1s: ayudara
+      1p: ayudáramos
+      2s: ayudaras
+      2p: ayudarais
+      3s: ayudara
+      3p: ayudaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will help}
+      1s: ayudare
+      1p: ayudáremos
+      2s: ayudares
+      2p: ayudareis
+      3s: ayudare
+      3p: ayudaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have helped, helped'}
+      1s: haya ayudado
+      1p: hayamos ayudado
+      2s: hayas ayudado
+      2p: hayáis ayudado
+      3s: haya ayudado
+      3p: hayan ayudado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have helped}
+      1s: hubiere ayudado
+      1p: hubiéremos ayudado
+      2s: hubieres ayudado
+      2p: hubiereis ayudado
+      3s: hubiere ayudado
+      3p: hubieren ayudado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had helped}
+      1s: hubiera ayudado
+      1p: hubiéramos ayudado
+      2s: hubieras ayudado
+      2p: hubierais ayudado
+      3s: hubiera ayudado
+      3p: hubieran ayudado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Help! Don't help!}
+      1s: ''
+      1p: ''
+      2s: ayuda
+      2p: ayude
+      3s: ayudad
+      3p: ayuden
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Help! Don't help!}
+      1s: ''
+      1p: ''
+      2s: no ayudes
+      2p: no ayude
+      3s: no ayudéis
+      3p: no ayuden

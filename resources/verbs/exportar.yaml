@@ -1,0 +1,186 @@
+exportar:
+  infinitive: exportar
+  gerund: exportando
+  pastparticiple: exportado
+  definitions: {en: to export}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I export, am exporting'}
+      1s: exporto
+      1p: exportamos
+      2s: exportas
+      2p: exportáis
+      3s: exporta
+      3p: exportan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will export}
+      1s: exportaré
+      1p: exportaremos
+      2s: exportarás
+      2p: exportaréis
+      3s: exportará
+      3p: exportarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was exporting, used to export, exported'}
+      1s: exportaba
+      1p: exportábamos
+      2s: exportabas
+      2p: exportabais
+      3s: exportaba
+      3p: exportaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I exported}
+      1s: exporté
+      1p: exportamos
+      2s: exportaste
+      2p: exportasteis
+      3s: exportó
+      3p: exportaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would export}
+      1s: exportaría
+      1p: exportaríamos
+      2s: exportarías
+      2p: exportaríais
+      3s: exportaría
+      3p: exportarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have exported}
+      1s: he exportado
+      1p: hemos exportado
+      2s: has exportado
+      2p: habéis exportado
+      3s: ha exportado
+      3p: han exportado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have exported}
+      1s: habré exportado
+      1p: habremos exportado
+      2s: habrás exportado
+      2p: habréis exportado
+      3s: habrá exportado
+      3p: habrán exportado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had exported}
+      1s: había exportado
+      1p: habíamos exportado
+      2s: habías exportado
+      2p: habíais exportado
+      3s: había exportado
+      3p: habían exportado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had exported}
+      1s: hube exportado
+      1p: hubimos exportado
+      2s: hubiste exportado
+      2p: hubisteis exportado
+      3s: hubo exportado
+      3p: hubieron exportado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have exported}
+      1s: habría exportado
+      1p: habríamos exportado
+      2s: habrías exportado
+      2p: habríais exportado
+      3s: habría exportado
+      3p: habrían exportado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I export, am exporting'}
+      1s: exporte
+      1p: exportemos
+      2s: exportes
+      2p: exportéis
+      3s: exporte
+      3p: exporten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I exported, was exporting'}
+      1s: exportara
+      1p: exportáramos
+      2s: exportaras
+      2p: exportarais
+      3s: exportara
+      3p: exportaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will export}
+      1s: exportare
+      1p: exportáremos
+      2s: exportares
+      2p: exportareis
+      3s: exportare
+      3p: exportaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have exported, exported'}
+      1s: haya exportado
+      1p: hayamos exportado
+      2s: hayas exportado
+      2p: hayáis exportado
+      3s: haya exportado
+      3p: hayan exportado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have exported}
+      1s: hubiere exportado
+      1p: hubiéremos exportado
+      2s: hubieres exportado
+      2p: hubiereis exportado
+      3s: hubiere exportado
+      3p: hubieren exportado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had exported}
+      1s: hubiera exportado
+      1p: hubiéramos exportado
+      2s: hubieras exportado
+      2p: hubierais exportado
+      3s: hubiera exportado
+      3p: hubieran exportado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Export! Don't export!}
+      1s: ''
+      1p: ''
+      2s: exporta
+      2p: exporte
+      3s: exportad
+      3p: exporten
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Export! Don't export!}
+      1s: ''
+      1p: ''
+      2s: no exportes
+      2p: no exporte
+      3s: no exportéis
+      3p: no exporten

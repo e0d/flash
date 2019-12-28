@@ -1,0 +1,186 @@
+obtener:
+  infinitive: obtener
+  gerund: obteniendo
+  pastparticiple: obtenido
+  definitions: {en: 'to obtain, get'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I obtain, am obtaining'}
+      1s: obtengo
+      1p: obtenemos
+      2s: obtienes
+      2p: obtenéis
+      3s: obtiene
+      3p: obtienen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will obtain}
+      1s: obtendré
+      1p: obtendremos
+      2s: obtendrás
+      2p: obtendréis
+      3s: obtendrá
+      3p: obtendrán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was obtaining, used to obtain, obtained'}
+      1s: obtenía
+      1p: obteníamos
+      2s: obtenías
+      2p: obteníais
+      3s: obtenía
+      3p: obtenían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I obtained}
+      1s: obtuve
+      1p: obtuvimos
+      2s: obtuviste
+      2p: obtuvisteis
+      3s: obtuvo
+      3p: obtuvieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would obtain}
+      1s: obtendría
+      1p: obtendríamos
+      2s: obtendrías
+      2p: obtendríais
+      3s: obtendría
+      3p: obtendrían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have obtained}
+      1s: he obtenido
+      1p: hemos obtenido
+      2s: has obtenido
+      2p: habéis obtenido
+      3s: ha obtenido
+      3p: han obtenido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have obtained}
+      1s: habré obtenido
+      1p: habremos obtenido
+      2s: habrás obtenido
+      2p: habréis obtenido
+      3s: habrá obtenido
+      3p: habrán obtenido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had obtained}
+      1s: había obtenido
+      1p: habíamos obtenido
+      2s: habías obtenido
+      2p: habíais obtenido
+      3s: había obtenido
+      3p: habían obtenido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had obtained}
+      1s: hube obtenido
+      1p: hubimos obtenido
+      2s: hubiste obtenido
+      2p: hubisteis obtenido
+      3s: hubo obtenido
+      3p: hubieron obtenido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have obtained}
+      1s: habría obtenido
+      1p: habríamos obtenido
+      2s: habrías obtenido
+      2p: habríais obtenido
+      3s: habría obtenido
+      3p: habrían obtenido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I obtain, am obtaining'}
+      1s: obtenga
+      1p: obtengamos
+      2s: obtengas
+      2p: obtengáis
+      3s: obtenga
+      3p: obtengan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I obtained, was obtaining'}
+      1s: obtuviera
+      1p: obtuviéramos
+      2s: obtuvieras
+      2p: obtuvierais
+      3s: obtuviera
+      3p: obtuvieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will obtain}
+      1s: obtuviere
+      1p: obtuviéremos
+      2s: obtuvieres
+      2p: obtuviereis
+      3s: obtuviere
+      3p: obtuvieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have obtained, obtained'}
+      1s: haya obtenido
+      1p: hayamos obtenido
+      2s: hayas obtenido
+      2p: hayáis obtenido
+      3s: haya obtenido
+      3p: hayan obtenido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have obtained}
+      1s: hubiere obtenido
+      1p: hubiéremos obtenido
+      2s: hubieres obtenido
+      2p: hubiereis obtenido
+      3s: hubiere obtenido
+      3p: hubieren obtenido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had obtained}
+      1s: hubiera obtenido
+      1p: hubiéramos obtenido
+      2s: hubieras obtenido
+      2p: hubierais obtenido
+      3s: hubiera obtenido
+      3p: hubieran obtenido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Obtain! Don't obtain!}
+      1s: ''
+      1p: ''
+      2s: obtén
+      2p: obtenga
+      3s: obtened
+      3p: obtengan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Obtain! Don't obtain!}
+      1s: ''
+      1p: ''
+      2s: no obtengas
+      2p: no obtenga
+      3s: no obtengáis
+      3p: no obtengan

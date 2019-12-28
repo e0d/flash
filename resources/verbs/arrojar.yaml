@@ -1,0 +1,186 @@
+arrojar:
+  infinitive: arrojar
+  gerund: arrojando
+  pastparticiple: arrojado
+  definitions: {en: 'to throw, hurl, cast, toss'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I throw, am throwing'}
+      1s: arrojo
+      1p: arrojamos
+      2s: arrojas
+      2p: arrojáis
+      3s: arroja
+      3p: arrojan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will throw}
+      1s: arrojaré
+      1p: arrojaremos
+      2s: arrojarás
+      2p: arrojaréis
+      3s: arrojará
+      3p: arrojarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was throwing, used to throw, threw'}
+      1s: arrojaba
+      1p: arrojábamos
+      2s: arrojabas
+      2p: arrojabais
+      3s: arrojaba
+      3p: arrojaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I threw}
+      1s: arrojé
+      1p: arrojamos
+      2s: arrojaste
+      2p: arrojasteis
+      3s: arrojó
+      3p: arrojaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would throw}
+      1s: arrojaría
+      1p: arrojaríamos
+      2s: arrojarías
+      2p: arrojaríais
+      3s: arrojaría
+      3p: arrojarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have thrown}
+      1s: he arrojado
+      1p: hemos arrojado
+      2s: has arrojado
+      2p: habéis arrojado
+      3s: ha arrojado
+      3p: han arrojado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have thrown}
+      1s: habré arrojado
+      1p: habremos arrojado
+      2s: habrás arrojado
+      2p: habréis arrojado
+      3s: habrá arrojado
+      3p: habrán arrojado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had thrown}
+      1s: había arrojado
+      1p: habíamos arrojado
+      2s: habías arrojado
+      2p: habíais arrojado
+      3s: había arrojado
+      3p: habían arrojado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had thrown}
+      1s: hube arrojado
+      1p: hubimos arrojado
+      2s: hubiste arrojado
+      2p: hubisteis arrojado
+      3s: hubo arrojado
+      3p: hubieron arrojado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have thrown}
+      1s: habría arrojado
+      1p: habríamos arrojado
+      2s: habrías arrojado
+      2p: habríais arrojado
+      3s: habría arrojado
+      3p: habrían arrojado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I throw, am throwing'}
+      1s: arroje
+      1p: arrojemos
+      2s: arrojes
+      2p: arrojéis
+      3s: arroje
+      3p: arrojen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I threw, was throwing'}
+      1s: arrojara
+      1p: arrojáramos
+      2s: arrojaras
+      2p: arrojarais
+      3s: arrojara
+      3p: arrojaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will throw}
+      1s: arrojare
+      1p: arrojáremos
+      2s: arrojares
+      2p: arrojareis
+      3s: arrojare
+      3p: arrojaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have thrown, threw'}
+      1s: haya arrojado
+      1p: hayamos arrojado
+      2s: hayas arrojado
+      2p: hayáis arrojado
+      3s: haya arrojado
+      3p: hayan arrojado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have thrown}
+      1s: hubiere arrojado
+      1p: hubiéremos arrojado
+      2s: hubieres arrojado
+      2p: hubiereis arrojado
+      3s: hubiere arrojado
+      3p: hubieren arrojado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had thrown}
+      1s: hubiera arrojado
+      1p: hubiéramos arrojado
+      2s: hubieras arrojado
+      2p: hubierais arrojado
+      3s: hubiera arrojado
+      3p: hubieran arrojado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Throw! Don't throw!}
+      1s: ''
+      1p: ''
+      2s: arroja
+      2p: arroje
+      3s: arrojad
+      3p: arrojen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Throw! Don't throw!}
+      1s: ''
+      1p: ''
+      2s: no arrojes
+      2p: no arroje
+      3s: no arrojéis
+      3p: no arrojen

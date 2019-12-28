@@ -1,0 +1,186 @@
+mentir:
+  infinitive: mentir
+  gerund: mintiendo
+  pastparticiple: mentido
+  definitions: {en: to lie}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I lie, am lying'}
+      1s: miento
+      1p: mentimos
+      2s: mientes
+      2p: mentís
+      3s: miente
+      3p: mienten
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will lie}
+      1s: mentiré
+      1p: mentiremos
+      2s: mentirás
+      2p: mentiréis
+      3s: mentirá
+      3p: mentirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was lying, used to lie, lied'}
+      1s: mentía
+      1p: mentíamos
+      2s: mentías
+      2p: mentíais
+      3s: mentía
+      3p: mentían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I lied}
+      1s: mentí
+      1p: mentimos
+      2s: mentiste
+      2p: mentisteis
+      3s: mintió
+      3p: mintieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would lie}
+      1s: mentiría
+      1p: mentiríamos
+      2s: mentirías
+      2p: mentiríais
+      3s: mentiría
+      3p: mentirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have lied}
+      1s: he mentido
+      1p: hemos mentido
+      2s: has mentido
+      2p: habéis mentido
+      3s: ha mentido
+      3p: han mentido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have lied}
+      1s: habré mentido
+      1p: habremos mentido
+      2s: habrás mentido
+      2p: habréis mentido
+      3s: habrá mentido
+      3p: habrán mentido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had lied}
+      1s: había mentido
+      1p: habíamos mentido
+      2s: habías mentido
+      2p: habíais mentido
+      3s: había mentido
+      3p: habían mentido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had lied}
+      1s: hube mentido
+      1p: hubimos mentido
+      2s: hubiste mentido
+      2p: hubisteis mentido
+      3s: hubo mentido
+      3p: hubieron mentido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have lied}
+      1s: habría mentido
+      1p: habríamos mentido
+      2s: habrías mentido
+      2p: habríais mentido
+      3s: habría mentido
+      3p: habrían mentido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I lie, am lying'}
+      1s: mienta
+      1p: mintamos
+      2s: mientas
+      2p: mintáis
+      3s: mienta
+      3p: mientan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I lied, was lying'}
+      1s: mintiera
+      1p: mintiéramos
+      2s: mintieras
+      2p: mintierais
+      3s: mintiera
+      3p: mintieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will lie}
+      1s: mintiere
+      1p: mintiéremos
+      2s: mintieres
+      2p: mintiereis
+      3s: mintiere
+      3p: mintieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have lied, lied'}
+      1s: haya mentido
+      1p: hayamos mentido
+      2s: hayas mentido
+      2p: hayáis mentido
+      3s: haya mentido
+      3p: hayan mentido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have lied}
+      1s: hubiere mentido
+      1p: hubiéremos mentido
+      2s: hubieres mentido
+      2p: hubiereis mentido
+      3s: hubiere mentido
+      3p: hubieren mentido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had lied}
+      1s: hubiera mentido
+      1p: hubiéramos mentido
+      2s: hubieras mentido
+      2p: hubierais mentido
+      3s: hubiera mentido
+      3p: hubieran mentido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Lie! Don't lie!}
+      1s: ''
+      1p: ''
+      2s: miente
+      2p: mienta
+      3s: mentid
+      3p: mientan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Lie! Don't lie!}
+      1s: ''
+      1p: ''
+      2s: no mientas
+      2p: no mienta
+      3s: no mintáis
+      3p: no mientan

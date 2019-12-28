@@ -1,0 +1,186 @@
+recomendar:
+  infinitive: recomendar
+  gerund: recomendando
+  pastparticiple: recomendado
+  definitions: {en: to recommend}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I recommend, am recommending'}
+      1s: recomiendo
+      1p: recomendamos
+      2s: recomiendas
+      2p: recomendáis
+      3s: recomienda
+      3p: recomiendan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will recommend}
+      1s: recomendaré
+      1p: recomendaremos
+      2s: recomendarás
+      2p: recomendaréis
+      3s: recomendará
+      3p: recomendarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was recommending, used to recommend, recommended'}
+      1s: recomendaba
+      1p: recomendábamos
+      2s: recomendabas
+      2p: recomendabais
+      3s: recomendaba
+      3p: recomendaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I recommended}
+      1s: recomendé
+      1p: recomendamos
+      2s: recomendaste
+      2p: recomendasteis
+      3s: recomendó
+      3p: recomendaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would recommend}
+      1s: recomendaría
+      1p: recomendaríamos
+      2s: recomendarías
+      2p: recomendaríais
+      3s: recomendaría
+      3p: recomendarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have recommended}
+      1s: he recomendado
+      1p: hemos recomendado
+      2s: has recomendado
+      2p: habéis recomendado
+      3s: ha recomendado
+      3p: han recomendado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have recommended}
+      1s: habré recomendado
+      1p: habremos recomendado
+      2s: habrás recomendado
+      2p: habréis recomendado
+      3s: habrá recomendado
+      3p: habrán recomendado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had recommended}
+      1s: había recomendado
+      1p: habíamos recomendado
+      2s: habías recomendado
+      2p: habíais recomendado
+      3s: había recomendado
+      3p: habían recomendado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had recommended}
+      1s: hube recomendado
+      1p: hubimos recomendado
+      2s: hubiste recomendado
+      2p: hubisteis recomendado
+      3s: hubo recomendado
+      3p: hubieron recomendado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have recommended}
+      1s: habría recomendado
+      1p: habríamos recomendado
+      2s: habrías recomendado
+      2p: habríais recomendado
+      3s: habría recomendado
+      3p: habrían recomendado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I recommend, am recommending'}
+      1s: recomiende
+      1p: recomendemos
+      2s: recomiendes
+      2p: recomendéis
+      3s: recomiende
+      3p: recomienden
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I recommended, was recommending'}
+      1s: recomendara
+      1p: recomendáramos
+      2s: recomendaras
+      2p: recomendarais
+      3s: recomendara
+      3p: recomendaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will recommend}
+      1s: recomendare
+      1p: recomendáremos
+      2s: recomendares
+      2p: recomendareis
+      3s: recomendare
+      3p: recomendaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have recommended, recommended'}
+      1s: haya recomendado
+      1p: hayamos recomendado
+      2s: hayas recomendado
+      2p: hayáis recomendado
+      3s: haya recomendado
+      3p: hayan recomendado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have recommended}
+      1s: hubiere recomendado
+      1p: hubiéremos recomendado
+      2s: hubieres recomendado
+      2p: hubiereis recomendado
+      3s: hubiere recomendado
+      3p: hubieren recomendado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had recommended}
+      1s: hubiera recomendado
+      1p: hubiéramos recomendado
+      2s: hubieras recomendado
+      2p: hubierais recomendado
+      3s: hubiera recomendado
+      3p: hubieran recomendado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Recommend! Don't recommend!}
+      1s: ''
+      1p: ''
+      2s: recomienda
+      2p: recomiende
+      3s: recomendad
+      3p: recomienden
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Recommend! Don't recommend!}
+      1s: ''
+      1p: ''
+      2s: no recomiendes
+      2p: no recomiende
+      3s: no recomendéis
+      3p: no recomienden

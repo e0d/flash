@@ -1,0 +1,186 @@
+enviar:
+  infinitive: enviar
+  gerund: enviando
+  pastparticiple: enviado
+  definitions: {en: to send}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I send, am sending'}
+      1s: envío
+      1p: enviamos
+      2s: envías
+      2p: enviáis
+      3s: envía
+      3p: envían
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will send}
+      1s: enviaré
+      1p: enviaremos
+      2s: enviarás
+      2p: enviaréis
+      3s: enviará
+      3p: enviarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was sending, used to send, sent'}
+      1s: enviaba
+      1p: enviábamos
+      2s: enviabas
+      2p: enviabais
+      3s: enviaba
+      3p: enviaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I sent}
+      1s: envié
+      1p: enviamos
+      2s: enviaste
+      2p: enviasteis
+      3s: envió
+      3p: enviaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would send}
+      1s: enviaría
+      1p: enviaríamos
+      2s: enviarías
+      2p: enviaríais
+      3s: enviaría
+      3p: enviarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have sent}
+      1s: he enviado
+      1p: hemos enviado
+      2s: has enviado
+      2p: habéis enviado
+      3s: ha enviado
+      3p: han enviado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have sent}
+      1s: habré enviado
+      1p: habremos enviado
+      2s: habrás enviado
+      2p: habréis enviado
+      3s: habrá enviado
+      3p: habrán enviado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had sent}
+      1s: había enviado
+      1p: habíamos enviado
+      2s: habías enviado
+      2p: habíais enviado
+      3s: había enviado
+      3p: habían enviado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had sent}
+      1s: hube enviado
+      1p: hubimos enviado
+      2s: hubiste enviado
+      2p: hubisteis enviado
+      3s: hubo enviado
+      3p: hubieron enviado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have sent}
+      1s: habría enviado
+      1p: habríamos enviado
+      2s: habrías enviado
+      2p: habríais enviado
+      3s: habría enviado
+      3p: habrían enviado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I send, am sending'}
+      1s: envíe
+      1p: enviemos
+      2s: envíes
+      2p: enviéis
+      3s: envíe
+      3p: envíen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I sent, was sending'}
+      1s: enviara
+      1p: enviáramos
+      2s: enviaras
+      2p: enviarais
+      3s: enviara
+      3p: enviaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will send}
+      1s: enviare
+      1p: enviáremos
+      2s: enviares
+      2p: enviareis
+      3s: enviare
+      3p: enviaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have sent, sent'}
+      1s: haya enviado
+      1p: hayamos enviado
+      2s: hayas enviado
+      2p: hayáis enviado
+      3s: haya enviado
+      3p: hayan enviado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have sent}
+      1s: hubiere enviado
+      1p: hubiéremos enviado
+      2s: hubieres enviado
+      2p: hubiereis enviado
+      3s: hubiere enviado
+      3p: hubieren enviado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had sent}
+      1s: hubiera enviado
+      1p: hubiéramos enviado
+      2s: hubieras enviado
+      2p: hubierais enviado
+      3s: hubiera enviado
+      3p: hubieran enviado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Send! Don't send!}
+      1s: ''
+      1p: ''
+      2s: envía
+      2p: envíe
+      3s: enviad
+      3p: envíen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Send! Don't send!}
+      1s: ''
+      1p: ''
+      2s: no envíes
+      2p: no envíe
+      3s: no enviéis
+      3p: no envíen

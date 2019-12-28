@@ -1,0 +1,186 @@
+sobrevivir:
+  infinitive: sobrevivir
+  gerund: sobreviviendo
+  pastparticiple: sobrevivido
+  definitions: {en: 'to survive, outlive, outlast'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I survive, am surviving'}
+      1s: sobrevivo
+      1p: sobrevivimos
+      2s: sobrevives
+      2p: sobrevivís
+      3s: sobrevive
+      3p: sobreviven
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will survive}
+      1s: sobreviviré
+      1p: sobreviviremos
+      2s: sobrevivirás
+      2p: sobreviviréis
+      3s: sobrevivirá
+      3p: sobrevivirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was surviving, used to survive, survived'}
+      1s: sobrevivía
+      1p: sobrevivíamos
+      2s: sobrevivías
+      2p: sobrevivíais
+      3s: sobrevivía
+      3p: sobrevivían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I survived}
+      1s: sobreviví
+      1p: sobrevivimos
+      2s: sobreviviste
+      2p: sobrevivisteis
+      3s: sobrevivió
+      3p: sobrevivieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would survive}
+      1s: sobreviviría
+      1p: sobreviviríamos
+      2s: sobrevivirías
+      2p: sobreviviríais
+      3s: sobreviviría
+      3p: sobrevivirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have survived}
+      1s: he sobrevivido
+      1p: hemos sobrevivido
+      2s: has sobrevivido
+      2p: habéis sobrevivido
+      3s: ha sobrevivido
+      3p: han sobrevivido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have survived}
+      1s: habré sobrevivido
+      1p: habremos sobrevivido
+      2s: habrás sobrevivido
+      2p: habréis sobrevivido
+      3s: habrá sobrevivido
+      3p: habrán sobrevivido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had survived}
+      1s: había sobrevivido
+      1p: habíamos sobrevivido
+      2s: habías sobrevivido
+      2p: habíais sobrevivido
+      3s: había sobrevivido
+      3p: habían sobrevivido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had survived}
+      1s: hube sobrevivido
+      1p: hubimos sobrevivido
+      2s: hubiste sobrevivido
+      2p: hubisteis sobrevivido
+      3s: hubo sobrevivido
+      3p: hubieron sobrevivido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have survived}
+      1s: habría sobrevivido
+      1p: habríamos sobrevivido
+      2s: habrías sobrevivido
+      2p: habríais sobrevivido
+      3s: habría sobrevivido
+      3p: habrían sobrevivido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I survive, am surviving'}
+      1s: sobreviva
+      1p: sobrevivamos
+      2s: sobrevivas
+      2p: sobreviváis
+      3s: sobreviva
+      3p: sobrevivan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I survived, was surviving'}
+      1s: sobreviviera
+      1p: sobreviviéramos
+      2s: sobrevivieras
+      2p: sobrevivierais
+      3s: sobreviviera
+      3p: sobrevivieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will survive}
+      1s: sobreviviere
+      1p: sobreviviéremos
+      2s: sobrevivieres
+      2p: sobreviviereis
+      3s: sobreviviere
+      3p: sobrevivieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have survived, survived'}
+      1s: haya sobrevivido
+      1p: hayamos sobrevivido
+      2s: hayas sobrevivido
+      2p: hayáis sobrevivido
+      3s: haya sobrevivido
+      3p: hayan sobrevivido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have survived}
+      1s: hubiere sobrevivido
+      1p: hubiéremos sobrevivido
+      2s: hubieres sobrevivido
+      2p: hubiereis sobrevivido
+      3s: hubiere sobrevivido
+      3p: hubieren sobrevivido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had survived}
+      1s: hubiera sobrevivido
+      1p: hubiéramos sobrevivido
+      2s: hubieras sobrevivido
+      2p: hubierais sobrevivido
+      3s: hubiera sobrevivido
+      3p: hubieran sobrevivido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Survive! Don't survive!}
+      1s: ''
+      1p: ''
+      2s: sobrevive
+      2p: sobreviva
+      3s: sobrevivid
+      3p: sobrevivan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Survive! Don't survive!}
+      1s: ''
+      1p: ''
+      2s: no sobrevivas
+      2p: no sobreviva
+      3s: no sobreviváis
+      3p: no sobrevivan

@@ -1,0 +1,186 @@
+civilizar:
+  infinitive: civilizar
+  gerund: civilizando
+  pastparticiple: civilizado
+  definitions: {en: to civilize}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I civilize, am civilizing'}
+      1s: civilizo
+      1p: civilizamos
+      2s: civilizas
+      2p: civilizáis
+      3s: civiliza
+      3p: civilizan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will civilize}
+      1s: civilizaré
+      1p: civilizaremos
+      2s: civilizarás
+      2p: civilizaréis
+      3s: civilizará
+      3p: civilizarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was civilizing, used to civilize, civilized'}
+      1s: civilizaba
+      1p: civilizábamos
+      2s: civilizabas
+      2p: civilizabais
+      3s: civilizaba
+      3p: civilizaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I civilized}
+      1s: civilicé
+      1p: civilizamos
+      2s: civilizaste
+      2p: civilizasteis
+      3s: civilizó
+      3p: civilizaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would civilize}
+      1s: civilizaría
+      1p: civilizaríamos
+      2s: civilizarías
+      2p: civilizaríais
+      3s: civilizaría
+      3p: civilizarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have civilized}
+      1s: he civilizado
+      1p: hemos civilizado
+      2s: has civilizado
+      2p: habéis civilizado
+      3s: ha civilizado
+      3p: han civilizado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have civilized}
+      1s: habré civilizado
+      1p: habremos civilizado
+      2s: habrás civilizado
+      2p: habréis civilizado
+      3s: habrá civilizado
+      3p: habrán civilizado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had civilized}
+      1s: había civilizado
+      1p: habíamos civilizado
+      2s: habías civilizado
+      2p: habíais civilizado
+      3s: había civilizado
+      3p: habían civilizado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had civilized}
+      1s: hube civilizado
+      1p: hubimos civilizado
+      2s: hubiste civilizado
+      2p: hubisteis civilizado
+      3s: hubo civilizado
+      3p: hubieron civilizado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have civilized}
+      1s: habría civilizado
+      1p: habríamos civilizado
+      2s: habrías civilizado
+      2p: habríais civilizado
+      3s: habría civilizado
+      3p: habrían civilizado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I civilize, am civilizing'}
+      1s: civilice
+      1p: civilicemos
+      2s: civilices
+      2p: civilicéis
+      3s: civilice
+      3p: civilicen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I civilized, was civilizing'}
+      1s: civilizara
+      1p: civilizáramos
+      2s: civilizaras
+      2p: civilizarais
+      3s: civilizara
+      3p: civilizaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will civilize}
+      1s: civilizare
+      1p: civilizáremos
+      2s: civilizares
+      2p: civilizareis
+      3s: civilizare
+      3p: civilizaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have civilized, civilized'}
+      1s: haya civilizado
+      1p: hayamos civilizado
+      2s: hayas civilizado
+      2p: hayáis civilizado
+      3s: haya civilizado
+      3p: hayan civilizado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have civilized}
+      1s: hubiere civilizado
+      1p: hubiéremos civilizado
+      2s: hubieres civilizado
+      2p: hubiereis civilizado
+      3s: hubiere civilizado
+      3p: hubieren civilizado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had civilized}
+      1s: hubiera civilizado
+      1p: hubiéramos civilizado
+      2s: hubieras civilizado
+      2p: hubierais civilizado
+      3s: hubiera civilizado
+      3p: hubieran civilizado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Civilize! Don't civilize!}
+      1s: ''
+      1p: ''
+      2s: civiliza
+      2p: civilice
+      3s: civilizad
+      3p: civilicen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Civilize! Don't civilize!}
+      1s: ''
+      1p: ''
+      2s: no civilices
+      2p: no civilice
+      3s: no civilicéis
+      3p: no civilicen

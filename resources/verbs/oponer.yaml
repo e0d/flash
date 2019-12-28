@@ -1,0 +1,187 @@
+oponer:
+  infinitive: oponer
+  gerund: oponiendo
+  pastparticiple: opuesto
+  definitions: {en: 'to pit [A against B], set up [A in opposition to B], play off
+      [A against B]'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I pit, am pitting'}
+      1s: opongo
+      1p: oponemos
+      2s: opones
+      2p: oponéis
+      3s: opone
+      3p: oponen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will pit}
+      1s: opondré
+      1p: opondremos
+      2s: opondrás
+      2p: opondréis
+      3s: opondrá
+      3p: opondrán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was pitting, used to pit, pitted'}
+      1s: oponía
+      1p: oponíamos
+      2s: oponías
+      2p: oponíais
+      3s: oponía
+      3p: oponían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I pitted}
+      1s: opuse
+      1p: opusimos
+      2s: opusiste
+      2p: opusisteis
+      3s: opuso
+      3p: opusieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would pit}
+      1s: opondría
+      1p: opondríamos
+      2s: opondrías
+      2p: opondríais
+      3s: opondría
+      3p: opondrían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have pitted}
+      1s: he opuesto
+      1p: hemos opuesto
+      2s: has opuesto
+      2p: habéis opuesto
+      3s: ha opuesto
+      3p: han opuesto
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have pitted}
+      1s: habré opuesto
+      1p: habremos opuesto
+      2s: habrás opuesto
+      2p: habréis opuesto
+      3s: habrá opuesto
+      3p: habrán opuesto
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had pitted}
+      1s: había opuesto
+      1p: habíamos opuesto
+      2s: habías opuesto
+      2p: habíais opuesto
+      3s: había opuesto
+      3p: habían opuesto
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had pitted}
+      1s: hube opuesto
+      1p: hubimos opuesto
+      2s: hubiste opuesto
+      2p: hubisteis opuesto
+      3s: hubo opuesto
+      3p: hubieron opuesto
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have pitted}
+      1s: habría opuesto
+      1p: habríamos opuesto
+      2s: habrías opuesto
+      2p: habríais opuesto
+      3s: habría opuesto
+      3p: habrían opuesto
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I pit, am pitting'}
+      1s: oponga
+      1p: opongamos
+      2s: opongas
+      2p: opongáis
+      3s: oponga
+      3p: opongan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I pitted, was pitting'}
+      1s: opusiera
+      1p: opusiéramos
+      2s: opusieras
+      2p: opusierais
+      3s: opusiera
+      3p: opusieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will pit}
+      1s: opusiere
+      1p: opusiéremos
+      2s: opusieres
+      2p: opusiereis
+      3s: opusiere
+      3p: opusieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have pitted, pitted'}
+      1s: haya opuesto
+      1p: hayamos opuesto
+      2s: hayas opuesto
+      2p: hayáis opuesto
+      3s: haya opuesto
+      3p: hayan opuesto
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have pitted}
+      1s: hubiere opuesto
+      1p: hubiéremos opuesto
+      2s: hubieres opuesto
+      2p: hubiereis opuesto
+      3s: hubiere opuesto
+      3p: hubieren opuesto
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had pitted}
+      1s: hubiera opuesto
+      1p: hubiéramos opuesto
+      2s: hubieras opuesto
+      2p: hubierais opuesto
+      3s: hubiera opuesto
+      3p: hubieran opuesto
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Pit! Don't pit!}
+      1s: ''
+      1p: ''
+      2s: opón
+      2p: oponga
+      3s: oponed
+      3p: opongan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Pit! Don't pit!}
+      1s: ''
+      1p: ''
+      2s: no opongas
+      2p: no oponga
+      3s: no opongáis
+      3p: no opongan

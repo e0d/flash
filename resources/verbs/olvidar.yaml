@@ -1,0 +1,186 @@
+olvidar:
+  infinitive: olvidar
+  gerund: olvidando
+  pastparticiple: olvidado
+  definitions: {en: to forget}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I forget, am forgetting'}
+      1s: olvido
+      1p: olvidamos
+      2s: olvidas
+      2p: olvidáis
+      3s: olvida
+      3p: olvidan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will forget}
+      1s: olvidaré
+      1p: olvidaremos
+      2s: olvidarás
+      2p: olvidaréis
+      3s: olvidará
+      3p: olvidarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was forgetting, used to forget, forgot'}
+      1s: olvidaba
+      1p: olvidábamos
+      2s: olvidabas
+      2p: olvidabais
+      3s: olvidaba
+      3p: olvidaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I forgot}
+      1s: olvidé
+      1p: olvidamos
+      2s: olvidaste
+      2p: olvidasteis
+      3s: olvidó
+      3p: olvidaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would forget}
+      1s: olvidaría
+      1p: olvidaríamos
+      2s: olvidarías
+      2p: olvidaríais
+      3s: olvidaría
+      3p: olvidarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have forgotten}
+      1s: he olvidado
+      1p: hemos olvidado
+      2s: has olvidado
+      2p: habéis olvidado
+      3s: ha olvidado
+      3p: han olvidado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have forgotten}
+      1s: habré olvidado
+      1p: habremos olvidado
+      2s: habrás olvidado
+      2p: habréis olvidado
+      3s: habrá olvidado
+      3p: habrán olvidado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had forgotten}
+      1s: había olvidado
+      1p: habíamos olvidado
+      2s: habías olvidado
+      2p: habíais olvidado
+      3s: había olvidado
+      3p: habían olvidado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had forgotten}
+      1s: hube olvidado
+      1p: hubimos olvidado
+      2s: hubiste olvidado
+      2p: hubisteis olvidado
+      3s: hubo olvidado
+      3p: hubieron olvidado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have forgotten}
+      1s: habría olvidado
+      1p: habríamos olvidado
+      2s: habrías olvidado
+      2p: habríais olvidado
+      3s: habría olvidado
+      3p: habrían olvidado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I forget, am forgetting'}
+      1s: olvide
+      1p: olvidemos
+      2s: olvides
+      2p: olvidéis
+      3s: olvide
+      3p: olviden
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I forgot, was forgetting'}
+      1s: olvidara
+      1p: olvidáramos
+      2s: olvidaras
+      2p: olvidarais
+      3s: olvidara
+      3p: olvidaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will forget}
+      1s: olvidare
+      1p: olvidáremos
+      2s: olvidares
+      2p: olvidareis
+      3s: olvidare
+      3p: olvidaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have forgotten, forgot'}
+      1s: haya olvidado
+      1p: hayamos olvidado
+      2s: hayas olvidado
+      2p: hayáis olvidado
+      3s: haya olvidado
+      3p: hayan olvidado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have forgotten}
+      1s: hubiere olvidado
+      1p: hubiéremos olvidado
+      2s: hubieres olvidado
+      2p: hubiereis olvidado
+      3s: hubiere olvidado
+      3p: hubieren olvidado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had forgotten}
+      1s: hubiera olvidado
+      1p: hubiéramos olvidado
+      2s: hubieras olvidado
+      2p: hubierais olvidado
+      3s: hubiera olvidado
+      3p: hubieran olvidado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Forget! Don't forget!}
+      1s: ''
+      1p: ''
+      2s: olvida
+      2p: olvide
+      3s: olvidad
+      3p: olviden
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Forget! Don't forget!}
+      1s: ''
+      1p: ''
+      2s: no olvides
+      2p: no olvide
+      3s: no olvidéis
+      3p: no olviden

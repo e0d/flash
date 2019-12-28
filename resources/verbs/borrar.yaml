@@ -1,0 +1,186 @@
+borrar:
+  infinitive: borrar
+  gerund: borrando
+  pastparticiple: borrado
+  definitions: {en: 'to erase, rub out, to cross out, obliterate, wipe out'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I erase, am erasing'}
+      1s: borro
+      1p: borramos
+      2s: borras
+      2p: borráis
+      3s: borra
+      3p: borran
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will erase}
+      1s: borraré
+      1p: borraremos
+      2s: borrarás
+      2p: borraréis
+      3s: borrará
+      3p: borrarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was erasing, used to erase, erased'}
+      1s: borraba
+      1p: borrábamos
+      2s: borrabas
+      2p: borrabais
+      3s: borraba
+      3p: borraban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I erased}
+      1s: borré
+      1p: borramos
+      2s: borraste
+      2p: borrasteis
+      3s: borró
+      3p: borraron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would erase}
+      1s: borraría
+      1p: borraríamos
+      2s: borrarías
+      2p: borraríais
+      3s: borraría
+      3p: borrarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have erased}
+      1s: he borrado
+      1p: hemos borrado
+      2s: has borrado
+      2p: habéis borrado
+      3s: ha borrado
+      3p: han borrado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have erased}
+      1s: habré borrado
+      1p: habremos borrado
+      2s: habrás borrado
+      2p: habréis borrado
+      3s: habrá borrado
+      3p: habrán borrado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had erased}
+      1s: había borrado
+      1p: habíamos borrado
+      2s: habías borrado
+      2p: habíais borrado
+      3s: había borrado
+      3p: habían borrado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had erased}
+      1s: hube borrado
+      1p: hubimos borrado
+      2s: hubiste borrado
+      2p: hubisteis borrado
+      3s: hubo borrado
+      3p: hubieron borrado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have erased}
+      1s: habría borrado
+      1p: habríamos borrado
+      2s: habrías borrado
+      2p: habríais borrado
+      3s: habría borrado
+      3p: habrían borrado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I erase, am erasing'}
+      1s: borre
+      1p: borremos
+      2s: borres
+      2p: borréis
+      3s: borre
+      3p: borren
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I erased, was erasing'}
+      1s: borrara
+      1p: borráramos
+      2s: borraras
+      2p: borrarais
+      3s: borrara
+      3p: borraran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will erase}
+      1s: borrare
+      1p: borráremos
+      2s: borrares
+      2p: borrareis
+      3s: borrare
+      3p: borraren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have erased, erased'}
+      1s: haya borrado
+      1p: hayamos borrado
+      2s: hayas borrado
+      2p: hayáis borrado
+      3s: haya borrado
+      3p: hayan borrado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have erased}
+      1s: hubiere borrado
+      1p: hubiéremos borrado
+      2s: hubieres borrado
+      2p: hubiereis borrado
+      3s: hubiere borrado
+      3p: hubieren borrado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had erased}
+      1s: hubiera borrado
+      1p: hubiéramos borrado
+      2s: hubieras borrado
+      2p: hubierais borrado
+      3s: hubiera borrado
+      3p: hubieran borrado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Erase! Don't erase!}
+      1s: ''
+      1p: ''
+      2s: borra
+      2p: borre
+      3s: borrad
+      3p: borren
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Erase! Don't erase!}
+      1s: ''
+      1p: ''
+      2s: no borres
+      2p: no borre
+      3s: no borréis
+      3p: no borren

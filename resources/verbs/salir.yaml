@@ -1,0 +1,186 @@
+salir:
+  infinitive: salir
+  gerund: saliendo
+  pastparticiple: salido
+  definitions: {en: 'to leave, go out'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I leave, am leaving'}
+      1s: salgo
+      1p: salimos
+      2s: sales
+      2p: salís
+      3s: sale
+      3p: salen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will leave}
+      1s: saldré
+      1p: saldremos
+      2s: saldrás
+      2p: saldréis
+      3s: saldrá
+      3p: saldrán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was leaving, used to leave, left'}
+      1s: salía
+      1p: salíamos
+      2s: salías
+      2p: salíais
+      3s: salía
+      3p: salían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I left}
+      1s: salí
+      1p: salimos
+      2s: saliste
+      2p: salisteis
+      3s: salió
+      3p: salieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would leave}
+      1s: saldría
+      1p: saldríamos
+      2s: saldrías
+      2p: saldríais
+      3s: saldría
+      3p: saldrían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I have left, left'}
+      1s: he salido
+      1p: hemos salido
+      2s: has salido
+      2p: habéis salido
+      3s: ha salido
+      3p: han salido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have left}
+      1s: habré salido
+      1p: habremos salido
+      2s: habrás salido
+      2p: habréis salido
+      3s: habrá salido
+      3p: habrán salido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had left}
+      1s: había salido
+      1p: habíamos salido
+      2s: habías salido
+      2p: habíais salido
+      3s: había salido
+      3p: habían salido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had left}
+      1s: hube salido
+      1p: hubimos salido
+      2s: hubiste salido
+      2p: hubisteis salido
+      3s: hubo salido
+      3p: hubieron salido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have left}
+      1s: habría salido
+      1p: habríamos salido
+      2s: habrías salido
+      2p: habríais salido
+      3s: habría salido
+      3p: habrían salido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I leave, am leaving'}
+      1s: salga
+      1p: salgamos
+      2s: salgas
+      2p: salgáis
+      3s: salga
+      3p: salgan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I left, was leaving'}
+      1s: saliera
+      1p: saliéramos
+      2s: salieras
+      2p: salierais
+      3s: saliera
+      3p: salieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will leave}
+      1s: saliere
+      1p: saliéremos
+      2s: salieres
+      2p: saliereis
+      3s: saliere
+      3p: salieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have left, left'}
+      1s: haya salido
+      1p: hayamos salido
+      2s: hayas salido
+      2p: hayáis salido
+      3s: haya salido
+      3p: hayan salido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have left}
+      1s: hubiere salido
+      1p: hubiéremos salido
+      2s: hubieres salido
+      2p: hubiereis salido
+      3s: hubiere salido
+      3p: hubieren salido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had left}
+      1s: hubiera salido
+      1p: hubiéramos salido
+      2s: hubieras salido
+      2p: hubierais salido
+      3s: hubiera salido
+      3p: hubieran salido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Leave! Don't leave!}
+      1s: ''
+      1p: ''
+      2s: sal
+      2p: salga
+      3s: salid
+      3p: salgan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Leave! Don't leave!}
+      1s: ''
+      1p: ''
+      2s: no salgas
+      2p: no salga
+      3s: no salgáis
+      3p: no salgan

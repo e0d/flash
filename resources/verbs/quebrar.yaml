@@ -1,0 +1,186 @@
+quebrar:
+  infinitive: quebrar
+  gerund: quebrando
+  pastparticiple: quebrado
+  definitions: {en: 'to break, smash; to fail, go bankrupt'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I break, am breaking'}
+      1s: quiebro
+      1p: quebramos
+      2s: quiebras
+      2p: quebráis
+      3s: quiebra
+      3p: quiebran
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will break}
+      1s: quebraré
+      1p: quebraremos
+      2s: quebrarás
+      2p: quebraréis
+      3s: quebrará
+      3p: quebrarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was breaking, used to break, broke'}
+      1s: quebraba
+      1p: quebrábamos
+      2s: quebrabas
+      2p: quebrabais
+      3s: quebraba
+      3p: quebraban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I broke}
+      1s: quebré
+      1p: quebramos
+      2s: quebraste
+      2p: quebrasteis
+      3s: quebró
+      3p: quebraron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would break}
+      1s: quebraría
+      1p: quebraríamos
+      2s: quebrarías
+      2p: quebraríais
+      3s: quebraría
+      3p: quebrarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have broken}
+      1s: he quebrado
+      1p: hemos quebrado
+      2s: has quebrado
+      2p: habéis quebrado
+      3s: ha quebrado
+      3p: han quebrado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have broken}
+      1s: habré quebrado
+      1p: habremos quebrado
+      2s: habrás quebrado
+      2p: habréis quebrado
+      3s: habrá quebrado
+      3p: habrán quebrado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had broken}
+      1s: había quebrado
+      1p: habíamos quebrado
+      2s: habías quebrado
+      2p: habíais quebrado
+      3s: había quebrado
+      3p: habían quebrado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had broken}
+      1s: hube quebrado
+      1p: hubimos quebrado
+      2s: hubiste quebrado
+      2p: hubisteis quebrado
+      3s: hubo quebrado
+      3p: hubieron quebrado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have broken}
+      1s: habría quebrado
+      1p: habríamos quebrado
+      2s: habrías quebrado
+      2p: habríais quebrado
+      3s: habría quebrado
+      3p: habrían quebrado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I break, am breaking'}
+      1s: quiebre
+      1p: quebremos
+      2s: quiebres
+      2p: quebréis
+      3s: quiebre
+      3p: quiebren
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I broke, was breaking'}
+      1s: quebrara
+      1p: quebráramos
+      2s: quebraras
+      2p: quebrarais
+      3s: quebrara
+      3p: quebraran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will break}
+      1s: quebrare
+      1p: quebráremos
+      2s: quebrares
+      2p: quebrareis
+      3s: quebrare
+      3p: quebraren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have broken, broke'}
+      1s: haya quebrado
+      1p: hayamos quebrado
+      2s: hayas quebrado
+      2p: hayáis quebrado
+      3s: haya quebrado
+      3p: hayan quebrado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have broken}
+      1s: hubiere quebrado
+      1p: hubiéremos quebrado
+      2s: hubieres quebrado
+      2p: hubiereis quebrado
+      3s: hubiere quebrado
+      3p: hubieren quebrado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had broken}
+      1s: hubiera quebrado
+      1p: hubiéramos quebrado
+      2s: hubieras quebrado
+      2p: hubierais quebrado
+      3s: hubiera quebrado
+      3p: hubieran quebrado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Break! Don't break!}
+      1s: ''
+      1p: ''
+      2s: quiebra
+      2p: quiebre
+      3s: quebrad
+      3p: quiebren
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Break! Don't break!}
+      1s: ''
+      1p: ''
+      2s: no quiebres
+      2p: no quiebre
+      3s: no quebréis
+      3p: no quiebren

@@ -1,0 +1,186 @@
+desaparecer:
+  infinitive: desaparecer
+  gerund: desapareciendo
+  pastparticiple: desaparecido
+  definitions: {en: to disappear}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I disappear, am disappearing'}
+      1s: desaparezco
+      1p: desaparecemos
+      2s: desapareces
+      2p: desaparecéis
+      3s: desaparece
+      3p: desaparecen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will disappear}
+      1s: desapareceré
+      1p: desapareceremos
+      2s: desaparecerás
+      2p: desapareceréis
+      3s: desaparecerá
+      3p: desaparecerán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was disappearing, used to disappear, disappeared'}
+      1s: desaparecía
+      1p: desaparecíamos
+      2s: desaparecías
+      2p: desaparecíais
+      3s: desaparecía
+      3p: desaparecían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I disappeared}
+      1s: desaparecí
+      1p: desaparecimos
+      2s: desapareciste
+      2p: desaparecisteis
+      3s: desapareció
+      3p: desaparecieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would disappear}
+      1s: desaparecería
+      1p: desapareceríamos
+      2s: desaparecerías
+      2p: desapareceríais
+      3s: desaparecería
+      3p: desaparecerían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have disappeared}
+      1s: he desaparecido
+      1p: hemos desaparecido
+      2s: has desaparecido
+      2p: habéis desaparecido
+      3s: ha desaparecido
+      3p: han desaparecido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have disappeared}
+      1s: habré desaparecido
+      1p: habremos desaparecido
+      2s: habrás desaparecido
+      2p: habréis desaparecido
+      3s: habrá desaparecido
+      3p: habrán desaparecido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had disappeared}
+      1s: había desaparecido
+      1p: habíamos desaparecido
+      2s: habías desaparecido
+      2p: habíais desaparecido
+      3s: había desaparecido
+      3p: habían desaparecido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had disappeared}
+      1s: hube desaparecido
+      1p: hubimos desaparecido
+      2s: hubiste desaparecido
+      2p: hubisteis desaparecido
+      3s: hubo desaparecido
+      3p: hubieron desaparecido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have disappeared}
+      1s: habría desaparecido
+      1p: habríamos desaparecido
+      2s: habrías desaparecido
+      2p: habríais desaparecido
+      3s: habría desaparecido
+      3p: habrían desaparecido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I disappear, am disappearing'}
+      1s: desaparezca
+      1p: desaparezcamos
+      2s: desaparezcas
+      2p: desaparezcáis
+      3s: desaparezca
+      3p: desaparezcan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I disappeared, was disappearing'}
+      1s: desapareciera
+      1p: desapareciéramos
+      2s: desaparecieras
+      2p: desaparecierais
+      3s: desapareciera
+      3p: desaparecieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will disappear}
+      1s: desapareciere
+      1p: desapareciéremos
+      2s: desaparecieres
+      2p: desapareciereis
+      3s: desapareciere
+      3p: desaparecieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have disappeared, disappeared'}
+      1s: haya desaparecido
+      1p: hayamos desaparecido
+      2s: hayas desaparecido
+      2p: hayáis desaparecido
+      3s: haya desaparecido
+      3p: hayan desaparecido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have disappeared}
+      1s: hubiere desaparecido
+      1p: hubiéremos desaparecido
+      2s: hubieres desaparecido
+      2p: hubiereis desaparecido
+      3s: hubiere desaparecido
+      3p: hubieren desaparecido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had disappeared}
+      1s: hubiera desaparecido
+      1p: hubiéramos desaparecido
+      2s: hubieras desaparecido
+      2p: hubierais desaparecido
+      3s: hubiera desaparecido
+      3p: hubieran desaparecido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Disappear! Don't disappear!}
+      1s: ''
+      1p: ''
+      2s: desaparece
+      2p: desaparezca
+      3s: desapareced
+      3p: desaparezcan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Disappear! Don't disappear!}
+      1s: ''
+      1p: ''
+      2s: no desaparezcas
+      2p: no desaparezca
+      3s: no desaparezcáis
+      3p: no desaparezcan

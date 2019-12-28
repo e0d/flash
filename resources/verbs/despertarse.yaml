@@ -1,0 +1,186 @@
+despertarse:
+  infinitive: despertarse
+  gerund: despertándose
+  pastparticiple: despertado
+  definitions: {en: 'to wake up, lie down'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I wake up, am waking up'}
+      1s: me despierto
+      1p: nos despertamos
+      2s: te despiertas
+      2p: os despertáis
+      3s: se despierta
+      3p: se despiertan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will wake up}
+      1s: me despertaré
+      1p: nos despertaremos
+      2s: te despertarás
+      2p: os despertaréis
+      3s: se despertará
+      3p: se despertarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was waking up, used to wake up, woke up'}
+      1s: me despertaba
+      1p: nos despertábamos
+      2s: te despertabas
+      2p: os despertabais
+      3s: se despertaba
+      3p: se despertaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I woke up}
+      1s: me desperté
+      1p: nos despertamos
+      2s: te despertaste
+      2p: os despertasteis
+      3s: se despertó
+      3p: se despertaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would wake up}
+      1s: me despertaría
+      1p: nos despertaríamos
+      2s: te despertarías
+      2p: os despertaríais
+      3s: se despertaría
+      3p: se despertarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have waken up}
+      1s: me he despertado
+      1p: nos hemos despertado
+      2s: te has despertado
+      2p: os habéis despertado
+      3s: se ha despertado
+      3p: se han despertado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have waken up}
+      1s: me habré despertado
+      1p: nos habremos despertado
+      2s: te habrás despertado
+      2p: os habréis despertado
+      3s: se habrá despertado
+      3p: se habrán despertado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had waken up}
+      1s: me había despertado
+      1p: nos habíamos despertado
+      2s: te habías despertado
+      2p: os habíais despertado
+      3s: se había despertado
+      3p: se habían despertado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had waken up}
+      1s: me hube despertado
+      1p: nos hubimos despertado
+      2s: te hubiste despertado
+      2p: os hubisteis despertado
+      3s: se hubo despertado
+      3p: se hubieron despertado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have waken up}
+      1s: me habría despertado
+      1p: nos habríamos despertado
+      2s: te habrías despertado
+      2p: os habríais despertado
+      3s: se habría despertado
+      3p: se habrían despertado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I wake up, am waking up'}
+      1s: me despierte
+      1p: nos despertemos
+      2s: te despiertes
+      2p: os despertéis
+      3s: se despierte
+      3p: se despierten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I woke up, was waking up'}
+      1s: me despertara
+      1p: nos despertáramos
+      2s: te despertaras
+      2p: os despertarais
+      3s: se despertara
+      3p: se despertaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will wake up}
+      1s: me despertare
+      1p: nos despertáremos
+      2s: te despertares
+      2p: os despertareis
+      3s: se despertare
+      3p: se despertaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have waken up, woke up'}
+      1s: me haya despertado
+      1p: nos hayamos despertado
+      2s: te hayas despertado
+      2p: os hayáis despertado
+      3s: se haya despertado
+      3p: se hayan despertado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have waken up}
+      1s: me hubiere despertado
+      1p: nos hubiéremos despertado
+      2s: te hubieres despertado
+      2p: os hubiereis despertado
+      3s: se hubiere despertado
+      3p: se hubieren despertado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had waken up}
+      1s: me hubiera despertado
+      1p: nos hubiéramos despertado
+      2s: te hubieras despertado
+      2p: os hubierais despertado
+      3s: se hubiera despertado
+      3p: se hubieran despertado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Wake up! Don't wake up!}
+      1s: ''
+      1p: ''
+      2s: despiértate
+      2p: despiértese
+      3s: despertaos
+      3p: despiértense
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Wake up! Don't wake up!}
+      1s: ''
+      1p: ''
+      2s: no te despiertes
+      2p: no se despierte
+      3s: no os despertéis
+      3p: no se despierten

@@ -1,0 +1,186 @@
+verificar:
+  infinitive: verificar
+  gerund: verificando
+  pastparticiple: verificado
+  definitions: {en: 'to verify, check, inspect'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I verify, am verifying'}
+      1s: verifico
+      1p: verificamos
+      2s: verificas
+      2p: verificáis
+      3s: verifica
+      3p: verifican
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will verify}
+      1s: verificaré
+      1p: verificaremos
+      2s: verificarás
+      2p: verificaréis
+      3s: verificará
+      3p: verificarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was verifying, used to verify, verified'}
+      1s: verificaba
+      1p: verificábamos
+      2s: verificabas
+      2p: verificabais
+      3s: verificaba
+      3p: verificaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I verified}
+      1s: verifiqué
+      1p: verificamos
+      2s: verificaste
+      2p: verificasteis
+      3s: verificó
+      3p: verificaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would verify}
+      1s: verificaría
+      1p: verificaríamos
+      2s: verificarías
+      2p: verificaríais
+      3s: verificaría
+      3p: verificarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have verified}
+      1s: he verificado
+      1p: hemos verificado
+      2s: has verificado
+      2p: habéis verificado
+      3s: ha verificado
+      3p: han verificado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have verified}
+      1s: habré verificado
+      1p: habremos verificado
+      2s: habrás verificado
+      2p: habréis verificado
+      3s: habrá verificado
+      3p: habrán verificado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had verified}
+      1s: había verificado
+      1p: habíamos verificado
+      2s: habías verificado
+      2p: habíais verificado
+      3s: había verificado
+      3p: habían verificado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had verified}
+      1s: hube verificado
+      1p: hubimos verificado
+      2s: hubiste verificado
+      2p: hubisteis verificado
+      3s: hubo verificado
+      3p: hubieron verificado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have verified}
+      1s: habría verificado
+      1p: habríamos verificado
+      2s: habrías verificado
+      2p: habríais verificado
+      3s: habría verificado
+      3p: habrían verificado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I verify, am verifying'}
+      1s: verifique
+      1p: verifiquemos
+      2s: verifiques
+      2p: verifiquéis
+      3s: verifique
+      3p: verifiquen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I verified, was verifying'}
+      1s: verificara
+      1p: verificáramos
+      2s: verificaras
+      2p: verificarais
+      3s: verificara
+      3p: verificaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will verify}
+      1s: verificare
+      1p: verificáremos
+      2s: verificares
+      2p: verificareis
+      3s: verificare
+      3p: verificaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have verified, verified'}
+      1s: haya verificado
+      1p: hayamos verificado
+      2s: hayas verificado
+      2p: hayáis verificado
+      3s: haya verificado
+      3p: hayan verificado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have verified}
+      1s: hubiere verificado
+      1p: hubiéremos verificado
+      2s: hubieres verificado
+      2p: hubiereis verificado
+      3s: hubiere verificado
+      3p: hubieren verificado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had verified}
+      1s: hubiera verificado
+      1p: hubiéramos verificado
+      2s: hubieras verificado
+      2p: hubierais verificado
+      3s: hubiera verificado
+      3p: hubieran verificado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Verify! Don't verify!}
+      1s: ''
+      1p: ''
+      2s: verifica
+      2p: verifique
+      3s: verificad
+      3p: verifiquen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Verify! Don't verify!}
+      1s: ''
+      1p: ''
+      2s: no verifiques
+      2p: no verifique
+      3s: no verifiquéis
+      3p: no verifiquen

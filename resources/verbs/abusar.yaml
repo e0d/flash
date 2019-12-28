@@ -1,0 +1,186 @@
+abusar:
+  infinitive: abusar
+  gerund: abusando
+  pastparticiple: abusado
+  definitions: {en: 'to go too far, take advantage'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I go too far, am going too far'}
+      1s: abuso
+      1p: abusamos
+      2s: abusas
+      2p: abusáis
+      3s: abusa
+      3p: abusan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will go too far}
+      1s: abusaré
+      1p: abusaremos
+      2s: abusarás
+      2p: abusaréis
+      3s: abusará
+      3p: abusarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was going too far, used to go too far, went too far'}
+      1s: abusaba
+      1p: abusábamos
+      2s: abusabas
+      2p: abusabais
+      3s: abusaba
+      3p: abusaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I went too far}
+      1s: abusé
+      1p: abusamos
+      2s: abusaste
+      2p: abusasteis
+      3s: abusó
+      3p: abusaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would go too far}
+      1s: abusaría
+      1p: abusaríamos
+      2s: abusarías
+      2p: abusaríais
+      3s: abusaría
+      3p: abusarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have gone too far}
+      1s: he abusado
+      1p: hemos abusado
+      2s: has abusado
+      2p: habéis abusado
+      3s: ha abusado
+      3p: han abusado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have gone too far}
+      1s: habré abusado
+      1p: habremos abusado
+      2s: habrás abusado
+      2p: habréis abusado
+      3s: habrá abusado
+      3p: habrán abusado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had gone too far}
+      1s: había abusado
+      1p: habíamos abusado
+      2s: habías abusado
+      2p: habíais abusado
+      3s: había abusado
+      3p: habían abusado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had gone too far}
+      1s: hube abusado
+      1p: hubimos abusado
+      2s: hubiste abusado
+      2p: hubisteis abusado
+      3s: hubo abusado
+      3p: hubieron abusado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have gone too far}
+      1s: habría abusado
+      1p: habríamos abusado
+      2s: habrías abusado
+      2p: habríais abusado
+      3s: habría abusado
+      3p: habrían abusado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I go too far, am going too far'}
+      1s: abuse
+      1p: abusemos
+      2s: abuses
+      2p: abuséis
+      3s: abuse
+      3p: abusen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I went too far, was going too far'}
+      1s: abusara
+      1p: abusáramos
+      2s: abusaras
+      2p: abusarais
+      3s: abusara
+      3p: abusaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will go too far}
+      1s: abusare
+      1p: abusáremos
+      2s: abusares
+      2p: abusareis
+      3s: abusare
+      3p: abusaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have gone too far, went too far'}
+      1s: haya abusado
+      1p: hayamos abusado
+      2s: hayas abusado
+      2p: hayáis abusado
+      3s: haya abusado
+      3p: hayan abusado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have gone too far}
+      1s: hubiere abusado
+      1p: hubiéremos abusado
+      2s: hubieres abusado
+      2p: hubiereis abusado
+      3s: hubiere abusado
+      3p: hubieren abusado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had gone too far}
+      1s: hubiera abusado
+      1p: hubiéramos abusado
+      2s: hubieras abusado
+      2p: hubierais abusado
+      3s: hubiera abusado
+      3p: hubieran abusado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Go too far! Don't go too far!}
+      1s: ''
+      1p: ''
+      2s: abusa
+      2p: abuse
+      3s: abusad
+      3p: abusen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Go too far! Don't go too far!}
+      1s: ''
+      1p: ''
+      2s: no abuses
+      2p: no abuse
+      3s: no abuséis
+      3p: no abusen

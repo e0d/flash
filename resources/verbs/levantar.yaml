@@ -1,0 +1,186 @@
+levantar:
+  infinitive: levantar
+  gerund: levantando
+  pastparticiple: levantado
+  definitions: {en: 'to raise, to lift'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I raise, am raising'}
+      1s: levanto
+      1p: levantamos
+      2s: levantas
+      2p: levantáis
+      3s: levanta
+      3p: levantan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will raise}
+      1s: levantaré
+      1p: levantaremos
+      2s: levantarás
+      2p: levantaréis
+      3s: levantará
+      3p: levantarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was raising, used to raise, raised'}
+      1s: levantaba
+      1p: levantábamos
+      2s: levantabas
+      2p: levantabais
+      3s: levantaba
+      3p: levantaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I raised}
+      1s: levanté
+      1p: levantamos
+      2s: levantaste
+      2p: levantasteis
+      3s: levantó
+      3p: levantaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would raise}
+      1s: levantaría
+      1p: levantaríamos
+      2s: levantarías
+      2p: levantaríais
+      3s: levantaría
+      3p: levantarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have raised}
+      1s: he levantado
+      1p: hemos levantado
+      2s: has levantado
+      2p: habéis levantado
+      3s: ha levantado
+      3p: han levantado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have raised}
+      1s: habré levantado
+      1p: habremos levantado
+      2s: habrás levantado
+      2p: habréis levantado
+      3s: habrá levantado
+      3p: habrán levantado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had raised}
+      1s: había levantado
+      1p: habíamos levantado
+      2s: habías levantado
+      2p: habíais levantado
+      3s: había levantado
+      3p: habían levantado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had raised}
+      1s: hube levantado
+      1p: hubimos levantado
+      2s: hubiste levantado
+      2p: hubisteis levantado
+      3s: hubo levantado
+      3p: hubieron levantado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have raised}
+      1s: habría levantado
+      1p: habríamos levantado
+      2s: habrías levantado
+      2p: habríais levantado
+      3s: habría levantado
+      3p: habrían levantado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I raise, am raising'}
+      1s: levante
+      1p: levantemos
+      2s: levantes
+      2p: levantéis
+      3s: levante
+      3p: levanten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I raised, was raising'}
+      1s: levantara
+      1p: levantáramos
+      2s: levantaras
+      2p: levantarais
+      3s: levantara
+      3p: levantaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will raise}
+      1s: levantare
+      1p: levantáremos
+      2s: levantares
+      2p: levantareis
+      3s: levantare
+      3p: levantaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have raised, raised'}
+      1s: haya levantado
+      1p: hayamos levantado
+      2s: hayas levantado
+      2p: hayáis levantado
+      3s: haya levantado
+      3p: hayan levantado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have raised}
+      1s: hubiere levantado
+      1p: hubiéremos levantado
+      2s: hubieres levantado
+      2p: hubiereis levantado
+      3s: hubiere levantado
+      3p: hubieren levantado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had raised}
+      1s: hubiera levantado
+      1p: hubiéramos levantado
+      2s: hubieras levantado
+      2p: hubierais levantado
+      3s: hubiera levantado
+      3p: hubieran levantado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: raise! Don't raise!}
+      1s: ''
+      1p: ''
+      2s: levanta
+      2p: levante
+      3s: levantad
+      3p: levanten
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: raise! Don't raise!}
+      1s: ''
+      1p: ''
+      2s: no levantes
+      2p: no levante
+      3s: no levantéis
+      3p: no levanten

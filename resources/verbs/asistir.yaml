@@ -1,0 +1,186 @@
+asistir:
+  infinitive: asistir
+  gerund: asistiendo
+  pastparticiple: asistido
+  definitions: {en: to attend}
+  tenses:
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I attend, am attending'}
+      1s: asista
+      1p: asistamos
+      2s: asistas
+      2p: asistáis
+      3s: asista
+      3p: asistan
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I attend, am attending'}
+      1s: asisto
+      1p: asistimos
+      2s: asistes
+      2p: asistís
+      3s: asiste
+      3p: asisten
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will attend}
+      1s: asistiré
+      1p: asistiremos
+      2s: asistirás
+      2p: asistiréis
+      3s: asistirá
+      3p: asistirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was attending, used to attend, attended'}
+      1s: asistía
+      1p: asistíamos
+      2s: asistías
+      2p: asistíais
+      3s: asistía
+      3p: asistían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I attended}
+      1s: asistí
+      1p: asistimos
+      2s: asististe
+      2p: asististeis
+      3s: asistió
+      3p: asistieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would attend}
+      1s: asistiría
+      1p: asistiríamos
+      2s: asistirías
+      2p: asistiríais
+      3s: asistiría
+      3p: asistirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have attended}
+      1s: he asistido
+      1p: hemos asistido
+      2s: has asistido
+      2p: habéis asistido
+      3s: ha asistido
+      3p: han asistido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have attended}
+      1s: habré asistido
+      1p: habremos asistido
+      2s: habrás asistido
+      2p: habréis asistido
+      3s: habrá asistido
+      3p: habrán asistido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had attended}
+      1s: había asistido
+      1p: habíamos asistido
+      2s: habías asistido
+      2p: habíais asistido
+      3s: había asistido
+      3p: habían asistido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had attended}
+      1s: hube asistido
+      1p: hubimos asistido
+      2s: hubiste asistido
+      2p: hubisteis asistido
+      3s: hubo asistido
+      3p: hubieron asistido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have attended}
+      1s: habría asistido
+      1p: habríamos asistido
+      2s: habrías asistido
+      2p: habríais asistido
+      3s: habría asistido
+      3p: habrían asistido
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I attended, was attending'}
+      1s: asistiera
+      1p: asistiéramos
+      2s: asistieras
+      2p: asistierais
+      3s: asistiera
+      3p: asistieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will attend}
+      1s: asistiere
+      1p: asistiéremos
+      2s: asistieres
+      2p: asistiereis
+      3s: asistiere
+      3p: asistieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have attended, attended'}
+      1s: haya asistido
+      1p: hayamos asistido
+      2s: hayas asistido
+      2p: hayáis asistido
+      3s: haya asistido
+      3p: hayan asistido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have attended}
+      1s: hubiere asistido
+      1p: hubiéremos asistido
+      2s: hubieres asistido
+      2p: hubiereis asistido
+      3s: hubiere asistido
+      3p: hubieren asistido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had attended}
+      1s: hubiera asistido
+      1p: hubiéramos asistido
+      2s: hubieras asistido
+      2p: hubierais asistido
+      3s: hubiera asistido
+      3p: hubieran asistido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Attend! Don't attend!}
+      1s: ''
+      1p: ''
+      2s: asiste
+      2p: asista
+      3s: asistid
+      3p: asistan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Attend! Don't attend!}
+      1s: ''
+      1p: ''
+      2s: no asistas
+      2p: no asista
+      3s: no asistáis
+      3p: no asistan

@@ -1,0 +1,186 @@
+mantener:
+  infinitive: mantener
+  gerund: manteniendo
+  pastparticiple: mantenido
+  definitions: {en: 'to maintain, get'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I maintain, am maintaining'}
+      1s: mantengo
+      1p: mantenemos
+      2s: mantienes
+      2p: mantenéis
+      3s: mantiene
+      3p: mantienen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will maintain}
+      1s: mantendré
+      1p: mantendremos
+      2s: mantendrás
+      2p: mantendréis
+      3s: mantendrá
+      3p: mantendrán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was maintaining, used to maintain, maintained'}
+      1s: mantenía
+      1p: manteníamos
+      2s: mantenías
+      2p: manteníais
+      3s: mantenía
+      3p: mantenían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I maintained}
+      1s: mantuve
+      1p: mantuvimos
+      2s: mantuviste
+      2p: mantuvisteis
+      3s: mantuvo
+      3p: mantuvieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would maintain}
+      1s: mantendría
+      1p: mantendríamos
+      2s: mantendrías
+      2p: mantendríais
+      3s: mantendría
+      3p: mantendrían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have maintained}
+      1s: he mantenido
+      1p: hemos mantenido
+      2s: has mantenido
+      2p: habéis mantenido
+      3s: ha mantenido
+      3p: han mantenido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have maintained}
+      1s: habré mantenido
+      1p: habremos mantenido
+      2s: habrás mantenido
+      2p: habréis mantenido
+      3s: habrá mantenido
+      3p: habrán mantenido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had maintained}
+      1s: había mantenido
+      1p: habíamos mantenido
+      2s: habías mantenido
+      2p: habíais mantenido
+      3s: había mantenido
+      3p: habían mantenido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had maintained}
+      1s: hube mantenido
+      1p: hubimos mantenido
+      2s: hubiste mantenido
+      2p: hubisteis mantenido
+      3s: hubo mantenido
+      3p: hubieron mantenido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have maintained}
+      1s: habría mantenido
+      1p: habríamos mantenido
+      2s: habrías mantenido
+      2p: habríais mantenido
+      3s: habría mantenido
+      3p: habrían mantenido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I maintain, am maintaining'}
+      1s: mantenga
+      1p: mantengamos
+      2s: mantengas
+      2p: mantengáis
+      3s: mantenga
+      3p: mantengan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I maintained, was maintaining'}
+      1s: mantuviera
+      1p: mantuviéramos
+      2s: mantuvieras
+      2p: mantuvierais
+      3s: mantuviera
+      3p: mantuvieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will maintain}
+      1s: mantuviere
+      1p: mantuviéremos
+      2s: mantuvieres
+      2p: mantuviereis
+      3s: mantuviere
+      3p: mantuvieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have maintained, maintained'}
+      1s: haya mantenido
+      1p: hayamos mantenido
+      2s: hayas mantenido
+      2p: hayáis mantenido
+      3s: haya mantenido
+      3p: hayan mantenido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have maintained}
+      1s: hubiere mantenido
+      1p: hubiéremos mantenido
+      2s: hubieres mantenido
+      2p: hubiereis mantenido
+      3s: hubiere mantenido
+      3p: hubieren mantenido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had maintained}
+      1s: hubiera mantenido
+      1p: hubiéramos mantenido
+      2s: hubieras mantenido
+      2p: hubierais mantenido
+      3s: hubiera mantenido
+      3p: hubieran mantenido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Maintain! Don't maintain!}
+      1s: ''
+      1p: ''
+      2s: mantén
+      2p: mantenga
+      3s: mantened
+      3p: mantengan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Maintain! Don't maintain!}
+      1s: ''
+      1p: ''
+      2s: no mantengas
+      2p: no mantenga
+      3s: no mantengáis
+      3p: no mantengan

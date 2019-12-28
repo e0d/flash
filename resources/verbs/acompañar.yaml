@@ -1,0 +1,186 @@
+acompañar:
+  infinitive: acompañar
+  gerund: acompañando
+  pastparticiple: acompañado
+  definitions: {en: 'to accompany, go with, escort'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I accompany, am accompanying'}
+      1s: acompaño
+      1p: acompañamos
+      2s: acompañas
+      2p: acompañáis
+      3s: acompaña
+      3p: acompañan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will accompany}
+      1s: acompañaré
+      1p: acompañaremos
+      2s: acompañarás
+      2p: acompañaréis
+      3s: acompañará
+      3p: acompañarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was accompanying, used to accompany, accompanied'}
+      1s: acompañaba
+      1p: acompañábamos
+      2s: acompañabas
+      2p: acompañabais
+      3s: acompañaba
+      3p: acompañaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I accompanied}
+      1s: acompañé
+      1p: acompañamos
+      2s: acompañaste
+      2p: acompañasteis
+      3s: acompañó
+      3p: acompañaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would accompany}
+      1s: acompañaría
+      1p: acompañaríamos
+      2s: acompañarías
+      2p: acompañaríais
+      3s: acompañaría
+      3p: acompañarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have accompanied}
+      1s: he acompañado
+      1p: hemos acompañado
+      2s: has acompañado
+      2p: habéis acompañado
+      3s: ha acompañado
+      3p: han acompañado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have accompanied}
+      1s: habré acompañado
+      1p: habremos acompañado
+      2s: habrás acompañado
+      2p: habréis acompañado
+      3s: habrá acompañado
+      3p: habrán acompañado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had accompanied}
+      1s: había acompañado
+      1p: habíamos acompañado
+      2s: habías acompañado
+      2p: habíais acompañado
+      3s: había acompañado
+      3p: habían acompañado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had accompanied}
+      1s: hube acompañado
+      1p: hubimos acompañado
+      2s: hubiste acompañado
+      2p: hubisteis acompañado
+      3s: hubo acompañado
+      3p: hubieron acompañado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have accompanied}
+      1s: habría acompañado
+      1p: habríamos acompañado
+      2s: habrías acompañado
+      2p: habríais acompañado
+      3s: habría acompañado
+      3p: habrían acompañado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I accompany, am accompanying'}
+      1s: acompañe
+      1p: acompañemos
+      2s: acompañes
+      2p: acompañéis
+      3s: acompañe
+      3p: acompañen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I accompanied, was accompanying'}
+      1s: acompañara
+      1p: acompañáramos
+      2s: acompañaras
+      2p: acompañarais
+      3s: acompañara
+      3p: acompañaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will accompany}
+      1s: acompañare
+      1p: acompañáremos
+      2s: acompañares
+      2p: acompañareis
+      3s: acompañare
+      3p: acompañaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have accompanied, accompanied'}
+      1s: haya acompañado
+      1p: hayamos acompañado
+      2s: hayas acompañado
+      2p: hayáis acompañado
+      3s: haya acompañado
+      3p: hayan acompañado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have accompanied}
+      1s: hubiere acompañado
+      1p: hubiéremos acompañado
+      2s: hubieres acompañado
+      2p: hubiereis acompañado
+      3s: hubiere acompañado
+      3p: hubieren acompañado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had accompanied}
+      1s: hubiera acompañado
+      1p: hubiéramos acompañado
+      2s: hubieras acompañado
+      2p: hubierais acompañado
+      3s: hubiera acompañado
+      3p: hubieran acompañado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Accompany! Don't accompany!}
+      1s: ''
+      1p: ''
+      2s: acompaña
+      2p: acompañe
+      3s: acompañad
+      3p: acompañen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Accompany! Don't accompany!}
+      1s: ''
+      1p: ''
+      2s: no acompañes
+      2p: no acompañe
+      3s: no acompañéis
+      3p: no acompañen

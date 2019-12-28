@@ -1,0 +1,186 @@
+proteger:
+  infinitive: proteger
+  gerund: protegiendo
+  pastparticiple: protegido
+  definitions: {en: to protect}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I protect, am protecting'}
+      1s: protejo
+      1p: protegemos
+      2s: proteges
+      2p: protegéis
+      3s: protege
+      3p: protegen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will protect}
+      1s: protegeré
+      1p: protegeremos
+      2s: protegerás
+      2p: protegeréis
+      3s: protegerá
+      3p: protegerán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was protecting, used to protect, protected'}
+      1s: protegía
+      1p: protegíamos
+      2s: protegías
+      2p: protegíais
+      3s: protegía
+      3p: protegían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I protected}
+      1s: protegí
+      1p: protegimos
+      2s: protegiste
+      2p: protegisteis
+      3s: protegió
+      3p: protegieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would protect}
+      1s: protegería
+      1p: protegeríamos
+      2s: protegerías
+      2p: protegeríais
+      3s: protegería
+      3p: protegerían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have protected}
+      1s: he protegido
+      1p: hemos protegido
+      2s: has protegido
+      2p: habéis protegido
+      3s: ha protegido
+      3p: han protegido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have protected}
+      1s: habré protegido
+      1p: habremos protegido
+      2s: habrás protegido
+      2p: habréis protegido
+      3s: habrá protegido
+      3p: habrán protegido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had protected}
+      1s: había protegido
+      1p: habíamos protegido
+      2s: habías protegido
+      2p: habíais protegido
+      3s: había protegido
+      3p: habían protegido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had protected}
+      1s: hube protegido
+      1p: hubimos protegido
+      2s: hubiste protegido
+      2p: hubisteis protegido
+      3s: hubo protegido
+      3p: hubieron protegido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have protected}
+      1s: habría protegido
+      1p: habríamos protegido
+      2s: habrías protegido
+      2p: habríais protegido
+      3s: habría protegido
+      3p: habrían protegido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I protect, am protecting'}
+      1s: proteja
+      1p: protejamos
+      2s: protejas
+      2p: protejáis
+      3s: proteja
+      3p: protejan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I protected, was protecting'}
+      1s: protegiera
+      1p: protegiéramos
+      2s: protegieras
+      2p: protegierais
+      3s: protegiera
+      3p: protegieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will protect}
+      1s: protegiere
+      1p: protegiéremos
+      2s: protegieres
+      2p: protegiereis
+      3s: protegiere
+      3p: protegieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have protected, protected'}
+      1s: haya protegido
+      1p: hayamos protegido
+      2s: hayas protegido
+      2p: hayáis protegido
+      3s: haya protegido
+      3p: hayan protegido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have protected}
+      1s: hubiere protegido
+      1p: hubiéremos protegido
+      2s: hubieres protegido
+      2p: hubiereis protegido
+      3s: hubiere protegido
+      3p: hubieren protegido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had protected}
+      1s: hubiera protegido
+      1p: hubiéramos protegido
+      2s: hubieras protegido
+      2p: hubierais protegido
+      3s: hubiera protegido
+      3p: hubieran protegido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Protect! Don't protect!}
+      1s: ''
+      1p: ''
+      2s: protege
+      2p: proteja
+      3s: proteged
+      3p: protejan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Protect! Don't protect!}
+      1s: ''
+      1p: ''
+      2s: no protejas
+      2p: no proteja
+      3s: no protejáis
+      3p: no protejan

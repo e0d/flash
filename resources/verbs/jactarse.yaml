@@ -1,0 +1,186 @@
+jactarse:
+  infinitive: jactarse
+  gerund: jactándose
+  pastparticiple: jactado
+  definitions: {en: 'to boast, brag'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I boast, am boasting'}
+      1s: me jacto
+      1p: nos jactamos
+      2s: te jactas
+      2p: os jactáis
+      3s: se jacta
+      3p: se jactan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will boast}
+      1s: me jactaré
+      1p: nos jactaremos
+      2s: te jactarás
+      2p: os jactaréis
+      3s: se jactará
+      3p: se jactarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was boasting, used to boast, boasted'}
+      1s: me jactaba
+      1p: nos jactábamos
+      2s: te jactabas
+      2p: os jactabais
+      3s: se jactaba
+      3p: se jactaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I boasted}
+      1s: me jacté
+      1p: nos jactamos
+      2s: te jactaste
+      2p: os jactasteis
+      3s: se jactó
+      3p: se jactaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would boast}
+      1s: me jactaría
+      1p: nos jactaríamos
+      2s: te jactarías
+      2p: os jactaríais
+      3s: se jactaría
+      3p: se jactarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have boasted}
+      1s: me he jactado
+      1p: nos hemos jactado
+      2s: te has jactado
+      2p: os habéis jactado
+      3s: se ha jactado
+      3p: se han jactado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have boasted}
+      1s: me habré jactado
+      1p: nos habremos jactado
+      2s: te habrás jactado
+      2p: os habréis jactado
+      3s: se habrá jactado
+      3p: se habrán jactado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had boasted}
+      1s: me había jactado
+      1p: nos habíamos jactado
+      2s: te habías jactado
+      2p: os habíais jactado
+      3s: se había jactado
+      3p: se habían jactado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had boasted}
+      1s: me hube jactado
+      1p: nos hubimos jactado
+      2s: te hubiste jactado
+      2p: os hubisteis jactado
+      3s: se hubo jactado
+      3p: se hubieron jactado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have boasted}
+      1s: me habría jactado
+      1p: nos habríamos jactado
+      2s: te habrías jactado
+      2p: os habríais jactado
+      3s: se habría jactado
+      3p: se habrían jactado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I boast, am boasting'}
+      1s: me jacte
+      1p: nos jactemos
+      2s: te jactes
+      2p: os jactéis
+      3s: se jacte
+      3p: se jacten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I boasted, was boasting'}
+      1s: me jactara
+      1p: nos jactáramos
+      2s: te jactaras
+      2p: os jactarais
+      3s: se jactara
+      3p: se jactaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will boast}
+      1s: me jactare
+      1p: nos jactáremos
+      2s: te jactares
+      2p: os jactareis
+      3s: se jactare
+      3p: se jactaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have boasted, boasted'}
+      1s: me haya jactado
+      1p: nos hayamos jactado
+      2s: te hayas jactado
+      2p: os hayáis jactado
+      3s: se haya jactado
+      3p: se hayan jactado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have boasted}
+      1s: me hubiere jactado
+      1p: nos hubiéremos jactado
+      2s: te hubieres jactado
+      2p: os hubiereis jactado
+      3s: se hubiere jactado
+      3p: se hubieren jactado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had boasted}
+      1s: me hubiera jactado
+      1p: nos hubiéramos jactado
+      2s: te hubieras jactado
+      2p: os hubierais jactado
+      3s: se hubiera jactado
+      3p: se hubieran jactado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Boast! Don't boast!}
+      1s: ''
+      1p: ''
+      2s: jáctate
+      2p: jáctese
+      3s: jactaos
+      3p: jáctense
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Boast! Don't boast!}
+      1s: ''
+      1p: ''
+      2s: no te jactes
+      2p: no se jacte
+      3s: no os jactéis
+      3p: no se jacten

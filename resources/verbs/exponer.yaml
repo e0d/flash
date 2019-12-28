@@ -1,0 +1,186 @@
+exponer:
+  infinitive: exponer
+  gerund: exponiendo
+  pastparticiple: expuesto
+  definitions: {en: to expose}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I expose, am exposing'}
+      1s: expongo
+      1p: exponemos
+      2s: expones
+      2p: exponéis
+      3s: expone
+      3p: exponen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will expose}
+      1s: expondré
+      1p: expondremos
+      2s: expondrás
+      2p: expondréis
+      3s: expondrá
+      3p: expondrán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was exposing, used to expose, exposed'}
+      1s: exponía
+      1p: exponíamos
+      2s: exponías
+      2p: exponíais
+      3s: exponía
+      3p: exponían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I exposed}
+      1s: expuse
+      1p: expusimos
+      2s: expusiste
+      2p: expusisteis
+      3s: expuso
+      3p: expusieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would expose}
+      1s: expondría
+      1p: expondríamos
+      2s: expondrías
+      2p: expondríais
+      3s: expondría
+      3p: expondrían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have exposed}
+      1s: he expuesto
+      1p: hemos expuesto
+      2s: has expuesto
+      2p: habéis expuesto
+      3s: ha expuesto
+      3p: han expuesto
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have exposed}
+      1s: habré expuesto
+      1p: habremos expuesto
+      2s: habrás expuesto
+      2p: habréis expuesto
+      3s: habrá expuesto
+      3p: habrán expuesto
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had exposed}
+      1s: había expuesto
+      1p: habíamos expuesto
+      2s: habías expuesto
+      2p: habíais expuesto
+      3s: había expuesto
+      3p: habían expuesto
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had exposed}
+      1s: hube expuesto
+      1p: hubimos expuesto
+      2s: hubiste expuesto
+      2p: hubisteis expuesto
+      3s: hubo expuesto
+      3p: hubieron expuesto
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have exposed}
+      1s: habría expuesto
+      1p: habríamos expuesto
+      2s: habrías expuesto
+      2p: habríais expuesto
+      3s: habría expuesto
+      3p: habrían expuesto
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I expose, am exposing'}
+      1s: exponga
+      1p: expongamos
+      2s: expongas
+      2p: expongáis
+      3s: exponga
+      3p: expongan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I exposed, was exposing'}
+      1s: expusiera
+      1p: expusiéramos
+      2s: expusieras
+      2p: expusierais
+      3s: expusiera
+      3p: expusieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will expose}
+      1s: expusiere
+      1p: expusiéremos
+      2s: expusieres
+      2p: expusiereis
+      3s: expusiere
+      3p: expusieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have exposed, exposed'}
+      1s: haya expuesto
+      1p: hayamos expuesto
+      2s: hayas expuesto
+      2p: hayáis expuesto
+      3s: haya expuesto
+      3p: hayan expuesto
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have exposed}
+      1s: hubiere expuesto
+      1p: hubiéremos expuesto
+      2s: hubieres expuesto
+      2p: hubiereis expuesto
+      3s: hubiere expuesto
+      3p: hubieren expuesto
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had exposed}
+      1s: hubiera expuesto
+      1p: hubiéramos expuesto
+      2s: hubieras expuesto
+      2p: hubierais expuesto
+      3s: hubiera expuesto
+      3p: hubieran expuesto
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Expose! Don't expose!}
+      1s: ''
+      1p: ''
+      2s: expón
+      2p: exponga
+      3s: exponed
+      3p: expongan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Expose! Don't expose!}
+      1s: ''
+      1p: ''
+      2s: no expongas
+      2p: no exponga
+      3s: no expongáis
+      3p: no expongan

@@ -1,0 +1,186 @@
+participar:
+  infinitive: participar
+  gerund: participando
+  pastparticiple: participado
+  definitions: {en: 'to participate, take part in; to share in; to inform, notify'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I participate, am participating'}
+      1s: participo
+      1p: participamos
+      2s: participas
+      2p: participáis
+      3s: participa
+      3p: participan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will participate}
+      1s: participaré
+      1p: participaremos
+      2s: participarás
+      2p: participaréis
+      3s: participará
+      3p: participarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was participating, used to participate, participated'}
+      1s: participaba
+      1p: participábamos
+      2s: participabas
+      2p: participabais
+      3s: participaba
+      3p: participaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I participated}
+      1s: participé
+      1p: participamos
+      2s: participaste
+      2p: participasteis
+      3s: participó
+      3p: participaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would participate}
+      1s: participaría
+      1p: participaríamos
+      2s: participarías
+      2p: participaríais
+      3s: participaría
+      3p: participarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have participated}
+      1s: he participado
+      1p: hemos participado
+      2s: has participado
+      2p: habéis participado
+      3s: ha participado
+      3p: han participado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have participated}
+      1s: habré participado
+      1p: habremos participado
+      2s: habrás participado
+      2p: habréis participado
+      3s: habrá participado
+      3p: habrán participado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had participated}
+      1s: había participado
+      1p: habíamos participado
+      2s: habías participado
+      2p: habíais participado
+      3s: había participado
+      3p: habían participado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had participated}
+      1s: hube participado
+      1p: hubimos participado
+      2s: hubiste participado
+      2p: hubisteis participado
+      3s: hubo participado
+      3p: hubieron participado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have participated}
+      1s: habría participado
+      1p: habríamos participado
+      2s: habrías participado
+      2p: habríais participado
+      3s: habría participado
+      3p: habrían participado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I participate, am participating'}
+      1s: participe
+      1p: participemos
+      2s: participes
+      2p: participéis
+      3s: participe
+      3p: participen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I participated, was participating'}
+      1s: participara
+      1p: participáramos
+      2s: participaras
+      2p: participarais
+      3s: participara
+      3p: participaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will participate}
+      1s: participare
+      1p: participáremos
+      2s: participares
+      2p: participareis
+      3s: participare
+      3p: participaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have participated, participated'}
+      1s: haya participado
+      1p: hayamos participado
+      2s: hayas participado
+      2p: hayáis participado
+      3s: haya participado
+      3p: hayan participado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have participated}
+      1s: hubiere participado
+      1p: hubiéremos participado
+      2s: hubieres participado
+      2p: hubiereis participado
+      3s: hubiere participado
+      3p: hubieren participado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had participated}
+      1s: hubiera participado
+      1p: hubiéramos participado
+      2s: hubieras participado
+      2p: hubierais participado
+      3s: hubiera participado
+      3p: hubieran participado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Participate! Don't participate!}
+      1s: ''
+      1p: ''
+      2s: participa
+      2p: participe
+      3s: participad
+      3p: participen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Participate! Don't participate!}
+      1s: ''
+      1p: ''
+      2s: no participes
+      2p: no participe
+      3s: no participéis
+      3p: no participen

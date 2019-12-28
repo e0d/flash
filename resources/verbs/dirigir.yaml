@@ -1,0 +1,186 @@
+dirigir:
+  infinitive: dirigir
+  gerund: dirigiendo
+  pastparticiple: dirigido
+  definitions: {en: to direct}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I direct, am directing'}
+      1s: dirijo
+      1p: dirigimos
+      2s: diriges
+      2p: dirigís
+      3s: dirige
+      3p: dirigen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will direct}
+      1s: dirigiré
+      1p: dirigiremos
+      2s: dirigirás
+      2p: dirigiréis
+      3s: dirigirá
+      3p: dirigirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was directing, used to direct, directed'}
+      1s: dirigía
+      1p: dirigíamos
+      2s: dirigías
+      2p: dirigíais
+      3s: dirigía
+      3p: dirigían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I directed}
+      1s: dirigí
+      1p: dirigimos
+      2s: dirigiste
+      2p: dirigisteis
+      3s: dirigió
+      3p: dirigieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would direct}
+      1s: dirigiría
+      1p: dirigiríamos
+      2s: dirigirías
+      2p: dirigiríais
+      3s: dirigiría
+      3p: dirigirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have directed}
+      1s: he dirigido
+      1p: hemos dirigido
+      2s: has dirigido
+      2p: habéis dirigido
+      3s: ha dirigido
+      3p: han dirigido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have directed}
+      1s: habré dirigido
+      1p: habremos dirigido
+      2s: habrás dirigido
+      2p: habréis dirigido
+      3s: habrá dirigido
+      3p: habrán dirigido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had directed}
+      1s: había dirigido
+      1p: habíamos dirigido
+      2s: habías dirigido
+      2p: habíais dirigido
+      3s: había dirigido
+      3p: habían dirigido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had directed}
+      1s: hube dirigido
+      1p: hubimos dirigido
+      2s: hubiste dirigido
+      2p: hubisteis dirigido
+      3s: hubo dirigido
+      3p: hubieron dirigido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have directed}
+      1s: habría dirigido
+      1p: habríamos dirigido
+      2s: habrías dirigido
+      2p: habríais dirigido
+      3s: habría dirigido
+      3p: habrían dirigido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I direct, am directing'}
+      1s: dirija
+      1p: dirijamos
+      2s: dirijas
+      2p: dirijáis
+      3s: dirija
+      3p: dirijan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I directed, was directing'}
+      1s: dirigiera
+      1p: dirigiéramos
+      2s: dirigieras
+      2p: dirigierais
+      3s: dirigiera
+      3p: dirigieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will direct}
+      1s: dirigiere
+      1p: dirigiéremos
+      2s: dirigieres
+      2p: dirigiereis
+      3s: dirigiere
+      3p: dirigieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have directed, directed'}
+      1s: haya dirigido
+      1p: hayamos dirigido
+      2s: hayas dirigido
+      2p: hayáis dirigido
+      3s: haya dirigido
+      3p: hayan dirigido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have directed}
+      1s: hubiere dirigido
+      1p: hubiéremos dirigido
+      2s: hubieres dirigido
+      2p: hubiereis dirigido
+      3s: hubiere dirigido
+      3p: hubieren dirigido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had directed}
+      1s: hubiera dirigido
+      1p: hubiéramos dirigido
+      2s: hubieras dirigido
+      2p: hubierais dirigido
+      3s: hubiera dirigido
+      3p: hubieran dirigido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Direct! Don't direct!}
+      1s: ''
+      1p: ''
+      2s: dirige
+      2p: dirija
+      3s: dirigid
+      3p: dirijan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Direct! Don't direct!}
+      1s: ''
+      1p: ''
+      2s: no dirijas
+      2p: no dirija
+      3s: no dirijáis
+      3p: no dirijan

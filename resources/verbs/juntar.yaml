@@ -1,0 +1,186 @@
+juntar:
+  infinitive: juntar
+  gerund: juntando
+  pastparticiple: juntado
+  definitions: {en: 'to join, unite, put together, assemble'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I join, am joining'}
+      1s: junto
+      1p: juntamos
+      2s: juntas
+      2p: juntáis
+      3s: junta
+      3p: juntan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will join}
+      1s: juntaré
+      1p: juntaremos
+      2s: juntarás
+      2p: juntaréis
+      3s: juntará
+      3p: juntarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was joining, used to join, joined'}
+      1s: juntaba
+      1p: juntábamos
+      2s: juntabas
+      2p: juntabais
+      3s: juntaba
+      3p: juntaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I joined}
+      1s: junté
+      1p: juntamos
+      2s: juntaste
+      2p: juntasteis
+      3s: juntó
+      3p: juntaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would join}
+      1s: juntaría
+      1p: juntaríamos
+      2s: juntarías
+      2p: juntaríais
+      3s: juntaría
+      3p: juntarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have joined}
+      1s: he juntado
+      1p: hemos juntado
+      2s: has juntado
+      2p: habéis juntado
+      3s: ha juntado
+      3p: han juntado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have joined}
+      1s: habré juntado
+      1p: habremos juntado
+      2s: habrás juntado
+      2p: habréis juntado
+      3s: habrá juntado
+      3p: habrán juntado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had joined}
+      1s: había juntado
+      1p: habíamos juntado
+      2s: habías juntado
+      2p: habíais juntado
+      3s: había juntado
+      3p: habían juntado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had joined}
+      1s: hube juntado
+      1p: hubimos juntado
+      2s: hubiste juntado
+      2p: hubisteis juntado
+      3s: hubo juntado
+      3p: hubieron juntado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have joined}
+      1s: habría juntado
+      1p: habríamos juntado
+      2s: habrías juntado
+      2p: habríais juntado
+      3s: habría juntado
+      3p: habrían juntado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I join, am joining'}
+      1s: junte
+      1p: juntemos
+      2s: juntes
+      2p: juntéis
+      3s: junte
+      3p: junten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I joined, was joining'}
+      1s: juntara
+      1p: juntáramos
+      2s: juntaras
+      2p: juntarais
+      3s: juntara
+      3p: juntaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will join}
+      1s: juntare
+      1p: juntáremos
+      2s: juntares
+      2p: juntareis
+      3s: juntare
+      3p: juntaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have joined, joined'}
+      1s: haya juntado
+      1p: hayamos juntado
+      2s: hayas juntado
+      2p: hayáis juntado
+      3s: haya juntado
+      3p: hayan juntado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have joined}
+      1s: hubiere juntado
+      1p: hubiéremos juntado
+      2s: hubieres juntado
+      2p: hubiereis juntado
+      3s: hubiere juntado
+      3p: hubieren juntado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had joined}
+      1s: hubiera juntado
+      1p: hubiéramos juntado
+      2s: hubieras juntado
+      2p: hubierais juntado
+      3s: hubiera juntado
+      3p: hubieran juntado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Join! Don't join!}
+      1s: ''
+      1p: ''
+      2s: junta
+      2p: junte
+      3s: juntad
+      3p: junten
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Join! Don't join!}
+      1s: ''
+      1p: ''
+      2s: no juntes
+      2p: no junte
+      3s: no juntéis
+      3p: no junten

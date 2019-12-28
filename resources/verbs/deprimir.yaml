@@ -1,0 +1,186 @@
+deprimir:
+  infinitive: deprimir
+  gerund: deprimiendo
+  pastparticiple: deprimido
+  definitions: {en: 'to depress, press down, flatten'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I depress, am depressing'}
+      1s: deprimo
+      1p: deprimimos
+      2s: deprimes
+      2p: deprimís
+      3s: deprime
+      3p: deprimen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will depress}
+      1s: deprimiré
+      1p: deprimiremos
+      2s: deprimirás
+      2p: deprimiréis
+      3s: deprimirá
+      3p: deprimirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was depressing, used to depress, depressed'}
+      1s: deprimía
+      1p: deprimíamos
+      2s: deprimías
+      2p: deprimíais
+      3s: deprimía
+      3p: deprimían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I depressed}
+      1s: deprimí
+      1p: deprimimos
+      2s: deprimiste
+      2p: deprimisteis
+      3s: deprimió
+      3p: deprimieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would depress}
+      1s: deprimiría
+      1p: deprimiríamos
+      2s: deprimirías
+      2p: deprimiríais
+      3s: deprimiría
+      3p: deprimirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have depressed}
+      1s: he deprimido
+      1p: hemos deprimido
+      2s: has deprimido
+      2p: habéis deprimido
+      3s: ha deprimido
+      3p: han deprimido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have depressed}
+      1s: habré deprimido
+      1p: habremos deprimido
+      2s: habrás deprimido
+      2p: habréis deprimido
+      3s: habrá deprimido
+      3p: habrán deprimido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had depressed}
+      1s: había deprimido
+      1p: habíamos deprimido
+      2s: habías deprimido
+      2p: habíais deprimido
+      3s: había deprimido
+      3p: habían deprimido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had depressed}
+      1s: hube deprimido
+      1p: hubimos deprimido
+      2s: hubiste deprimido
+      2p: hubisteis deprimido
+      3s: hubo deprimido
+      3p: hubieron deprimido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have depressed}
+      1s: habría deprimido
+      1p: habríamos deprimido
+      2s: habrías deprimido
+      2p: habríais deprimido
+      3s: habría deprimido
+      3p: habrían deprimido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I depress, am depressing'}
+      1s: deprima
+      1p: deprimamos
+      2s: deprimas
+      2p: deprimáis
+      3s: deprima
+      3p: depriman
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I depressed, was depressing'}
+      1s: deprimiera
+      1p: deprimiéramos
+      2s: deprimieras
+      2p: deprimierais
+      3s: deprimiera
+      3p: deprimieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will depress}
+      1s: deprimiere
+      1p: deprimiéremos
+      2s: deprimieres
+      2p: deprimiereis
+      3s: deprimiere
+      3p: deprimieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have depressed, depressed'}
+      1s: haya deprimido
+      1p: hayamos deprimido
+      2s: hayas deprimido
+      2p: hayáis deprimido
+      3s: haya deprimido
+      3p: hayan deprimido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have depressed}
+      1s: hubiere deprimido
+      1p: hubiéremos deprimido
+      2s: hubieres deprimido
+      2p: hubiereis deprimido
+      3s: hubiere deprimido
+      3p: hubieren deprimido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had depressed}
+      1s: hubiera deprimido
+      1p: hubiéramos deprimido
+      2s: hubieras deprimido
+      2p: hubierais deprimido
+      3s: hubiera deprimido
+      3p: hubieran deprimido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Depress! Don't depress!}
+      1s: ''
+      1p: ''
+      2s: deprime
+      2p: deprima
+      3s: deprimid
+      3p: depriman
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Depress! Don't depress!}
+      1s: ''
+      1p: ''
+      2s: no deprimas
+      2p: no deprima
+      3s: no deprimáis
+      3p: no depriman

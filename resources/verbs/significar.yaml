@@ -1,0 +1,186 @@
+significar:
+  infinitive: significar
+  gerund: significando
+  pastparticiple: significado
+  definitions: {en: 'to signify, mean'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I signify, am signifying'}
+      1s: significo
+      1p: significamos
+      2s: significas
+      2p: significáis
+      3s: significa
+      3p: significan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will signify}
+      1s: significaré
+      1p: significaremos
+      2s: significarás
+      2p: significaréis
+      3s: significará
+      3p: significarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was signifying, used to signify, signified'}
+      1s: significaba
+      1p: significábamos
+      2s: significabas
+      2p: significabais
+      3s: significaba
+      3p: significaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I signified}
+      1s: signifiqué
+      1p: significamos
+      2s: significaste
+      2p: significasteis
+      3s: significó
+      3p: significaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would signify}
+      1s: significaría
+      1p: significaríamos
+      2s: significarías
+      2p: significaríais
+      3s: significaría
+      3p: significarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have signified}
+      1s: he significado
+      1p: hemos significado
+      2s: has significado
+      2p: habéis significado
+      3s: ha significado
+      3p: han significado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have signified}
+      1s: habré significado
+      1p: habremos significado
+      2s: habrás significado
+      2p: habréis significado
+      3s: habrá significado
+      3p: habrán significado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had signified}
+      1s: había significado
+      1p: habíamos significado
+      2s: habías significado
+      2p: habíais significado
+      3s: había significado
+      3p: habían significado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had signified}
+      1s: hube significado
+      1p: hubimos significado
+      2s: hubiste significado
+      2p: hubisteis significado
+      3s: hubo significado
+      3p: hubieron significado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have signified}
+      1s: habría significado
+      1p: habríamos significado
+      2s: habrías significado
+      2p: habríais significado
+      3s: habría significado
+      3p: habrían significado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I signify, am signifying'}
+      1s: signifique
+      1p: signifiquemos
+      2s: signifiques
+      2p: signifiquéis
+      3s: signifique
+      3p: signifiquen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I signified, was signifying'}
+      1s: significara
+      1p: significáramos
+      2s: significaras
+      2p: significarais
+      3s: significara
+      3p: significaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will signify}
+      1s: significare
+      1p: significáremos
+      2s: significares
+      2p: significareis
+      3s: significare
+      3p: significaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have signified, signified'}
+      1s: haya significado
+      1p: hayamos significado
+      2s: hayas significado
+      2p: hayáis significado
+      3s: haya significado
+      3p: hayan significado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have signified}
+      1s: hubiere significado
+      1p: hubiéremos significado
+      2s: hubieres significado
+      2p: hubiereis significado
+      3s: hubiere significado
+      3p: hubieren significado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had signified}
+      1s: hubiera significado
+      1p: hubiéramos significado
+      2s: hubieras significado
+      2p: hubierais significado
+      3s: hubiera significado
+      3p: hubieran significado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Signify! Don't signify!}
+      1s: ''
+      1p: ''
+      2s: significa
+      2p: signifique
+      3s: significad
+      3p: signifiquen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Signify! Don't signify!}
+      1s: ''
+      1p: ''
+      2s: no signifiques
+      2p: no signifique
+      3s: no signifiquéis
+      3p: no signifiquen

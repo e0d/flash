@@ -1,0 +1,186 @@
+preparar:
+  infinitive: preparar
+  gerund: preparando
+  pastparticiple: preparado
+  definitions: {en: 'to prepare, get'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I prepare, am preparing'}
+      1s: preparo
+      1p: preparamos
+      2s: preparas
+      2p: preparáis
+      3s: prepara
+      3p: preparan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will prepare}
+      1s: prepararé
+      1p: prepararemos
+      2s: prepararás
+      2p: prepararéis
+      3s: preparará
+      3p: prepararán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was preparing, used to prepare, prepared'}
+      1s: preparaba
+      1p: preparábamos
+      2s: preparabas
+      2p: preparabais
+      3s: preparaba
+      3p: preparaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I prepared}
+      1s: preparé
+      1p: preparamos
+      2s: preparaste
+      2p: preparasteis
+      3s: preparó
+      3p: prepararon
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would prepare}
+      1s: prepararía
+      1p: prepararíamos
+      2s: prepararías
+      2p: prepararíais
+      3s: prepararía
+      3p: prepararían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have prepared}
+      1s: he preparado
+      1p: hemos preparado
+      2s: has preparado
+      2p: habéis preparado
+      3s: ha preparado
+      3p: han preparado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have prepared}
+      1s: habré preparado
+      1p: habremos preparado
+      2s: habrás preparado
+      2p: habréis preparado
+      3s: habrá preparado
+      3p: habrán preparado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had prepared}
+      1s: había preparado
+      1p: habíamos preparado
+      2s: habías preparado
+      2p: habíais preparado
+      3s: había preparado
+      3p: habían preparado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had prepared}
+      1s: hube preparado
+      1p: hubimos preparado
+      2s: hubiste preparado
+      2p: hubisteis preparado
+      3s: hubo preparado
+      3p: hubieron preparado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have prepared}
+      1s: habría preparado
+      1p: habríamos preparado
+      2s: habrías preparado
+      2p: habríais preparado
+      3s: habría preparado
+      3p: habrían preparado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I prepare, am preparing'}
+      1s: prepare
+      1p: preparemos
+      2s: prepares
+      2p: preparéis
+      3s: prepare
+      3p: preparen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I prepared, was preparing'}
+      1s: preparara
+      1p: preparáramos
+      2s: prepararas
+      2p: prepararais
+      3s: preparara
+      3p: prepararan
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will prepare}
+      1s: preparare
+      1p: preparáremos
+      2s: preparares
+      2p: preparareis
+      3s: preparare
+      3p: prepararen
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have prepared, prepared'}
+      1s: haya preparado
+      1p: hayamos preparado
+      2s: hayas preparado
+      2p: hayáis preparado
+      3s: haya preparado
+      3p: hayan preparado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have prepared}
+      1s: hubiere preparado
+      1p: hubiéremos preparado
+      2s: hubieres preparado
+      2p: hubiereis preparado
+      3s: hubiere preparado
+      3p: hubieren preparado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had prepared}
+      1s: hubiera preparado
+      1p: hubiéramos preparado
+      2s: hubieras preparado
+      2p: hubierais preparado
+      3s: hubiera preparado
+      3p: hubieran preparado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Prepare! Don't prepare!}
+      1s: ''
+      1p: ''
+      2s: prepara
+      2p: prepare
+      3s: preparad
+      3p: preparen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Prepare! Don't prepare!}
+      1s: ''
+      1p: ''
+      2s: no prepares
+      2p: no prepare
+      3s: no preparéis
+      3p: no preparen

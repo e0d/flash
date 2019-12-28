@@ -1,0 +1,186 @@
+gritar:
+  infinitive: gritar
+  gerund: gritando
+  pastparticiple: gritado
+  definitions: {en: 'to shout, yell, scream, cry out'}
+  tenses:
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will shout}
+      1s: gritare
+      1p: gritáremos
+      2s: gritares
+      2p: gritareis
+      3s: gritare
+      3p: gritaren
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I shout, am shouting'}
+      1s: grito
+      1p: gritamos
+      2s: gritas
+      2p: gritáis
+      3s: grita
+      3p: gritan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will shout}
+      1s: gritaré
+      1p: gritaremos
+      2s: gritarás
+      2p: gritaréis
+      3s: gritará
+      3p: gritarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was shouting, used to shout, shouted'}
+      1s: gritaba
+      1p: gritábamos
+      2s: gritabas
+      2p: gritabais
+      3s: gritaba
+      3p: gritaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I shouted}
+      1s: grité
+      1p: gritamos
+      2s: gritaste
+      2p: gritasteis
+      3s: gritó
+      3p: gritaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would shout}
+      1s: gritaría
+      1p: gritaríamos
+      2s: gritarías
+      2p: gritaríais
+      3s: gritaría
+      3p: gritarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have shouted}
+      1s: he gritado
+      1p: hemos gritado
+      2s: has gritado
+      2p: habéis gritado
+      3s: ha gritado
+      3p: han gritado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have shouted}
+      1s: habré gritado
+      1p: habremos gritado
+      2s: habrás gritado
+      2p: habréis gritado
+      3s: habrá gritado
+      3p: habrán gritado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had shouted}
+      1s: había gritado
+      1p: habíamos gritado
+      2s: habías gritado
+      2p: habíais gritado
+      3s: había gritado
+      3p: habían gritado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had shouted}
+      1s: hube gritado
+      1p: hubimos gritado
+      2s: hubiste gritado
+      2p: hubisteis gritado
+      3s: hubo gritado
+      3p: hubieron gritado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have shouted}
+      1s: habría gritado
+      1p: habríamos gritado
+      2s: habrías gritado
+      2p: habríais gritado
+      3s: habría gritado
+      3p: habrían gritado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I shout, am shouting'}
+      1s: grite
+      1p: gritemos
+      2s: grites
+      2p: gritéis
+      3s: grite
+      3p: griten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I shouted, was shouting'}
+      1s: gritara
+      1p: gritáramos
+      2s: gritaras
+      2p: gritarais
+      3s: gritara
+      3p: gritaran
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have shouted, shouted'}
+      1s: haya gritado
+      1p: hayamos gritado
+      2s: hayas gritado
+      2p: hayáis gritado
+      3s: haya gritado
+      3p: hayan gritado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have shouted}
+      1s: hubiere gritado
+      1p: hubiéremos gritado
+      2s: hubieres gritado
+      2p: hubiereis gritado
+      3s: hubiere gritado
+      3p: hubieren gritado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had shouted}
+      1s: hubiera gritado
+      1p: hubiéramos gritado
+      2s: hubieras gritado
+      2p: hubierais gritado
+      3s: hubiera gritado
+      3p: hubieran gritado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Shout! Don't shout!}
+      1s: ''
+      1p: ''
+      2s: grita
+      2p: grite
+      3s: gritad
+      3p: griten
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Shout! Don't shout!}
+      1s: ''
+      1p: ''
+      2s: no grites
+      2p: no grite
+      3s: no gritéis
+      3p: no griten

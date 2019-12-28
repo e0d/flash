@@ -1,0 +1,186 @@
+subir:
+  infinitive: subir
+  gerund: subiendo
+  pastparticiple: subido
+  definitions: {en: 'to go up, rise, move up, climb; to lift up, raise up'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I go up, am going up'}
+      1s: subo
+      1p: subimos
+      2s: subes
+      2p: subís
+      3s: sube
+      3p: suben
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will go up}
+      1s: subiré
+      1p: subiremos
+      2s: subirás
+      2p: subiréis
+      3s: subirá
+      3p: subirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was going up, used to go up, went up'}
+      1s: subía
+      1p: subíamos
+      2s: subías
+      2p: subíais
+      3s: subía
+      3p: subían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I went up}
+      1s: subí
+      1p: subimos
+      2s: subiste
+      2p: subisteis
+      3s: subió
+      3p: subieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would go up}
+      1s: subiría
+      1p: subiríamos
+      2s: subirías
+      2p: subiríais
+      3s: subiría
+      3p: subirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have gone up}
+      1s: he subido
+      1p: hemos subido
+      2s: has subido
+      2p: habéis subido
+      3s: ha subido
+      3p: han subido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have gone up}
+      1s: habré subido
+      1p: habremos subido
+      2s: habrás subido
+      2p: habréis subido
+      3s: habrá subido
+      3p: habrán subido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had gone up}
+      1s: había subido
+      1p: habíamos subido
+      2s: habías subido
+      2p: habíais subido
+      3s: había subido
+      3p: habían subido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had gone up}
+      1s: hube subido
+      1p: hubimos subido
+      2s: hubiste subido
+      2p: hubisteis subido
+      3s: hubo subido
+      3p: hubieron subido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have gone up}
+      1s: habría subido
+      1p: habríamos subido
+      2s: habrías subido
+      2p: habríais subido
+      3s: habría subido
+      3p: habrían subido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I go up, am going up'}
+      1s: suba
+      1p: subamos
+      2s: subas
+      2p: subáis
+      3s: suba
+      3p: suban
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I went up, was going up'}
+      1s: subiera
+      1p: subiéramos
+      2s: subieras
+      2p: subierais
+      3s: subiera
+      3p: subieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will go up}
+      1s: subiere
+      1p: subiéremos
+      2s: subieres
+      2p: subiereis
+      3s: subiere
+      3p: subieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have gone up, went up'}
+      1s: haya subido
+      1p: hayamos subido
+      2s: hayas subido
+      2p: hayáis subido
+      3s: haya subido
+      3p: hayan subido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have gone up}
+      1s: hubiere subido
+      1p: hubiéremos subido
+      2s: hubieres subido
+      2p: hubiereis subido
+      3s: hubiere subido
+      3p: hubieren subido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had gone up}
+      1s: hubiera subido
+      1p: hubiéramos subido
+      2s: hubieras subido
+      2p: hubierais subido
+      3s: hubiera subido
+      3p: hubieran subido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Go up! Don't go up!}
+      1s: ''
+      1p: ''
+      2s: sube
+      2p: suba
+      3s: subid
+      3p: suban
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Go up! Don't go up!}
+      1s: ''
+      1p: ''
+      2s: no subas
+      2p: no suba
+      3s: no subáis
+      3p: no suban

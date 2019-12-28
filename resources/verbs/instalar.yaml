@@ -1,0 +1,186 @@
+instalar:
+  infinitive: instalar
+  gerund: instalando
+  pastparticiple: instalado
+  definitions: {en: 'to install; to set up, erect'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I install, am installing'}
+      1s: instalo
+      1p: instalamos
+      2s: instalas
+      2p: instaláis
+      3s: instala
+      3p: instalan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will install}
+      1s: instalaré
+      1p: instalaremos
+      2s: instalarás
+      2p: instalaréis
+      3s: instalará
+      3p: instalarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was installing, used to install, installed'}
+      1s: instalaba
+      1p: instalábamos
+      2s: instalabas
+      2p: instalabais
+      3s: instalaba
+      3p: instalaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I installed}
+      1s: instalé
+      1p: instalamos
+      2s: instalaste
+      2p: instalasteis
+      3s: instaló
+      3p: instalaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would install}
+      1s: instalaría
+      1p: instalaríamos
+      2s: instalarías
+      2p: instalaríais
+      3s: instalaría
+      3p: instalarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have installed}
+      1s: he instalado
+      1p: hemos instalado
+      2s: has instalado
+      2p: habéis instalado
+      3s: ha instalado
+      3p: han instalado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have installed}
+      1s: habré instalado
+      1p: habremos instalado
+      2s: habrás instalado
+      2p: habréis instalado
+      3s: habrá instalado
+      3p: habrán instalado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had installed}
+      1s: había instalado
+      1p: habíamos instalado
+      2s: habías instalado
+      2p: habíais instalado
+      3s: había instalado
+      3p: habían instalado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had installed}
+      1s: hube instalado
+      1p: hubimos instalado
+      2s: hubiste instalado
+      2p: hubisteis instalado
+      3s: hubo instalado
+      3p: hubieron instalado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have installed}
+      1s: habría instalado
+      1p: habríamos instalado
+      2s: habrías instalado
+      2p: habríais instalado
+      3s: habría instalado
+      3p: habrían instalado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I install, am installing'}
+      1s: instale
+      1p: instalemos
+      2s: instales
+      2p: instaléis
+      3s: instale
+      3p: instalen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I installed, was installing'}
+      1s: instalara
+      1p: instaláramos
+      2s: instalaras
+      2p: instalarais
+      3s: instalara
+      3p: instalaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will install}
+      1s: instalare
+      1p: instaláremos
+      2s: instalares
+      2p: instalareis
+      3s: instalare
+      3p: instalaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have installed, installed'}
+      1s: haya instalado
+      1p: hayamos instalado
+      2s: hayas instalado
+      2p: hayáis instalado
+      3s: haya instalado
+      3p: hayan instalado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have installed}
+      1s: hubiere instalado
+      1p: hubiéremos instalado
+      2s: hubieres instalado
+      2p: hubiereis instalado
+      3s: hubiere instalado
+      3p: hubieren instalado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had installed}
+      1s: hubiera instalado
+      1p: hubiéramos instalado
+      2s: hubieras instalado
+      2p: hubierais instalado
+      3s: hubiera instalado
+      3p: hubieran instalado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Install! Don't install!}
+      1s: ''
+      1p: ''
+      2s: instala
+      2p: instale
+      3s: instalad
+      3p: instalen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Install! Don't install!}
+      1s: ''
+      1p: ''
+      2s: no instales
+      2p: no instale
+      3s: no instaléis
+      3p: no instalen

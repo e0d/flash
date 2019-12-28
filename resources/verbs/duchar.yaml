@@ -1,0 +1,186 @@
+duchar:
+  infinitive: duchar
+  gerund: duchando
+  pastparticiple: duchado
+  definitions: {en: to douche}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I douche, am douching'}
+      1s: ducho
+      1p: duchamos
+      2s: duchas
+      2p: ducháis
+      3s: ducha
+      3p: duchan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will douche}
+      1s: ducharé
+      1p: ducharemos
+      2s: ducharás
+      2p: ducharéis
+      3s: duchará
+      3p: ducharán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was douching, used to douche, douched'}
+      1s: duchaba
+      1p: duchábamos
+      2s: duchabas
+      2p: duchabais
+      3s: duchaba
+      3p: duchaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I douched}
+      1s: duché
+      1p: duchamos
+      2s: duchaste
+      2p: duchasteis
+      3s: duchó
+      3p: ducharon
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would douche}
+      1s: ducharía
+      1p: ducharíamos
+      2s: ducharías
+      2p: ducharíais
+      3s: ducharía
+      3p: ducharían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have douched}
+      1s: he duchado
+      1p: hemos duchado
+      2s: has duchado
+      2p: habéis duchado
+      3s: ha duchado
+      3p: han duchado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have douched}
+      1s: habré duchado
+      1p: habremos duchado
+      2s: habrás duchado
+      2p: habréis duchado
+      3s: habrá duchado
+      3p: habrán duchado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had douched}
+      1s: había duchado
+      1p: habíamos duchado
+      2s: habías duchado
+      2p: habíais duchado
+      3s: había duchado
+      3p: habían duchado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had douched}
+      1s: hube duchado
+      1p: hubimos duchado
+      2s: hubiste duchado
+      2p: hubisteis duchado
+      3s: hubo duchado
+      3p: hubieron duchado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have douched}
+      1s: habría duchado
+      1p: habríamos duchado
+      2s: habrías duchado
+      2p: habríais duchado
+      3s: habría duchado
+      3p: habrían duchado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I douche, am douching'}
+      1s: duche
+      1p: duchemos
+      2s: duches
+      2p: duchéis
+      3s: duche
+      3p: duchen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I douched, was douching'}
+      1s: duchara
+      1p: ducháramos
+      2s: ducharas
+      2p: ducharais
+      3s: duchara
+      3p: ducharan
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will douche}
+      1s: duchare
+      1p: ducháremos
+      2s: duchares
+      2p: duchareis
+      3s: duchare
+      3p: ducharen
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have douched, douched'}
+      1s: haya duchado
+      1p: hayamos duchado
+      2s: hayas duchado
+      2p: hayáis duchado
+      3s: haya duchado
+      3p: hayan duchado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have douched}
+      1s: hubiere duchado
+      1p: hubiéremos duchado
+      2s: hubieres duchado
+      2p: hubiereis duchado
+      3s: hubiere duchado
+      3p: hubieren duchado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had douched}
+      1s: hubiera duchado
+      1p: hubiéramos duchado
+      2s: hubieras duchado
+      2p: hubierais duchado
+      3s: hubiera duchado
+      3p: hubieran duchado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Douche! Don't douche!}
+      1s: ''
+      1p: ''
+      2s: ducha
+      2p: duche
+      3s: duchad
+      3p: duchen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Douche! Don't douche!}
+      1s: ''
+      1p: ''
+      2s: no duches
+      2p: no duche
+      3s: no duchéis
+      3p: no duchen

@@ -1,0 +1,187 @@
+callar:
+  infinitive: callar
+  gerund: callando
+  pastparticiple: callado
+  definitions: {en: 'to keep quiet about, pass over in silence; to hush'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I keep quiet about, am keeping quiet about'}
+      1s: callo
+      1p: callamos
+      2s: callas
+      2p: calláis
+      3s: calla
+      3p: callan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will keep quiet about}
+      1s: callaré
+      1p: callaremos
+      2s: callarás
+      2p: callaréis
+      3s: callará
+      3p: callarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was keeping quiet about, used to keep quiet about, kept quiet
+          about'}
+      1s: callaba
+      1p: callábamos
+      2s: callabas
+      2p: callabais
+      3s: callaba
+      3p: callaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I kept quiet about}
+      1s: callé
+      1p: callamos
+      2s: callaste
+      2p: callasteis
+      3s: calló
+      3p: callaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would keep quiet about}
+      1s: callaría
+      1p: callaríamos
+      2s: callarías
+      2p: callaríais
+      3s: callaría
+      3p: callarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have kept quiet about}
+      1s: he callado
+      1p: hemos callado
+      2s: has callado
+      2p: habéis callado
+      3s: ha callado
+      3p: han callado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have kept quiet about}
+      1s: habré callado
+      1p: habremos callado
+      2s: habrás callado
+      2p: habréis callado
+      3s: habrá callado
+      3p: habrán callado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had kept quiet about}
+      1s: había callado
+      1p: habíamos callado
+      2s: habías callado
+      2p: habíais callado
+      3s: había callado
+      3p: habían callado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had kept quiet about}
+      1s: hube callado
+      1p: hubimos callado
+      2s: hubiste callado
+      2p: hubisteis callado
+      3s: hubo callado
+      3p: hubieron callado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have kept quiet about}
+      1s: habría callado
+      1p: habríamos callado
+      2s: habrías callado
+      2p: habríais callado
+      3s: habría callado
+      3p: habrían callado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I keep quiet about, am keeping quiet about'}
+      1s: calle
+      1p: callemos
+      2s: calles
+      2p: calléis
+      3s: calle
+      3p: callen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I kept quiet about, was keeping quiet about'}
+      1s: callara
+      1p: calláramos
+      2s: callaras
+      2p: callarais
+      3s: callara
+      3p: callaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will keep quiet about}
+      1s: callare
+      1p: calláremos
+      2s: callares
+      2p: callareis
+      3s: callare
+      3p: callaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have kept quiet about, kept quiet about'}
+      1s: haya callado
+      1p: hayamos callado
+      2s: hayas callado
+      2p: hayáis callado
+      3s: haya callado
+      3p: hayan callado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have kept quiet about}
+      1s: hubiere callado
+      1p: hubiéremos callado
+      2s: hubieres callado
+      2p: hubiereis callado
+      3s: hubiere callado
+      3p: hubieren callado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had kept quiet about}
+      1s: hubiera callado
+      1p: hubiéramos callado
+      2s: hubieras callado
+      2p: hubierais callado
+      3s: hubiera callado
+      3p: hubieran callado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Keep quiet about! Don't keep quiet about!}
+      1s: ''
+      1p: ''
+      2s: calla
+      2p: calle
+      3s: callad
+      3p: callen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Keep quiet about! Don't keep quiet about!}
+      1s: ''
+      1p: ''
+      2s: no calles
+      2p: no calle
+      3s: no calléis
+      3p: no callen

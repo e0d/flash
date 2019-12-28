@@ -1,0 +1,186 @@
+batir:
+  infinitive: batir
+  gerund: batiendo
+  pastparticiple: batido
+  definitions: {en: 'to beat, hammer, pound [on]'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I beat, am beating'}
+      1s: bato
+      1p: batimos
+      2s: bates
+      2p: batís
+      3s: bate
+      3p: baten
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will beat}
+      1s: batiré
+      1p: batiremos
+      2s: batirás
+      2p: batiréis
+      3s: batirá
+      3p: batirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was beating, used to beat, beat'}
+      1s: batía
+      1p: batíamos
+      2s: batías
+      2p: batíais
+      3s: batía
+      3p: batían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I beat}
+      1s: batí
+      1p: batimos
+      2s: batiste
+      2p: batisteis
+      3s: batió
+      3p: batieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would beat}
+      1s: batiría
+      1p: batiríamos
+      2s: batirías
+      2p: batiríais
+      3s: batiría
+      3p: batirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have beaten}
+      1s: he batido
+      1p: hemos batido
+      2s: has batido
+      2p: habéis batido
+      3s: ha batido
+      3p: han batido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have beaten}
+      1s: habré batido
+      1p: habremos batido
+      2s: habrás batido
+      2p: habréis batido
+      3s: habrá batido
+      3p: habrán batido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had beaten}
+      1s: había batido
+      1p: habíamos batido
+      2s: habías batido
+      2p: habíais batido
+      3s: había batido
+      3p: habían batido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had beaten}
+      1s: hube batido
+      1p: hubimos batido
+      2s: hubiste batido
+      2p: hubisteis batido
+      3s: hubo batido
+      3p: hubieron batido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have beaten}
+      1s: habría batido
+      1p: habríamos batido
+      2s: habrías batido
+      2p: habríais batido
+      3s: habría batido
+      3p: habrían batido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I beat, am beating'}
+      1s: bata
+      1p: batamos
+      2s: batas
+      2p: batáis
+      3s: bata
+      3p: batan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I beat, was beating'}
+      1s: batiera
+      1p: batiéramos
+      2s: batieras
+      2p: batierais
+      3s: batiera
+      3p: batieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will beat}
+      1s: batiere
+      1p: batiéremos
+      2s: batieres
+      2p: batiereis
+      3s: batiere
+      3p: batieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have beaten, beat'}
+      1s: haya batido
+      1p: hayamos batido
+      2s: hayas batido
+      2p: hayáis batido
+      3s: haya batido
+      3p: hayan batido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have beaten}
+      1s: hubiere batido
+      1p: hubiéremos batido
+      2s: hubieres batido
+      2p: hubiereis batido
+      3s: hubiere batido
+      3p: hubieren batido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had beaten}
+      1s: hubiera batido
+      1p: hubiéramos batido
+      2s: hubieras batido
+      2p: hubierais batido
+      3s: hubiera batido
+      3p: hubieran batido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Beat! Don't beat!}
+      1s: ''
+      1p: ''
+      2s: bate
+      2p: bata
+      3s: batid
+      3p: batan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Beat! Don't beat!}
+      1s: ''
+      1p: ''
+      2s: no batas
+      2p: no bata
+      3s: no batáis
+      3p: no batan

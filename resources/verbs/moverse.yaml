@@ -1,0 +1,186 @@
+moverse:
+  infinitive: moverse
+  gerund: moviéndose
+  pastparticiple: movido
+  definitions: {en: 'to move [oneself]'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I move, am moving'}
+      1s: me muevo
+      1p: nos movemos
+      2s: te mueves
+      2p: os movéis
+      3s: se mueve
+      3p: se mueven
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will move}
+      1s: me moveré
+      1p: nos moveremos
+      2s: te moverás
+      2p: os moveréis
+      3s: se moverá
+      3p: se moverán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was moving, used to move, moved'}
+      1s: me movía
+      1p: nos movíamos
+      2s: te movías
+      2p: os movíais
+      3s: se movía
+      3p: se movían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I moved}
+      1s: me moví
+      1p: nos movimos
+      2s: te moviste
+      2p: os movisteis
+      3s: se movió
+      3p: se movieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would move}
+      1s: me movería
+      1p: nos moveríamos
+      2s: te moverías
+      2p: os moveríais
+      3s: se movería
+      3p: se moverían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have moved}
+      1s: me he movido
+      1p: nos hemos movido
+      2s: te has movido
+      2p: os habéis movido
+      3s: se ha movido
+      3p: se han movido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have moved}
+      1s: me habré movido
+      1p: nos habremos movido
+      2s: te habrás movido
+      2p: os habréis movido
+      3s: se habrá movido
+      3p: se habrán movido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had moved}
+      1s: me había movido
+      1p: nos habíamos movido
+      2s: te habías movido
+      2p: os habíais movido
+      3s: se había movido
+      3p: se habían movido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had moved}
+      1s: me hube movido
+      1p: nos hubimos movido
+      2s: te hubiste movido
+      2p: os hubisteis movido
+      3s: se hubo movido
+      3p: se hubieron movido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have moved}
+      1s: me habría movido
+      1p: nos habríamos movido
+      2s: te habrías movido
+      2p: os habríais movido
+      3s: se habría movido
+      3p: se habrían movido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I move, am moving'}
+      1s: me mueva
+      1p: nos movamos
+      2s: te muevas
+      2p: os mováis
+      3s: se mueva
+      3p: se muevan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I moved, was moving'}
+      1s: me moviera
+      1p: nos moviéramos
+      2s: te movieras
+      2p: os movierais
+      3s: se moviera
+      3p: se movieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will move}
+      1s: me moviere
+      1p: nos moviéremos
+      2s: te movieres
+      2p: os moviereis
+      3s: se moviere
+      3p: se movieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have moved, moved'}
+      1s: me haya movido
+      1p: nos hayamos movido
+      2s: te hayas movido
+      2p: os hayáis movido
+      3s: se haya movido
+      3p: se hayan movido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have moved}
+      1s: me hubiere movido
+      1p: nos hubiéremos movido
+      2s: te hubieres movido
+      2p: os hubiereis movido
+      3s: se hubiere movido
+      3p: se hubieren movido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had moved}
+      1s: me hubiera movido
+      1p: nos hubiéramos movido
+      2s: te hubieras movido
+      2p: os hubierais movido
+      3s: se hubiera movido
+      3p: se hubieran movido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Move! Don't move!}
+      1s: ''
+      1p: ''
+      2s: muévete
+      2p: muévase
+      3s: movíos
+      3p: muévanse
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Move! Don't move!}
+      1s: ''
+      1p: ''
+      2s: no te muevas
+      2p: no se mueva
+      3s: no os mováis
+      3p: no se muevan

@@ -1,0 +1,186 @@
+prever:
+  infinitive: prever
+  gerund: previendo
+  pastparticiple: previsto
+  definitions: {en: 'to foresee, anticipate, envisage, visualize'}
+  tenses:
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have foreseen}
+      1s: habré previsto
+      1p: habremos previsto
+      2s: habrás previsto
+      2p: habréis previsto
+      3s: habrá previsto
+      3p: habrán previsto
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I foresee, am foreseeing'}
+      1s: preveo
+      1p: prevemos
+      2s: prevés
+      2p: prevéis
+      3s: prevé
+      3p: prevén
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will foresee}
+      1s: preveré
+      1p: preveremos
+      2s: preverás
+      2p: preveréis
+      3s: preverá
+      3p: preverán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was foreseeing, used to foresee, foresaw'}
+      1s: preveía
+      1p: preveíamos
+      2s: preveías
+      2p: preveíais
+      3s: preveía
+      3p: preveían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I foresaw}
+      1s: preví
+      1p: previmos
+      2s: previste
+      2p: previsteis
+      3s: previó
+      3p: previeron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would foresee}
+      1s: prevería
+      1p: preveríamos
+      2s: preverías
+      2p: preveríais
+      3s: prevería
+      3p: preverían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have foreseen}
+      1s: he previsto
+      1p: hemos previsto
+      2s: has previsto
+      2p: habéis previsto
+      3s: ha previsto
+      3p: han previsto
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had foreseen}
+      1s: había previsto
+      1p: habíamos previsto
+      2s: habías previsto
+      2p: habíais previsto
+      3s: había previsto
+      3p: habían previsto
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had foreseen}
+      1s: hube previsto
+      1p: hubimos previsto
+      2s: hubiste previsto
+      2p: hubisteis previsto
+      3s: hubo previsto
+      3p: hubieron previsto
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have foreseen}
+      1s: habría previsto
+      1p: habríamos previsto
+      2s: habrías previsto
+      2p: habríais previsto
+      3s: habría previsto
+      3p: habrían previsto
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I foresee, am foreseeing'}
+      1s: prevea
+      1p: preveamos
+      2s: preveas
+      2p: preveáis
+      3s: prevea
+      3p: prevean
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I foresaw, was foreseeing'}
+      1s: previera
+      1p: previéramos
+      2s: previeras
+      2p: previerais
+      3s: previera
+      3p: previeran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will foresee}
+      1s: previere
+      1p: previéremos
+      2s: previeres
+      2p: previereis
+      3s: previere
+      3p: previeren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have foreseen, foresaw'}
+      1s: haya previsto
+      1p: hayamos previsto
+      2s: hayas previsto
+      2p: hayáis previsto
+      3s: haya previsto
+      3p: hayan previsto
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will hapreve foreseen}
+      1s: hubiere previsto
+      1p: hubiéremos previsto
+      2s: hubieres previsto
+      2p: hubiereis previsto
+      3s: hubiere previsto
+      3p: hubieren previsto
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had foreseen}
+      1s: hubiera previsto
+      1p: hubiéramos previsto
+      2s: hubieras previsto
+      2p: hubierais previsto
+      3s: hubiera previsto
+      3p: hubieran previsto
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Foresee! Don't foresee!}
+      1s: ''
+      1p: ''
+      2s: prevé
+      2p: prevea
+      3s: preved
+      3p: prevean
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Foresee! Don't foresee!}
+      1s: ''
+      1p: ''
+      2s: no preveas
+      2p: no prevea
+      3s: no preveáis
+      3p: no prevean

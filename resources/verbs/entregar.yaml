@@ -1,0 +1,186 @@
+entregar:
+  infinitive: entregar
+  gerund: entregando
+  pastparticiple: entregado
+  definitions: {en: 'to deliver, hand over'}
+  tenses:
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will deliver}
+      1s: entregaré
+      1p: entregaremos
+      2s: entregarás
+      2p: entregaréis
+      3s: entregará
+      3p: entregarán
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I deliver, am delivering'}
+      1s: entrego
+      1p: entregamos
+      2s: entregas
+      2p: entregáis
+      3s: entrega
+      3p: entregan
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was delivering, used to deliver, delivered'}
+      1s: entregaba
+      1p: entregábamos
+      2s: entregabas
+      2p: entregabais
+      3s: entregaba
+      3p: entregaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I delivered}
+      1s: entregué
+      1p: entregamos
+      2s: entregaste
+      2p: entregasteis
+      3s: entregó
+      3p: entregaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would deliver}
+      1s: entregaría
+      1p: entregaríamos
+      2s: entregarías
+      2p: entregaríais
+      3s: entregaría
+      3p: entregarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have delivered}
+      1s: he entregado
+      1p: hemos entregado
+      2s: has entregado
+      2p: habéis entregado
+      3s: ha entregado
+      3p: han entregado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have delivered}
+      1s: habré entregado
+      1p: habremos entregado
+      2s: habrás entregado
+      2p: habréis entregado
+      3s: habrá entregado
+      3p: habrán entregado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had delivered}
+      1s: había entregado
+      1p: habíamos entregado
+      2s: habías entregado
+      2p: habíais entregado
+      3s: había entregado
+      3p: habían entregado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had delivered}
+      1s: hube entregado
+      1p: hubimos entregado
+      2s: hubiste entregado
+      2p: hubisteis entregado
+      3s: hubo entregado
+      3p: hubieron entregado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have delivered}
+      1s: habría entregado
+      1p: habríamos entregado
+      2s: habrías entregado
+      2p: habríais entregado
+      3s: habría entregado
+      3p: habrían entregado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I deliver, am delivering'}
+      1s: entregue
+      1p: entreguemos
+      2s: entregues
+      2p: entreguéis
+      3s: entregue
+      3p: entreguen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I delivered, was delivering'}
+      1s: entregara
+      1p: entregáramos
+      2s: entregaras
+      2p: entregarais
+      3s: entregara
+      3p: entregaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will deliver}
+      1s: entregare
+      1p: entregáremos
+      2s: entregares
+      2p: entregareis
+      3s: entregare
+      3p: entregaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have delivered, delivered'}
+      1s: haya entregado
+      1p: hayamos entregado
+      2s: hayas entregado
+      2p: hayáis entregado
+      3s: haya entregado
+      3p: hayan entregado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have delivered}
+      1s: hubiere entregado
+      1p: hubiéremos entregado
+      2s: hubieres entregado
+      2p: hubiereis entregado
+      3s: hubiere entregado
+      3p: hubieren entregado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had delivered}
+      1s: hubiera entregado
+      1p: hubiéramos entregado
+      2s: hubieras entregado
+      2p: hubierais entregado
+      3s: hubiera entregado
+      3p: hubieran entregado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Deliver! Don't deliver!}
+      1s: ''
+      1p: ''
+      2s: entrega
+      2p: entregue
+      3s: entregad
+      3p: entreguen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Deliver! Don't deliver!}
+      1s: ''
+      1p: ''
+      2s: no entregues
+      2p: no entregue
+      3s: no entreguéis
+      3p: no entreguen

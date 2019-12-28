@@ -1,0 +1,186 @@
+preservar:
+  infinitive: preservar
+  gerund: preservando
+  pastparticiple: preservado
+  definitions: {en: 'to preserve, protect'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I preserve, am preserving'}
+      1s: preservo
+      1p: preservamos
+      2s: preservas
+      2p: preserváis
+      3s: preserva
+      3p: preservan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will preserve}
+      1s: preservaré
+      1p: preservaremos
+      2s: preservarás
+      2p: preservaréis
+      3s: preservará
+      3p: preservarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was preserving, used to preserve, preserved'}
+      1s: preservaba
+      1p: preservábamos
+      2s: preservabas
+      2p: preservabais
+      3s: preservaba
+      3p: preservaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I preserved}
+      1s: preservé
+      1p: preservamos
+      2s: preservaste
+      2p: preservasteis
+      3s: preservó
+      3p: preservaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would preserve}
+      1s: preservaría
+      1p: preservaríamos
+      2s: preservarías
+      2p: preservaríais
+      3s: preservaría
+      3p: preservarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have preserved}
+      1s: he preservado
+      1p: hemos preservado
+      2s: has preservado
+      2p: habéis preservado
+      3s: ha preservado
+      3p: han preservado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have preserved}
+      1s: habré preservado
+      1p: habremos preservado
+      2s: habrás preservado
+      2p: habréis preservado
+      3s: habrá preservado
+      3p: habrán preservado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had preserved}
+      1s: había preservado
+      1p: habíamos preservado
+      2s: habías preservado
+      2p: habíais preservado
+      3s: había preservado
+      3p: habían preservado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had preserved}
+      1s: hube preservado
+      1p: hubimos preservado
+      2s: hubiste preservado
+      2p: hubisteis preservado
+      3s: hubo preservado
+      3p: hubieron preservado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have preserved}
+      1s: habría preservado
+      1p: habríamos preservado
+      2s: habrías preservado
+      2p: habríais preservado
+      3s: habría preservado
+      3p: habrían preservado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I preserve, am preserving'}
+      1s: preserve
+      1p: preservemos
+      2s: preserves
+      2p: preservéis
+      3s: preserve
+      3p: preserven
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I preserved, was preserving'}
+      1s: preservara
+      1p: preserváramos
+      2s: preservaras
+      2p: preservarais
+      3s: preservara
+      3p: preservaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will preserve}
+      1s: preservare
+      1p: preserváremos
+      2s: preservares
+      2p: preservareis
+      3s: preservare
+      3p: preservaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have preserved, preserved'}
+      1s: haya preservado
+      1p: hayamos preservado
+      2s: hayas preservado
+      2p: hayáis preservado
+      3s: haya preservado
+      3p: hayan preservado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have preserved}
+      1s: hubiere preservado
+      1p: hubiéremos preservado
+      2s: hubieres preservado
+      2p: hubiereis preservado
+      3s: hubiere preservado
+      3p: hubieren preservado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had preserved}
+      1s: hubiera preservado
+      1p: hubiéramos preservado
+      2s: hubieras preservado
+      2p: hubierais preservado
+      3s: hubiera preservado
+      3p: hubieran preservado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Preserve! Don't preserve!}
+      1s: ''
+      1p: ''
+      2s: preserva
+      2p: preserve
+      3s: preservad
+      3p: preserven
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Preserve! Don't preserve!}
+      1s: ''
+      1p: ''
+      2s: no preserves
+      2p: no preserve
+      3s: no preservéis
+      3p: no preserven

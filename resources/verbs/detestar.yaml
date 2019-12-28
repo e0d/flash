@@ -1,0 +1,186 @@
+detestar:
+  infinitive: detestar
+  gerund: detestando
+  pastparticiple: detestado
+  definitions: {en: 'to detest, hate'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I detest, am detesting'}
+      1s: detesto
+      1p: detestamos
+      2s: detestas
+      2p: detestáis
+      3s: detesta
+      3p: detestan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will detest}
+      1s: detestaré
+      1p: detestaremos
+      2s: detestarás
+      2p: detestaréis
+      3s: detestará
+      3p: detestarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was detesting, used to detest, detested'}
+      1s: detestaba
+      1p: detestábamos
+      2s: detestabas
+      2p: detestabais
+      3s: detestaba
+      3p: detestaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I detested}
+      1s: detesté
+      1p: detestamos
+      2s: detestaste
+      2p: detestasteis
+      3s: detestó
+      3p: detestaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would detest}
+      1s: detestaría
+      1p: detestaríamos
+      2s: detestarías
+      2p: detestaríais
+      3s: detestaría
+      3p: detestarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have detested}
+      1s: he detestado
+      1p: hemos detestado
+      2s: has detestado
+      2p: habéis detestado
+      3s: ha detestado
+      3p: han detestado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have detested}
+      1s: habré detestado
+      1p: habremos detestado
+      2s: habrás detestado
+      2p: habréis detestado
+      3s: habrá detestado
+      3p: habrán detestado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had detested}
+      1s: había detestado
+      1p: habíamos detestado
+      2s: habías detestado
+      2p: habíais detestado
+      3s: había detestado
+      3p: habían detestado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had detested}
+      1s: hube detestado
+      1p: hubimos detestado
+      2s: hubiste detestado
+      2p: hubisteis detestado
+      3s: hubo detestado
+      3p: hubieron detestado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have detested}
+      1s: habría detestado
+      1p: habríamos detestado
+      2s: habrías detestado
+      2p: habríais detestado
+      3s: habría detestado
+      3p: habrían detestado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I detest, am detesting'}
+      1s: deteste
+      1p: detestemos
+      2s: detestes
+      2p: detestéis
+      3s: deteste
+      3p: detesten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I detested, was detesting'}
+      1s: detestara
+      1p: detestáramos
+      2s: detestaras
+      2p: detestarais
+      3s: detestara
+      3p: detestaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will detest}
+      1s: detestare
+      1p: detestáremos
+      2s: detestares
+      2p: detestareis
+      3s: detestare
+      3p: detestaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have detested, detested'}
+      1s: haya detestado
+      1p: hayamos detestado
+      2s: hayas detestado
+      2p: hayáis detestado
+      3s: haya detestado
+      3p: hayan detestado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have detested}
+      1s: hubiere detestado
+      1p: hubiéremos detestado
+      2s: hubieres detestado
+      2p: hubiereis detestado
+      3s: hubiere detestado
+      3p: hubieren detestado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had detested}
+      1s: hubiera detestado
+      1p: hubiéramos detestado
+      2s: hubieras detestado
+      2p: hubierais detestado
+      3s: hubiera detestado
+      3p: hubieran detestado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Detest! Don't detest!}
+      1s: ''
+      1p: ''
+      2s: detesta
+      2p: deteste
+      3s: detestad
+      3p: detesten
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Detest! Don't detest!}
+      1s: ''
+      1p: ''
+      2s: no detestes
+      2p: no deteste
+      3s: no detestéis
+      3p: no detesten

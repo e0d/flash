@@ -1,0 +1,187 @@
+saltar:
+  infinitive: saltar
+  gerund: saltando
+  pastparticiple: saltado
+  definitions: {en: 'to jump, leap; to jump over, leap over; to omit, skip, leave
+      out'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I jump, am jumping'}
+      1s: salto
+      1p: saltamos
+      2s: saltas
+      2p: saltáis
+      3s: salta
+      3p: saltan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will jump}
+      1s: saltaré
+      1p: saltaremos
+      2s: saltarás
+      2p: saltaréis
+      3s: saltará
+      3p: saltarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was jumping, used to jump, jumped'}
+      1s: saltaba
+      1p: saltábamos
+      2s: saltabas
+      2p: saltabais
+      3s: saltaba
+      3p: saltaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I jumped}
+      1s: salté
+      1p: saltamos
+      2s: saltaste
+      2p: saltasteis
+      3s: saltó
+      3p: saltaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would jump}
+      1s: saltaría
+      1p: saltaríamos
+      2s: saltarías
+      2p: saltaríais
+      3s: saltaría
+      3p: saltarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have jumped}
+      1s: he saltado
+      1p: hemos saltado
+      2s: has saltado
+      2p: habéis saltado
+      3s: ha saltado
+      3p: han saltado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have jumped}
+      1s: habré saltado
+      1p: habremos saltado
+      2s: habrás saltado
+      2p: habréis saltado
+      3s: habrá saltado
+      3p: habrán saltado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had jumped}
+      1s: había saltado
+      1p: habíamos saltado
+      2s: habías saltado
+      2p: habíais saltado
+      3s: había saltado
+      3p: habían saltado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had jumped}
+      1s: hube saltado
+      1p: hubimos saltado
+      2s: hubiste saltado
+      2p: hubisteis saltado
+      3s: hubo saltado
+      3p: hubieron saltado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have jumped}
+      1s: habría saltado
+      1p: habríamos saltado
+      2s: habrías saltado
+      2p: habríais saltado
+      3s: habría saltado
+      3p: habrían saltado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I jump, am jumping'}
+      1s: salte
+      1p: saltemos
+      2s: saltes
+      2p: saltéis
+      3s: salte
+      3p: salten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I jumped, was jumping'}
+      1s: saltara
+      1p: saltáramos
+      2s: saltaras
+      2p: saltarais
+      3s: saltara
+      3p: saltaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will jump}
+      1s: saltare
+      1p: saltáremos
+      2s: saltares
+      2p: saltareis
+      3s: saltare
+      3p: saltaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have jumped, jumped'}
+      1s: haya saltado
+      1p: hayamos saltado
+      2s: hayas saltado
+      2p: hayáis saltado
+      3s: haya saltado
+      3p: hayan saltado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have jumped}
+      1s: hubiere saltado
+      1p: hubiéremos saltado
+      2s: hubieres saltado
+      2p: hubiereis saltado
+      3s: hubiere saltado
+      3p: hubieren saltado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had jumped}
+      1s: hubiera saltado
+      1p: hubiéramos saltado
+      2s: hubieras saltado
+      2p: hubierais saltado
+      3s: hubiera saltado
+      3p: hubieran saltado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Jump! Don't jump!}
+      1s: ''
+      1p: ''
+      2s: salta
+      2p: salte
+      3s: saltad
+      3p: salten
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Jump! Don't jump!}
+      1s: ''
+      1p: ''
+      2s: no saltes
+      2p: no salte
+      3s: no saltéis
+      3p: no salten

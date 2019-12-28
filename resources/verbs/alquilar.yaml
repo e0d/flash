@@ -1,0 +1,186 @@
+alquilar:
+  infinitive: alquilar
+  gerund: alquilando
+  pastparticiple: alquilado
+  definitions: {en: 'to rent; to rent out, let'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I rent, am renting'}
+      1s: alquilo
+      1p: alquilamos
+      2s: alquilas
+      2p: alquiláis
+      3s: alquila
+      3p: alquilan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will rent}
+      1s: alquilaré
+      1p: alquilaremos
+      2s: alquilarás
+      2p: alquilaréis
+      3s: alquilará
+      3p: alquilarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was renting, used to rent, rented'}
+      1s: alquilaba
+      1p: alquilábamos
+      2s: alquilabas
+      2p: alquilabais
+      3s: alquilaba
+      3p: alquilaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I rented}
+      1s: alquilé
+      1p: alquilamos
+      2s: alquilaste
+      2p: alquilasteis
+      3s: alquiló
+      3p: alquilaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would rent}
+      1s: alquilaría
+      1p: alquilaríamos
+      2s: alquilarías
+      2p: alquilaríais
+      3s: alquilaría
+      3p: alquilarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have rented}
+      1s: he alquilado
+      1p: hemos alquilado
+      2s: has alquilado
+      2p: habéis alquilado
+      3s: ha alquilado
+      3p: han alquilado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have rented}
+      1s: habré alquilado
+      1p: habremos alquilado
+      2s: habrás alquilado
+      2p: habréis alquilado
+      3s: habrá alquilado
+      3p: habrán alquilado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had rented}
+      1s: había alquilado
+      1p: habíamos alquilado
+      2s: habías alquilado
+      2p: habíais alquilado
+      3s: había alquilado
+      3p: habían alquilado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had rented}
+      1s: hube alquilado
+      1p: hubimos alquilado
+      2s: hubiste alquilado
+      2p: hubisteis alquilado
+      3s: hubo alquilado
+      3p: hubieron alquilado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have rented}
+      1s: habría alquilado
+      1p: habríamos alquilado
+      2s: habrías alquilado
+      2p: habríais alquilado
+      3s: habría alquilado
+      3p: habrían alquilado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I rent, am renting'}
+      1s: alquile
+      1p: alquilemos
+      2s: alquiles
+      2p: alquiléis
+      3s: alquile
+      3p: alquilen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I rented, was renting'}
+      1s: alquilara
+      1p: alquiláramos
+      2s: alquilaras
+      2p: alquilarais
+      3s: alquilara
+      3p: alquilaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will rent}
+      1s: alquilare
+      1p: alquiláremos
+      2s: alquilares
+      2p: alquilareis
+      3s: alquilare
+      3p: alquilaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have rented, rented'}
+      1s: haya alquilado
+      1p: hayamos alquilado
+      2s: hayas alquilado
+      2p: hayáis alquilado
+      3s: haya alquilado
+      3p: hayan alquilado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have rented}
+      1s: hubiere alquilado
+      1p: hubiéremos alquilado
+      2s: hubieres alquilado
+      2p: hubiereis alquilado
+      3s: hubiere alquilado
+      3p: hubieren alquilado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had rented}
+      1s: hubiera alquilado
+      1p: hubiéramos alquilado
+      2s: hubieras alquilado
+      2p: hubierais alquilado
+      3s: hubiera alquilado
+      3p: hubieran alquilado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Rent! Don't rent!}
+      1s: ''
+      1p: ''
+      2s: alquila
+      2p: alquile
+      3s: alquilad
+      3p: alquilen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Rent! Don't rent!}
+      1s: ''
+      1p: ''
+      2s: no alquiles
+      2p: no alquile
+      3s: no alquiléis
+      3p: no alquilen

@@ -1,0 +1,186 @@
+reír:
+  infinitive: reír
+  gerund: riendo
+  pastparticiple: reído
+  definitions: {en: to laugh}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I laugh, am laughing'}
+      1s: río
+      1p: reímos
+      2s: ríes
+      2p: reís
+      3s: ríe
+      3p: ríen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will laugh}
+      1s: reiré
+      1p: reiremos
+      2s: reirás
+      2p: reiréis
+      3s: reirá
+      3p: reirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was laughing, used to laugh, laughed'}
+      1s: reía
+      1p: reíamos
+      2s: reías
+      2p: reíais
+      3s: reía
+      3p: reían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I laughed}
+      1s: reí
+      1p: reímos
+      2s: reíste
+      2p: reísteis
+      3s: rio
+      3p: rieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would laugh}
+      1s: reiría
+      1p: reiríamos
+      2s: reirías
+      2p: reiríais
+      3s: reiría
+      3p: reirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have laughed}
+      1s: he reído
+      1p: hemos reído
+      2s: has reído
+      2p: habéis reído
+      3s: ha reído
+      3p: han reído
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have laughed}
+      1s: habré reído
+      1p: habremos reído
+      2s: habrás reído
+      2p: habréis reído
+      3s: habrá reído
+      3p: habrán reído
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had laughed}
+      1s: había reído
+      1p: habíamos reído
+      2s: habías reído
+      2p: habíais reído
+      3s: había reído
+      3p: habían reído
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had laughed}
+      1s: hube reído
+      1p: hubimos reído
+      2s: hubiste reído
+      2p: hubisteis reído
+      3s: hubo reído
+      3p: hubieron reído
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have laughed}
+      1s: habría reído
+      1p: habríamos reído
+      2s: habrías reído
+      2p: habríais reído
+      3s: habría reído
+      3p: habrían reído
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I laugh, am laughing'}
+      1s: ría
+      1p: riamos
+      2s: rías
+      2p: riáis
+      3s: ría
+      3p: rían
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I laughed, was laughing'}
+      1s: riera
+      1p: riéramos
+      2s: rieras
+      2p: rierais
+      3s: riera
+      3p: rieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will laugh}
+      1s: riere
+      1p: riéremos
+      2s: rieres
+      2p: riereis
+      3s: riere
+      3p: rieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have laughed, laughed'}
+      1s: haya reído
+      1p: hayamos reído
+      2s: hayas reído
+      2p: hayáis reído
+      3s: haya reído
+      3p: hayan reído
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have laughed}
+      1s: hubiere reído
+      1p: hubiéremos reído
+      2s: hubieres reído
+      2p: hubiereis reído
+      3s: hubiere reído
+      3p: hubieren reído
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had laughed}
+      1s: hubiera reído
+      1p: hubiéramos reído
+      2s: hubieras reído
+      2p: hubierais reído
+      3s: hubiera reído
+      3p: hubieran reído
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Laugh! Don't laugh!}
+      1s: ''
+      1p: ''
+      2s: ríe
+      2p: ría
+      3s: reíd
+      3p: rían
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Laugh! Don't laugh!}
+      1s: ''
+      1p: ''
+      2s: no rías
+      2p: no ría
+      3s: no riais
+      3p: no rían

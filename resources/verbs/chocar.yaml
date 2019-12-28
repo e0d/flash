@@ -1,0 +1,187 @@
+chocar:
+  infinitive: chocar
+  gerund: chocando
+  pastparticiple: chocado
+  definitions: {en: 'to shock; to startle; to be suprising, startling; to collide,
+      crash'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I shock, am shocking'}
+      1s: choco
+      1p: chocamos
+      2s: chocas
+      2p: chocáis
+      3s: choca
+      3p: chocan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will shock}
+      1s: chocaré
+      1p: chocaremos
+      2s: chocarás
+      2p: chocaréis
+      3s: chocará
+      3p: chocarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was shocking, used to shock, shocked'}
+      1s: chocaba
+      1p: chocábamos
+      2s: chocabas
+      2p: chocabais
+      3s: chocaba
+      3p: chocaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I shocked}
+      1s: choqué
+      1p: chocamos
+      2s: chocaste
+      2p: chocasteis
+      3s: chocó
+      3p: chocaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would shock}
+      1s: chocaría
+      1p: chocaríamos
+      2s: chocarías
+      2p: chocaríais
+      3s: chocaría
+      3p: chocarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have shocked}
+      1s: he chocado
+      1p: hemos chocado
+      2s: has chocado
+      2p: habéis chocado
+      3s: ha chocado
+      3p: han chocado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have shocked}
+      1s: habré chocado
+      1p: habremos chocado
+      2s: habrás chocado
+      2p: habréis chocado
+      3s: habrá chocado
+      3p: habrán chocado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had shocked}
+      1s: había chocado
+      1p: habíamos chocado
+      2s: habías chocado
+      2p: habíais chocado
+      3s: había chocado
+      3p: habían chocado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had shocked}
+      1s: hube chocado
+      1p: hubimos chocado
+      2s: hubiste chocado
+      2p: hubisteis chocado
+      3s: hubo chocado
+      3p: hubieron chocado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have shocked}
+      1s: habría chocado
+      1p: habríamos chocado
+      2s: habrías chocado
+      2p: habríais chocado
+      3s: habría chocado
+      3p: habrían chocado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I shock, am shocking'}
+      1s: choque
+      1p: choquemos
+      2s: choques
+      2p: choquéis
+      3s: choque
+      3p: choquen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I shocked, was shocking'}
+      1s: chocara
+      1p: chocáramos
+      2s: chocaras
+      2p: chocarais
+      3s: chocara
+      3p: chocaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will shock}
+      1s: chocare
+      1p: chocáremos
+      2s: chocares
+      2p: chocareis
+      3s: chocare
+      3p: chocaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have shocked, shocked'}
+      1s: haya chocado
+      1p: hayamos chocado
+      2s: hayas chocado
+      2p: hayáis chocado
+      3s: haya chocado
+      3p: hayan chocado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have shocked}
+      1s: hubiere chocado
+      1p: hubiéremos chocado
+      2s: hubieres chocado
+      2p: hubiereis chocado
+      3s: hubiere chocado
+      3p: hubieren chocado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had shocked}
+      1s: hubiera chocado
+      1p: hubiéramos chocado
+      2s: hubieras chocado
+      2p: hubierais chocado
+      3s: hubiera chocado
+      3p: hubieran chocado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Shock! Don't shock!}
+      1s: ''
+      1p: ''
+      2s: choca
+      2p: choque
+      3s: chocad
+      3p: choquen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Shock! Don't shock!}
+      1s: ''
+      1p: ''
+      2s: no choques
+      2p: no choque
+      3s: no choquéis
+      3p: no choquen

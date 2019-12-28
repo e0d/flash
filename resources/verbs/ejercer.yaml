@@ -1,0 +1,187 @@
+ejercer:
+  infinitive: ejercer
+  gerund: ejerciendo
+  pastparticiple: ejercido
+  definitions: {en: 'to exercise, wield [power, influence, etc.]; to practice [a profession];
+      to manage, conduct [a businsess]'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I exercise, am exercising'}
+      1s: ejerzo
+      1p: ejercemos
+      2s: ejerces
+      2p: ejercéis
+      3s: ejerce
+      3p: ejercen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will exercise}
+      1s: ejerceré
+      1p: ejerceremos
+      2s: ejercerás
+      2p: ejerceréis
+      3s: ejercerá
+      3p: ejercerán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was exercising, used to exercise, exercised'}
+      1s: ejercía
+      1p: ejercíamos
+      2s: ejercías
+      2p: ejercíais
+      3s: ejercía
+      3p: ejercían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I exercised}
+      1s: ejercí
+      1p: ejercimos
+      2s: ejerciste
+      2p: ejercisteis
+      3s: ejerció
+      3p: ejercieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would exercise}
+      1s: ejercería
+      1p: ejerceríamos
+      2s: ejercerías
+      2p: ejerceríais
+      3s: ejercería
+      3p: ejercerían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have exercised}
+      1s: he ejercido
+      1p: hemos ejercido
+      2s: has ejercido
+      2p: habéis ejercido
+      3s: ha ejercido
+      3p: han ejercido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have exercised}
+      1s: habré ejercido
+      1p: habremos ejercido
+      2s: habrás ejercido
+      2p: habréis ejercido
+      3s: habrá ejercido
+      3p: habrán ejercido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had exercised}
+      1s: había ejercido
+      1p: habíamos ejercido
+      2s: habías ejercido
+      2p: habíais ejercido
+      3s: había ejercido
+      3p: habían ejercido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had exercised}
+      1s: hube ejercido
+      1p: hubimos ejercido
+      2s: hubiste ejercido
+      2p: hubisteis ejercido
+      3s: hubo ejercido
+      3p: hubieron ejercido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have exercised}
+      1s: habría ejercido
+      1p: habríamos ejercido
+      2s: habrías ejercido
+      2p: habríais ejercido
+      3s: habría ejercido
+      3p: habrían ejercido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I exercise, am exercising'}
+      1s: ejerza
+      1p: ejerzamos
+      2s: ejerzas
+      2p: ejerzáis
+      3s: ejerza
+      3p: ejerzan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I exercised, was exercising'}
+      1s: ejerciera
+      1p: ejerciéramos
+      2s: ejercieras
+      2p: ejercierais
+      3s: ejerciera
+      3p: ejercieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will exercise}
+      1s: ejerciere
+      1p: ejerciéremos
+      2s: ejercieres
+      2p: ejerciereis
+      3s: ejerciere
+      3p: ejercieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have exercised, exercised'}
+      1s: haya ejercido
+      1p: hayamos ejercido
+      2s: hayas ejercido
+      2p: hayáis ejercido
+      3s: haya ejercido
+      3p: hayan ejercido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have exercised}
+      1s: hubiere ejercido
+      1p: hubiéremos ejercido
+      2s: hubieres ejercido
+      2p: hubiereis ejercido
+      3s: hubiere ejercido
+      3p: hubieren ejercido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had exercised}
+      1s: hubiera ejercido
+      1p: hubiéramos ejercido
+      2s: hubieras ejercido
+      2p: hubierais ejercido
+      3s: hubiera ejercido
+      3p: hubieran ejercido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Exercise! Don't exercise!}
+      1s: ''
+      1p: ''
+      2s: ejerce
+      2p: ejerza
+      3s: ejerced
+      3p: ejerzan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Exercise! Don't exercise!}
+      1s: ''
+      1p: ''
+      2s: no ejerzas
+      2p: no ejerza
+      3s: no ejerzáis
+      3p: no ejerzan

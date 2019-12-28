@@ -1,0 +1,186 @@
+efectuar:
+  infinitive: efectuar
+  gerund: efectuando
+  pastparticiple: efectuado
+  definitions: {en: 'to effect, carry out, bring about'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I effect, am effecting'}
+      1s: efectúo
+      1p: efectuamos
+      2s: efectúas
+      2p: efectuáis
+      3s: efectúa
+      3p: efectúan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will effect}
+      1s: efectuaré
+      1p: efectuaremos
+      2s: efectuarás
+      2p: efectuaréis
+      3s: efectuará
+      3p: efectuarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was effecting, used to effect, effected'}
+      1s: efectuaba
+      1p: efectuábamos
+      2s: efectuabas
+      2p: efectuabais
+      3s: efectuaba
+      3p: efectuaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I effected}
+      1s: efectué
+      1p: efectuamos
+      2s: efectuaste
+      2p: efectuasteis
+      3s: efectuó
+      3p: efectuaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would effect}
+      1s: efectuaría
+      1p: efectuaríamos
+      2s: efectuarías
+      2p: efectuaríais
+      3s: efectuaría
+      3p: efectuarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have effected}
+      1s: he efectuado
+      1p: hemos efectuado
+      2s: has efectuado
+      2p: habéis efectuado
+      3s: ha efectuado
+      3p: han efectuado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have effected}
+      1s: habré efectuado
+      1p: habremos efectuado
+      2s: habrás efectuado
+      2p: habréis efectuado
+      3s: habrá efectuado
+      3p: habrán efectuado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had effected}
+      1s: había efectuado
+      1p: habíamos efectuado
+      2s: habías efectuado
+      2p: habíais efectuado
+      3s: había efectuado
+      3p: habían efectuado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had effected}
+      1s: hube efectuado
+      1p: hubimos efectuado
+      2s: hubiste efectuado
+      2p: hubisteis efectuado
+      3s: hubo efectuado
+      3p: hubieron efectuado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have effected}
+      1s: habría efectuado
+      1p: habríamos efectuado
+      2s: habrías efectuado
+      2p: habríais efectuado
+      3s: habría efectuado
+      3p: habrían efectuado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I effect, am effecting'}
+      1s: efectúe
+      1p: efectuemos
+      2s: efectúes
+      2p: efectuéis
+      3s: efectúe
+      3p: efectúen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I effected, was effecting'}
+      1s: efectuara
+      1p: efectuáramos
+      2s: efectuaras
+      2p: efectuarais
+      3s: efectuara
+      3p: efectuaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will effect}
+      1s: efectuare
+      1p: efectuáremos
+      2s: efectuares
+      2p: efectuareis
+      3s: efectuare
+      3p: efectuaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have effected, effected'}
+      1s: haya efectuado
+      1p: hayamos efectuado
+      2s: hayas efectuado
+      2p: hayáis efectuado
+      3s: haya efectuado
+      3p: hayan efectuado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have effected}
+      1s: hubiere efectuado
+      1p: hubiéremos efectuado
+      2s: hubieres efectuado
+      2p: hubiereis efectuado
+      3s: hubiere efectuado
+      3p: hubieren efectuado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had effected}
+      1s: hubiera efectuado
+      1p: hubiéramos efectuado
+      2s: hubieras efectuado
+      2p: hubierais efectuado
+      3s: hubiera efectuado
+      3p: hubieran efectuado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Effect! Don't effect!}
+      1s: ''
+      1p: ''
+      2s: efectúa
+      2p: efectúe
+      3s: efectuad
+      3p: efectúen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Effect! Don't effect!}
+      1s: ''
+      1p: ''
+      2s: no efectúes
+      2p: no efectúe
+      3s: no efectuéis
+      3p: no efectúen

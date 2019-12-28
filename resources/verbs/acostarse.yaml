@@ -1,0 +1,186 @@
+acostarse:
+  infinitive: acostarse
+  gerund: acostándose
+  pastparticiple: acostado
+  definitions: {en: 'to go to bed, lie down'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I go to bed, am going to bed'}
+      1s: me acuesto
+      1p: nos acostamos
+      2s: te acuestas
+      2p: os acostáis
+      3s: se acuesta
+      3p: se acuestan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will go to bed}
+      1s: me acostaré
+      1p: nos acostaremos
+      2s: te acostarás
+      2p: os acostaréis
+      3s: se acostará
+      3p: se acostarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was going to bed, used to go to bed, went to bed'}
+      1s: me acostaba
+      1p: nos acostábamos
+      2s: te acostabas
+      2p: os acostabais
+      3s: se acostaba
+      3p: se acostaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I went to bed}
+      1s: me acosté
+      1p: nos acostamos
+      2s: te acostaste
+      2p: os acostasteis
+      3s: se acostó
+      3p: se acostaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would go to bed}
+      1s: me acostaría
+      1p: nos acostaríamos
+      2s: te acostarías
+      2p: os acostaríais
+      3s: se acostaría
+      3p: se acostarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have gone to bed}
+      1s: me he acostado
+      1p: nos hemos acostado
+      2s: te has acostado
+      2p: os habéis acostado
+      3s: se ha acostado
+      3p: se han acostado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have gone to bed}
+      1s: me habré acostado
+      1p: nos habremos acostado
+      2s: te habrás acostado
+      2p: os habréis acostado
+      3s: se habrá acostado
+      3p: se habrán acostado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had gone to bed}
+      1s: me había acostado
+      1p: nos habíamos acostado
+      2s: te habías acostado
+      2p: os habíais acostado
+      3s: se había acostado
+      3p: se habían acostado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had gone to bed}
+      1s: me hube acostado
+      1p: nos hubimos acostado
+      2s: te hubiste acostado
+      2p: os hubisteis acostado
+      3s: se hubo acostado
+      3p: se hubieron acostado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have gone to bed}
+      1s: me habría acostado
+      1p: nos habríamos acostado
+      2s: te habrías acostado
+      2p: os habríais acostado
+      3s: se habría acostado
+      3p: se habrían acostado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I go to bed, am going to bed'}
+      1s: me acueste
+      1p: nos acostemos
+      2s: te acuestes
+      2p: os acostéis
+      3s: se acueste
+      3p: se acuesten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I went to bed, was going to bed'}
+      1s: me acostara
+      1p: nos acostáramos
+      2s: te acostaras
+      2p: os acostarais
+      3s: se acostara
+      3p: se acostaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will go to bed}
+      1s: me acostare
+      1p: nos acostáremos
+      2s: te acostares
+      2p: os acostareis
+      3s: se acostare
+      3p: se acostaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have gone to bed, went to bed'}
+      1s: me haya acostado
+      1p: nos hayamos acostado
+      2s: te hayas acostado
+      2p: os hayáis acostado
+      3s: se haya acostado
+      3p: se hayan acostado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have gone to bed}
+      1s: me hubiere acostado
+      1p: nos hubiéremos acostado
+      2s: te hubieres acostado
+      2p: os hubiereis acostado
+      3s: se hubiere acostado
+      3p: se hubieren acostado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had gone to bed}
+      1s: me hubiera acostado
+      1p: nos hubiéramos acostado
+      2s: te hubieras acostado
+      2p: os hubierais acostado
+      3s: se hubiera acostado
+      3p: se hubieran acostado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Go to bed! Don't go to bed!}
+      1s: ''
+      1p: ''
+      2s: acuéstate
+      2p: acuéstese
+      3s: acostaos
+      3p: acuéstense
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Go to bed! Don't go to bed!}
+      1s: ''
+      1p: ''
+      2s: no te acuestes
+      2p: no se acueste
+      3s: no os acostéis
+      3p: no se acuesten

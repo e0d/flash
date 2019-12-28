@@ -1,0 +1,186 @@
+enfadarse:
+  infinitive: enfadarse
+  gerund: enfadándose
+  pastparticiple: enfadado
+  definitions: {en: 'to get angry, get irratated, get annoyed'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I get angry, am getting angry'}
+      1s: me enfado
+      1p: nos enfadamos
+      2s: te enfadas
+      2p: os enfadáis
+      3s: se enfada
+      3p: se enfadan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will get angry}
+      1s: me enfadaré
+      1p: nos enfadaremos
+      2s: te enfadarás
+      2p: os enfadaréis
+      3s: se enfadará
+      3p: se enfadarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was getting angry, used to get angry, got angry'}
+      1s: me enfadaba
+      1p: nos enfadábamos
+      2s: te enfadabas
+      2p: os enfadabais
+      3s: se enfadaba
+      3p: se enfadaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I got angry}
+      1s: me enfadé
+      1p: nos enfadamos
+      2s: te enfadaste
+      2p: os enfadasteis
+      3s: se enfadó
+      3p: se enfadaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would get angry}
+      1s: me enfadaría
+      1p: nos enfadaríamos
+      2s: te enfadarías
+      2p: os enfadaríais
+      3s: se enfadaría
+      3p: se enfadarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have gotten angry}
+      1s: me he enfadado
+      1p: nos hemos enfadado
+      2s: te has enfadado
+      2p: os habéis enfadado
+      3s: se ha enfadado
+      3p: se han enfadado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have gotten angry}
+      1s: me habré enfadado
+      1p: nos habremos enfadado
+      2s: te habrás enfadado
+      2p: os habréis enfadado
+      3s: se habrá enfadado
+      3p: se habrán enfadado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had gotten angry}
+      1s: me había enfadado
+      1p: nos habíamos enfadado
+      2s: te habías enfadado
+      2p: os habíais enfadado
+      3s: se había enfadado
+      3p: se habían enfadado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had gotten angry}
+      1s: me hube enfadado
+      1p: nos hubimos enfadado
+      2s: te hubiste enfadado
+      2p: os hubisteis enfadado
+      3s: se hubo enfadado
+      3p: se hubieron enfadado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have gotten angry}
+      1s: me habría enfadado
+      1p: nos habríamos enfadado
+      2s: te habrías enfadado
+      2p: os habríais enfadado
+      3s: se habría enfadado
+      3p: se habrían enfadado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I get angry, am getting angry'}
+      1s: me enfade
+      1p: nos enfademos
+      2s: te enfades
+      2p: os enfadéis
+      3s: se enfade
+      3p: se enfaden
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I got angry, was getting angry'}
+      1s: me enfadara
+      1p: nos enfadáramos
+      2s: te enfadaras
+      2p: os enfadarais
+      3s: se enfadara
+      3p: se enfadaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will get angry}
+      1s: me enfadare
+      1p: nos enfadáremos
+      2s: te enfadares
+      2p: os enfadareis
+      3s: se enfadare
+      3p: se enfadaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have gotten angry, got angry'}
+      1s: me haya enfadado
+      1p: nos hayamos enfadado
+      2s: te hayas enfadado
+      2p: os hayáis enfadado
+      3s: se haya enfadado
+      3p: se hayan enfadado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have gotten angry}
+      1s: me hubiere enfadado
+      1p: nos hubiéremos enfadado
+      2s: te hubieres enfadado
+      2p: os hubiereis enfadado
+      3s: se hubiere enfadado
+      3p: se hubieren enfadado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had gotten angry}
+      1s: me hubiera enfadado
+      1p: nos hubiéramos enfadado
+      2s: te hubieras enfadado
+      2p: os hubierais enfadado
+      3s: se hubiera enfadado
+      3p: se hubieran enfadado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Get angry! Don't get angry!}
+      1s: ''
+      1p: ''
+      2s: enfádate
+      2p: enfádese
+      3s: enfadaos
+      3p: enfádense
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Get angry! Don't get angry!}
+      1s: ''
+      1p: ''
+      2s: no te enfades
+      2p: no se enfade
+      3s: no os enfadéis
+      3p: no se enfaden

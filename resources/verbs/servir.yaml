@@ -1,0 +1,186 @@
+servir:
+  infinitive: servir
+  gerund: sirviendo
+  pastparticiple: servido
+  definitions: {en: to serve}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I serve, am serving'}
+      1s: sirvo
+      1p: servimos
+      2s: sirves
+      2p: servís
+      3s: sirve
+      3p: sirven
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will serve}
+      1s: serviré
+      1p: serviremos
+      2s: servirás
+      2p: serviréis
+      3s: servirá
+      3p: servirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was serving, used to serve, served'}
+      1s: servía
+      1p: servíamos
+      2s: servías
+      2p: servíais
+      3s: servía
+      3p: servían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I served}
+      1s: serví
+      1p: servimos
+      2s: serviste
+      2p: servisteis
+      3s: sirvió
+      3p: sirvieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would serve}
+      1s: serviría
+      1p: serviríamos
+      2s: servirías
+      2p: serviríais
+      3s: serviría
+      3p: servirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have served}
+      1s: he servido
+      1p: hemos servido
+      2s: has servido
+      2p: habéis servido
+      3s: ha servido
+      3p: han servido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have served}
+      1s: habré servido
+      1p: habremos servido
+      2s: habrás servido
+      2p: habréis servido
+      3s: habrá servido
+      3p: habrán servido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had served}
+      1s: había servido
+      1p: habíamos servido
+      2s: habías servido
+      2p: habíais servido
+      3s: había servido
+      3p: habían servido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had served}
+      1s: hube servido
+      1p: hubimos servido
+      2s: hubiste servido
+      2p: hubisteis servido
+      3s: hubo servido
+      3p: hubieron servido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have served}
+      1s: habría servido
+      1p: habríamos servido
+      2s: habrías servido
+      2p: habríais servido
+      3s: habría servido
+      3p: habrían servido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I serve, am serving'}
+      1s: sirva
+      1p: sirvamos
+      2s: sirvas
+      2p: sirváis
+      3s: sirva
+      3p: sirvan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I served, was serving'}
+      1s: sirviera
+      1p: sirviéramos
+      2s: sirvieras
+      2p: sirvierais
+      3s: sirviera
+      3p: sirvieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will serve}
+      1s: sirviere
+      1p: sirviéremos
+      2s: sirvieres
+      2p: sirviereis
+      3s: sirviere
+      3p: sirvieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have served, served'}
+      1s: haya servido
+      1p: hayamos servido
+      2s: hayas servido
+      2p: hayáis servido
+      3s: haya servido
+      3p: hayan servido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have served}
+      1s: hubiere servido
+      1p: hubiéremos servido
+      2s: hubieres servido
+      2p: hubiereis servido
+      3s: hubiere servido
+      3p: hubieren servido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had served}
+      1s: hubiera servido
+      1p: hubiéramos servido
+      2s: hubieras servido
+      2p: hubierais servido
+      3s: hubiera servido
+      3p: hubieran servido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Serve! Don't serve!}
+      1s: ''
+      1p: ''
+      2s: sirve
+      2p: sirva
+      3s: servid
+      3p: sirvan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Serve! Don't serve!}
+      1s: ''
+      1p: ''
+      2s: no sirvas
+      2p: no sirva
+      3s: no sirváis
+      3p: no sirvan

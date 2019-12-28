@@ -1,0 +1,186 @@
+indicar:
+  infinitive: indicar
+  gerund: indicando
+  pastparticiple: indicado
+  definitions: {en: to indicate}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I indicate, am indicating'}
+      1s: indico
+      1p: indicamos
+      2s: indicas
+      2p: indicáis
+      3s: indica
+      3p: indican
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will indicate}
+      1s: indicaré
+      1p: indicaremos
+      2s: indicarás
+      2p: indicaréis
+      3s: indicará
+      3p: indicarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was indicating, used to indicate, indicated'}
+      1s: indicaba
+      1p: indicábamos
+      2s: indicabas
+      2p: indicabais
+      3s: indicaba
+      3p: indicaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I indicated}
+      1s: indiqué
+      1p: indicamos
+      2s: indicaste
+      2p: indicasteis
+      3s: indicó
+      3p: indicaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would indicate}
+      1s: indicaría
+      1p: indicaríamos
+      2s: indicarías
+      2p: indicaríais
+      3s: indicaría
+      3p: indicarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have indicated}
+      1s: he indicado
+      1p: hemos indicado
+      2s: has indicado
+      2p: habéis indicado
+      3s: ha indicado
+      3p: han indicado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have indicated}
+      1s: habré indicado
+      1p: habremos indicado
+      2s: habrás indicado
+      2p: habréis indicado
+      3s: habrá indicado
+      3p: habrán indicado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had indicated}
+      1s: había indicado
+      1p: habíamos indicado
+      2s: habías indicado
+      2p: habíais indicado
+      3s: había indicado
+      3p: habían indicado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had indicated}
+      1s: hube indicado
+      1p: hubimos indicado
+      2s: hubiste indicado
+      2p: hubisteis indicado
+      3s: hubo indicado
+      3p: hubieron indicado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have indicated}
+      1s: habría indicado
+      1p: habríamos indicado
+      2s: habrías indicado
+      2p: habríais indicado
+      3s: habría indicado
+      3p: habrían indicado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I indicate, am indicating'}
+      1s: indique
+      1p: indiquemos
+      2s: indiques
+      2p: indiquéis
+      3s: indique
+      3p: indiquen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I indicated, was indicating'}
+      1s: indicara
+      1p: indicáramos
+      2s: indicaras
+      2p: indicarais
+      3s: indicara
+      3p: indicaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will indicate}
+      1s: indicare
+      1p: indicáremos
+      2s: indicares
+      2p: indicareis
+      3s: indicare
+      3p: indicaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have indicated, indicated'}
+      1s: haya indicado
+      1p: hayamos indicado
+      2s: hayas indicado
+      2p: hayáis indicado
+      3s: haya indicado
+      3p: hayan indicado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have indicated}
+      1s: hubiere indicado
+      1p: hubiéremos indicado
+      2s: hubieres indicado
+      2p: hubiereis indicado
+      3s: hubiere indicado
+      3p: hubieren indicado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had indicated}
+      1s: hubiera indicado
+      1p: hubiéramos indicado
+      2s: hubieras indicado
+      2p: hubierais indicado
+      3s: hubiera indicado
+      3p: hubieran indicado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Indicate! Don't indicate!}
+      1s: ''
+      1p: ''
+      2s: indica
+      2p: indique
+      3s: indicad
+      3p: indiquen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Indicate! Don't indicate!}
+      1s: ''
+      1p: ''
+      2s: no indiques
+      2p: no indique
+      3s: no indiquéis
+      3p: no indiquen

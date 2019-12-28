@@ -1,0 +1,186 @@
+jurar:
+  infinitive: jurar
+  gerund: jurando
+  pastparticiple: jurado
+  definitions: {en: to swear}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I swear, am swearing'}
+      1s: juro
+      1p: juramos
+      2s: juras
+      2p: juráis
+      3s: jura
+      3p: juran
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will swear}
+      1s: juraré
+      1p: juraremos
+      2s: jurarás
+      2p: juraréis
+      3s: jurará
+      3p: jurarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was swearing, used to swear, swore'}
+      1s: juraba
+      1p: jurábamos
+      2s: jurabas
+      2p: jurabais
+      3s: juraba
+      3p: juraban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I swore}
+      1s: juré
+      1p: juramos
+      2s: juraste
+      2p: jurasteis
+      3s: juró
+      3p: juraron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would swear}
+      1s: juraría
+      1p: juraríamos
+      2s: jurarías
+      2p: juraríais
+      3s: juraría
+      3p: jurarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have sworn}
+      1s: he jurado
+      1p: hemos jurado
+      2s: has jurado
+      2p: habéis jurado
+      3s: ha jurado
+      3p: han jurado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have sworn}
+      1s: habré jurado
+      1p: habremos jurado
+      2s: habrás jurado
+      2p: habréis jurado
+      3s: habrá jurado
+      3p: habrán jurado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had sworn}
+      1s: había jurado
+      1p: habíamos jurado
+      2s: habías jurado
+      2p: habíais jurado
+      3s: había jurado
+      3p: habían jurado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had sworn}
+      1s: hube jurado
+      1p: hubimos jurado
+      2s: hubiste jurado
+      2p: hubisteis jurado
+      3s: hubo jurado
+      3p: hubieron jurado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have sworn}
+      1s: habría jurado
+      1p: habríamos jurado
+      2s: habrías jurado
+      2p: habríais jurado
+      3s: habría jurado
+      3p: habrían jurado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I swear, am swearing'}
+      1s: jure
+      1p: juremos
+      2s: jures
+      2p: juréis
+      3s: jure
+      3p: juren
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I swore, was swearing'}
+      1s: jurara
+      1p: juráramos
+      2s: juraras
+      2p: jurarais
+      3s: jurara
+      3p: juraran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will swear}
+      1s: jurare
+      1p: juráremos
+      2s: jurares
+      2p: jurareis
+      3s: jurare
+      3p: juraren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have sworn, swore'}
+      1s: haya jurado
+      1p: hayamos jurado
+      2s: hayas jurado
+      2p: hayáis jurado
+      3s: haya jurado
+      3p: hayan jurado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have sworn}
+      1s: hubiere jurado
+      1p: hubiéremos jurado
+      2s: hubieres jurado
+      2p: hubiereis jurado
+      3s: hubiere jurado
+      3p: hubieren jurado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had sworn}
+      1s: hubiera jurado
+      1p: hubiéramos jurado
+      2s: hubieras jurado
+      2p: hubierais jurado
+      3s: hubiera jurado
+      3p: hubieran jurado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Swear! Don't swear!}
+      1s: ''
+      1p: ''
+      2s: jura
+      2p: jure
+      3s: jurad
+      3p: juren
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Swear! Don't swear!}
+      1s: ''
+      1p: ''
+      2s: no jures
+      2p: no jure
+      3s: no juréis
+      3p: no juren

@@ -1,0 +1,186 @@
+encantar:
+  infinitive: encantar
+  gerund: encantando
+  pastparticiple: encantado
+  definitions: {en: 'to delight, be delighting, charm, enchant'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I delight, am delighting'}
+      1s: encanto
+      1p: encantamos
+      2s: encantas
+      2p: encantáis
+      3s: encanta
+      3p: encantan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will delight}
+      1s: encantaré
+      1p: encantaremos
+      2s: encantarás
+      2p: encantaréis
+      3s: encantará
+      3p: encantarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was delighting, used to delight, delighted'}
+      1s: encantaba
+      1p: encantábamos
+      2s: encantabas
+      2p: encantabais
+      3s: encantaba
+      3p: encantaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I delighted}
+      1s: encanté
+      1p: encantamos
+      2s: encantaste
+      2p: encantasteis
+      3s: encantó
+      3p: encantaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would delight}
+      1s: encantaría
+      1p: encantaríamos
+      2s: encantarías
+      2p: encantaríais
+      3s: encantaría
+      3p: encantarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have delighted}
+      1s: he encantado
+      1p: hemos encantado
+      2s: has encantado
+      2p: habéis encantado
+      3s: ha encantado
+      3p: han encantado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have delighted}
+      1s: habré encantado
+      1p: habremos encantado
+      2s: habrás encantado
+      2p: habréis encantado
+      3s: habrá encantado
+      3p: habrán encantado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had delighted}
+      1s: había encantado
+      1p: habíamos encantado
+      2s: habías encantado
+      2p: habíais encantado
+      3s: había encantado
+      3p: habían encantado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had delighted}
+      1s: hube encantado
+      1p: hubimos encantado
+      2s: hubiste encantado
+      2p: hubisteis encantado
+      3s: hubo encantado
+      3p: hubieron encantado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have delighted}
+      1s: habría encantado
+      1p: habríamos encantado
+      2s: habrías encantado
+      2p: habríais encantado
+      3s: habría encantado
+      3p: habrían encantado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I delight, am delighting'}
+      1s: encante
+      1p: encantemos
+      2s: encantes
+      2p: encantéis
+      3s: encante
+      3p: encanten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I delighted, was delighting'}
+      1s: encantara
+      1p: encantáramos
+      2s: encantaras
+      2p: encantarais
+      3s: encantara
+      3p: encantaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will delight}
+      1s: encantare
+      1p: encantáremos
+      2s: encantares
+      2p: encantareis
+      3s: encantare
+      3p: encantaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have delighted, delighted'}
+      1s: haya encantado
+      1p: hayamos encantado
+      2s: hayas encantado
+      2p: hayáis encantado
+      3s: haya encantado
+      3p: hayan encantado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have delighted}
+      1s: hubiere encantado
+      1p: hubiéremos encantado
+      2s: hubieres encantado
+      2p: hubiereis encantado
+      3s: hubiere encantado
+      3p: hubieren encantado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had delighted}
+      1s: hubiera encantado
+      1p: hubiéramos encantado
+      2s: hubieras encantado
+      2p: hubierais encantado
+      3s: hubiera encantado
+      3p: hubieran encantado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Delight! Don't delight!}
+      1s: ''
+      1p: ''
+      2s: encanta
+      2p: encante
+      3s: encantad
+      3p: encanten
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Delight! Don't delight!}
+      1s: ''
+      1p: ''
+      2s: no encantes
+      2p: no encante
+      3s: no encantéis
+      3p: no encanten

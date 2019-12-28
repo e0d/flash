@@ -1,0 +1,186 @@
+escribir:
+  infinitive: escribir
+  gerund: escribiendo
+  pastparticiple: escrito
+  definitions: {en: to write}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I write, am writing'}
+      1s: escribo
+      1p: escribimos
+      2s: escribes
+      2p: escribís
+      3s: escribe
+      3p: escriben
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will write}
+      1s: escribiré
+      1p: escribiremos
+      2s: escribirás
+      2p: escribiréis
+      3s: escribirá
+      3p: escribirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was writing, used to write, wrote'}
+      1s: escribía
+      1p: escribíamos
+      2s: escribías
+      2p: escribíais
+      3s: escribía
+      3p: escribían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I wrote}
+      1s: escribí
+      1p: escribimos
+      2s: escribiste
+      2p: escribisteis
+      3s: escribió
+      3p: escribieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would write}
+      1s: escribiría
+      1p: escribiríamos
+      2s: escribirías
+      2p: escribiríais
+      3s: escribiría
+      3p: escribirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have written}
+      1s: he escrito
+      1p: hemos escrito
+      2s: has escrito
+      2p: habéis escrito
+      3s: ha escrito
+      3p: han escrito
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have written}
+      1s: habré escrito
+      1p: habremos escrito
+      2s: habrás escrito
+      2p: habréis escrito
+      3s: habrá escrito
+      3p: habrán escrito
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had written}
+      1s: había escrito
+      1p: habíamos escrito
+      2s: habías escrito
+      2p: habíais escrito
+      3s: había escrito
+      3p: habían escrito
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had written}
+      1s: hube escrito
+      1p: hubimos escrito
+      2s: hubiste escrito
+      2p: hubisteis escrito
+      3s: hubo escrito
+      3p: hubieron escrito
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have written}
+      1s: habría escrito
+      1p: habríamos escrito
+      2s: habrías escrito
+      2p: habríais escrito
+      3s: habría escrito
+      3p: habrían escrito
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I write, am writing'}
+      1s: escriba
+      1p: escribamos
+      2s: escribas
+      2p: escribáis
+      3s: escriba
+      3p: escriban
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I wrote, was writing'}
+      1s: escribiera
+      1p: escribiéramos
+      2s: escribieras
+      2p: escribierais
+      3s: escribiera
+      3p: escribieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will write}
+      1s: escribiere
+      1p: escribiéremos
+      2s: escribieres
+      2p: escribiereis
+      3s: escribiere
+      3p: escribieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have written, wrote'}
+      1s: haya escrito
+      1p: hayamos escrito
+      2s: hayas escrito
+      2p: hayáis escrito
+      3s: haya escrito
+      3p: hayan escrito
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have written}
+      1s: hubiere escrito
+      1p: hubiéremos escrito
+      2s: hubieres escrito
+      2p: hubiereis escrito
+      3s: hubiere escrito
+      3p: hubieren escrito
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had written}
+      1s: hubiera escrito
+      1p: hubiéramos escrito
+      2s: hubieras escrito
+      2p: hubierais escrito
+      3s: hubiera escrito
+      3p: hubieran escrito
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Write! Don't write!}
+      1s: ''
+      1p: ''
+      2s: escribe
+      2p: escriba
+      3s: escribid
+      3p: escriban
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Write! Don't write!}
+      1s: ''
+      1p: ''
+      2s: no escribas
+      2p: no escriba
+      3s: no escribáis
+      3p: no escriban

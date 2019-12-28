@@ -1,0 +1,186 @@
+distribuir:
+  infinitive: distribuir
+  gerund: distribuyendo
+  pastparticiple: distribuido
+  definitions: {en: 'to distribute, hand out, send out, give out'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I distribute, am distributing'}
+      1s: distribuyo
+      1p: distribuimos
+      2s: distribuyes
+      2p: distribuís
+      3s: distribuye
+      3p: distribuyen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will distribute}
+      1s: distribuiré
+      1p: distribuiremos
+      2s: distribuirás
+      2p: distribuiréis
+      3s: distribuirá
+      3p: distribuirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was distributing, used to distribute, distributed'}
+      1s: distribuía
+      1p: distribuíamos
+      2s: distribuías
+      2p: distribuíais
+      3s: distribuía
+      3p: distribuían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I distributed}
+      1s: distribuí
+      1p: distribuimos
+      2s: distribuiste
+      2p: distribuisteis
+      3s: distribuyó
+      3p: distribuyeron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would distribute}
+      1s: distribuiría
+      1p: distribuiríamos
+      2s: distribuirías
+      2p: distribuiríais
+      3s: distribuiría
+      3p: distribuirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have distributed}
+      1s: he distribuido
+      1p: hemos distribuido
+      2s: has distribuido
+      2p: habéis distribuido
+      3s: ha distribuido
+      3p: han distribuido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have distributed}
+      1s: habré distribuido
+      1p: habremos distribuido
+      2s: habrás distribuido
+      2p: habréis distribuido
+      3s: habrá distribuido
+      3p: habrán distribuido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had distributed}
+      1s: había distribuido
+      1p: habíamos distribuido
+      2s: habías distribuido
+      2p: habíais distribuido
+      3s: había distribuido
+      3p: habían distribuido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had distributed}
+      1s: hube distribuido
+      1p: hubimos distribuido
+      2s: hubiste distribuido
+      2p: hubisteis distribuido
+      3s: hubo distribuido
+      3p: hubieron distribuido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have distributed}
+      1s: habría distribuido
+      1p: habríamos distribuido
+      2s: habrías distribuido
+      2p: habríais distribuido
+      3s: habría distribuido
+      3p: habrían distribuido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I distribute, am distributing'}
+      1s: distribuya
+      1p: distribuyamos
+      2s: distribuyas
+      2p: distribuyáis
+      3s: distribuya
+      3p: distribuyan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I distributed, was distributing'}
+      1s: distribuyera
+      1p: distribuyéramos
+      2s: distribuyeras
+      2p: distribuyerais
+      3s: distribuyera
+      3p: distribuyeran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will distribute}
+      1s: distribuyere
+      1p: distribuyéremos
+      2s: distribuyeres
+      2p: distribuyereis
+      3s: distribuyere
+      3p: distribuyeren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have distributed, distributed'}
+      1s: haya distribuido
+      1p: hayamos distribuido
+      2s: hayas distribuido
+      2p: hayáis distribuido
+      3s: haya distribuido
+      3p: hayan distribuido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have distributed}
+      1s: hubiere distribuido
+      1p: hubiéremos distribuido
+      2s: hubieres distribuido
+      2p: hubiereis distribuido
+      3s: hubiere distribuido
+      3p: hubieren distribuido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had distributed}
+      1s: hubiera distribuido
+      1p: hubiéramos distribuido
+      2s: hubieras distribuido
+      2p: hubierais distribuido
+      3s: hubiera distribuido
+      3p: hubieran distribuido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Distribute! Don't distribute!}
+      1s: ''
+      1p: ''
+      2s: distribuye
+      2p: distribuya
+      3s: distribuid
+      3p: distribuyan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Distribute! Don't distribute!}
+      1s: ''
+      1p: ''
+      2s: no distribuyas
+      2p: no distribuya
+      3s: no distribuyáis
+      3p: no distribuyan

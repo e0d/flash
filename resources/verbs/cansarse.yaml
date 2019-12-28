@@ -1,0 +1,186 @@
+cansarse:
+  infinitive: cansarse
+  gerund: cansándose
+  pastparticiple: cansado
+  definitions: {en: 'to get tired, get worn out, get weary'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I get tired, am getting tired'}
+      1s: me canso
+      1p: nos cansamos
+      2s: te cansas
+      2p: os cansáis
+      3s: se cansa
+      3p: se cansan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will get tired}
+      1s: me cansaré
+      1p: nos cansaremos
+      2s: te cansarás
+      2p: os cansaréis
+      3s: se cansará
+      3p: se cansarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was getting tired, used to get tired, got tired'}
+      1s: me cansaba
+      1p: nos cansábamos
+      2s: te cansabas
+      2p: os cansabais
+      3s: se cansaba
+      3p: se cansaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I got tired}
+      1s: me cansé
+      1p: nos cansamos
+      2s: te cansaste
+      2p: os cansasteis
+      3s: se cansó
+      3p: se cansaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would get tired}
+      1s: me cansaría
+      1p: nos cansaríamos
+      2s: te cansarías
+      2p: os cansaríais
+      3s: se cansaría
+      3p: se cansarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have gotten tired}
+      1s: me he cansado
+      1p: nos hemos cansado
+      2s: te has cansado
+      2p: os habéis cansado
+      3s: se ha cansado
+      3p: se han cansado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have gotten tired}
+      1s: me habré cansado
+      1p: nos habremos cansado
+      2s: te habrás cansado
+      2p: os habréis cansado
+      3s: se habrá cansado
+      3p: se habrán cansado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had gotten tired}
+      1s: me había cansado
+      1p: nos habíamos cansado
+      2s: te habías cansado
+      2p: os habíais cansado
+      3s: se había cansado
+      3p: se habían cansado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had gotten tired}
+      1s: me hube cansado
+      1p: nos hubimos cansado
+      2s: te hubiste cansado
+      2p: os hubisteis cansado
+      3s: se hubo cansado
+      3p: se hubieron cansado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have gotten tired}
+      1s: me habría cansado
+      1p: nos habríamos cansado
+      2s: te habrías cansado
+      2p: os habríais cansado
+      3s: se habría cansado
+      3p: se habrían cansado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I get tired, am getting tired'}
+      1s: me canse
+      1p: nos cansemos
+      2s: te canses
+      2p: os canséis
+      3s: se canse
+      3p: se cansen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I got tired, was getting tired'}
+      1s: me cansara
+      1p: nos cansáramos
+      2s: te cansaras
+      2p: os cansarais
+      3s: se cansara
+      3p: se cansaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will get tired}
+      1s: me cansare
+      1p: nos cansáremos
+      2s: te cansares
+      2p: os cansareis
+      3s: se cansare
+      3p: se cansaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have gotten tired, got tired'}
+      1s: me haya cansado
+      1p: nos hayamos cansado
+      2s: te hayas cansado
+      2p: os hayáis cansado
+      3s: se haya cansado
+      3p: se hayan cansado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have gotten tired}
+      1s: me hubiere cansado
+      1p: nos hubiéremos cansado
+      2s: te hubieres cansado
+      2p: os hubiereis cansado
+      3s: se hubiere cansado
+      3p: se hubieren cansado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had gotten tired}
+      1s: me hubiera cansado
+      1p: nos hubiéramos cansado
+      2s: te hubieras cansado
+      2p: os hubierais cansado
+      3s: se hubiera cansado
+      3p: se hubieran cansado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Get tired! Don't get tired!}
+      1s: ''
+      1p: ''
+      2s: cánsate
+      2p: cánsese
+      3s: cansaos
+      3p: cánsense
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Get tired! Don't get tired!}
+      1s: ''
+      1p: ''
+      2s: no te canses
+      2p: no se canse
+      3s: no os canséis
+      3p: no se cansen

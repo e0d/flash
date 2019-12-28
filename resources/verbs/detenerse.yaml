@@ -1,0 +1,186 @@
+detenerse:
+  infinitive: detenerse
+  gerund: deteniéndose
+  pastparticiple: detenido
+  definitions: {en: 'to stop, pause, linger'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I stop, am stopping'}
+      1s: me detengo
+      1p: nos detenemos
+      2s: te detienes
+      2p: os detenéis
+      3s: se detiene
+      3p: se detienen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will stop}
+      1s: me detendré
+      1p: nos detendremos
+      2s: te detendrás
+      2p: os detendréis
+      3s: se detendrá
+      3p: se detendrán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was stopping, used to stop, stopped'}
+      1s: me detenía
+      1p: nos deteníamos
+      2s: te detenías
+      2p: os deteníais
+      3s: se detenía
+      3p: se detenían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I stopped}
+      1s: me detuve
+      1p: nos detuvimos
+      2s: te detuviste
+      2p: os detuvisteis
+      3s: se detuvo
+      3p: se detuvieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would stop}
+      1s: me detendría
+      1p: nos detendríamos
+      2s: te detendrías
+      2p: os detendríais
+      3s: se detendría
+      3p: se detendrían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have stopped}
+      1s: me he detenido
+      1p: nos hemos detenido
+      2s: te has detenido
+      2p: os habéis detenido
+      3s: se ha detenido
+      3p: se han detenido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have stopped}
+      1s: me habré detenido
+      1p: nos habremos detenido
+      2s: te habrás detenido
+      2p: os habréis detenido
+      3s: se habrá detenido
+      3p: se habrán detenido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had stopped}
+      1s: me había detenido
+      1p: nos habíamos detenido
+      2s: te habías detenido
+      2p: os habíais detenido
+      3s: se había detenido
+      3p: se habían detenido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had stopped}
+      1s: me hube detenido
+      1p: nos hubimos detenido
+      2s: te hubiste detenido
+      2p: os hubisteis detenido
+      3s: se hubo detenido
+      3p: se hubieron detenido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have stopped}
+      1s: me habría detenido
+      1p: nos habríamos detenido
+      2s: te habrías detenido
+      2p: os habríais detenido
+      3s: se habría detenido
+      3p: se habrían detenido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I stop, am stopping'}
+      1s: me detenga
+      1p: nos detengamos
+      2s: te detengas
+      2p: os detengáis
+      3s: se detenga
+      3p: se detengan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I stopped, was stopping'}
+      1s: me detuviera
+      1p: nos detuviéramos
+      2s: te detuvieras
+      2p: os detuvierais
+      3s: se detuviera
+      3p: se detuvieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will stop}
+      1s: me detuviere
+      1p: nos detuviéremos
+      2s: te detuvieres
+      2p: os detuviereis
+      3s: se detuviere
+      3p: se detuvieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have stopped, stopped'}
+      1s: me haya detenido
+      1p: nos hayamos detenido
+      2s: te hayas detenido
+      2p: os hayáis detenido
+      3s: se haya detenido
+      3p: se hayan detenido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have stopped}
+      1s: me hubiere detenido
+      1p: nos hubiéremos detenido
+      2s: te hubieres detenido
+      2p: os hubiereis detenido
+      3s: se hubiere detenido
+      3p: se hubieren detenido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had stopped}
+      1s: me hubiera detenido
+      1p: nos hubiéramos detenido
+      2s: te hubieras detenido
+      2p: os hubierais detenido
+      3s: se hubiera detenido
+      3p: se hubieran detenido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Stop! Don't stop!}
+      1s: ''
+      1p: ''
+      2s: detente
+      2p: deténgase
+      3s: deteneos
+      3p: deténganse
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Stop! Don't stop!}
+      1s: ''
+      1p: ''
+      2s: no te detengas
+      2p: no se detenga
+      3s: no os detengáis
+      3p: no se detengan

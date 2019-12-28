@@ -1,0 +1,186 @@
+pertenecer:
+  infinitive: pertenecer
+  gerund: perteneciendo
+  pastparticiple: pertenecido
+  definitions: {en: 'to belong, pertain'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I belong, am belonging'}
+      1s: pertenezco
+      1p: pertenecemos
+      2s: perteneces
+      2p: pertenecéis
+      3s: pertenece
+      3p: pertenecen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will belong}
+      1s: perteneceré
+      1p: perteneceremos
+      2s: pertenecerás
+      2p: perteneceréis
+      3s: pertenecerá
+      3p: pertenecerán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was belonging, used to belong, belonged'}
+      1s: pertenecía
+      1p: pertenecíamos
+      2s: pertenecías
+      2p: pertenecíais
+      3s: pertenecía
+      3p: pertenecían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I belonged}
+      1s: pertenecí
+      1p: pertenecimos
+      2s: perteneciste
+      2p: pertenecisteis
+      3s: perteneció
+      3p: pertenecieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would belong}
+      1s: pertenecería
+      1p: perteneceríamos
+      2s: pertenecerías
+      2p: perteneceríais
+      3s: pertenecería
+      3p: pertenecerían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have belonged}
+      1s: he pertenecido
+      1p: hemos pertenecido
+      2s: has pertenecido
+      2p: habéis pertenecido
+      3s: ha pertenecido
+      3p: han pertenecido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have belonged}
+      1s: habré pertenecido
+      1p: habremos pertenecido
+      2s: habrás pertenecido
+      2p: habréis pertenecido
+      3s: habrá pertenecido
+      3p: habrán pertenecido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had belonged}
+      1s: había pertenecido
+      1p: habíamos pertenecido
+      2s: habías pertenecido
+      2p: habíais pertenecido
+      3s: había pertenecido
+      3p: habían pertenecido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had belonged}
+      1s: hube pertenecido
+      1p: hubimos pertenecido
+      2s: hubiste pertenecido
+      2p: hubisteis pertenecido
+      3s: hubo pertenecido
+      3p: hubieron pertenecido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have belonged}
+      1s: habría pertenecido
+      1p: habríamos pertenecido
+      2s: habrías pertenecido
+      2p: habríais pertenecido
+      3s: habría pertenecido
+      3p: habrían pertenecido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I belong, am belonging'}
+      1s: pertenezca
+      1p: pertenezcamos
+      2s: pertenezcas
+      2p: pertenezcáis
+      3s: pertenezca
+      3p: pertenezcan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I belonged, was belonging'}
+      1s: perteneciera
+      1p: perteneciéramos
+      2s: pertenecieras
+      2p: pertenecierais
+      3s: perteneciera
+      3p: pertenecieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will belong}
+      1s: perteneciere
+      1p: perteneciéremos
+      2s: pertenecieres
+      2p: perteneciereis
+      3s: perteneciere
+      3p: pertenecieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have belonged, belonged'}
+      1s: haya pertenecido
+      1p: hayamos pertenecido
+      2s: hayas pertenecido
+      2p: hayáis pertenecido
+      3s: haya pertenecido
+      3p: hayan pertenecido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have belonged}
+      1s: hubiere pertenecido
+      1p: hubiéremos pertenecido
+      2s: hubieres pertenecido
+      2p: hubiereis pertenecido
+      3s: hubiere pertenecido
+      3p: hubieren pertenecido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had belonged}
+      1s: hubiera pertenecido
+      1p: hubiéramos pertenecido
+      2s: hubieras pertenecido
+      2p: hubierais pertenecido
+      3s: hubiera pertenecido
+      3p: hubieran pertenecido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Belong! Don't belong!}
+      1s: ''
+      1p: ''
+      2s: pertenece
+      2p: pertenezca
+      3s: perteneced
+      3p: pertenezcan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Belong! Don't belong!}
+      1s: ''
+      1p: ''
+      2s: no pertenezcas
+      2p: no pertenezca
+      3s: no pertenezcáis
+      3p: no pertenezcan

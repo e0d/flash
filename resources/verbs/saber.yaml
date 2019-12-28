@@ -1,0 +1,186 @@
+saber:
+  infinitive: saber
+  gerund: sabiendo
+  pastparticiple: sabido
+  definitions: {en: to know}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I know}
+      1s: sé
+      1p: sabemos
+      2s: sabes
+      2p: sabéis
+      3s: sabe
+      3p: saben
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will know}
+      1s: sabré
+      1p: sabremos
+      2s: sabrás
+      2p: sabréis
+      3s: sabrá
+      3p: sabrán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I used to know, knew'}
+      1s: sabía
+      1p: sabíamos
+      2s: sabías
+      2p: sabíais
+      3s: sabía
+      3p: sabían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I knew}
+      1s: supe
+      1p: supimos
+      2s: supiste
+      2p: supisteis
+      3s: supo
+      3p: supieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would know}
+      1s: sabría
+      1p: sabríamos
+      2s: sabrías
+      2p: sabríais
+      3s: sabría
+      3p: sabrían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have known}
+      1s: he sabido
+      1p: hemos sabido
+      2s: has sabido
+      2p: habéis sabido
+      3s: ha sabido
+      3p: han sabido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have known}
+      1s: habré sabido
+      1p: habremos sabido
+      2s: habrás sabido
+      2p: habréis sabido
+      3s: habrá sabido
+      3p: habrán sabido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had known}
+      1s: había sabido
+      1p: habíamos sabido
+      2s: habías sabido
+      2p: habíais sabido
+      3s: había sabido
+      3p: habían sabido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had known}
+      1s: hube sabido
+      1p: hubimos sabido
+      2s: hubiste sabido
+      2p: hubisteis sabido
+      3s: hubo sabido
+      3p: hubieron sabido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have known}
+      1s: habría sabido
+      1p: habríamos sabido
+      2s: habrías sabido
+      2p: habríais sabido
+      3s: habría sabido
+      3p: habrían sabido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I know}
+      1s: sepa
+      1p: sepamos
+      2s: sepas
+      2p: sepáis
+      3s: sepa
+      3p: sepan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I knew}
+      1s: supiera
+      1p: supiéramos
+      2s: supieras
+      2p: supierais
+      3s: supiera
+      3p: supieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will know}
+      1s: supiere
+      1p: supiéremos
+      2s: supieres
+      2p: supiereis
+      3s: supiere
+      3p: supieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have known, knew'}
+      1s: haya sabido
+      1p: hayamos sabido
+      2s: hayas sabido
+      2p: hayáis sabido
+      3s: haya sabido
+      3p: hayan sabido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have known}
+      1s: hubiere sabido
+      1p: hubiéremos sabido
+      2s: hubieres sabido
+      2p: hubiereis sabido
+      3s: hubiere sabido
+      3p: hubieren sabido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had known}
+      1s: hubiera sabido
+      1p: hubiéramos sabido
+      2s: hubieras sabido
+      2p: hubierais sabido
+      3s: hubiera sabido
+      3p: hubieran sabido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Know! Don't know!}
+      1s: ''
+      1p: ''
+      2s: sabe
+      2p: sepa
+      3s: sabed
+      3p: sepan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Know! Don't know!}
+      1s: ''
+      1p: ''
+      2s: no sepas
+      2p: no sepa
+      3s: no sepáis
+      3p: no sepan

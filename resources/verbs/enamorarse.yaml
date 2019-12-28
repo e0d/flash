@@ -1,0 +1,186 @@
+enamorarse:
+  infinitive: enamorarse
+  gerund: enamorándose
+  pastparticiple: enamorado
+  definitions: {en: to fall in love}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I fall in love, am falling in love'}
+      1s: me enamoro
+      1p: nos enamoramos
+      2s: te enamoras
+      2p: os enamoráis
+      3s: se enamora
+      3p: se enamoran
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will fall in love}
+      1s: me enamoraré
+      1p: nos enamoraremos
+      2s: te enamorarás
+      2p: os enamoraréis
+      3s: se enamorará
+      3p: se enamorarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was falling in love, used to fall in love, fell in love'}
+      1s: me enamoraba
+      1p: nos enamorábamos
+      2s: te enamorabas
+      2p: os enamorabais
+      3s: se enamoraba
+      3p: se enamoraban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I fell in love}
+      1s: me enamoré
+      1p: nos enamoramos
+      2s: te enamoraste
+      2p: os enamorasteis
+      3s: se enamoró
+      3p: se enamoraron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would fall in love}
+      1s: me enamoraría
+      1p: nos enamoraríamos
+      2s: te enamorarías
+      2p: os enamoraríais
+      3s: se enamoraría
+      3p: se enamorarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have fallen in love}
+      1s: me he enamorado
+      1p: nos hemos enamorado
+      2s: te has enamorado
+      2p: os habéis enamorado
+      3s: se ha enamorado
+      3p: se han enamorado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have fallen in love}
+      1s: me habré enamorado
+      1p: nos habremos enamorado
+      2s: te habrás enamorado
+      2p: os habréis enamorado
+      3s: se habrá enamorado
+      3p: se habrán enamorado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had fallen in love}
+      1s: me había enamorado
+      1p: nos habíamos enamorado
+      2s: te habías enamorado
+      2p: os habíais enamorado
+      3s: se había enamorado
+      3p: se habían enamorado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had fallen in love}
+      1s: me hube enamorado
+      1p: nos hubimos enamorado
+      2s: te hubiste enamorado
+      2p: os hubisteis enamorado
+      3s: se hubo enamorado
+      3p: se hubieron enamorado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have fallen in love}
+      1s: me habría enamorado
+      1p: nos habríamos enamorado
+      2s: te habrías enamorado
+      2p: os habríais enamorado
+      3s: se habría enamorado
+      3p: se habrían enamorado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I fall in love, am falling in love'}
+      1s: me enamore
+      1p: nos enamoremos
+      2s: te enamores
+      2p: os enamoréis
+      3s: se enamore
+      3p: se enamoren
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I fell in love, was falling in love'}
+      1s: me enamorara
+      1p: nos enamoráramos
+      2s: te enamoraras
+      2p: os enamorarais
+      3s: se enamorara
+      3p: se enamoraran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will fall in love}
+      1s: me enamorare
+      1p: nos enamoráremos
+      2s: te enamorares
+      2p: os enamorareis
+      3s: se enamorare
+      3p: se enamoraren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have fallen in love, fell in love'}
+      1s: me haya enamorado
+      1p: nos hayamos enamorado
+      2s: te hayas enamorado
+      2p: os hayáis enamorado
+      3s: se haya enamorado
+      3p: se hayan enamorado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have fallen in love}
+      1s: me hubiere enamorado
+      1p: nos hubiéremos enamorado
+      2s: te hubieres enamorado
+      2p: os hubiereis enamorado
+      3s: se hubiere enamorado
+      3p: se hubieren enamorado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had fallen in love}
+      1s: me hubiera enamorado
+      1p: nos hubiéramos enamorado
+      2s: te hubieras enamorado
+      2p: os hubierais enamorado
+      3s: se hubiera enamorado
+      3p: se hubieran enamorado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Fall in love! Don't fall in love!}
+      1s: ''
+      1p: ''
+      2s: enamórate
+      2p: enamórese
+      3s: enamoraos
+      3p: enamórense
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Fall in love! Don't fall in love!}
+      1s: ''
+      1p: ''
+      2s: no te enamores
+      2p: no se enamore
+      3s: no os enamoréis
+      3p: no se enamoren

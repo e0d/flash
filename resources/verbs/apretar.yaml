@@ -1,0 +1,186 @@
+apretar:
+  infinitive: apretar
+  gerund: apretando
+  pastparticiple: apretado
+  definitions: {en: 'to be too tight; to squeeze; to tighten [up]; to press [down/against]'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I am too tight, am being too tight'}
+      1s: aprieto
+      1p: apretamos
+      2s: aprietas
+      2p: apretáis
+      3s: aprieta
+      3p: aprietan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will be too tight}
+      1s: apretaré
+      1p: apretaremos
+      2s: apretarás
+      2p: apretaréis
+      3s: apretará
+      3p: apretarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was being too tight, used to be too tight, was too tight'}
+      1s: apretaba
+      1p: apretábamos
+      2s: apretabas
+      2p: apretabais
+      3s: apretaba
+      3p: apretaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I was too tight}
+      1s: apreté
+      1p: apretamos
+      2s: apretaste
+      2p: apretasteis
+      3s: apretó
+      3p: apretaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would be too tight}
+      1s: apretaría
+      1p: apretaríamos
+      2s: apretarías
+      2p: apretaríais
+      3s: apretaría
+      3p: apretarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have been too tight}
+      1s: he apretado
+      1p: hemos apretado
+      2s: has apretado
+      2p: habéis apretado
+      3s: ha apretado
+      3p: han apretado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have been too tight}
+      1s: habré apretado
+      1p: habremos apretado
+      2s: habrás apretado
+      2p: habréis apretado
+      3s: habrá apretado
+      3p: habrán apretado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had been too tight}
+      1s: había apretado
+      1p: habíamos apretado
+      2s: habías apretado
+      2p: habíais apretado
+      3s: había apretado
+      3p: habían apretado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had been too tight}
+      1s: hube apretado
+      1p: hubimos apretado
+      2s: hubiste apretado
+      2p: hubisteis apretado
+      3s: hubo apretado
+      3p: hubieron apretado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have been too tight}
+      1s: habría apretado
+      1p: habríamos apretado
+      2s: habrías apretado
+      2p: habríais apretado
+      3s: habría apretado
+      3p: habrían apretado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I am too tight, am being too tight'}
+      1s: apriete
+      1p: apretemos
+      2s: aprietes
+      2p: apretéis
+      3s: apriete
+      3p: aprieten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I was too tight, was being too tight'}
+      1s: apretara
+      1p: apretáramos
+      2s: apretaras
+      2p: apretarais
+      3s: apretara
+      3p: apretaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will be too tight}
+      1s: apretare
+      1p: apretáremos
+      2s: apretares
+      2p: apretareis
+      3s: apretare
+      3p: apretaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have been too tight, was too tight'}
+      1s: haya apretado
+      1p: hayamos apretado
+      2s: hayas apretado
+      2p: hayáis apretado
+      3s: haya apretado
+      3p: hayan apretado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have been too tight}
+      1s: hubiere apretado
+      1p: hubiéremos apretado
+      2s: hubieres apretado
+      2p: hubiereis apretado
+      3s: hubiere apretado
+      3p: hubieren apretado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had been too tight}
+      1s: hubiera apretado
+      1p: hubiéramos apretado
+      2s: hubieras apretado
+      2p: hubierais apretado
+      3s: hubiera apretado
+      3p: hubieran apretado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Be too tight! Don't be too tight!}
+      1s: ''
+      1p: ''
+      2s: aprieta
+      2p: apriete
+      3s: apretad
+      3p: aprieten
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Be too tight! Don't be too tight!}
+      1s: ''
+      1p: ''
+      2s: no aprietes
+      2p: no apriete
+      3s: no apretéis
+      3p: no aprieten

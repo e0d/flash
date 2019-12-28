@@ -1,0 +1,186 @@
+lastimar:
+  infinitive: lastimar
+  gerund: lastimando
+  pastparticiple: lastimado
+  definitions: {en: 'to hurt, injure, harm; to pity; to move to pity'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I hurt, am hurting'}
+      1s: lastimo
+      1p: lastimamos
+      2s: lastimas
+      2p: lastimáis
+      3s: lastima
+      3p: lastiman
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will hurt}
+      1s: lastimaré
+      1p: lastimaremos
+      2s: lastimarás
+      2p: lastimaréis
+      3s: lastimará
+      3p: lastimarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was hurting, used to hurt, hurt'}
+      1s: lastimaba
+      1p: lastimábamos
+      2s: lastimabas
+      2p: lastimabais
+      3s: lastimaba
+      3p: lastimaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I hurt}
+      1s: lastimé
+      1p: lastimamos
+      2s: lastimaste
+      2p: lastimasteis
+      3s: lastimó
+      3p: lastimaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would hurt}
+      1s: lastimaría
+      1p: lastimaríamos
+      2s: lastimarías
+      2p: lastimaríais
+      3s: lastimaría
+      3p: lastimarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have hurt}
+      1s: he lastimado
+      1p: hemos lastimado
+      2s: has lastimado
+      2p: habéis lastimado
+      3s: ha lastimado
+      3p: han lastimado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have hurt}
+      1s: habré lastimado
+      1p: habremos lastimado
+      2s: habrás lastimado
+      2p: habréis lastimado
+      3s: habrá lastimado
+      3p: habrán lastimado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had hurt}
+      1s: había lastimado
+      1p: habíamos lastimado
+      2s: habías lastimado
+      2p: habíais lastimado
+      3s: había lastimado
+      3p: habían lastimado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had hurt}
+      1s: hube lastimado
+      1p: hubimos lastimado
+      2s: hubiste lastimado
+      2p: hubisteis lastimado
+      3s: hubo lastimado
+      3p: hubieron lastimado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have hurt}
+      1s: habría lastimado
+      1p: habríamos lastimado
+      2s: habrías lastimado
+      2p: habríais lastimado
+      3s: habría lastimado
+      3p: habrían lastimado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I hurt, am hurting'}
+      1s: lastime
+      1p: lastimemos
+      2s: lastimes
+      2p: lastiméis
+      3s: lastime
+      3p: lastimen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I hurt, was hurting'}
+      1s: lastimara
+      1p: lastimáramos
+      2s: lastimaras
+      2p: lastimarais
+      3s: lastimara
+      3p: lastimaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will hurt}
+      1s: lastimare
+      1p: lastimáremos
+      2s: lastimares
+      2p: lastimareis
+      3s: lastimare
+      3p: lastimaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have hurt, hurt'}
+      1s: haya lastimado
+      1p: hayamos lastimado
+      2s: hayas lastimado
+      2p: hayáis lastimado
+      3s: haya lastimado
+      3p: hayan lastimado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have hurt}
+      1s: hubiere lastimado
+      1p: hubiéremos lastimado
+      2s: hubieres lastimado
+      2p: hubiereis lastimado
+      3s: hubiere lastimado
+      3p: hubieren lastimado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had hurt}
+      1s: hubiera lastimado
+      1p: hubiéramos lastimado
+      2s: hubieras lastimado
+      2p: hubierais lastimado
+      3s: hubiera lastimado
+      3p: hubieran lastimado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Hurt! Don't hurt!}
+      1s: ''
+      1p: ''
+      2s: lastima
+      2p: lastime
+      3s: lastimad
+      3p: lastimen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Hurt! Don't hurt!}
+      1s: ''
+      1p: ''
+      2s: no lastimes
+      2p: no lastime
+      3s: no lastiméis
+      3p: no lastimen

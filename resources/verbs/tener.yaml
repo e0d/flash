@@ -1,0 +1,186 @@
+tener:
+  infinitive: tener
+  gerund: teniendo
+  pastparticiple: tenido
+  definitions: {en: to have}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I have, am having'}
+      1s: tengo
+      1p: tenemos
+      2s: tienes
+      2p: tenéis
+      3s: tiene
+      3p: tienen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have}
+      1s: tendré
+      1p: tendremos
+      2s: tendrás
+      2p: tendréis
+      3s: tendrá
+      3p: tendrán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was having, used to have, had'}
+      1s: tenía
+      1p: teníamos
+      2s: tenías
+      2p: teníais
+      3s: tenía
+      3p: tenían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had}
+      1s: tuve
+      1p: tuvimos
+      2s: tuviste
+      2p: tuvisteis
+      3s: tuvo
+      3p: tuvieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have}
+      1s: tendría
+      1p: tendríamos
+      2s: tendrías
+      2p: tendríais
+      3s: tendría
+      3p: tendrían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have had}
+      1s: he tenido
+      1p: hemos tenido
+      2s: has tenido
+      2p: habéis tenido
+      3s: ha tenido
+      3p: han tenido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have had}
+      1s: habré tenido
+      1p: habremos tenido
+      2s: habrás tenido
+      2p: habréis tenido
+      3s: habrá tenido
+      3p: habrán tenido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had had}
+      1s: había tenido
+      1p: habíamos tenido
+      2s: habías tenido
+      2p: habíais tenido
+      3s: había tenido
+      3p: habían tenido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had had}
+      1s: hube tenido
+      1p: hubimos tenido
+      2s: hubiste tenido
+      2p: hubisteis tenido
+      3s: hubo tenido
+      3p: hubieron tenido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have had}
+      1s: habría tenido
+      1p: habríamos tenido
+      2s: habrías tenido
+      2p: habríais tenido
+      3s: habría tenido
+      3p: habrían tenido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have, am having'}
+      1s: tenga
+      1p: tengamos
+      2s: tengas
+      2p: tengáis
+      3s: tenga
+      3p: tengan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I had, was having'}
+      1s: tuviera
+      1p: tuviéramos
+      2s: tuvieras
+      2p: tuvierais
+      3s: tuviera
+      3p: tuvieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have}
+      1s: tuviere
+      1p: tuviéremos
+      2s: tuvieres
+      2p: tuviereis
+      3s: tuviere
+      3p: tuvieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have had, had'}
+      1s: haya tenido
+      1p: hayamos tenido
+      2s: hayas tenido
+      2p: hayáis tenido
+      3s: haya tenido
+      3p: hayan tenido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have had}
+      1s: hubiere tenido
+      1p: hubiéremos tenido
+      2s: hubieres tenido
+      2p: hubiereis tenido
+      3s: hubiere tenido
+      3p: hubieren tenido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had had}
+      1s: hubiera tenido
+      1p: hubiéramos tenido
+      2s: hubieras tenido
+      2p: hubierais tenido
+      3s: hubiera tenido
+      3p: hubieran tenido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Have! Don't have!}
+      1s: ''
+      1p: ''
+      2s: ten
+      2p: tenga
+      3s: tened
+      3p: tengan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Have! Don't have!}
+      1s: ''
+      1p: ''
+      2s: no tengas
+      2p: no tenga
+      3s: no tengáis
+      3p: no tengan

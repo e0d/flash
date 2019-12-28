@@ -1,0 +1,186 @@
+incluir:
+  infinitive: incluir
+  gerund: incluyendo
+  pastparticiple: incluido
+  definitions: {en: to include}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I include, am including'}
+      1s: incluyo
+      1p: incluimos
+      2s: incluyes
+      2p: incluís
+      3s: incluye
+      3p: incluyen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will include}
+      1s: incluiré
+      1p: incluiremos
+      2s: incluirás
+      2p: incluiréis
+      3s: incluirá
+      3p: incluirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was including, used to include, included'}
+      1s: incluía
+      1p: incluíamos
+      2s: incluías
+      2p: incluíais
+      3s: incluía
+      3p: incluían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I included}
+      1s: incluí
+      1p: incluimos
+      2s: incluiste
+      2p: incluisteis
+      3s: incluyó
+      3p: incluyeron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would include}
+      1s: incluiría
+      1p: incluiríamos
+      2s: incluirías
+      2p: incluiríais
+      3s: incluiría
+      3p: incluirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have included}
+      1s: he incluido
+      1p: hemos incluido
+      2s: has incluido
+      2p: habéis incluido
+      3s: ha incluido
+      3p: han incluido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have included}
+      1s: habré incluido
+      1p: habremos incluido
+      2s: habrás incluido
+      2p: habréis incluido
+      3s: habrá incluido
+      3p: habrán incluido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had included}
+      1s: había incluido
+      1p: habíamos incluido
+      2s: habías incluido
+      2p: habíais incluido
+      3s: había incluido
+      3p: habían incluido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had included}
+      1s: hube incluido
+      1p: hubimos incluido
+      2s: hubiste incluido
+      2p: hubisteis incluido
+      3s: hubo incluido
+      3p: hubieron incluido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have included}
+      1s: habría incluido
+      1p: habríamos incluido
+      2s: habrías incluido
+      2p: habríais incluido
+      3s: habría incluido
+      3p: habrían incluido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I include, am including'}
+      1s: incluya
+      1p: incluyamos
+      2s: incluyas
+      2p: incluyáis
+      3s: incluya
+      3p: incluyan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I included, was including'}
+      1s: incluyera
+      1p: incluyéramos
+      2s: incluyeras
+      2p: incluyerais
+      3s: incluyera
+      3p: incluyeran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will include}
+      1s: incluyere
+      1p: incluyéremos
+      2s: incluyeres
+      2p: incluyereis
+      3s: incluyere
+      3p: incluyeren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have included, included'}
+      1s: haya incluido
+      1p: hayamos incluido
+      2s: hayas incluido
+      2p: hayáis incluido
+      3s: haya incluido
+      3p: hayan incluido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have included}
+      1s: hubiere incluido
+      1p: hubiéremos incluido
+      2s: hubieres incluido
+      2p: hubiereis incluido
+      3s: hubiere incluido
+      3p: hubieren incluido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had included}
+      1s: hubiera incluido
+      1p: hubiéramos incluido
+      2s: hubieras incluido
+      2p: hubierais incluido
+      3s: hubiera incluido
+      3p: hubieran incluido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Include! Don't include!}
+      1s: ''
+      1p: ''
+      2s: incluye
+      2p: incluya
+      3s: incluid
+      3p: incluyan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Include! Don't include!}
+      1s: ''
+      1p: ''
+      2s: no incluyas
+      2p: no incluya
+      3s: no incluyáis
+      3p: no incluyan

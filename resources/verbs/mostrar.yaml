@@ -1,0 +1,186 @@
+mostrar:
+  infinitive: mostrar
+  gerund: mostrando
+  pastparticiple: mostrado
+  definitions: {en: to show}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I show, am showing'}
+      1s: muestro
+      1p: mostramos
+      2s: muestras
+      2p: mostráis
+      3s: muestra
+      3p: muestran
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will show}
+      1s: mostraré
+      1p: mostraremos
+      2s: mostrarás
+      2p: mostraréis
+      3s: mostrará
+      3p: mostrarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was showing, used to show, showed'}
+      1s: mostraba
+      1p: mostrábamos
+      2s: mostrabas
+      2p: mostrabais
+      3s: mostraba
+      3p: mostraban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I showed}
+      1s: mostré
+      1p: mostramos
+      2s: mostraste
+      2p: mostrasteis
+      3s: mostró
+      3p: mostraron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would show}
+      1s: mostraría
+      1p: mostraríamos
+      2s: mostrarías
+      2p: mostraríais
+      3s: mostraría
+      3p: mostrarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have shown}
+      1s: he mostrado
+      1p: hemos mostrado
+      2s: has mostrado
+      2p: habéis mostrado
+      3s: ha mostrado
+      3p: han mostrado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have shown}
+      1s: habré mostrado
+      1p: habremos mostrado
+      2s: habrás mostrado
+      2p: habréis mostrado
+      3s: habrá mostrado
+      3p: habrán mostrado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had shown}
+      1s: había mostrado
+      1p: habíamos mostrado
+      2s: habías mostrado
+      2p: habíais mostrado
+      3s: había mostrado
+      3p: habían mostrado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had shown}
+      1s: hube mostrado
+      1p: hubimos mostrado
+      2s: hubiste mostrado
+      2p: hubisteis mostrado
+      3s: hubo mostrado
+      3p: hubieron mostrado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have shown}
+      1s: habría mostrado
+      1p: habríamos mostrado
+      2s: habrías mostrado
+      2p: habríais mostrado
+      3s: habría mostrado
+      3p: habrían mostrado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I show, am showing'}
+      1s: muestre
+      1p: mostremos
+      2s: muestres
+      2p: mostréis
+      3s: muestre
+      3p: muestren
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I showed, was showing'}
+      1s: mostrara
+      1p: mostráramos
+      2s: mostraras
+      2p: mostrarais
+      3s: mostrara
+      3p: mostraran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will show}
+      1s: mostrare
+      1p: mostráremos
+      2s: mostrares
+      2p: mostrareis
+      3s: mostrare
+      3p: mostraren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have shown, showed'}
+      1s: haya mostrado
+      1p: hayamos mostrado
+      2s: hayas mostrado
+      2p: hayáis mostrado
+      3s: haya mostrado
+      3p: hayan mostrado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have shown}
+      1s: hubiere mostrado
+      1p: hubiéremos mostrado
+      2s: hubieres mostrado
+      2p: hubiereis mostrado
+      3s: hubiere mostrado
+      3p: hubieren mostrado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had shown}
+      1s: hubiera mostrado
+      1p: hubiéramos mostrado
+      2s: hubieras mostrado
+      2p: hubierais mostrado
+      3s: hubiera mostrado
+      3p: hubieran mostrado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Show! Don't show!}
+      1s: ''
+      1p: ''
+      2s: muestra
+      2p: muestre
+      3s: mostrad
+      3p: muestren
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Show! Don't show!}
+      1s: ''
+      1p: ''
+      2s: no muestres
+      2p: no muestre
+      3s: no mostréis
+      3p: no muestren

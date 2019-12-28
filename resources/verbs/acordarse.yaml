@@ -1,0 +1,186 @@
+acordarse:
+  infinitive: acordarse
+  gerund: acordándose
+  pastparticiple: acordado
+  definitions: {en: to remember}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I remember, am remembering'}
+      1s: me acuerdo
+      1p: nos acordamos
+      2s: te acuerdas
+      2p: os acordáis
+      3s: se acuerda
+      3p: se acuerdan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will remember}
+      1s: me acordaré
+      1p: nos acordaremos
+      2s: te acordarás
+      2p: os acordaréis
+      3s: se acordará
+      3p: se acordarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was remembering, used to remember, remembered'}
+      1s: me acordaba
+      1p: nos acordábamos
+      2s: te acordabas
+      2p: os acordabais
+      3s: se acordaba
+      3p: se acordaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I remembered}
+      1s: me acordé
+      1p: nos acordamos
+      2s: te acordaste
+      2p: os acordasteis
+      3s: se acordó
+      3p: se acordaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would remember}
+      1s: me acordaría
+      1p: nos acordaríamos
+      2s: te acordarías
+      2p: os acordaríais
+      3s: se acordaría
+      3p: se acordarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have remembered}
+      1s: me he acordado
+      1p: nos hemos acordado
+      2s: te has acordado
+      2p: os habéis acordado
+      3s: se ha acordado
+      3p: se han acordado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have remembered}
+      1s: me habré acordado
+      1p: nos habremos acordado
+      2s: te habrás acordado
+      2p: os habréis acordado
+      3s: se habrá acordado
+      3p: se habrán acordado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had remembered}
+      1s: me había acordado
+      1p: nos habíamos acordado
+      2s: te habías acordado
+      2p: os habíais acordado
+      3s: se había acordado
+      3p: se habían acordado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had remembered}
+      1s: me hube acordado
+      1p: nos hubimos acordado
+      2s: te hubiste acordado
+      2p: os hubisteis acordado
+      3s: se hubo acordado
+      3p: se hubieron acordado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have remembered}
+      1s: me habría acordado
+      1p: nos habríamos acordado
+      2s: te habrías acordado
+      2p: os habríais acordado
+      3s: se habría acordado
+      3p: se habrían acordado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I remember, am remembering'}
+      1s: me acuerde
+      1p: nos acordemos
+      2s: te acuerdes
+      2p: os acordéis
+      3s: se acuerde
+      3p: se acuerden
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I remembered, was remembering'}
+      1s: me acordara
+      1p: nos acordáramos
+      2s: te acordaras
+      2p: os acordarais
+      3s: se acordara
+      3p: se acordaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will remember}
+      1s: me acordare
+      1p: nos acordáremos
+      2s: te acordares
+      2p: os acordareis
+      3s: se acordare
+      3p: se acordaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have remembered, remembered'}
+      1s: me haya acordado
+      1p: nos hayamos acordado
+      2s: te hayas acordado
+      2p: os hayáis acordado
+      3s: se haya acordado
+      3p: se hayan acordado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have remembered}
+      1s: me hubiere acordado
+      1p: nos hubiéremos acordado
+      2s: te hubieres acordado
+      2p: os hubiereis acordado
+      3s: se hubiere acordado
+      3p: se hubieren acordado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had remembered}
+      1s: me hubiera acordado
+      1p: nos hubiéramos acordado
+      2s: te hubieras acordado
+      2p: os hubierais acordado
+      3s: se hubiera acordado
+      3p: se hubieran acordado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Remember! Don't remember!}
+      1s: ''
+      1p: ''
+      2s: acuérdate
+      2p: acuérdese
+      3s: acordaos
+      3p: acuérdense
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Remember! Don't remember!}
+      1s: ''
+      1p: ''
+      2s: no te acuerdes
+      2p: no se acuerde
+      3s: no os acordéis
+      3p: no se acuerden

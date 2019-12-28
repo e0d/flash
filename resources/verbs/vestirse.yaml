@@ -1,0 +1,186 @@
+vestirse:
+  infinitive: vestirse
+  gerund: vistiéndose
+  pastparticiple: vestido
+  definitions: {en: 'to get dressed, dress'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I get dressed, am getting dressed'}
+      1s: me visto
+      1p: nos vestimos
+      2s: te vistes
+      2p: os vestís
+      3s: se viste
+      3p: se visten
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will get dressed}
+      1s: me vestiré
+      1p: nos vestiremos
+      2s: te vestirás
+      2p: os vestiréis
+      3s: se vestirá
+      3p: se vestirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was getting dressed, used to get dressed, got dressed'}
+      1s: me vestía
+      1p: nos vestíamos
+      2s: te vestías
+      2p: os vestíais
+      3s: se vestía
+      3p: se vestían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I got dressed}
+      1s: me vestí
+      1p: nos vestimos
+      2s: te vestiste
+      2p: os vestisteis
+      3s: se vistió
+      3p: se vistieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would get dressed}
+      1s: me vestiría
+      1p: nos vestiríamos
+      2s: te vestirías
+      2p: os vestiríais
+      3s: se vestiría
+      3p: se vestirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have gotten dressed}
+      1s: me he vestido
+      1p: nos hemos vestido
+      2s: te has vestido
+      2p: os habéis vestido
+      3s: se ha vestido
+      3p: se han vestido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have gotten dressed}
+      1s: me habré vestido
+      1p: nos habremos vestido
+      2s: te habrás vestido
+      2p: os habréis vestido
+      3s: se habrá vestido
+      3p: se habrán vestido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had gotten dressed}
+      1s: me había vestido
+      1p: nos habíamos vestido
+      2s: te habías vestido
+      2p: os habíais vestido
+      3s: se había vestido
+      3p: se habían vestido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had gotten dressed}
+      1s: me hube vestido
+      1p: nos hubimos vestido
+      2s: te hubiste vestido
+      2p: os hubisteis vestido
+      3s: se hubo vestido
+      3p: se hubieron vestido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have gotten dressed}
+      1s: me habría vestido
+      1p: nos habríamos vestido
+      2s: te habrías vestido
+      2p: os habríais vestido
+      3s: se habría vestido
+      3p: se habrían vestido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I get dressed, am getting dressed'}
+      1s: me vista
+      1p: nos vistamos
+      2s: te vistas
+      2p: os vistáis
+      3s: se vista
+      3p: se vistan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I got dressed, was getting dressed'}
+      1s: me vistiera
+      1p: nos vistiéramos
+      2s: te vistieras
+      2p: os vistierais
+      3s: se vistiera
+      3p: se vistieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will get dressed}
+      1s: me vistiere
+      1p: nos vistiéremos
+      2s: te vistieres
+      2p: os vistiereis
+      3s: se vistiere
+      3p: se vistieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have gotten dressed, gotten dressed'}
+      1s: me haya vestido
+      1p: nos hayamos vestido
+      2s: te hayas vestido
+      2p: os hayáis vestido
+      3s: se haya vestido
+      3p: se hayan vestido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have gotten dressed}
+      1s: me hubiere vestido
+      1p: nos hubiéremos vestido
+      2s: te hubieres vestido
+      2p: os hubiereis vestido
+      3s: se hubiere vestido
+      3p: se hubieren vestido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had gotten dressed}
+      1s: me hubiera vestido
+      1p: nos hubiéramos vestido
+      2s: te hubieras vestido
+      2p: os hubierais vestido
+      3s: se hubiera vestido
+      3p: se hubieran vestido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Get dressed! Don't get dressed!}
+      1s: ''
+      1p: ''
+      2s: vístete
+      2p: vístase
+      3s: vestíos
+      3p: vístanse
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Get dressed! Don't get dressed!}
+      1s: ''
+      1p: ''
+      2s: no te vistas
+      2p: no se vista
+      3s: no os vestáis
+      3p: no se vistan

@@ -1,0 +1,186 @@
+engañar:
+  infinitive: engañar
+  gerund: engañando
+  pastparticiple: engañado
+  definitions: {en: 'to deceive, cheat, trick, swindle'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I deceive, am deceiving'}
+      1s: engaño
+      1p: engañamos
+      2s: engañas
+      2p: engañáis
+      3s: engaña
+      3p: engañan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will deceive}
+      1s: engañaré
+      1p: engañaremos
+      2s: engañarás
+      2p: engañaréis
+      3s: engañará
+      3p: engañarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was deceiving, used to deceive, deceived'}
+      1s: engañaba
+      1p: engañábamos
+      2s: engañabas
+      2p: engañabais
+      3s: engañaba
+      3p: engañaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I deceived}
+      1s: engañé
+      1p: engañamos
+      2s: engañaste
+      2p: engañasteis
+      3s: engañó
+      3p: engañaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would deceive}
+      1s: engañaría
+      1p: engañaríamos
+      2s: engañarías
+      2p: engañaríais
+      3s: engañaría
+      3p: engañarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have deceived}
+      1s: he engañado
+      1p: hemos engañado
+      2s: has engañado
+      2p: habéis engañado
+      3s: ha engañado
+      3p: han engañado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have deceived}
+      1s: habré engañado
+      1p: habremos engañado
+      2s: habrás engañado
+      2p: habréis engañado
+      3s: habrá engañado
+      3p: habrán engañado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had deceived}
+      1s: había engañado
+      1p: habíamos engañado
+      2s: habías engañado
+      2p: habíais engañado
+      3s: había engañado
+      3p: habían engañado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had deceived}
+      1s: hube engañado
+      1p: hubimos engañado
+      2s: hubiste engañado
+      2p: hubisteis engañado
+      3s: hubo engañado
+      3p: hubieron engañado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have deceived}
+      1s: habría engañado
+      1p: habríamos engañado
+      2s: habrías engañado
+      2p: habríais engañado
+      3s: habría engañado
+      3p: habrían engañado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I deceive, am deceiving'}
+      1s: engañe
+      1p: engañemos
+      2s: engañes
+      2p: engañéis
+      3s: engañe
+      3p: engañen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I deceived, was deceiving'}
+      1s: engañara
+      1p: engañáramos
+      2s: engañaras
+      2p: engañarais
+      3s: engañara
+      3p: engañaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will deceive}
+      1s: engañare
+      1p: engañáremos
+      2s: engañares
+      2p: engañareis
+      3s: engañare
+      3p: engañaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have deceived, deceived'}
+      1s: haya engañado
+      1p: hayamos engañado
+      2s: hayas engañado
+      2p: hayáis engañado
+      3s: haya engañado
+      3p: hayan engañado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have deceived}
+      1s: hubiere engañado
+      1p: hubiéremos engañado
+      2s: hubieres engañado
+      2p: hubiereis engañado
+      3s: hubiere engañado
+      3p: hubieren engañado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had deceived}
+      1s: hubiera engañado
+      1p: hubiéramos engañado
+      2s: hubieras engañado
+      2p: hubierais engañado
+      3s: hubiera engañado
+      3p: hubieran engañado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Deceive! Don't deceive!}
+      1s: ''
+      1p: ''
+      2s: engaña
+      2p: engañe
+      3s: engañad
+      3p: engañen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Deceive! Don't deceive!}
+      1s: ''
+      1p: ''
+      2s: no engañes
+      2p: no engañe
+      3s: no engañéis
+      3p: no engañen

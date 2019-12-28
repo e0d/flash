@@ -1,0 +1,186 @@
+depender:
+  infinitive: depender
+  gerund: dependiendo
+  pastparticiple: dependido
+  definitions: {en: to depend}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I depend, am depending'}
+      1s: dependo
+      1p: dependemos
+      2s: dependes
+      2p: dependéis
+      3s: depende
+      3p: dependen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will depend}
+      1s: dependeré
+      1p: dependeremos
+      2s: dependerás
+      2p: dependeréis
+      3s: dependerá
+      3p: dependerán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was depending, used to depend, depend'}
+      1s: dependía
+      1p: dependíamos
+      2s: dependías
+      2p: dependíais
+      3s: dependía
+      3p: dependían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I depend}
+      1s: dependí
+      1p: dependimos
+      2s: dependiste
+      2p: dependisteis
+      3s: dependió
+      3p: dependieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would depend}
+      1s: dependería
+      1p: dependeríamos
+      2s: dependerías
+      2p: dependeríais
+      3s: dependería
+      3p: dependerían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have depended}
+      1s: he dependido
+      1p: hemos dependido
+      2s: has dependido
+      2p: habéis dependido
+      3s: ha dependido
+      3p: han dependido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have depended}
+      1s: habré dependido
+      1p: habremos dependido
+      2s: habrás dependido
+      2p: habréis dependido
+      3s: habrá dependido
+      3p: habrán dependido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had depended}
+      1s: había dependido
+      1p: habíamos dependido
+      2s: habías dependido
+      2p: habíais dependido
+      3s: había dependido
+      3p: habían dependido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had depended}
+      1s: hube dependido
+      1p: hubimos dependido
+      2s: hubiste dependido
+      2p: hubisteis dependido
+      3s: hubo dependido
+      3p: hubieron dependido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have depended}
+      1s: habría dependido
+      1p: habríamos dependido
+      2s: habrías dependido
+      2p: habríais dependido
+      3s: habría dependido
+      3p: habrían dependido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I depend, am depending'}
+      1s: dependa
+      1p: dependamos
+      2s: dependas
+      2p: dependáis
+      3s: dependa
+      3p: dependan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I depend, was depending'}
+      1s: dependiera
+      1p: dependiéramos
+      2s: dependieras
+      2p: dependierais
+      3s: dependiera
+      3p: dependieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will depend}
+      1s: dependiere
+      1p: dependiéremos
+      2s: dependieres
+      2p: dependiereis
+      3s: dependiere
+      3p: dependieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have depended, depend'}
+      1s: haya dependido
+      1p: hayamos dependido
+      2s: hayas dependido
+      2p: hayáis dependido
+      3s: haya dependido
+      3p: hayan dependido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have depended}
+      1s: hubiere dependido
+      1p: hubiéremos dependido
+      2s: hubieres dependido
+      2p: hubiereis dependido
+      3s: hubiere dependido
+      3p: hubieren dependido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had depended}
+      1s: hubiera dependido
+      1p: hubiéramos dependido
+      2s: hubieras dependido
+      2p: hubierais dependido
+      3s: hubiera dependido
+      3p: hubieran dependido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Depend! Don't depend!}
+      1s: ''
+      1p: ''
+      2s: depende
+      2p: dependa
+      3s: depended
+      3p: dependan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Depend! Don't depend!}
+      1s: ''
+      1p: ''
+      2s: no dependas
+      2p: no dependa
+      3s: no dependáis
+      3p: no dependan

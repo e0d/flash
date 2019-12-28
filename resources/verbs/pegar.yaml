@@ -1,0 +1,186 @@
+pegar:
+  infinitive: pegar
+  gerund: pegando
+  pastparticiple: pegado
+  definitions: {en: 'to stick, glue, hit'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I stick, am sticking'}
+      1s: pego
+      1p: pegamos
+      2s: pegas
+      2p: pegáis
+      3s: pega
+      3p: pegan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will stick}
+      1s: pegaré
+      1p: pegaremos
+      2s: pegarás
+      2p: pegaréis
+      3s: pegará
+      3p: pegarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was sticking, used to stick, stuck'}
+      1s: pegaba
+      1p: pegábamos
+      2s: pegabas
+      2p: pegabais
+      3s: pegaba
+      3p: pegaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I stuck}
+      1s: pegué
+      1p: pegamos
+      2s: pegaste
+      2p: pegasteis
+      3s: pegó
+      3p: pegaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would stick}
+      1s: pegaría
+      1p: pegaríamos
+      2s: pegarías
+      2p: pegaríais
+      3s: pegaría
+      3p: pegarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have stuck}
+      1s: he pegado
+      1p: hemos pegado
+      2s: has pegado
+      2p: habéis pegado
+      3s: ha pegado
+      3p: han pegado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have stuck}
+      1s: habré pegado
+      1p: habremos pegado
+      2s: habrás pegado
+      2p: habréis pegado
+      3s: habrá pegado
+      3p: habrán pegado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had stuck}
+      1s: había pegado
+      1p: habíamos pegado
+      2s: habías pegado
+      2p: habíais pegado
+      3s: había pegado
+      3p: habían pegado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had stuck}
+      1s: hube pegado
+      1p: hubimos pegado
+      2s: hubiste pegado
+      2p: hubisteis pegado
+      3s: hubo pegado
+      3p: hubieron pegado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have stuck}
+      1s: habría pegado
+      1p: habríamos pegado
+      2s: habrías pegado
+      2p: habríais pegado
+      3s: habría pegado
+      3p: habrían pegado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I stick, am sticking'}
+      1s: pegue
+      1p: peguemos
+      2s: pegues
+      2p: peguéis
+      3s: pegue
+      3p: peguen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I stuck, was sticking'}
+      1s: pegara
+      1p: pegáramos
+      2s: pegaras
+      2p: pegarais
+      3s: pegara
+      3p: pegaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will stick}
+      1s: pegare
+      1p: pegáremos
+      2s: pegares
+      2p: pegareis
+      3s: pegare
+      3p: pegaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have stuck, stuck'}
+      1s: haya pegado
+      1p: hayamos pegado
+      2s: hayas pegado
+      2p: hayáis pegado
+      3s: haya pegado
+      3p: hayan pegado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have stuck}
+      1s: hubiere pegado
+      1p: hubiéremos pegado
+      2s: hubieres pegado
+      2p: hubiereis pegado
+      3s: hubiere pegado
+      3p: hubieren pegado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had stuck}
+      1s: hubiera pegado
+      1p: hubiéramos pegado
+      2s: hubieras pegado
+      2p: hubierais pegado
+      3s: hubiera pegado
+      3p: hubieran pegado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Stick! Don't stick!}
+      1s: ''
+      1p: ''
+      2s: pega
+      2p: pegue
+      3s: pegad
+      3p: peguen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Stick! Don't stick!}
+      1s: ''
+      1p: ''
+      2s: no pegues
+      2p: no pegue
+      3s: no peguéis
+      3p: no peguen

@@ -1,0 +1,186 @@
+clasificar:
+  infinitive: clasificar
+  gerund: clasificando
+  pastparticiple: clasificado
+  definitions: {en: 'to classify, grade, rate, sort'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I classify, am classifying'}
+      1s: clasifico
+      1p: clasificamos
+      2s: clasificas
+      2p: clasificáis
+      3s: clasifica
+      3p: clasifican
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will classify}
+      1s: clasificaré
+      1p: clasificaremos
+      2s: clasificarás
+      2p: clasificaréis
+      3s: clasificará
+      3p: clasificarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was classifying, used to classify, classified'}
+      1s: clasificaba
+      1p: clasificábamos
+      2s: clasificabas
+      2p: clasificabais
+      3s: clasificaba
+      3p: clasificaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I classified}
+      1s: clasifiqué
+      1p: clasificamos
+      2s: clasificaste
+      2p: clasificasteis
+      3s: clasificó
+      3p: clasificaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would classify}
+      1s: clasificaría
+      1p: clasificaríamos
+      2s: clasificarías
+      2p: clasificaríais
+      3s: clasificaría
+      3p: clasificarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have classified}
+      1s: he clasificado
+      1p: hemos clasificado
+      2s: has clasificado
+      2p: habéis clasificado
+      3s: ha clasificado
+      3p: han clasificado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have classified}
+      1s: habré clasificado
+      1p: habremos clasificado
+      2s: habrás clasificado
+      2p: habréis clasificado
+      3s: habrá clasificado
+      3p: habrán clasificado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had classified}
+      1s: había clasificado
+      1p: habíamos clasificado
+      2s: habías clasificado
+      2p: habíais clasificado
+      3s: había clasificado
+      3p: habían clasificado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had classified}
+      1s: hube clasificado
+      1p: hubimos clasificado
+      2s: hubiste clasificado
+      2p: hubisteis clasificado
+      3s: hubo clasificado
+      3p: hubieron clasificado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have classified}
+      1s: habría clasificado
+      1p: habríamos clasificado
+      2s: habrías clasificado
+      2p: habríais clasificado
+      3s: habría clasificado
+      3p: habrían clasificado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I classify, am classifying'}
+      1s: clasifique
+      1p: clasifiquemos
+      2s: clasifiques
+      2p: clasifiquéis
+      3s: clasifique
+      3p: clasifiquen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I classified, was classifying'}
+      1s: clasificara
+      1p: clasificáramos
+      2s: clasificaras
+      2p: clasificarais
+      3s: clasificara
+      3p: clasificaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will classify}
+      1s: clasificare
+      1p: clasificáremos
+      2s: clasificares
+      2p: clasificareis
+      3s: clasificare
+      3p: clasificaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have classified, classified'}
+      1s: haya clasificado
+      1p: hayamos clasificado
+      2s: hayas clasificado
+      2p: hayáis clasificado
+      3s: haya clasificado
+      3p: hayan clasificado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have classified}
+      1s: hubiere clasificado
+      1p: hubiéremos clasificado
+      2s: hubieres clasificado
+      2p: hubiereis clasificado
+      3s: hubiere clasificado
+      3p: hubieren clasificado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had classified}
+      1s: hubiera clasificado
+      1p: hubiéramos clasificado
+      2s: hubieras clasificado
+      2p: hubierais clasificado
+      3s: hubiera clasificado
+      3p: hubieran clasificado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Classify! Don't classify!}
+      1s: ''
+      1p: ''
+      2s: clasifica
+      2p: clasifique
+      3s: clasificad
+      3p: clasifiquen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Classify! Don't classify!}
+      1s: ''
+      1p: ''
+      2s: no clasifiques
+      2p: no clasifique
+      3s: no clasifiquéis
+      3p: no clasifiquen

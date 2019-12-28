@@ -1,0 +1,186 @@
+inducir:
+  infinitive: inducir
+  gerund: induciendo
+  pastparticiple: inducido
+  definitions: {en: to induce}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I induce, am inducing'}
+      1s: induzco
+      1p: inducimos
+      2s: induces
+      2p: inducís
+      3s: induce
+      3p: inducen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will induce}
+      1s: induciré
+      1p: induciremos
+      2s: inducirás
+      2p: induciréis
+      3s: inducirá
+      3p: inducirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was inducing, used to induce, induced'}
+      1s: inducía
+      1p: inducíamos
+      2s: inducías
+      2p: inducíais
+      3s: inducía
+      3p: inducían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I induced}
+      1s: induje
+      1p: indujimos
+      2s: indujiste
+      2p: indujisteis
+      3s: indujo
+      3p: indujeron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would induce}
+      1s: induciría
+      1p: induciríamos
+      2s: inducirías
+      2p: induciríais
+      3s: induciría
+      3p: inducirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have induced}
+      1s: he inducido
+      1p: hemos inducido
+      2s: has inducido
+      2p: habéis inducido
+      3s: ha inducido
+      3p: han inducido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have induced}
+      1s: habré inducido
+      1p: habremos inducido
+      2s: habrás inducido
+      2p: habréis inducido
+      3s: habrá inducido
+      3p: habrán inducido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had induced}
+      1s: había inducido
+      1p: habíamos inducido
+      2s: habías inducido
+      2p: habíais inducido
+      3s: había inducido
+      3p: habían inducido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had induced}
+      1s: hube inducido
+      1p: hubimos inducido
+      2s: hubiste inducido
+      2p: hubisteis inducido
+      3s: hubo inducido
+      3p: hubieron inducido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have induced}
+      1s: habría inducido
+      1p: habríamos inducido
+      2s: habrías inducido
+      2p: habríais inducido
+      3s: habría inducido
+      3p: habrían inducido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I induce, am inducing'}
+      1s: induzca
+      1p: induzcamos
+      2s: induzcas
+      2p: induzcáis
+      3s: induzca
+      3p: induzcan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I induced, was inducing'}
+      1s: indujera
+      1p: indujéramos
+      2s: indujeras
+      2p: indujerais
+      3s: indujera
+      3p: indujeran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will induce}
+      1s: indujere
+      1p: indujéremos
+      2s: indujeres
+      2p: indujereis
+      3s: indujere
+      3p: indujeren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have induced, induced'}
+      1s: haya inducido
+      1p: hayamos inducido
+      2s: hayas inducido
+      2p: hayáis inducido
+      3s: haya inducido
+      3p: hayan inducido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have induced}
+      1s: hubiere inducido
+      1p: hubiéremos inducido
+      2s: hubieres inducido
+      2p: hubiereis inducido
+      3s: hubiere inducido
+      3p: hubieren inducido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had induced}
+      1s: hubiera inducido
+      1p: hubiéramos inducido
+      2s: hubieras inducido
+      2p: hubierais inducido
+      3s: hubiera inducido
+      3p: hubieran inducido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Induce! Don't induce!}
+      1s: ''
+      1p: ''
+      2s: induce
+      2p: induzca
+      3s: inducid
+      3p: induzcan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Induce! Don't induce!}
+      1s: ''
+      1p: ''
+      2s: no induzcas
+      2p: no induzca
+      3s: no induzcáis
+      3p: no induzcan

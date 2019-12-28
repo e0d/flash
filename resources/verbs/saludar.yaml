@@ -1,0 +1,186 @@
+saludar:
+  infinitive: saludar
+  gerund: saludando
+  pastparticiple: saludado
+  definitions: {en: 'to greet, salute, hail, welcome'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I greet, am greeting'}
+      1s: saludo
+      1p: saludamos
+      2s: saludas
+      2p: saludáis
+      3s: saluda
+      3p: saludan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will greet}
+      1s: saludaré
+      1p: saludaremos
+      2s: saludarás
+      2p: saludaréis
+      3s: saludará
+      3p: saludarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was greeting, used to greet, greeted'}
+      1s: saludaba
+      1p: saludábamos
+      2s: saludabas
+      2p: saludabais
+      3s: saludaba
+      3p: saludaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I greeted}
+      1s: saludé
+      1p: saludamos
+      2s: saludaste
+      2p: saludasteis
+      3s: saludó
+      3p: saludaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would greet}
+      1s: saludaría
+      1p: saludaríamos
+      2s: saludarías
+      2p: saludaríais
+      3s: saludaría
+      3p: saludarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have greeted}
+      1s: he saludado
+      1p: hemos saludado
+      2s: has saludado
+      2p: habéis saludado
+      3s: ha saludado
+      3p: han saludado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have greeted}
+      1s: habré saludado
+      1p: habremos saludado
+      2s: habrás saludado
+      2p: habréis saludado
+      3s: habrá saludado
+      3p: habrán saludado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had greeted}
+      1s: había saludado
+      1p: habíamos saludado
+      2s: habías saludado
+      2p: habíais saludado
+      3s: había saludado
+      3p: habían saludado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had greeted}
+      1s: hube saludado
+      1p: hubimos saludado
+      2s: hubiste saludado
+      2p: hubisteis saludado
+      3s: hubo saludado
+      3p: hubieron saludado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have greeted}
+      1s: habría saludado
+      1p: habríamos saludado
+      2s: habrías saludado
+      2p: habríais saludado
+      3s: habría saludado
+      3p: habrían saludado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I greet, am greeting'}
+      1s: salude
+      1p: saludemos
+      2s: saludes
+      2p: saludéis
+      3s: salude
+      3p: saluden
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I greeted, was greeting'}
+      1s: saludara
+      1p: saludáramos
+      2s: saludaras
+      2p: saludarais
+      3s: saludara
+      3p: saludaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will greet}
+      1s: saludare
+      1p: saludáremos
+      2s: saludares
+      2p: saludareis
+      3s: saludare
+      3p: saludaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have greeted, greeted'}
+      1s: haya saludado
+      1p: hayamos saludado
+      2s: hayas saludado
+      2p: hayáis saludado
+      3s: haya saludado
+      3p: hayan saludado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have greeted}
+      1s: hubiere saludado
+      1p: hubiéremos saludado
+      2s: hubieres saludado
+      2p: hubiereis saludado
+      3s: hubiere saludado
+      3p: hubieren saludado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had greeted}
+      1s: hubiera saludado
+      1p: hubiéramos saludado
+      2s: hubieras saludado
+      2p: hubierais saludado
+      3s: hubiera saludado
+      3p: hubieran saludado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Greet! Don't greet!}
+      1s: ''
+      1p: ''
+      2s: saluda
+      2p: salude
+      3s: saludad
+      3p: saluden
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Greet! Don't greet!}
+      1s: ''
+      1p: ''
+      2s: no saludes
+      2p: no salude
+      3s: no saludéis
+      3p: no saluden

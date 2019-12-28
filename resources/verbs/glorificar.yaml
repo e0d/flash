@@ -1,0 +1,186 @@
+glorificar:
+  infinitive: glorificar
+  gerund: glorificando
+  pastparticiple: glorificado
+  definitions: {en: 'to glorify, praise'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I glorify, am glorifying'}
+      1s: glorifico
+      1p: glorificamos
+      2s: glorificas
+      2p: glorificáis
+      3s: glorifica
+      3p: glorifican
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will glorify}
+      1s: glorificaré
+      1p: glorificaremos
+      2s: glorificarás
+      2p: glorificaréis
+      3s: glorificará
+      3p: glorificarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was glorifying, used to glorify, glorified'}
+      1s: glorificaba
+      1p: glorificábamos
+      2s: glorificabas
+      2p: glorificabais
+      3s: glorificaba
+      3p: glorificaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I glorified}
+      1s: glorifiqué
+      1p: glorificamos
+      2s: glorificaste
+      2p: glorificasteis
+      3s: glorificó
+      3p: glorificaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would glorify}
+      1s: glorificaría
+      1p: glorificaríamos
+      2s: glorificarías
+      2p: glorificaríais
+      3s: glorificaría
+      3p: glorificarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have glorified}
+      1s: he glorificado
+      1p: hemos glorificado
+      2s: has glorificado
+      2p: habéis glorificado
+      3s: ha glorificado
+      3p: han glorificado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have glorified}
+      1s: habré glorificado
+      1p: habremos glorificado
+      2s: habrás glorificado
+      2p: habréis glorificado
+      3s: habrá glorificado
+      3p: habrán glorificado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had glorified}
+      1s: había glorificado
+      1p: habíamos glorificado
+      2s: habías glorificado
+      2p: habíais glorificado
+      3s: había glorificado
+      3p: habían glorificado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had glorified}
+      1s: hube glorificado
+      1p: hubimos glorificado
+      2s: hubiste glorificado
+      2p: hubisteis glorificado
+      3s: hubo glorificado
+      3p: hubieron glorificado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have glorified}
+      1s: habría glorificado
+      1p: habríamos glorificado
+      2s: habrías glorificado
+      2p: habríais glorificado
+      3s: habría glorificado
+      3p: habrían glorificado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I glorify, am glorifying'}
+      1s: glorifique
+      1p: glorifiquemos
+      2s: glorifiques
+      2p: glorifiquéis
+      3s: glorifique
+      3p: glorifiquen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I glorified, was glorifying'}
+      1s: glorificara
+      1p: glorificáramos
+      2s: glorificaras
+      2p: glorificarais
+      3s: glorificara
+      3p: glorificaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will glorify}
+      1s: glorificare
+      1p: glorificáremos
+      2s: glorificares
+      2p: glorificareis
+      3s: glorificare
+      3p: glorificaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have glorified, glorified'}
+      1s: haya glorificado
+      1p: hayamos glorificado
+      2s: hayas glorificado
+      2p: hayáis glorificado
+      3s: haya glorificado
+      3p: hayan glorificado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have glorified}
+      1s: hubiere glorificado
+      1p: hubiéremos glorificado
+      2s: hubieres glorificado
+      2p: hubiereis glorificado
+      3s: hubiere glorificado
+      3p: hubieren glorificado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had glorified}
+      1s: hubiera glorificado
+      1p: hubiéramos glorificado
+      2s: hubieras glorificado
+      2p: hubierais glorificado
+      3s: hubiera glorificado
+      3p: hubieran glorificado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Glorify! Don't glorify!}
+      1s: ''
+      1p: ''
+      2s: glorifica
+      2p: glorifique
+      3s: glorificad
+      3p: glorifiquen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Glorify! Don't glorify!}
+      1s: ''
+      1p: ''
+      2s: no glorifiques
+      2p: no glorifique
+      3s: no glorifiquéis
+      3p: no glorifiquen

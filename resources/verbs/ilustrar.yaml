@@ -1,0 +1,186 @@
+ilustrar:
+  infinitive: ilustrar
+  gerund: ilustrando
+  pastparticiple: ilustrado
+  definitions: {en: 'to illustrate, explain, make clear'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I illustrate, am illustrating'}
+      1s: ilustro
+      1p: ilustramos
+      2s: ilustras
+      2p: ilustráis
+      3s: ilustra
+      3p: ilustran
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will illustrate}
+      1s: ilustraré
+      1p: ilustraremos
+      2s: ilustrarás
+      2p: ilustraréis
+      3s: ilustrará
+      3p: ilustrarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was illustrating, used to illustrate, illustrated'}
+      1s: ilustraba
+      1p: ilustrábamos
+      2s: ilustrabas
+      2p: ilustrabais
+      3s: ilustraba
+      3p: ilustraban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I illustrated}
+      1s: ilustré
+      1p: ilustramos
+      2s: ilustraste
+      2p: ilustrasteis
+      3s: ilustró
+      3p: ilustraron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would illustrate}
+      1s: ilustraría
+      1p: ilustraríamos
+      2s: ilustrarías
+      2p: ilustraríais
+      3s: ilustraría
+      3p: ilustrarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have illustrated}
+      1s: he ilustrado
+      1p: hemos ilustrado
+      2s: has ilustrado
+      2p: habéis ilustrado
+      3s: ha ilustrado
+      3p: han ilustrado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have illustrated}
+      1s: habré ilustrado
+      1p: habremos ilustrado
+      2s: habrás ilustrado
+      2p: habréis ilustrado
+      3s: habrá ilustrado
+      3p: habrán ilustrado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had illustrated}
+      1s: había ilustrado
+      1p: habíamos ilustrado
+      2s: habías ilustrado
+      2p: habíais ilustrado
+      3s: había ilustrado
+      3p: habían ilustrado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had illustrated}
+      1s: hube ilustrado
+      1p: hubimos ilustrado
+      2s: hubiste ilustrado
+      2p: hubisteis ilustrado
+      3s: hubo ilustrado
+      3p: hubieron ilustrado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have illustrated}
+      1s: habría ilustrado
+      1p: habríamos ilustrado
+      2s: habrías ilustrado
+      2p: habríais ilustrado
+      3s: habría ilustrado
+      3p: habrían ilustrado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I illustrate, am illustrating'}
+      1s: ilustre
+      1p: ilustremos
+      2s: ilustres
+      2p: ilustréis
+      3s: ilustre
+      3p: ilustren
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I illustrated, was illustrating'}
+      1s: ilustrara
+      1p: ilustráramos
+      2s: ilustraras
+      2p: ilustrarais
+      3s: ilustrara
+      3p: ilustraran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will illustrate}
+      1s: ilustrare
+      1p: ilustráremos
+      2s: ilustrares
+      2p: ilustrareis
+      3s: ilustrare
+      3p: ilustraren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have illustrated, illustrated'}
+      1s: haya ilustrado
+      1p: hayamos ilustrado
+      2s: hayas ilustrado
+      2p: hayáis ilustrado
+      3s: haya ilustrado
+      3p: hayan ilustrado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have illustrated}
+      1s: hubiere ilustrado
+      1p: hubiéremos ilustrado
+      2s: hubieres ilustrado
+      2p: hubiereis ilustrado
+      3s: hubiere ilustrado
+      3p: hubieren ilustrado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had illustrated}
+      1s: hubiera ilustrado
+      1p: hubiéramos ilustrado
+      2s: hubieras ilustrado
+      2p: hubierais ilustrado
+      3s: hubiera ilustrado
+      3p: hubieran ilustrado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Illustrate! Don't illustrate!}
+      1s: ''
+      1p: ''
+      2s: ilustra
+      2p: ilustre
+      3s: ilustrad
+      3p: ilustren
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Illustrate! Don't illustrate!}
+      1s: ''
+      1p: ''
+      2s: no ilustres
+      2p: no ilustre
+      3s: no ilustréis
+      3p: no ilustren

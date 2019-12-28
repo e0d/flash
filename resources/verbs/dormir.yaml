@@ -1,0 +1,186 @@
+dormir:
+  infinitive: dormir
+  gerund: durmiendo
+  pastparticiple: dormido
+  definitions: {en: to sleep}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I sleep, am sleeping'}
+      1s: duermo
+      1p: dormimos
+      2s: duermes
+      2p: dormís
+      3s: duerme
+      3p: duermen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will sleep}
+      1s: dormiré
+      1p: dormiremos
+      2s: dormirás
+      2p: dormiréis
+      3s: dormirá
+      3p: dormirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was sleeping, used to sleep, slept'}
+      1s: dormía
+      1p: dormíamos
+      2s: dormías
+      2p: dormíais
+      3s: dormía
+      3p: dormían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I slept}
+      1s: dormí
+      1p: dormimos
+      2s: dormiste
+      2p: dormisteis
+      3s: durmió
+      3p: durmieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would sleep}
+      1s: dormiría
+      1p: dormiríamos
+      2s: dormirías
+      2p: dormiríais
+      3s: dormiría
+      3p: dormirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have slept}
+      1s: he dormido
+      1p: hemos dormido
+      2s: has dormido
+      2p: habéis dormido
+      3s: ha dormido
+      3p: han dormido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have slept}
+      1s: habré dormido
+      1p: habremos dormido
+      2s: habrás dormido
+      2p: habréis dormido
+      3s: habrá dormido
+      3p: habrán dormido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had slept}
+      1s: había dormido
+      1p: habíamos dormido
+      2s: habías dormido
+      2p: habíais dormido
+      3s: había dormido
+      3p: habían dormido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had slept}
+      1s: hube dormido
+      1p: hubimos dormido
+      2s: hubiste dormido
+      2p: hubisteis dormido
+      3s: hubo dormido
+      3p: hubieron dormido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have slept}
+      1s: habría dormido
+      1p: habríamos dormido
+      2s: habrías dormido
+      2p: habríais dormido
+      3s: habría dormido
+      3p: habrían dormido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I sleep, am sleeping'}
+      1s: duerma
+      1p: durmamos
+      2s: duermas
+      2p: durmáis
+      3s: duerma
+      3p: duerman
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I slept, was sleeping'}
+      1s: durmiera
+      1p: durmiéramos
+      2s: durmieras
+      2p: durmierais
+      3s: durmiera
+      3p: durmieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will sleep}
+      1s: durmiere
+      1p: durmiéremos
+      2s: durmieres
+      2p: durmiereis
+      3s: durmiere
+      3p: durmieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have slept, slept'}
+      1s: haya dormido
+      1p: hayamos dormido
+      2s: hayas dormido
+      2p: hayáis dormido
+      3s: haya dormido
+      3p: hayan dormido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have slept}
+      1s: hubiere dormido
+      1p: hubiéremos dormido
+      2s: hubieres dormido
+      2p: hubiereis dormido
+      3s: hubiere dormido
+      3p: hubieren dormido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had slept}
+      1s: hubiera dormido
+      1p: hubiéramos dormido
+      2s: hubieras dormido
+      2p: hubierais dormido
+      3s: hubiera dormido
+      3p: hubieran dormido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Sleep! Don't sleep!}
+      1s: ''
+      1p: ''
+      2s: duerme
+      2p: duerma
+      3s: dormid
+      3p: duerman
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Sleep! Don't sleep!}
+      1s: ''
+      1p: ''
+      2s: no duermas
+      2p: no duerma
+      3s: no durmáis
+      3p: no duerman

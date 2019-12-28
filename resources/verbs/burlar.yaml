@@ -1,0 +1,186 @@
+burlar:
+  infinitive: burlar
+  gerund: burlando
+  pastparticiple: burlado
+  definitions: {en: 'to deceive, trick; to seduce'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I deceive, am deceiving'}
+      1s: burlo
+      1p: burlamos
+      2s: burlas
+      2p: burláis
+      3s: burla
+      3p: burlan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will deceive}
+      1s: burlaré
+      1p: burlaremos
+      2s: burlarás
+      2p: burlaréis
+      3s: burlará
+      3p: burlarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was deceiving, used to deceive, deceived'}
+      1s: burlaba
+      1p: burlábamos
+      2s: burlabas
+      2p: burlabais
+      3s: burlaba
+      3p: burlaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I deceived}
+      1s: burlé
+      1p: burlamos
+      2s: burlaste
+      2p: burlasteis
+      3s: burló
+      3p: burlaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would deceive}
+      1s: burlaría
+      1p: burlaríamos
+      2s: burlarías
+      2p: burlaríais
+      3s: burlaría
+      3p: burlarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have deceived}
+      1s: he burlado
+      1p: hemos burlado
+      2s: has burlado
+      2p: habéis burlado
+      3s: ha burlado
+      3p: han burlado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have deceived}
+      1s: habré burlado
+      1p: habremos burlado
+      2s: habrás burlado
+      2p: habréis burlado
+      3s: habrá burlado
+      3p: habrán burlado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had deceived}
+      1s: había burlado
+      1p: habíamos burlado
+      2s: habías burlado
+      2p: habíais burlado
+      3s: había burlado
+      3p: habían burlado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had deceived}
+      1s: hube burlado
+      1p: hubimos burlado
+      2s: hubiste burlado
+      2p: hubisteis burlado
+      3s: hubo burlado
+      3p: hubieron burlado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have deceived}
+      1s: habría burlado
+      1p: habríamos burlado
+      2s: habrías burlado
+      2p: habríais burlado
+      3s: habría burlado
+      3p: habrían burlado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I deceive, am deceiving'}
+      1s: burle
+      1p: burlemos
+      2s: burles
+      2p: burléis
+      3s: burle
+      3p: burlen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I deceived, was deceiving'}
+      1s: burlara
+      1p: burláramos
+      2s: burlaras
+      2p: burlarais
+      3s: burlara
+      3p: burlaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will deceive}
+      1s: burlare
+      1p: burláremos
+      2s: burlares
+      2p: burlareis
+      3s: burlare
+      3p: burlaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have deceived, deceived'}
+      1s: haya burlado
+      1p: hayamos burlado
+      2s: hayas burlado
+      2p: hayáis burlado
+      3s: haya burlado
+      3p: hayan burlado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have deceived}
+      1s: hubiere burlado
+      1p: hubiéremos burlado
+      2s: hubieres burlado
+      2p: hubiereis burlado
+      3s: hubiere burlado
+      3p: hubieren burlado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had deceived}
+      1s: hubiera burlado
+      1p: hubiéramos burlado
+      2s: hubieras burlado
+      2p: hubierais burlado
+      3s: hubiera burlado
+      3p: hubieran burlado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Deceive! Don't deceive!}
+      1s: ''
+      1p: ''
+      2s: burla
+      2p: burle
+      3s: burlad
+      3p: burlen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Deceive! Don't deceive!}
+      1s: ''
+      1p: ''
+      2s: no burles
+      2p: no burle
+      3s: no burléis
+      3p: no burlen

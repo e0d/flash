@@ -1,0 +1,186 @@
+pintar:
+  infinitive: pintar
+  gerund: pintando
+  pastparticiple: pintado
+  definitions: {en: to paint}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I paint, am painting'}
+      1s: pinto
+      1p: pintamos
+      2s: pintas
+      2p: pintáis
+      3s: pinta
+      3p: pintan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will paint}
+      1s: pintaré
+      1p: pintaremos
+      2s: pintarás
+      2p: pintaréis
+      3s: pintará
+      3p: pintarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was painting, used to paint, painted'}
+      1s: pintaba
+      1p: pintábamos
+      2s: pintabas
+      2p: pintabais
+      3s: pintaba
+      3p: pintaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I painted}
+      1s: pinté
+      1p: pintamos
+      2s: pintaste
+      2p: pintasteis
+      3s: pintó
+      3p: pintaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would paint}
+      1s: pintaría
+      1p: pintaríamos
+      2s: pintarías
+      2p: pintaríais
+      3s: pintaría
+      3p: pintarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have painted}
+      1s: he pintado
+      1p: hemos pintado
+      2s: has pintado
+      2p: habéis pintado
+      3s: ha pintado
+      3p: han pintado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have painted}
+      1s: habré pintado
+      1p: habremos pintado
+      2s: habrás pintado
+      2p: habréis pintado
+      3s: habrá pintado
+      3p: habrán pintado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had painted}
+      1s: había pintado
+      1p: habíamos pintado
+      2s: habías pintado
+      2p: habíais pintado
+      3s: había pintado
+      3p: habían pintado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had painted}
+      1s: hube pintado
+      1p: hubimos pintado
+      2s: hubiste pintado
+      2p: hubisteis pintado
+      3s: hubo pintado
+      3p: hubieron pintado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have painted}
+      1s: habría pintado
+      1p: habríamos pintado
+      2s: habrías pintado
+      2p: habríais pintado
+      3s: habría pintado
+      3p: habrían pintado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I paint, am painting'}
+      1s: pinte
+      1p: pintemos
+      2s: pintes
+      2p: pintéis
+      3s: pinte
+      3p: pinten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I painted, was painting'}
+      1s: pintara
+      1p: pintáramos
+      2s: pintaras
+      2p: pintarais
+      3s: pintara
+      3p: pintaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will paint}
+      1s: pintare
+      1p: pintáremos
+      2s: pintares
+      2p: pintareis
+      3s: pintare
+      3p: pintaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have painted, painted'}
+      1s: haya pintado
+      1p: hayamos pintado
+      2s: hayas pintado
+      2p: hayáis pintado
+      3s: haya pintado
+      3p: hayan pintado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have painted}
+      1s: hubiere pintado
+      1p: hubiéremos pintado
+      2s: hubieres pintado
+      2p: hubiereis pintado
+      3s: hubiere pintado
+      3p: hubieren pintado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had painted}
+      1s: hubiera pintado
+      1p: hubiéramos pintado
+      2s: hubieras pintado
+      2p: hubierais pintado
+      3s: hubiera pintado
+      3p: hubieran pintado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Paint! Don't paint!}
+      1s: ''
+      1p: ''
+      2s: pinta
+      2p: pinte
+      3s: pintad
+      3p: pinten
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Paint! Don't paint!}
+      1s: ''
+      1p: ''
+      2s: no pintes
+      2p: no pinte
+      3s: no pintéis
+      3p: no pinten

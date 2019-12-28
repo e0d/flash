@@ -1,0 +1,186 @@
+negar:
+  infinitive: negar
+  gerund: negando
+  pastparticiple: negado
+  definitions: {en: 'to deny, refuse'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I deny, am denying'}
+      1s: niego
+      1p: negamos
+      2s: niegas
+      2p: negáis
+      3s: niega
+      3p: niegan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will deny}
+      1s: negaré
+      1p: negaremos
+      2s: negarás
+      2p: negaréis
+      3s: negará
+      3p: negarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was denying, used to deny, denied'}
+      1s: negaba
+      1p: negábamos
+      2s: negabas
+      2p: negabais
+      3s: negaba
+      3p: negaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I denied}
+      1s: negué
+      1p: negamos
+      2s: negaste
+      2p: negasteis
+      3s: negó
+      3p: negaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would deny}
+      1s: negaría
+      1p: negaríamos
+      2s: negarías
+      2p: negaríais
+      3s: negaría
+      3p: negarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have denied}
+      1s: he negado
+      1p: hemos negado
+      2s: has negado
+      2p: habéis negado
+      3s: ha negado
+      3p: han negado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have denied}
+      1s: habré negado
+      1p: habremos negado
+      2s: habrás negado
+      2p: habréis negado
+      3s: habrá negado
+      3p: habrán negado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had denied}
+      1s: había negado
+      1p: habíamos negado
+      2s: habías negado
+      2p: habíais negado
+      3s: había negado
+      3p: habían negado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had denied}
+      1s: hube negado
+      1p: hubimos negado
+      2s: hubiste negado
+      2p: hubisteis negado
+      3s: hubo negado
+      3p: hubieron negado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have denied}
+      1s: habría negado
+      1p: habríamos negado
+      2s: habrías negado
+      2p: habríais negado
+      3s: habría negado
+      3p: habrían negado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I deny, am denying'}
+      1s: niegue
+      1p: neguemos
+      2s: niegues
+      2p: neguéis
+      3s: niegue
+      3p: nieguen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I denied, was denying'}
+      1s: negara
+      1p: negáramos
+      2s: negaras
+      2p: negarais
+      3s: negara
+      3p: negaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will deny}
+      1s: negare
+      1p: negáremos
+      2s: negares
+      2p: negareis
+      3s: negare
+      3p: negaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have denied, denied'}
+      1s: haya negado
+      1p: hayamos negado
+      2s: hayas negado
+      2p: hayáis negado
+      3s: haya negado
+      3p: hayan negado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have denied}
+      1s: hubiere negado
+      1p: hubiéremos negado
+      2s: hubieres negado
+      2p: hubiereis negado
+      3s: hubiere negado
+      3p: hubieren negado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had denied}
+      1s: hubiera negado
+      1p: hubiéramos negado
+      2s: hubieras negado
+      2p: hubierais negado
+      3s: hubiera negado
+      3p: hubieran negado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Deny! Don't deny!}
+      1s: ''
+      1p: ''
+      2s: niega
+      2p: niegue
+      3s: negad
+      3p: nieguen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Deny! Don't deny!}
+      1s: ''
+      1p: ''
+      2s: no niegues
+      2p: no niegue
+      3s: no neguéis
+      3p: no nieguen

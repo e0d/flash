@@ -1,0 +1,186 @@
+calentarse:
+  infinitive: calentarse
+  gerund: calentándose
+  pastparticiple: calentado
+  definitions: {en: 'to heat up, warm up'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I get heated, am getting heated'}
+      1s: me caliento
+      1p: nos calentamos
+      2s: te calientas
+      2p: os calentáis
+      3s: se calienta
+      3p: se calientan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will get heated}
+      1s: me calentaré
+      1p: nos calentaremos
+      2s: te calentarás
+      2p: os calentaréis
+      3s: se calentará
+      3p: se calentarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was getting heated, used to get heated, got heated'}
+      1s: me calentaba
+      1p: nos calentábamos
+      2s: te calentabas
+      2p: os calentabais
+      3s: se calentaba
+      3p: se calentaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I got heated}
+      1s: me calenté
+      1p: nos calentamos
+      2s: te calentaste
+      2p: os calentasteis
+      3s: se calentó
+      3p: se calentaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would get heated}
+      1s: me calentaría
+      1p: nos calentaríamos
+      2s: te calentarías
+      2p: os calentaríais
+      3s: se calentaría
+      3p: se calentarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have gotten heated}
+      1s: me he calentado
+      1p: nos hemos calentado
+      2s: te has calentado
+      2p: os habéis calentado
+      3s: se ha calentado
+      3p: se han calentado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have gotten heated}
+      1s: me habré calentado
+      1p: nos habremos calentado
+      2s: te habrás calentado
+      2p: os habréis calentado
+      3s: se habrá calentado
+      3p: se habrán calentado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had gotten heated}
+      1s: me había calentado
+      1p: nos habíamos calentado
+      2s: te habías calentado
+      2p: os habíais calentado
+      3s: se había calentado
+      3p: se habían calentado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had gotten heated}
+      1s: me hube calentado
+      1p: nos hubimos calentado
+      2s: te hubiste calentado
+      2p: os hubisteis calentado
+      3s: se hubo calentado
+      3p: se hubieron calentado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have gotten heated}
+      1s: me habría calentado
+      1p: nos habríamos calentado
+      2s: te habrías calentado
+      2p: os habríais calentado
+      3s: se habría calentado
+      3p: se habrían calentado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I get heated, am getting heated'}
+      1s: me caliente
+      1p: nos calentemos
+      2s: te calientes
+      2p: os calentéis
+      3s: se caliente
+      3p: se calienten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I got heated, was getting heated'}
+      1s: me calentara
+      1p: nos calentáramos
+      2s: te calentaras
+      2p: os calentarais
+      3s: se calentara
+      3p: se calentaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will get heated}
+      1s: me calentare
+      1p: nos calentáremos
+      2s: te calentares
+      2p: os calentareis
+      3s: se calentare
+      3p: se calentaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have gotten heated, got heated'}
+      1s: me haya calentado
+      1p: nos hayamos calentado
+      2s: te hayas calentado
+      2p: os hayáis calentado
+      3s: se haya calentado
+      3p: se hayan calentado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have gotten heated}
+      1s: me hubiere calentado
+      1p: nos hubiéremos calentado
+      2s: te hubieres calentado
+      2p: os hubiereis calentado
+      3s: se hubiere calentado
+      3p: se hubieren calentado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had gotten heated}
+      1s: me hubiera calentado
+      1p: nos hubiéramos calentado
+      2s: te hubieras calentado
+      2p: os hubierais calentado
+      3s: se hubiera calentado
+      3p: se hubieran calentado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Get heated! Don't get heated!}
+      1s: ''
+      1p: ''
+      2s: caliéntate
+      2p: caliéntese
+      3s: calentaos
+      3p: caliéntense
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Get heated! Don't get heated!}
+      1s: ''
+      1p: ''
+      2s: no te calientes
+      2p: no se caliente
+      3s: no os calentéis
+      3p: no se calienten

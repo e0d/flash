@@ -1,0 +1,186 @@
+suspirar:
+  infinitive: suspirar
+  gerund: suspirando
+  pastparticiple: suspirado
+  definitions: {en: to sigh}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I sigh, am sighing'}
+      1s: suspiro
+      1p: suspiramos
+      2s: suspiras
+      2p: suspiráis
+      3s: suspira
+      3p: suspiran
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will sigh}
+      1s: suspiraré
+      1p: suspiraremos
+      2s: suspirarás
+      2p: suspiraréis
+      3s: suspirará
+      3p: suspirarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was sighing, used to sigh, sighed'}
+      1s: suspiraba
+      1p: suspirábamos
+      2s: suspirabas
+      2p: suspirabais
+      3s: suspiraba
+      3p: suspiraban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I sighed}
+      1s: suspiré
+      1p: suspiramos
+      2s: suspiraste
+      2p: suspirasteis
+      3s: suspiró
+      3p: suspiraron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would sigh}
+      1s: suspiraría
+      1p: suspiraríamos
+      2s: suspirarías
+      2p: suspiraríais
+      3s: suspiraría
+      3p: suspirarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have sighed}
+      1s: he suspirado
+      1p: hemos suspirado
+      2s: has suspirado
+      2p: habéis suspirado
+      3s: ha suspirado
+      3p: han suspirado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have sighed}
+      1s: habré suspirado
+      1p: habremos suspirado
+      2s: habrás suspirado
+      2p: habréis suspirado
+      3s: habrá suspirado
+      3p: habrán suspirado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had sighed}
+      1s: había suspirado
+      1p: habíamos suspirado
+      2s: habías suspirado
+      2p: habíais suspirado
+      3s: había suspirado
+      3p: habían suspirado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had sighed}
+      1s: hube suspirado
+      1p: hubimos suspirado
+      2s: hubiste suspirado
+      2p: hubisteis suspirado
+      3s: hubo suspirado
+      3p: hubieron suspirado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have sighed}
+      1s: habría suspirado
+      1p: habríamos suspirado
+      2s: habrías suspirado
+      2p: habríais suspirado
+      3s: habría suspirado
+      3p: habrían suspirado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I sigh, am sighing'}
+      1s: suspire
+      1p: suspiremos
+      2s: suspires
+      2p: suspiréis
+      3s: suspire
+      3p: suspiren
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I sighed, was sighing'}
+      1s: suspirara
+      1p: suspiráramos
+      2s: suspiraras
+      2p: suspirarais
+      3s: suspirara
+      3p: suspiraran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will sigh}
+      1s: suspirare
+      1p: suspiráremos
+      2s: suspirares
+      2p: suspirareis
+      3s: suspirare
+      3p: suspiraren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have sighed, sighed'}
+      1s: haya suspirado
+      1p: hayamos suspirado
+      2s: hayas suspirado
+      2p: hayáis suspirado
+      3s: haya suspirado
+      3p: hayan suspirado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have sighed}
+      1s: hubiere suspirado
+      1p: hubiéremos suspirado
+      2s: hubieres suspirado
+      2p: hubiereis suspirado
+      3s: hubiere suspirado
+      3p: hubieren suspirado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had sighed}
+      1s: hubiera suspirado
+      1p: hubiéramos suspirado
+      2s: hubieras suspirado
+      2p: hubierais suspirado
+      3s: hubiera suspirado
+      3p: hubieran suspirado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Sigh! Don't sigh!}
+      1s: ''
+      1p: ''
+      2s: suspira
+      2p: suspire
+      3s: suspirad
+      3p: suspiren
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Sigh! Don't sigh!}
+      1s: ''
+      1p: ''
+      2s: no suspires
+      2p: no suspire
+      3s: no suspiréis
+      3p: no suspiren

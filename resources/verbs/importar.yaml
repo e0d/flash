@@ -1,0 +1,186 @@
+importar:
+  infinitive: importar
+  gerund: importando
+  pastparticiple: importado
+  definitions: {en: to import}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I import, am importing'}
+      1s: importo
+      1p: importamos
+      2s: importas
+      2p: importáis
+      3s: importa
+      3p: importan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will import}
+      1s: importaré
+      1p: importaremos
+      2s: importarás
+      2p: importaréis
+      3s: importará
+      3p: importarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was importing, used to import, imported'}
+      1s: importaba
+      1p: importábamos
+      2s: importabas
+      2p: importabais
+      3s: importaba
+      3p: importaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I imported}
+      1s: importé
+      1p: importamos
+      2s: importaste
+      2p: importasteis
+      3s: importó
+      3p: importaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would import}
+      1s: importaría
+      1p: importaríamos
+      2s: importarías
+      2p: importaríais
+      3s: importaría
+      3p: importarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have imported}
+      1s: he importado
+      1p: hemos importado
+      2s: has importado
+      2p: habéis importado
+      3s: ha importado
+      3p: han importado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have imported}
+      1s: habré importado
+      1p: habremos importado
+      2s: habrás importado
+      2p: habréis importado
+      3s: habrá importado
+      3p: habrán importado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had imported}
+      1s: había importado
+      1p: habíamos importado
+      2s: habías importado
+      2p: habíais importado
+      3s: había importado
+      3p: habían importado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had imported}
+      1s: hube importado
+      1p: hubimos importado
+      2s: hubiste importado
+      2p: hubisteis importado
+      3s: hubo importado
+      3p: hubieron importado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have imported}
+      1s: habría importado
+      1p: habríamos importado
+      2s: habrías importado
+      2p: habríais importado
+      3s: habría importado
+      3p: habrían importado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I import, am importing'}
+      1s: importe
+      1p: importemos
+      2s: importes
+      2p: importéis
+      3s: importe
+      3p: importen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I imported, was importing'}
+      1s: importara
+      1p: importáramos
+      2s: importaras
+      2p: importarais
+      3s: importara
+      3p: importaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will import}
+      1s: importare
+      1p: importáremos
+      2s: importares
+      2p: importareis
+      3s: importare
+      3p: importaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have imported, imported'}
+      1s: haya importado
+      1p: hayamos importado
+      2s: hayas importado
+      2p: hayáis importado
+      3s: haya importado
+      3p: hayan importado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have imported}
+      1s: hubiere importado
+      1p: hubiéremos importado
+      2s: hubieres importado
+      2p: hubiereis importado
+      3s: hubiere importado
+      3p: hubieren importado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had imported}
+      1s: hubiera importado
+      1p: hubiéramos importado
+      2s: hubieras importado
+      2p: hubierais importado
+      3s: hubiera importado
+      3p: hubieran importado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Import! Don't import!}
+      1s: ''
+      1p: ''
+      2s: importa
+      2p: importe
+      3s: importad
+      3p: importen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Import! Don't import!}
+      1s: ''
+      1p: ''
+      2s: no importes
+      2p: no importe
+      3s: no importéis
+      3p: no importen

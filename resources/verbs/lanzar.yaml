@@ -1,0 +1,186 @@
+lanzar:
+  infinitive: lanzar
+  gerund: lanzando
+  pastparticiple: lanzado
+  definitions: {en: 'to throw, hurl, cast, fling'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I throw, am throwing'}
+      1s: lanzo
+      1p: lanzamos
+      2s: lanzas
+      2p: lanzáis
+      3s: lanza
+      3p: lanzan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will throw}
+      1s: lanzaré
+      1p: lanzaremos
+      2s: lanzarás
+      2p: lanzaréis
+      3s: lanzará
+      3p: lanzarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was throwing, used to throw, threw'}
+      1s: lanzaba
+      1p: lanzábamos
+      2s: lanzabas
+      2p: lanzabais
+      3s: lanzaba
+      3p: lanzaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I threw}
+      1s: lancé
+      1p: lanzamos
+      2s: lanzaste
+      2p: lanzasteis
+      3s: lanzó
+      3p: lanzaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would throw}
+      1s: lanzaría
+      1p: lanzaríamos
+      2s: lanzarías
+      2p: lanzaríais
+      3s: lanzaría
+      3p: lanzarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have thrown}
+      1s: he lanzado
+      1p: hemos lanzado
+      2s: has lanzado
+      2p: habéis lanzado
+      3s: ha lanzado
+      3p: han lanzado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have thrown}
+      1s: habré lanzado
+      1p: habremos lanzado
+      2s: habrás lanzado
+      2p: habréis lanzado
+      3s: habrá lanzado
+      3p: habrán lanzado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had thrown}
+      1s: había lanzado
+      1p: habíamos lanzado
+      2s: habías lanzado
+      2p: habíais lanzado
+      3s: había lanzado
+      3p: habían lanzado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had thrown}
+      1s: hube lanzado
+      1p: hubimos lanzado
+      2s: hubiste lanzado
+      2p: hubisteis lanzado
+      3s: hubo lanzado
+      3p: hubieron lanzado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have thrown}
+      1s: habría lanzado
+      1p: habríamos lanzado
+      2s: habrías lanzado
+      2p: habríais lanzado
+      3s: habría lanzado
+      3p: habrían lanzado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I throw, am throwing'}
+      1s: lance
+      1p: lancemos
+      2s: lances
+      2p: lancéis
+      3s: lance
+      3p: lancen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I threw, was throwing'}
+      1s: lanzara
+      1p: lanzáramos
+      2s: lanzaras
+      2p: lanzarais
+      3s: lanzara
+      3p: lanzaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will throw}
+      1s: lanzare
+      1p: lanzáremos
+      2s: lanzares
+      2p: lanzareis
+      3s: lanzare
+      3p: lanzaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have thrown, threw'}
+      1s: haya lanzado
+      1p: hayamos lanzado
+      2s: hayas lanzado
+      2p: hayáis lanzado
+      3s: haya lanzado
+      3p: hayan lanzado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have thrown}
+      1s: hubiere lanzado
+      1p: hubiéremos lanzado
+      2s: hubieres lanzado
+      2p: hubiereis lanzado
+      3s: hubiere lanzado
+      3p: hubieren lanzado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had thrown}
+      1s: hubiera lanzado
+      1p: hubiéramos lanzado
+      2s: hubieras lanzado
+      2p: hubierais lanzado
+      3s: hubiera lanzado
+      3p: hubieran lanzado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Throw! Don't throw!}
+      1s: ''
+      1p: ''
+      2s: lanza
+      2p: lance
+      3s: lanzad
+      3p: lancen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Throw! Don't throw!}
+      1s: ''
+      1p: ''
+      2s: no lances
+      2p: no lance
+      3s: no lancéis
+      3p: no lancen

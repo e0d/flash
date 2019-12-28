@@ -1,0 +1,186 @@
+amenazar:
+  infinitive: amenazar
+  gerund: amenazando
+  pastparticiple: amenazado
+  definitions: {en: 'to threaten, menace'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I threaten, am threatening'}
+      1s: amenazo
+      1p: amenazamos
+      2s: amenazas
+      2p: amenazáis
+      3s: amenaza
+      3p: amenazan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will threaten}
+      1s: amenazaré
+      1p: amenazaremos
+      2s: amenazarás
+      2p: amenazaréis
+      3s: amenazará
+      3p: amenazarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was threatening, used to threaten, threatened'}
+      1s: amenazaba
+      1p: amenazábamos
+      2s: amenazabas
+      2p: amenazabais
+      3s: amenazaba
+      3p: amenazaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I threatened}
+      1s: amenacé
+      1p: amenazamos
+      2s: amenazaste
+      2p: amenazasteis
+      3s: amenazó
+      3p: amenazaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would threaten}
+      1s: amenazaría
+      1p: amenazaríamos
+      2s: amenazarías
+      2p: amenazaríais
+      3s: amenazaría
+      3p: amenazarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have threatened}
+      1s: he amenazado
+      1p: hemos amenazado
+      2s: has amenazado
+      2p: habéis amenazado
+      3s: ha amenazado
+      3p: han amenazado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have threatened}
+      1s: habré amenazado
+      1p: habremos amenazado
+      2s: habrás amenazado
+      2p: habréis amenazado
+      3s: habrá amenazado
+      3p: habrán amenazado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had threatened}
+      1s: había amenazado
+      1p: habíamos amenazado
+      2s: habías amenazado
+      2p: habíais amenazado
+      3s: había amenazado
+      3p: habían amenazado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had threatened}
+      1s: hube amenazado
+      1p: hubimos amenazado
+      2s: hubiste amenazado
+      2p: hubisteis amenazado
+      3s: hubo amenazado
+      3p: hubieron amenazado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have threatened}
+      1s: habría amenazado
+      1p: habríamos amenazado
+      2s: habrías amenazado
+      2p: habríais amenazado
+      3s: habría amenazado
+      3p: habrían amenazado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I threaten, am threatening'}
+      1s: amenace
+      1p: amenacemos
+      2s: amenaces
+      2p: amenacéis
+      3s: amenace
+      3p: amenacen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I threatened, was threatening'}
+      1s: amenazara
+      1p: amenazáramos
+      2s: amenazaras
+      2p: amenazarais
+      3s: amenazara
+      3p: amenazaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will threaten}
+      1s: amenazare
+      1p: amenazáremos
+      2s: amenazares
+      2p: amenazareis
+      3s: amenazare
+      3p: amenazaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have threatened, threatened'}
+      1s: haya amenazado
+      1p: hayamos amenazado
+      2s: hayas amenazado
+      2p: hayáis amenazado
+      3s: haya amenazado
+      3p: hayan amenazado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have threatened}
+      1s: hubiere amenazado
+      1p: hubiéremos amenazado
+      2s: hubieres amenazado
+      2p: hubiereis amenazado
+      3s: hubiere amenazado
+      3p: hubieren amenazado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had threatened}
+      1s: hubiera amenazado
+      1p: hubiéramos amenazado
+      2s: hubieras amenazado
+      2p: hubierais amenazado
+      3s: hubiera amenazado
+      3p: hubieran amenazado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Threaten! Don't threaten!}
+      1s: ''
+      1p: ''
+      2s: amenaza
+      2p: amenace
+      3s: amenazad
+      3p: amenacen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Threaten! Don't threaten!}
+      1s: ''
+      1p: ''
+      2s: no amenaces
+      2p: no amenace
+      3s: no amenacéis
+      3p: no amenacen

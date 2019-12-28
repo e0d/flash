@@ -1,0 +1,186 @@
+devolver:
+  infinitive: devolver
+  gerund: devolviendo
+  pastparticiple: devuelto
+  definitions: {en: 'to return, give back'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I return, am returning'}
+      1s: devuelvo
+      1p: devolvemos
+      2s: devuelves
+      2p: devolvéis
+      3s: devuelve
+      3p: devuelven
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will return}
+      1s: devolveré
+      1p: devolveremos
+      2s: devolverás
+      2p: devolveréis
+      3s: devolverá
+      3p: devolverán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was returning, used to return, returned'}
+      1s: devolvía
+      1p: devolvíamos
+      2s: devolvías
+      2p: devolvíais
+      3s: devolvía
+      3p: devolvían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I returned}
+      1s: devolví
+      1p: devolvimos
+      2s: devolviste
+      2p: devolvisteis
+      3s: devolvió
+      3p: devolvieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would return}
+      1s: devolvería
+      1p: devolveríamos
+      2s: devolverías
+      2p: devolveríais
+      3s: devolvería
+      3p: devolverían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have returned}
+      1s: he devuelto
+      1p: hemos devuelto
+      2s: has devuelto
+      2p: habéis devuelto
+      3s: ha devuelto
+      3p: han devuelto
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have returned}
+      1s: habré devuelto
+      1p: habremos devuelto
+      2s: habrás devuelto
+      2p: habréis devuelto
+      3s: habrá devuelto
+      3p: habrán devuelto
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had returned}
+      1s: había devuelto
+      1p: habíamos devuelto
+      2s: habías devuelto
+      2p: habíais devuelto
+      3s: había devuelto
+      3p: habían devuelto
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had returned}
+      1s: hube devuelto
+      1p: hubimos devuelto
+      2s: hubiste devuelto
+      2p: hubisteis devuelto
+      3s: hubo devuelto
+      3p: hubieron devuelto
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have returned}
+      1s: habría devuelto
+      1p: habríamos devuelto
+      2s: habrías devuelto
+      2p: habríais devuelto
+      3s: habría devuelto
+      3p: habrían devuelto
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I return, am returning'}
+      1s: devuelva
+      1p: devolvamos
+      2s: devuelvas
+      2p: devolváis
+      3s: devuelva
+      3p: devuelvan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I returned, was returning'}
+      1s: devolviera
+      1p: devolviéramos
+      2s: devolvieras
+      2p: devolvierais
+      3s: devolviera
+      3p: devolvieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will return}
+      1s: devolviere
+      1p: devolviéremos
+      2s: devolvieres
+      2p: devolviereis
+      3s: devolviere
+      3p: devolvieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have returned, returned'}
+      1s: haya devuelto
+      1p: hayamos devuelto
+      2s: hayas devuelto
+      2p: hayáis devuelto
+      3s: haya devuelto
+      3p: hayan devuelto
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have returned}
+      1s: hubiere devuelto
+      1p: hubiéremos devuelto
+      2s: hubieres devuelto
+      2p: hubiereis devuelto
+      3s: hubiere devuelto
+      3p: hubieren devuelto
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had returned}
+      1s: hubiera devuelto
+      1p: hubiéramos devuelto
+      2s: hubieras devuelto
+      2p: hubierais devuelto
+      3s: hubiera devuelto
+      3p: hubieran devuelto
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Return! Don't return!}
+      1s: ''
+      1p: ''
+      2s: devuelve
+      2p: devuelva
+      3s: devolved
+      3p: devuelvan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Return! Don't return!}
+      1s: ''
+      1p: ''
+      2s: no devuelvas
+      2p: no devuelva
+      3s: no devolváis
+      3p: no devuelvan

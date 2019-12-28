@@ -1,0 +1,186 @@
+acordar:
+  infinitive: acordar
+  gerund: acordando
+  pastparticiple: acordado
+  definitions: {en: 'to decide, resolve, agree [on]'}
+  tenses:
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would decide}
+      1s: acordaría
+      1p: acordaríamos
+      2s: acordarías
+      2p: acordaríais
+      3s: acordaría
+      3p: acordarían
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I decide, am deciding'}
+      1s: acuerdo
+      1p: acordamos
+      2s: acuerdas
+      2p: acordáis
+      3s: acuerda
+      3p: acuerdan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will decide}
+      1s: acordaré
+      1p: acordaremos
+      2s: acordarás
+      2p: acordaréis
+      3s: acordará
+      3p: acordarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was deciding, used to decide, decided'}
+      1s: acordaba
+      1p: acordábamos
+      2s: acordabas
+      2p: acordabais
+      3s: acordaba
+      3p: acordaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I decided}
+      1s: acordé
+      1p: acordamos
+      2s: acordaste
+      2p: acordasteis
+      3s: acordó
+      3p: acordaron
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have decided}
+      1s: he acordado
+      1p: hemos acordado
+      2s: has acordado
+      2p: habéis acordado
+      3s: ha acordado
+      3p: han acordado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have decided}
+      1s: habré acordado
+      1p: habremos acordado
+      2s: habrás acordado
+      2p: habréis acordado
+      3s: habrá acordado
+      3p: habrán acordado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had decided}
+      1s: había acordado
+      1p: habíamos acordado
+      2s: habías acordado
+      2p: habíais acordado
+      3s: había acordado
+      3p: habían acordado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had decided}
+      1s: hube acordado
+      1p: hubimos acordado
+      2s: hubiste acordado
+      2p: hubisteis acordado
+      3s: hubo acordado
+      3p: hubieron acordado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have decided}
+      1s: habría acordado
+      1p: habríamos acordado
+      2s: habrías acordado
+      2p: habríais acordado
+      3s: habría acordado
+      3p: habrían acordado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I decide, am deciding'}
+      1s: acuerde
+      1p: acordemos
+      2s: acuerdes
+      2p: acordéis
+      3s: acuerde
+      3p: acuerden
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I decided, was deciding'}
+      1s: acordara
+      1p: acordáramos
+      2s: acordaras
+      2p: acordarais
+      3s: acordara
+      3p: acordaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will decide}
+      1s: acordare
+      1p: acordáremos
+      2s: acordares
+      2p: acordareis
+      3s: acordare
+      3p: acordaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have decided, decided'}
+      1s: haya acordado
+      1p: hayamos acordado
+      2s: hayas acordado
+      2p: hayáis acordado
+      3s: haya acordado
+      3p: hayan acordado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have decided}
+      1s: hubiere acordado
+      1p: hubiéremos acordado
+      2s: hubieres acordado
+      2p: hubiereis acordado
+      3s: hubiere acordado
+      3p: hubieren acordado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had decided}
+      1s: hubiera acordado
+      1p: hubiéramos acordado
+      2s: hubieras acordado
+      2p: hubierais acordado
+      3s: hubiera acordado
+      3p: hubieran acordado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Decide! Don't decide!}
+      1s: ''
+      1p: ''
+      2s: acuerda
+      2p: acuerde
+      3s: acordad
+      3p: acuerden
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Decide! Don't decide!}
+      1s: ''
+      1p: ''
+      2s: no acuerdes
+      2p: no acuerde
+      3s: no acordéis
+      3p: no acuerden

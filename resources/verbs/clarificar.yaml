@@ -1,0 +1,186 @@
+clarificar:
+  infinitive: clarificar
+  gerund: clarificando
+  pastparticiple: clarificado
+  definitions: {en: 'to clarify, illuminate, light [up], brighten'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I clarify, am clarifying'}
+      1s: clarifico
+      1p: clarificamos
+      2s: clarificas
+      2p: clarificáis
+      3s: clarifica
+      3p: clarifican
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will clarify}
+      1s: clarificaré
+      1p: clarificaremos
+      2s: clarificarás
+      2p: clarificaréis
+      3s: clarificará
+      3p: clarificarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was clarifying, used to clarify, clarified'}
+      1s: clarificaba
+      1p: clarificábamos
+      2s: clarificabas
+      2p: clarificabais
+      3s: clarificaba
+      3p: clarificaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I clarified}
+      1s: clarifiqué
+      1p: clarificamos
+      2s: clarificaste
+      2p: clarificasteis
+      3s: clarificó
+      3p: clarificaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would clarify}
+      1s: clarificaría
+      1p: clarificaríamos
+      2s: clarificarías
+      2p: clarificaríais
+      3s: clarificaría
+      3p: clarificarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have clarified}
+      1s: he clarificado
+      1p: hemos clarificado
+      2s: has clarificado
+      2p: habéis clarificado
+      3s: ha clarificado
+      3p: han clarificado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have clarified}
+      1s: habré clarificado
+      1p: habremos clarificado
+      2s: habrás clarificado
+      2p: habréis clarificado
+      3s: habrá clarificado
+      3p: habrán clarificado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had clarified}
+      1s: había clarificado
+      1p: habíamos clarificado
+      2s: habías clarificado
+      2p: habíais clarificado
+      3s: había clarificado
+      3p: habían clarificado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had clarified}
+      1s: hube clarificado
+      1p: hubimos clarificado
+      2s: hubiste clarificado
+      2p: hubisteis clarificado
+      3s: hubo clarificado
+      3p: hubieron clarificado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have clarified}
+      1s: habría clarificado
+      1p: habríamos clarificado
+      2s: habrías clarificado
+      2p: habríais clarificado
+      3s: habría clarificado
+      3p: habrían clarificado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I clarify, am clarifying'}
+      1s: clarifique
+      1p: clarifiquemos
+      2s: clarifiques
+      2p: clarifiquéis
+      3s: clarifique
+      3p: clarifiquen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I clarified, was clarifying'}
+      1s: clarificara
+      1p: clarificáramos
+      2s: clarificaras
+      2p: clarificarais
+      3s: clarificara
+      3p: clarificaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will clarify}
+      1s: clarificare
+      1p: clarificáremos
+      2s: clarificares
+      2p: clarificareis
+      3s: clarificare
+      3p: clarificaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have clarified, clarified'}
+      1s: haya clarificado
+      1p: hayamos clarificado
+      2s: hayas clarificado
+      2p: hayáis clarificado
+      3s: haya clarificado
+      3p: hayan clarificado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have clarified}
+      1s: hubiere clarificado
+      1p: hubiéremos clarificado
+      2s: hubieres clarificado
+      2p: hubiereis clarificado
+      3s: hubiere clarificado
+      3p: hubieren clarificado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had clarified}
+      1s: hubiera clarificado
+      1p: hubiéramos clarificado
+      2s: hubieras clarificado
+      2p: hubierais clarificado
+      3s: hubiera clarificado
+      3p: hubieran clarificado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Clarify! Don't clarify!}
+      1s: ''
+      1p: ''
+      2s: clarifica
+      2p: clarifique
+      3s: clarificad
+      3p: clarifiquen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Clarify! Don't clarify!}
+      1s: ''
+      1p: ''
+      2s: no clarifiques
+      2p: no clarifique
+      3s: no clarifiquéis
+      3p: no clarifiquen

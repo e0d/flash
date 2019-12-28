@@ -1,0 +1,186 @@
+dibujar:
+  infinitive: dibujar
+  gerund: dibujando
+  pastparticiple: dibujado
+  definitions: {en: 'to draw, sketch, depict'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I draw, am drawing'}
+      1s: dibujo
+      1p: dibujamos
+      2s: dibujas
+      2p: dibujáis
+      3s: dibuja
+      3p: dibujan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will draw}
+      1s: dibujaré
+      1p: dibujaremos
+      2s: dibujarás
+      2p: dibujaréis
+      3s: dibujará
+      3p: dibujarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was drawing, used to draw, drew'}
+      1s: dibujaba
+      1p: dibujábamos
+      2s: dibujabas
+      2p: dibujabais
+      3s: dibujaba
+      3p: dibujaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I drew}
+      1s: dibujé
+      1p: dibujamos
+      2s: dibujaste
+      2p: dibujasteis
+      3s: dibujó
+      3p: dibujaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would draw}
+      1s: dibujaría
+      1p: dibujaríamos
+      2s: dibujarías
+      2p: dibujaríais
+      3s: dibujaría
+      3p: dibujarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have drawn}
+      1s: he dibujado
+      1p: hemos dibujado
+      2s: has dibujado
+      2p: habéis dibujado
+      3s: ha dibujado
+      3p: han dibujado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have drawn}
+      1s: habré dibujado
+      1p: habremos dibujado
+      2s: habrás dibujado
+      2p: habréis dibujado
+      3s: habrá dibujado
+      3p: habrán dibujado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had drawn}
+      1s: había dibujado
+      1p: habíamos dibujado
+      2s: habías dibujado
+      2p: habíais dibujado
+      3s: había dibujado
+      3p: habían dibujado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had drawn}
+      1s: hube dibujado
+      1p: hubimos dibujado
+      2s: hubiste dibujado
+      2p: hubisteis dibujado
+      3s: hubo dibujado
+      3p: hubieron dibujado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have drawn}
+      1s: habría dibujado
+      1p: habríamos dibujado
+      2s: habrías dibujado
+      2p: habríais dibujado
+      3s: habría dibujado
+      3p: habrían dibujado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I draw, am drawing'}
+      1s: dibuje
+      1p: dibujemos
+      2s: dibujes
+      2p: dibujéis
+      3s: dibuje
+      3p: dibujen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I drew, was drawing'}
+      1s: dibujara
+      1p: dibujáramos
+      2s: dibujaras
+      2p: dibujarais
+      3s: dibujara
+      3p: dibujaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will draw}
+      1s: dibujare
+      1p: dibujáremos
+      2s: dibujares
+      2p: dibujareis
+      3s: dibujare
+      3p: dibujaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have drawn, drew'}
+      1s: haya dibujado
+      1p: hayamos dibujado
+      2s: hayas dibujado
+      2p: hayáis dibujado
+      3s: haya dibujado
+      3p: hayan dibujado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have drawn}
+      1s: hubiere dibujado
+      1p: hubiéremos dibujado
+      2s: hubieres dibujado
+      2p: hubiereis dibujado
+      3s: hubiere dibujado
+      3p: hubieren dibujado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had drawn}
+      1s: hubiera dibujado
+      1p: hubiéramos dibujado
+      2s: hubieras dibujado
+      2p: hubierais dibujado
+      3s: hubiera dibujado
+      3p: hubieran dibujado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Draw! Don't draw!}
+      1s: ''
+      1p: ''
+      2s: dibuja
+      2p: dibuje
+      3s: dibujad
+      3p: dibujen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Draw! Don't draw!}
+      1s: ''
+      1p: ''
+      2s: no dibujes
+      2p: no dibuje
+      3s: no dibujéis
+      3p: no dibujen

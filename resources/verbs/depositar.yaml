@@ -1,0 +1,186 @@
+depositar:
+  infinitive: depositar
+  gerund: depositando
+  pastparticiple: depositado
+  definitions: {en: 'to deposit; to place; to put away, store'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I deposit, am depositing'}
+      1s: deposito
+      1p: depositamos
+      2s: depositas
+      2p: depositáis
+      3s: deposita
+      3p: depositan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will deposit}
+      1s: depositaré
+      1p: depositaremos
+      2s: depositarás
+      2p: depositaréis
+      3s: depositará
+      3p: depositarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was depositing, used to deposit, deposited'}
+      1s: depositaba
+      1p: depositábamos
+      2s: depositabas
+      2p: depositabais
+      3s: depositaba
+      3p: depositaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I deposited}
+      1s: deposité
+      1p: depositamos
+      2s: depositaste
+      2p: depositasteis
+      3s: depositó
+      3p: depositaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would deposit}
+      1s: depositaría
+      1p: depositaríamos
+      2s: depositarías
+      2p: depositaríais
+      3s: depositaría
+      3p: depositarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have deposited}
+      1s: he depositado
+      1p: hemos depositado
+      2s: has depositado
+      2p: habéis depositado
+      3s: ha depositado
+      3p: han depositado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have deposited}
+      1s: habré depositado
+      1p: habremos depositado
+      2s: habrás depositado
+      2p: habréis depositado
+      3s: habrá depositado
+      3p: habrán depositado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had deposited}
+      1s: había depositado
+      1p: habíamos depositado
+      2s: habías depositado
+      2p: habíais depositado
+      3s: había depositado
+      3p: habían depositado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had deposited}
+      1s: hube depositado
+      1p: hubimos depositado
+      2s: hubiste depositado
+      2p: hubisteis depositado
+      3s: hubo depositado
+      3p: hubieron depositado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have deposited}
+      1s: habría depositado
+      1p: habríamos depositado
+      2s: habrías depositado
+      2p: habríais depositado
+      3s: habría depositado
+      3p: habrían depositado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I deposit, am depositing'}
+      1s: deposite
+      1p: depositemos
+      2s: deposites
+      2p: depositéis
+      3s: deposite
+      3p: depositen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I deposited, was depositing'}
+      1s: depositara
+      1p: depositáramos
+      2s: depositaras
+      2p: depositarais
+      3s: depositara
+      3p: depositaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will deposit}
+      1s: depositare
+      1p: depositáremos
+      2s: depositares
+      2p: depositareis
+      3s: depositare
+      3p: depositaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have deposited, deposited'}
+      1s: haya depositado
+      1p: hayamos depositado
+      2s: hayas depositado
+      2p: hayáis depositado
+      3s: haya depositado
+      3p: hayan depositado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have deposited}
+      1s: hubiere depositado
+      1p: hubiéremos depositado
+      2s: hubieres depositado
+      2p: hubiereis depositado
+      3s: hubiere depositado
+      3p: hubieren depositado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had deposited}
+      1s: hubiera depositado
+      1p: hubiéramos depositado
+      2s: hubieras depositado
+      2p: hubierais depositado
+      3s: hubiera depositado
+      3p: hubieran depositado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Deposit! Don't deposit!}
+      1s: ''
+      1p: ''
+      2s: deposita
+      2p: deposite
+      3s: depositad
+      3p: depositen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Deposit! Don't deposit!}
+      1s: ''
+      1p: ''
+      2s: no deposites
+      2p: no deposite
+      3s: no depositéis
+      3p: no depositen

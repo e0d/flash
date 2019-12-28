@@ -1,0 +1,186 @@
+quemarse:
+  infinitive: quemarse
+  gerund: quemándose
+  pastparticiple: quemado
+  definitions: {en: 'to burn [oneself], to burn up, burn down'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I burn up, am burning up'}
+      1s: me quemo
+      1p: nos quemamos
+      2s: te quemas
+      2p: os quemáis
+      3s: se quema
+      3p: se queman
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will burn up}
+      1s: me quemaré
+      1p: nos quemaremos
+      2s: te quemarás
+      2p: os quemaréis
+      3s: se quemará
+      3p: se quemarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was burning up, used to burn up, burned up'}
+      1s: me quemaba
+      1p: nos quemábamos
+      2s: te quemabas
+      2p: os quemabais
+      3s: se quemaba
+      3p: se quemaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I burned up}
+      1s: me quemé
+      1p: nos quemamos
+      2s: te quemaste
+      2p: os quemasteis
+      3s: se quemó
+      3p: se quemaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would burn up}
+      1s: me quemaría
+      1p: nos quemaríamos
+      2s: te quemarías
+      2p: os quemaríais
+      3s: se quemaría
+      3p: se quemarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have burned up}
+      1s: me he quemado
+      1p: nos hemos quemado
+      2s: te has quemado
+      2p: os habéis quemado
+      3s: se ha quemado
+      3p: se han quemado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have burned up}
+      1s: me habré quemado
+      1p: nos habremos quemado
+      2s: te habrás quemado
+      2p: os habréis quemado
+      3s: se habrá quemado
+      3p: se habrán quemado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had burned up}
+      1s: me había quemado
+      1p: nos habíamos quemado
+      2s: te habías quemado
+      2p: os habíais quemado
+      3s: se había quemado
+      3p: se habían quemado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had burned up}
+      1s: me hube quemado
+      1p: nos hubimos quemado
+      2s: te hubiste quemado
+      2p: os hubisteis quemado
+      3s: se hubo quemado
+      3p: se hubieron quemado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have burned up}
+      1s: me habría quemado
+      1p: nos habríamos quemado
+      2s: te habrías quemado
+      2p: os habríais quemado
+      3s: se habría quemado
+      3p: se habrían quemado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I burn up, am burning up'}
+      1s: me queme
+      1p: nos quememos
+      2s: te quemes
+      2p: os queméis
+      3s: se queme
+      3p: se quemen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I burned up, was burning up'}
+      1s: me quemara
+      1p: nos quemáramos
+      2s: te quemaras
+      2p: os quemarais
+      3s: se quemara
+      3p: se quemaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will burn up}
+      1s: me quemare
+      1p: nos quemáremos
+      2s: te quemares
+      2p: os quemareis
+      3s: se quemare
+      3p: se quemaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have burned up, burned up'}
+      1s: me haya quemado
+      1p: nos hayamos quemado
+      2s: te hayas quemado
+      2p: os hayáis quemado
+      3s: se haya quemado
+      3p: se hayan quemado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have burned up}
+      1s: me hubiere quemado
+      1p: nos hubiéremos quemado
+      2s: te hubieres quemado
+      2p: os hubiereis quemado
+      3s: se hubiere quemado
+      3p: se hubieren quemado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had burned up}
+      1s: me hubiera quemado
+      1p: nos hubiéramos quemado
+      2s: te hubieras quemado
+      2p: os hubierais quemado
+      3s: se hubiera quemado
+      3p: se hubieran quemado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: burn up! Don't burn up!}
+      1s: ''
+      1p: ''
+      2s: quémate
+      2p: quémese
+      3s: quemaos
+      3p: quémense
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: burn up! Don't burn up!}
+      1s: ''
+      1p: ''
+      2s: no te quemes
+      2p: no se queme
+      3s: no os queméis
+      3p: no se quemen

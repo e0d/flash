@@ -1,0 +1,186 @@
+comprar:
+  infinitive: comprar
+  gerund: comprando
+  pastparticiple: comprado
+  definitions: {en: 'to buy, purchase'}
+  tenses:
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will buy}
+      1s: compraré
+      1p: compraremos
+      2s: comprarás
+      2p: compraréis
+      3s: comprará
+      3p: comprarán
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I buy, am buying'}
+      1s: compro
+      1p: compramos
+      2s: compras
+      2p: compráis
+      3s: compra
+      3p: compran
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was buying, used to buy, bought'}
+      1s: compraba
+      1p: comprábamos
+      2s: comprabas
+      2p: comprabais
+      3s: compraba
+      3p: compraban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I bought}
+      1s: compré
+      1p: compramos
+      2s: compraste
+      2p: comprasteis
+      3s: compró
+      3p: compraron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would buy}
+      1s: compraría
+      1p: compraríamos
+      2s: comprarías
+      2p: compraríais
+      3s: compraría
+      3p: comprarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have bought}
+      1s: he comprado
+      1p: hemos comprado
+      2s: has comprado
+      2p: habéis comprado
+      3s: ha comprado
+      3p: han comprado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have bought}
+      1s: habré comprado
+      1p: habremos comprado
+      2s: habrás comprado
+      2p: habréis comprado
+      3s: habrá comprado
+      3p: habrán comprado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had bought}
+      1s: había comprado
+      1p: habíamos comprado
+      2s: habías comprado
+      2p: habíais comprado
+      3s: había comprado
+      3p: habían comprado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had bought}
+      1s: hube comprado
+      1p: hubimos comprado
+      2s: hubiste comprado
+      2p: hubisteis comprado
+      3s: hubo comprado
+      3p: hubieron comprado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have bought}
+      1s: habría comprado
+      1p: habríamos comprado
+      2s: habrías comprado
+      2p: habríais comprado
+      3s: habría comprado
+      3p: habrían comprado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I buy, am buying'}
+      1s: compre
+      1p: compremos
+      2s: compres
+      2p: compréis
+      3s: compre
+      3p: compren
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I bought, was buying'}
+      1s: comprara
+      1p: compráramos
+      2s: compraras
+      2p: comprarais
+      3s: comprara
+      3p: compraran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will buy}
+      1s: comprare
+      1p: compráremos
+      2s: comprares
+      2p: comprareis
+      3s: comprare
+      3p: compraren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have bought, bought'}
+      1s: haya comprado
+      1p: hayamos comprado
+      2s: hayas comprado
+      2p: hayáis comprado
+      3s: haya comprado
+      3p: hayan comprado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have bought}
+      1s: hubiere comprado
+      1p: hubiéremos comprado
+      2s: hubieres comprado
+      2p: hubiereis comprado
+      3s: hubiere comprado
+      3p: hubieren comprado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had bought}
+      1s: hubiera comprado
+      1p: hubiéramos comprado
+      2s: hubieras comprado
+      2p: hubierais comprado
+      3s: hubiera comprado
+      3p: hubieran comprado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Buy! Don't buy!}
+      1s: ''
+      1p: ''
+      2s: compra
+      2p: compre
+      3s: comprad
+      3p: compren
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Buy! Don't buy!}
+      1s: ''
+      1p: ''
+      2s: no compres
+      2p: no compre
+      3s: no compréis
+      3p: no compren

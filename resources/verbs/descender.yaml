@@ -1,0 +1,186 @@
+descender:
+  infinitive: descender
+  gerund: descendiendo
+  pastparticiple: descendido
+  definitions: {en: 'to descend, lower'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I descend, am descending'}
+      1s: desciendo
+      1p: descendemos
+      2s: desciendes
+      2p: descendéis
+      3s: desciende
+      3p: descienden
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will descend}
+      1s: descenderé
+      1p: descenderemos
+      2s: descenderás
+      2p: descenderéis
+      3s: descenderá
+      3p: descenderán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was descending, used to descend, descended'}
+      1s: descendía
+      1p: descendíamos
+      2s: descendías
+      2p: descendíais
+      3s: descendía
+      3p: descendían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I descended}
+      1s: descendí
+      1p: descendimos
+      2s: descendiste
+      2p: descendisteis
+      3s: descendió
+      3p: descendieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would descend}
+      1s: descendería
+      1p: descenderíamos
+      2s: descenderías
+      2p: descenderíais
+      3s: descendería
+      3p: descenderían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have descended}
+      1s: he descendido
+      1p: hemos descendido
+      2s: has descendido
+      2p: habéis descendido
+      3s: ha descendido
+      3p: han descendido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have descended}
+      1s: habré descendido
+      1p: habremos descendido
+      2s: habrás descendido
+      2p: habréis descendido
+      3s: habrá descendido
+      3p: habrán descendido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had descended}
+      1s: había descendido
+      1p: habíamos descendido
+      2s: habías descendido
+      2p: habíais descendido
+      3s: había descendido
+      3p: habían descendido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had descended}
+      1s: hube descendido
+      1p: hubimos descendido
+      2s: hubiste descendido
+      2p: hubisteis descendido
+      3s: hubo descendido
+      3p: hubieron descendido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have descended}
+      1s: habría descendido
+      1p: habríamos descendido
+      2s: habrías descendido
+      2p: habríais descendido
+      3s: habría descendido
+      3p: habrían descendido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I descend, am descending'}
+      1s: descienda
+      1p: descendamos
+      2s: desciendas
+      2p: descendáis
+      3s: descienda
+      3p: desciendan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I descended, was descending'}
+      1s: descendiera
+      1p: descendiéramos
+      2s: descendieras
+      2p: descendierais
+      3s: descendiera
+      3p: descendieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will descend}
+      1s: descendiere
+      1p: descendiéremos
+      2s: descendieres
+      2p: descendiereis
+      3s: descendiere
+      3p: descendieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have descended, descended'}
+      1s: haya descendido
+      1p: hayamos descendido
+      2s: hayas descendido
+      2p: hayáis descendido
+      3s: haya descendido
+      3p: hayan descendido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have descended}
+      1s: hubiere descendido
+      1p: hubiéremos descendido
+      2s: hubieres descendido
+      2p: hubiereis descendido
+      3s: hubiere descendido
+      3p: hubieren descendido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had descended}
+      1s: hubiera descendido
+      1p: hubiéramos descendido
+      2s: hubieras descendido
+      2p: hubierais descendido
+      3s: hubiera descendido
+      3p: hubieran descendido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Descend! Don't descend!}
+      1s: ''
+      1p: ''
+      2s: desciende
+      2p: descienda
+      3s: descended
+      3p: desciendan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Descend! Don't descend!}
+      1s: ''
+      1p: ''
+      2s: no desciendas
+      2p: no descienda
+      3s: no descendáis
+      3p: no desciendan

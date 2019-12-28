@@ -1,0 +1,187 @@
+consentir:
+  infinitive: consentir
+  gerund: consintiendo
+  pastparticiple: consentido
+  definitions: {en: 'to consent to; to allow, permit; to tolerate, put up with; to
+      admit; to agree, consent'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I consent to, am consenting to'}
+      1s: consiento
+      1p: consentimos
+      2s: consientes
+      2p: consentís
+      3s: consiente
+      3p: consienten
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will consent to}
+      1s: consentiré
+      1p: consentiremos
+      2s: consentirás
+      2p: consentiréis
+      3s: consentirá
+      3p: consentirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was consenting to, used to consent to, consented to'}
+      1s: consentía
+      1p: consentíamos
+      2s: consentías
+      2p: consentíais
+      3s: consentía
+      3p: consentían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I consented to}
+      1s: consentí
+      1p: consentimos
+      2s: consentiste
+      2p: consentisteis
+      3s: consintió
+      3p: consintieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would consent to}
+      1s: consentiría
+      1p: consentiríamos
+      2s: consentirías
+      2p: consentiríais
+      3s: consentiría
+      3p: consentirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have consented to}
+      1s: he consentido
+      1p: hemos consentido
+      2s: has consentido
+      2p: habéis consentido
+      3s: ha consentido
+      3p: han consentido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have consented to}
+      1s: habré consentido
+      1p: habremos consentido
+      2s: habrás consentido
+      2p: habréis consentido
+      3s: habrá consentido
+      3p: habrán consentido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had consented to}
+      1s: había consentido
+      1p: habíamos consentido
+      2s: habías consentido
+      2p: habíais consentido
+      3s: había consentido
+      3p: habían consentido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had consented to}
+      1s: hube consentido
+      1p: hubimos consentido
+      2s: hubiste consentido
+      2p: hubisteis consentido
+      3s: hubo consentido
+      3p: hubieron consentido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have consented to}
+      1s: habría consentido
+      1p: habríamos consentido
+      2s: habrías consentido
+      2p: habríais consentido
+      3s: habría consentido
+      3p: habrían consentido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I consent to, am consenting to'}
+      1s: consienta
+      1p: consintamos
+      2s: consientas
+      2p: consintáis
+      3s: consienta
+      3p: consientan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I consented to, was consenting to'}
+      1s: consintiera
+      1p: consintiéramos
+      2s: consintieras
+      2p: consintierais
+      3s: consintiera
+      3p: consintieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will consent to}
+      1s: consintiere
+      1p: consintiéremos
+      2s: consintieres
+      2p: consintiereis
+      3s: consintiere
+      3p: consintieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have consented to, consented to'}
+      1s: haya consentido
+      1p: hayamos consentido
+      2s: hayas consentido
+      2p: hayáis consentido
+      3s: haya consentido
+      3p: hayan consentido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have consented to}
+      1s: hubiere consentido
+      1p: hubiéremos consentido
+      2s: hubieres consentido
+      2p: hubiereis consentido
+      3s: hubiere consentido
+      3p: hubieren consentido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had consented to}
+      1s: hubiera consentido
+      1p: hubiéramos consentido
+      2s: hubieras consentido
+      2p: hubierais consentido
+      3s: hubiera consentido
+      3p: hubieran consentido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Consent to! Don't consent to!}
+      1s: ''
+      1p: ''
+      2s: consiente
+      2p: consienta
+      3s: consentid
+      3p: consientan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Consent to! Don't consent to!}
+      1s: ''
+      1p: ''
+      2s: no consientas
+      2p: no consienta
+      3s: no consintáis
+      3p: no consientan

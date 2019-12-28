@@ -1,0 +1,186 @@
+admitir:
+  infinitive: admitir
+  gerund: admitiendo
+  pastparticiple: admitido
+  definitions: {en: 'to admit, accept, allow, recognize'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I admit, am admitting'}
+      1s: admito
+      1p: admitimos
+      2s: admites
+      2p: admitís
+      3s: admite
+      3p: admiten
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will admit}
+      1s: admitiré
+      1p: admitiremos
+      2s: admitirás
+      2p: admitiréis
+      3s: admitirá
+      3p: admitirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was admitting, used to admit, admitted'}
+      1s: admitía
+      1p: admitíamos
+      2s: admitías
+      2p: admitíais
+      3s: admitía
+      3p: admitían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I admitted}
+      1s: admití
+      1p: admitimos
+      2s: admitiste
+      2p: admitisteis
+      3s: admitió
+      3p: admitieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would admit}
+      1s: admitiría
+      1p: admitiríamos
+      2s: admitirías
+      2p: admitiríais
+      3s: admitiría
+      3p: admitirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have admitted}
+      1s: he admitido
+      1p: hemos admitido
+      2s: has admitido
+      2p: habéis admitido
+      3s: ha admitido
+      3p: han admitido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have admitted}
+      1s: habré admitido
+      1p: habremos admitido
+      2s: habrás admitido
+      2p: habréis admitido
+      3s: habrá admitido
+      3p: habrán admitido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had admitted}
+      1s: había admitido
+      1p: habíamos admitido
+      2s: habías admitido
+      2p: habíais admitido
+      3s: había admitido
+      3p: habían admitido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had admitted}
+      1s: hube admitido
+      1p: hubimos admitido
+      2s: hubiste admitido
+      2p: hubisteis admitido
+      3s: hubo admitido
+      3p: hubieron admitido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have admitted}
+      1s: habría admitido
+      1p: habríamos admitido
+      2s: habrías admitido
+      2p: habríais admitido
+      3s: habría admitido
+      3p: habrían admitido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I admit, am admitting'}
+      1s: admita
+      1p: admitamos
+      2s: admitas
+      2p: admitáis
+      3s: admita
+      3p: admitan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I admitted, was admitting'}
+      1s: admitiera
+      1p: admitiéramos
+      2s: admitieras
+      2p: admitierais
+      3s: admitiera
+      3p: admitieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will admit}
+      1s: admitiere
+      1p: admitiéremos
+      2s: admitieres
+      2p: admitiereis
+      3s: admitiere
+      3p: admitieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have admitted, admitted'}
+      1s: haya admitido
+      1p: hayamos admitido
+      2s: hayas admitido
+      2p: hayáis admitido
+      3s: haya admitido
+      3p: hayan admitido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have admitted}
+      1s: hubiere admitido
+      1p: hubiéremos admitido
+      2s: hubieres admitido
+      2p: hubiereis admitido
+      3s: hubiere admitido
+      3p: hubieren admitido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had admitted}
+      1s: hubiera admitido
+      1p: hubiéramos admitido
+      2s: hubieras admitido
+      2p: hubierais admitido
+      3s: hubiera admitido
+      3p: hubieran admitido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Admit! Don't admit!}
+      1s: ''
+      1p: ''
+      2s: admite
+      2p: admita
+      3s: admitid
+      3p: admitan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Admit! Don't admit!}
+      1s: ''
+      1p: ''
+      2s: no admitas
+      2p: no admita
+      3s: no admitáis
+      3p: no admitan

@@ -1,0 +1,186 @@
+exhibir:
+  infinitive: exhibir
+  gerund: exhibiendo
+  pastparticiple: exhibido
+  definitions: {en: 'to exhibit, show, display'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I exhibit, am exhibiting'}
+      1s: exhibo
+      1p: exhibimos
+      2s: exhibes
+      2p: exhibís
+      3s: exhibe
+      3p: exhiben
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will exhibit}
+      1s: exhibiré
+      1p: exhibiremos
+      2s: exhibirás
+      2p: exhibiréis
+      3s: exhibirá
+      3p: exhibirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was exhibiting, used to exhibit, exhibited'}
+      1s: exhibía
+      1p: exhibíamos
+      2s: exhibías
+      2p: exhibíais
+      3s: exhibía
+      3p: exhibían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I exhibited}
+      1s: exhibí
+      1p: exhibimos
+      2s: exhibiste
+      2p: exhibisteis
+      3s: exhibió
+      3p: exhibieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would exhibit}
+      1s: exhibiría
+      1p: exhibiríamos
+      2s: exhibirías
+      2p: exhibiríais
+      3s: exhibiría
+      3p: exhibirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have exhibited}
+      1s: he exhibido
+      1p: hemos exhibido
+      2s: has exhibido
+      2p: habéis exhibido
+      3s: ha exhibido
+      3p: han exhibido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have exhibited}
+      1s: habré exhibido
+      1p: habremos exhibido
+      2s: habrás exhibido
+      2p: habréis exhibido
+      3s: habrá exhibido
+      3p: habrán exhibido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had exhibited}
+      1s: había exhibido
+      1p: habíamos exhibido
+      2s: habías exhibido
+      2p: habíais exhibido
+      3s: había exhibido
+      3p: habían exhibido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had exhibited}
+      1s: hube exhibido
+      1p: hubimos exhibido
+      2s: hubiste exhibido
+      2p: hubisteis exhibido
+      3s: hubo exhibido
+      3p: hubieron exhibido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have exhibited}
+      1s: habría exhibido
+      1p: habríamos exhibido
+      2s: habrías exhibido
+      2p: habríais exhibido
+      3s: habría exhibido
+      3p: habrían exhibido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I exhibit, am exhibiting'}
+      1s: exhiba
+      1p: exhibamos
+      2s: exhibas
+      2p: exhibáis
+      3s: exhiba
+      3p: exhiban
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I exhibited, was exhibiting'}
+      1s: exhibiera
+      1p: exhibiéramos
+      2s: exhibieras
+      2p: exhibierais
+      3s: exhibiera
+      3p: exhibieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will exhibit}
+      1s: exhibiere
+      1p: exhibiéremos
+      2s: exhibieres
+      2p: exhibiereis
+      3s: exhibiere
+      3p: exhibieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have exhibited, exhibited'}
+      1s: haya exhibido
+      1p: hayamos exhibido
+      2s: hayas exhibido
+      2p: hayáis exhibido
+      3s: haya exhibido
+      3p: hayan exhibido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have exhibited}
+      1s: hubiere exhibido
+      1p: hubiéremos exhibido
+      2s: hubieres exhibido
+      2p: hubiereis exhibido
+      3s: hubiere exhibido
+      3p: hubieren exhibido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had exhibited}
+      1s: hubiera exhibido
+      1p: hubiéramos exhibido
+      2s: hubieras exhibido
+      2p: hubierais exhibido
+      3s: hubiera exhibido
+      3p: hubieran exhibido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Exhibit! Don't exhibit!}
+      1s: ''
+      1p: ''
+      2s: exhibe
+      2p: exhiba
+      3s: exhibid
+      3p: exhiban
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Exhibit! Don't exhibit!}
+      1s: ''
+      1p: ''
+      2s: no exhibas
+      2p: no exhiba
+      3s: no exhibáis
+      3p: no exhiban

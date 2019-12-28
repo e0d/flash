@@ -1,0 +1,186 @@
+comenzar:
+  infinitive: comenzar
+  gerund: comenzando
+  pastparticiple: comenzado
+  definitions: {en: 'to begin, start, commence'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I begin, am beginning'}
+      1s: comienzo
+      1p: comenzamos
+      2s: comienzas
+      2p: comenzáis
+      3s: comienza
+      3p: comienzan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will begin}
+      1s: comenzaré
+      1p: comenzaremos
+      2s: comenzarás
+      2p: comenzaréis
+      3s: comenzará
+      3p: comenzarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was beginning, used to begin, began'}
+      1s: comenzaba
+      1p: comenzábamos
+      2s: comenzabas
+      2p: comenzabais
+      3s: comenzaba
+      3p: comenzaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I began}
+      1s: comencé
+      1p: comenzamos
+      2s: comenzaste
+      2p: comenzasteis
+      3s: comenzó
+      3p: comenzaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would begin}
+      1s: comenzaría
+      1p: comenzaríamos
+      2s: comenzarías
+      2p: comenzaríais
+      3s: comenzaría
+      3p: comenzarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have begun}
+      1s: he comenzado
+      1p: hemos comenzado
+      2s: has comenzado
+      2p: habéis comenzado
+      3s: ha comenzado
+      3p: han comenzado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have begun}
+      1s: habré comenzado
+      1p: habremos comenzado
+      2s: habrás comenzado
+      2p: habréis comenzado
+      3s: habrá comenzado
+      3p: habrán comenzado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had begun}
+      1s: había comenzado
+      1p: habíamos comenzado
+      2s: habías comenzado
+      2p: habíais comenzado
+      3s: había comenzado
+      3p: habían comenzado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had begun}
+      1s: hube comenzado
+      1p: hubimos comenzado
+      2s: hubiste comenzado
+      2p: hubisteis comenzado
+      3s: hubo comenzado
+      3p: hubieron comenzado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have begun}
+      1s: habría comenzado
+      1p: habríamos comenzado
+      2s: habrías comenzado
+      2p: habríais comenzado
+      3s: habría comenzado
+      3p: habrían comenzado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I begin, am beginning'}
+      1s: comience
+      1p: comencemos
+      2s: comiences
+      2p: comencéis
+      3s: comience
+      3p: comiencen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I began, was beginning'}
+      1s: comenzara
+      1p: comenzáramos
+      2s: comenzaras
+      2p: comenzarais
+      3s: comenzara
+      3p: comenzaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will begin}
+      1s: comenzare
+      1p: comenzáremos
+      2s: comenzares
+      2p: comenzareis
+      3s: comenzare
+      3p: comenzaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have begun, began'}
+      1s: haya comenzado
+      1p: hayamos comenzado
+      2s: hayas comenzado
+      2p: hayáis comenzado
+      3s: haya comenzado
+      3p: hayan comenzado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have begun}
+      1s: hubiere comenzado
+      1p: hubiéremos comenzado
+      2s: hubieres comenzado
+      2p: hubiereis comenzado
+      3s: hubiere comenzado
+      3p: hubieren comenzado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had begun}
+      1s: hubiera comenzado
+      1p: hubiéramos comenzado
+      2s: hubieras comenzado
+      2p: hubierais comenzado
+      3s: hubiera comenzado
+      3p: hubieran comenzado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Begin! Don't begin!}
+      1s: ''
+      1p: ''
+      2s: comienza
+      2p: comience
+      3s: comenzad
+      3p: comiencen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Begin! Don't begin!}
+      1s: ''
+      1p: ''
+      2s: no comiences
+      2p: no comience
+      3s: no comencéis
+      3p: no comiencen

@@ -1,0 +1,186 @@
+almorzar:
+  infinitive: almorzar
+  gerund: almorzando
+  pastparticiple: almorzado
+  definitions: {en: 'to lunch, eat lunch, have lunch'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I lunch, am lunching'}
+      1s: almuerzo
+      1p: almorzamos
+      2s: almuerzas
+      2p: almorzáis
+      3s: almuerza
+      3p: almuerzan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will lunch}
+      1s: almorzaré
+      1p: almorzaremos
+      2s: almorzarás
+      2p: almorzaréis
+      3s: almorzará
+      3p: almorzarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was lunching, used to lunch, lunched'}
+      1s: almorzaba
+      1p: almorzábamos
+      2s: almorzabas
+      2p: almorzabais
+      3s: almorzaba
+      3p: almorzaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I lunched}
+      1s: almorcé
+      1p: almorzamos
+      2s: almorzaste
+      2p: almorzasteis
+      3s: almorzó
+      3p: almorzaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would lunch}
+      1s: almorzaría
+      1p: almorzaríamos
+      2s: almorzarías
+      2p: almorzaríais
+      3s: almorzaría
+      3p: almorzarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have lunched}
+      1s: he almorzado
+      1p: hemos almorzado
+      2s: has almorzado
+      2p: habéis almorzado
+      3s: ha almorzado
+      3p: han almorzado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have lunched}
+      1s: habré almorzado
+      1p: habremos almorzado
+      2s: habrás almorzado
+      2p: habréis almorzado
+      3s: habrá almorzado
+      3p: habrán almorzado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had lunched}
+      1s: había almorzado
+      1p: habíamos almorzado
+      2s: habías almorzado
+      2p: habíais almorzado
+      3s: había almorzado
+      3p: habían almorzado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had lunched}
+      1s: hube almorzado
+      1p: hubimos almorzado
+      2s: hubiste almorzado
+      2p: hubisteis almorzado
+      3s: hubo almorzado
+      3p: hubieron almorzado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have lunched}
+      1s: habría almorzado
+      1p: habríamos almorzado
+      2s: habrías almorzado
+      2p: habríais almorzado
+      3s: habría almorzado
+      3p: habrían almorzado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I lunch, am lunching'}
+      1s: almuerce
+      1p: almorcemos
+      2s: almuerces
+      2p: almorcéis
+      3s: almuerce
+      3p: almuercen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I lunched, was lunching'}
+      1s: almorzara
+      1p: almorzáramos
+      2s: almorzaras
+      2p: almorzarais
+      3s: almorzara
+      3p: almorzaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will lunch}
+      1s: almorzare
+      1p: almorzáremos
+      2s: almorzares
+      2p: almorzareis
+      3s: almorzare
+      3p: almorzaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have lunched, lunched'}
+      1s: haya almorzado
+      1p: hayamos almorzado
+      2s: hayas almorzado
+      2p: hayáis almorzado
+      3s: haya almorzado
+      3p: hayan almorzado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have lunched}
+      1s: hubiere almorzado
+      1p: hubiéremos almorzado
+      2s: hubieres almorzado
+      2p: hubiereis almorzado
+      3s: hubiere almorzado
+      3p: hubieren almorzado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had lunched}
+      1s: hubiera almorzado
+      1p: hubiéramos almorzado
+      2s: hubieras almorzado
+      2p: hubierais almorzado
+      3s: hubiera almorzado
+      3p: hubieran almorzado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: lunch! Don't lunch!}
+      1s: ''
+      1p: ''
+      2s: almuerza
+      2p: almuerce
+      3s: almorzad
+      3p: almuercen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: lunch! Don't lunch!}
+      1s: ''
+      1p: ''
+      2s: no almuerces
+      2p: no almuerce
+      3s: no almorcéis
+      3p: no almuercen

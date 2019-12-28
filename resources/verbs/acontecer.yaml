@@ -1,0 +1,186 @@
+acontecer:
+  infinitive: acontecer
+  gerund: aconteciendo
+  pastparticiple: acontecido
+  definitions: {en: 'to happen, occur, come about'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I happen, am happening'}
+      1s: acontezco
+      1p: acontecemos
+      2s: aconteces
+      2p: acontecéis
+      3s: acontece
+      3p: acontecen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will happen}
+      1s: aconteceré
+      1p: aconteceremos
+      2s: acontecerás
+      2p: aconteceréis
+      3s: acontecerá
+      3p: acontecerán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was hapening, used to happen, happened'}
+      1s: acontecía
+      1p: acontecíamos
+      2s: acontecías
+      2p: acontecíais
+      3s: acontecía
+      3p: acontecían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I happened}
+      1s: acontecí
+      1p: acontecimos
+      2s: aconteciste
+      2p: acontecisteis
+      3s: aconteció
+      3p: acontecieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would happen}
+      1s: acontecería
+      1p: aconteceríamos
+      2s: acontecerías
+      2p: aconteceríais
+      3s: acontecería
+      3p: acontecerían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have happened}
+      1s: he acontecido
+      1p: hemos acontecido
+      2s: has acontecido
+      2p: habéis acontecido
+      3s: ha acontecido
+      3p: han acontecido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have happened}
+      1s: habré acontecido
+      1p: habremos acontecido
+      2s: habrás acontecido
+      2p: habréis acontecido
+      3s: habrá acontecido
+      3p: habrán acontecido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had happened}
+      1s: había acontecido
+      1p: habíamos acontecido
+      2s: habías acontecido
+      2p: habíais acontecido
+      3s: había acontecido
+      3p: habían acontecido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had happened}
+      1s: hube acontecido
+      1p: hubimos acontecido
+      2s: hubiste acontecido
+      2p: hubisteis acontecido
+      3s: hubo acontecido
+      3p: hubieron acontecido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have happened}
+      1s: habría acontecido
+      1p: habríamos acontecido
+      2s: habrías acontecido
+      2p: habríais acontecido
+      3s: habría acontecido
+      3p: habrían acontecido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I happen, am happening'}
+      1s: acontezca
+      1p: acontezcamos
+      2s: acontezcas
+      2p: acontezcáis
+      3s: acontezca
+      3p: acontezcan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I happened, was happening'}
+      1s: aconteciera
+      1p: aconteciéramos
+      2s: acontecieras
+      2p: acontecierais
+      3s: aconteciera
+      3p: acontecieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will happen}
+      1s: aconteciere
+      1p: aconteciéremos
+      2s: acontecieres
+      2p: aconteciereis
+      3s: aconteciere
+      3p: acontecieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have happened, happened'}
+      1s: haya acontecido
+      1p: hayamos acontecido
+      2s: hayas acontecido
+      2p: hayáis acontecido
+      3s: haya acontecido
+      3p: hayan acontecido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have happened}
+      1s: hubiere acontecido
+      1p: hubiéremos acontecido
+      2s: hubieres acontecido
+      2p: hubiereis acontecido
+      3s: hubiere acontecido
+      3p: hubieren acontecido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had happened}
+      1s: hubiera acontecido
+      1p: hubiéramos acontecido
+      2s: hubieras acontecido
+      2p: hubierais acontecido
+      3s: hubiera acontecido
+      3p: hubieran acontecido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Happen! Don't happen!}
+      1s: ''
+      1p: ''
+      2s: acontece
+      2p: acontezca
+      3s: aconteced
+      3p: acontezcan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Happen! Don't happen!}
+      1s: ''
+      1p: ''
+      2s: no acontezcas
+      2p: no acontezca
+      3s: no acontezcáis
+      3p: no acontezcan

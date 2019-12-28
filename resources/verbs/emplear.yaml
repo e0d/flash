@@ -1,0 +1,186 @@
+emplear:
+  infinitive: emplear
+  gerund: empleando
+  pastparticiple: empleado
+  definitions: {en: 'to employ, hire; to use'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I employ, am employing'}
+      1s: empleo
+      1p: empleamos
+      2s: empleas
+      2p: empleáis
+      3s: emplea
+      3p: emplean
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will employ}
+      1s: emplearé
+      1p: emplearemos
+      2s: emplearás
+      2p: emplearéis
+      3s: empleará
+      3p: emplearán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was employing, used to employ, employed'}
+      1s: empleaba
+      1p: empleábamos
+      2s: empleabas
+      2p: empleabais
+      3s: empleaba
+      3p: empleaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I employed}
+      1s: empleé
+      1p: empleamos
+      2s: empleaste
+      2p: empleasteis
+      3s: empleó
+      3p: emplearon
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would employ}
+      1s: emplearía
+      1p: emplearíamos
+      2s: emplearías
+      2p: emplearíais
+      3s: emplearía
+      3p: emplearían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have employed}
+      1s: he empleado
+      1p: hemos empleado
+      2s: has empleado
+      2p: habéis empleado
+      3s: ha empleado
+      3p: han empleado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have employed}
+      1s: habré empleado
+      1p: habremos empleado
+      2s: habrás empleado
+      2p: habréis empleado
+      3s: habrá empleado
+      3p: habrán empleado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had employed}
+      1s: había empleado
+      1p: habíamos empleado
+      2s: habías empleado
+      2p: habíais empleado
+      3s: había empleado
+      3p: habían empleado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had employed}
+      1s: hube empleado
+      1p: hubimos empleado
+      2s: hubiste empleado
+      2p: hubisteis empleado
+      3s: hubo empleado
+      3p: hubieron empleado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have employed}
+      1s: habría empleado
+      1p: habríamos empleado
+      2s: habrías empleado
+      2p: habríais empleado
+      3s: habría empleado
+      3p: habrían empleado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I employ, am employing'}
+      1s: emplee
+      1p: empleemos
+      2s: emplees
+      2p: empleéis
+      3s: emplee
+      3p: empleen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I employed, was employing'}
+      1s: empleara
+      1p: empleáramos
+      2s: emplearas
+      2p: emplearais
+      3s: empleara
+      3p: emplearan
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will employ}
+      1s: empleare
+      1p: empleáremos
+      2s: empleares
+      2p: empleareis
+      3s: empleare
+      3p: emplearen
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have employed, employed'}
+      1s: haya empleado
+      1p: hayamos empleado
+      2s: hayas empleado
+      2p: hayáis empleado
+      3s: haya empleado
+      3p: hayan empleado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have employed}
+      1s: hubiere empleado
+      1p: hubiéremos empleado
+      2s: hubieres empleado
+      2p: hubiereis empleado
+      3s: hubiere empleado
+      3p: hubieren empleado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had employed}
+      1s: hubiera empleado
+      1p: hubiéramos empleado
+      2s: hubieras empleado
+      2p: hubierais empleado
+      3s: hubiera empleado
+      3p: hubieran empleado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Employ! Don't employ!}
+      1s: ''
+      1p: ''
+      2s: emplea
+      2p: emplee
+      3s: emplead
+      3p: empleen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Employ! Don't employ!}
+      1s: ''
+      1p: ''
+      2s: no emplees
+      2p: no emplee
+      3s: no empleéis
+      3p: no empleen

@@ -1,0 +1,186 @@
+simbolizar:
+  infinitive: simbolizar
+  gerund: simbolizando
+  pastparticiple: simbolizado
+  definitions: {en: 'to symbolize, represent, stand for'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I symbolize, am symbolizing'}
+      1s: simbolizo
+      1p: simbolizamos
+      2s: simbolizas
+      2p: simbolizáis
+      3s: simboliza
+      3p: simbolizan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will symbolize}
+      1s: simbolizaré
+      1p: simbolizaremos
+      2s: simbolizarás
+      2p: simbolizaréis
+      3s: simbolizará
+      3p: simbolizarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was symbolizing, used to symbolize, symbolized'}
+      1s: simbolizaba
+      1p: simbolizábamos
+      2s: simbolizabas
+      2p: simbolizabais
+      3s: simbolizaba
+      3p: simbolizaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I symbolized}
+      1s: simbolicé
+      1p: simbolizamos
+      2s: simbolizaste
+      2p: simbolizasteis
+      3s: simbolizó
+      3p: simbolizaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would symbolize}
+      1s: simbolizaría
+      1p: simbolizaríamos
+      2s: simbolizarías
+      2p: simbolizaríais
+      3s: simbolizaría
+      3p: simbolizarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have symbolized}
+      1s: he simbolizado
+      1p: hemos simbolizado
+      2s: has simbolizado
+      2p: habéis simbolizado
+      3s: ha simbolizado
+      3p: han simbolizado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have symbolized}
+      1s: habré simbolizado
+      1p: habremos simbolizado
+      2s: habrás simbolizado
+      2p: habréis simbolizado
+      3s: habrá simbolizado
+      3p: habrán simbolizado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had symbolized}
+      1s: había simbolizado
+      1p: habíamos simbolizado
+      2s: habías simbolizado
+      2p: habíais simbolizado
+      3s: había simbolizado
+      3p: habían simbolizado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had symbolized}
+      1s: hube simbolizado
+      1p: hubimos simbolizado
+      2s: hubiste simbolizado
+      2p: hubisteis simbolizado
+      3s: hubo simbolizado
+      3p: hubieron simbolizado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have symbolized}
+      1s: habría simbolizado
+      1p: habríamos simbolizado
+      2s: habrías simbolizado
+      2p: habríais simbolizado
+      3s: habría simbolizado
+      3p: habrían simbolizado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I symbolize, am symbolizing'}
+      1s: simbolice
+      1p: simbolicemos
+      2s: simbolices
+      2p: simbolicéis
+      3s: simbolice
+      3p: simbolicen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I symbolized, was symbolizing'}
+      1s: simbolizara
+      1p: simbolizáramos
+      2s: simbolizaras
+      2p: simbolizarais
+      3s: simbolizara
+      3p: simbolizaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will symbolize}
+      1s: simbolizare
+      1p: simbolizáremos
+      2s: simbolizares
+      2p: simbolizareis
+      3s: simbolizare
+      3p: simbolizaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have symbolized, symbolized'}
+      1s: haya simbolizado
+      1p: hayamos simbolizado
+      2s: hayas simbolizado
+      2p: hayáis simbolizado
+      3s: haya simbolizado
+      3p: hayan simbolizado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have symbolized}
+      1s: hubiere simbolizado
+      1p: hubiéremos simbolizado
+      2s: hubieres simbolizado
+      2p: hubiereis simbolizado
+      3s: hubiere simbolizado
+      3p: hubieren simbolizado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had symbolized}
+      1s: hubiera simbolizado
+      1p: hubiéramos simbolizado
+      2s: hubieras simbolizado
+      2p: hubierais simbolizado
+      3s: hubiera simbolizado
+      3p: hubieran simbolizado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Symbolize! Don't symbolize!}
+      1s: ''
+      1p: ''
+      2s: simboliza
+      2p: simbolice
+      3s: simbolizad
+      3p: simbolicen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Symbolize! Don't symbolize!}
+      1s: ''
+      1p: ''
+      2s: no simbolices
+      2p: no simbolice
+      3s: no simbolicéis
+      3p: no simbolicen

@@ -1,0 +1,186 @@
+caracterizar:
+  infinitive: caracterizar
+  gerund: caracterizando
+  pastparticiple: caracterizado
+  definitions: {en: to characterize}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I characterize, am characterizing'}
+      1s: caracterizo
+      1p: caracterizamos
+      2s: caracterizas
+      2p: caracterizáis
+      3s: caracteriza
+      3p: caracterizan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will characterize}
+      1s: caracterizaré
+      1p: caracterizaremos
+      2s: caracterizarás
+      2p: caracterizaréis
+      3s: caracterizará
+      3p: caracterizarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was characterizing, used to characterize, characterized'}
+      1s: caracterizaba
+      1p: caracterizábamos
+      2s: caracterizabas
+      2p: caracterizabais
+      3s: caracterizaba
+      3p: caracterizaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I characterized}
+      1s: caractericé
+      1p: caracterizamos
+      2s: caracterizaste
+      2p: caracterizasteis
+      3s: caracterizó
+      3p: caracterizaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would characterize}
+      1s: caracterizaría
+      1p: caracterizaríamos
+      2s: caracterizarías
+      2p: caracterizaríais
+      3s: caracterizaría
+      3p: caracterizarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have characterized}
+      1s: he caracterizado
+      1p: hemos caracterizado
+      2s: has caracterizado
+      2p: habéis caracterizado
+      3s: ha caracterizado
+      3p: han caracterizado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have characterized}
+      1s: habré caracterizado
+      1p: habremos caracterizado
+      2s: habrás caracterizado
+      2p: habréis caracterizado
+      3s: habrá caracterizado
+      3p: habrán caracterizado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had characterized}
+      1s: había caracterizado
+      1p: habíamos caracterizado
+      2s: habías caracterizado
+      2p: habíais caracterizado
+      3s: había caracterizado
+      3p: habían caracterizado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had characterized}
+      1s: hube caracterizado
+      1p: hubimos caracterizado
+      2s: hubiste caracterizado
+      2p: hubisteis caracterizado
+      3s: hubo caracterizado
+      3p: hubieron caracterizado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have characterized}
+      1s: habría caracterizado
+      1p: habríamos caracterizado
+      2s: habrías caracterizado
+      2p: habríais caracterizado
+      3s: habría caracterizado
+      3p: habrían caracterizado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I characterize, am characterizing'}
+      1s: caracterice
+      1p: caractericemos
+      2s: caracterices
+      2p: caractericéis
+      3s: caracterice
+      3p: caractericen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I characterized, was characterizing'}
+      1s: caracterizara
+      1p: caracterizáramos
+      2s: caracterizaras
+      2p: caracterizarais
+      3s: caracterizara
+      3p: caracterizaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will characterize}
+      1s: caracterizare
+      1p: caracterizáremos
+      2s: caracterizares
+      2p: caracterizareis
+      3s: caracterizare
+      3p: caracterizaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have characterized, characterized'}
+      1s: haya caracterizado
+      1p: hayamos caracterizado
+      2s: hayas caracterizado
+      2p: hayáis caracterizado
+      3s: haya caracterizado
+      3p: hayan caracterizado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have characterized}
+      1s: hubiere caracterizado
+      1p: hubiéremos caracterizado
+      2s: hubieres caracterizado
+      2p: hubiereis caracterizado
+      3s: hubiere caracterizado
+      3p: hubieren caracterizado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had characterized}
+      1s: hubiera caracterizado
+      1p: hubiéramos caracterizado
+      2s: hubieras caracterizado
+      2p: hubierais caracterizado
+      3s: hubiera caracterizado
+      3p: hubieran caracterizado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Characterize! Don't characterize!}
+      1s: ''
+      1p: ''
+      2s: caracteriza
+      2p: caracterice
+      3s: caracterizad
+      3p: caractericen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Characterize! Don't characterize!}
+      1s: ''
+      1p: ''
+      2s: no caracterices
+      2p: no caracterice
+      3s: no caractericéis
+      3p: no caractericen

@@ -1,0 +1,186 @@
+crucificar:
+  infinitive: crucificar
+  gerund: crucificando
+  pastparticiple: crucificado
+  definitions: {en: to crucify}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I crucify, am crucifying'}
+      1s: crucifico
+      1p: crucificamos
+      2s: crucificas
+      2p: crucificáis
+      3s: crucifica
+      3p: crucifican
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will crucify}
+      1s: crucificaré
+      1p: crucificaremos
+      2s: crucificarás
+      2p: crucificaréis
+      3s: crucificará
+      3p: crucificarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was crucifying, used to crucify, crucified'}
+      1s: crucificaba
+      1p: crucificábamos
+      2s: crucificabas
+      2p: crucificabais
+      3s: crucificaba
+      3p: crucificaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I crucified}
+      1s: crucifiqué
+      1p: crucificamos
+      2s: crucificaste
+      2p: crucificasteis
+      3s: crucificó
+      3p: crucificaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would crucify}
+      1s: crucificaría
+      1p: crucificaríamos
+      2s: crucificarías
+      2p: crucificaríais
+      3s: crucificaría
+      3p: crucificarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have crucified}
+      1s: he crucificado
+      1p: hemos crucificado
+      2s: has crucificado
+      2p: habéis crucificado
+      3s: ha crucificado
+      3p: han crucificado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have crucified}
+      1s: habré crucificado
+      1p: habremos crucificado
+      2s: habrás crucificado
+      2p: habréis crucificado
+      3s: habrá crucificado
+      3p: habrán crucificado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had crucified}
+      1s: había crucificado
+      1p: habíamos crucificado
+      2s: habías crucificado
+      2p: habíais crucificado
+      3s: había crucificado
+      3p: habían crucificado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had crucified}
+      1s: hube crucificado
+      1p: hubimos crucificado
+      2s: hubiste crucificado
+      2p: hubisteis crucificado
+      3s: hubo crucificado
+      3p: hubieron crucificado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have crucified}
+      1s: habría crucificado
+      1p: habríamos crucificado
+      2s: habrías crucificado
+      2p: habríais crucificado
+      3s: habría crucificado
+      3p: habrían crucificado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I crucify, am crucifying'}
+      1s: crucifique
+      1p: crucifiquemos
+      2s: crucifiques
+      2p: crucifiquéis
+      3s: crucifique
+      3p: crucifiquen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I crucified, was crucifying'}
+      1s: crucificara
+      1p: crucificáramos
+      2s: crucificaras
+      2p: crucificarais
+      3s: crucificara
+      3p: crucificaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will crucify}
+      1s: crucificare
+      1p: crucificáremos
+      2s: crucificares
+      2p: crucificareis
+      3s: crucificare
+      3p: crucificaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have crucified, crucified'}
+      1s: haya crucificado
+      1p: hayamos crucificado
+      2s: hayas crucificado
+      2p: hayáis crucificado
+      3s: haya crucificado
+      3p: hayan crucificado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have crucified}
+      1s: hubiere crucificado
+      1p: hubiéremos crucificado
+      2s: hubieres crucificado
+      2p: hubiereis crucificado
+      3s: hubiere crucificado
+      3p: hubieren crucificado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had crucified}
+      1s: hubiera crucificado
+      1p: hubiéramos crucificado
+      2s: hubieras crucificado
+      2p: hubierais crucificado
+      3s: hubiera crucificado
+      3p: hubieran crucificado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Crucify! Don't crucify!}
+      1s: ''
+      1p: ''
+      2s: crucifica
+      2p: crucifique
+      3s: crucificad
+      3p: crucifiquen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Crucify! Don't crucify!}
+      1s: ''
+      1p: ''
+      2s: no crucifiques
+      2p: no crucifique
+      3s: no crucifiquéis
+      3p: no crucifiquen

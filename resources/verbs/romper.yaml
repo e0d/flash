@@ -1,0 +1,186 @@
+romper:
+  infinitive: romper
+  gerund: rompiendo
+  pastparticiple: roto
+  definitions: {en: to break}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I break, am breaking'}
+      1s: rompo
+      1p: rompemos
+      2s: rompes
+      2p: rompéis
+      3s: rompe
+      3p: rompen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will break}
+      1s: romperé
+      1p: romperemos
+      2s: romperás
+      2p: romperéis
+      3s: romperá
+      3p: romperán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was breaking, used to break, broke'}
+      1s: rompía
+      1p: rompíamos
+      2s: rompías
+      2p: rompíais
+      3s: rompía
+      3p: rompían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I broke}
+      1s: rompí
+      1p: rompimos
+      2s: rompiste
+      2p: rompisteis
+      3s: rompió
+      3p: rompieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would break}
+      1s: rompería
+      1p: romperíamos
+      2s: romperías
+      2p: romperíais
+      3s: rompería
+      3p: romperían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have broken}
+      1s: he roto
+      1p: hemos roto
+      2s: has roto
+      2p: habéis roto
+      3s: ha roto
+      3p: han roto
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have broken}
+      1s: habré roto
+      1p: habremos roto
+      2s: habrás roto
+      2p: habréis roto
+      3s: habrá roto
+      3p: habrán roto
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had broken}
+      1s: había roto
+      1p: habíamos roto
+      2s: habías roto
+      2p: habíais roto
+      3s: había roto
+      3p: habían roto
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had broken}
+      1s: hube roto
+      1p: hubimos roto
+      2s: hubiste roto
+      2p: hubisteis roto
+      3s: hubo roto
+      3p: hubieron roto
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have broken}
+      1s: habría roto
+      1p: habríamos roto
+      2s: habrías roto
+      2p: habríais roto
+      3s: habría roto
+      3p: habrían roto
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I break, am breaking'}
+      1s: rompa
+      1p: rompamos
+      2s: rompas
+      2p: rompáis
+      3s: rompa
+      3p: rompan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I broke, was breaking'}
+      1s: rompiera
+      1p: rompiéramos
+      2s: rompieras
+      2p: rompierais
+      3s: rompiera
+      3p: rompieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will break}
+      1s: rompiere
+      1p: rompiéremos
+      2s: rompieres
+      2p: rompiereis
+      3s: rompiere
+      3p: rompieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have broken, broke'}
+      1s: haya roto
+      1p: hayamos roto
+      2s: hayas roto
+      2p: hayáis roto
+      3s: haya roto
+      3p: hayan roto
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have broken}
+      1s: hubiere roto
+      1p: hubiéremos roto
+      2s: hubieres roto
+      2p: hubiereis roto
+      3s: hubiere roto
+      3p: hubieren roto
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had broken}
+      1s: hubiera roto
+      1p: hubiéramos roto
+      2s: hubieras roto
+      2p: hubierais roto
+      3s: hubiera roto
+      3p: hubieran roto
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Break! Don't break!}
+      1s: ''
+      1p: ''
+      2s: rompe
+      2p: rompa
+      3s: romped
+      3p: rompan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Break! Don't break!}
+      1s: ''
+      1p: ''
+      2s: no rompas
+      2p: no rompa
+      3s: no rompáis
+      3p: no rompan

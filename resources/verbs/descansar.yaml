@@ -1,0 +1,186 @@
+descansar:
+  infinitive: descansar
+  gerund: descansando
+  pastparticiple: descansado
+  definitions: {en: 'to rest, take a rest; to support, lean [on'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I rest, am resting'}
+      1s: descanso
+      1p: descansamos
+      2s: descansas
+      2p: descansáis
+      3s: descansa
+      3p: descansan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will rest}
+      1s: descansaré
+      1p: descansaremos
+      2s: descansarás
+      2p: descansaréis
+      3s: descansará
+      3p: descansarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was resting, used to rest, rested'}
+      1s: descansaba
+      1p: descansábamos
+      2s: descansabas
+      2p: descansabais
+      3s: descansaba
+      3p: descansaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I rested}
+      1s: descansé
+      1p: descansamos
+      2s: descansaste
+      2p: descansasteis
+      3s: descansó
+      3p: descansaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would rest}
+      1s: descansaría
+      1p: descansaríamos
+      2s: descansarías
+      2p: descansaríais
+      3s: descansaría
+      3p: descansarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have rested}
+      1s: he descansado
+      1p: hemos descansado
+      2s: has descansado
+      2p: habéis descansado
+      3s: ha descansado
+      3p: han descansado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have rested}
+      1s: habré descansado
+      1p: habremos descansado
+      2s: habrás descansado
+      2p: habréis descansado
+      3s: habrá descansado
+      3p: habrán descansado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had rested}
+      1s: había descansado
+      1p: habíamos descansado
+      2s: habías descansado
+      2p: habíais descansado
+      3s: había descansado
+      3p: habían descansado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had rested}
+      1s: hube descansado
+      1p: hubimos descansado
+      2s: hubiste descansado
+      2p: hubisteis descansado
+      3s: hubo descansado
+      3p: hubieron descansado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have rested}
+      1s: habría descansado
+      1p: habríamos descansado
+      2s: habrías descansado
+      2p: habríais descansado
+      3s: habría descansado
+      3p: habrían descansado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I rest, am resting'}
+      1s: descanse
+      1p: descansemos
+      2s: descanses
+      2p: descanséis
+      3s: descanse
+      3p: descansen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I rested, was resting'}
+      1s: descansara
+      1p: descansáramos
+      2s: descansaras
+      2p: descansarais
+      3s: descansara
+      3p: descansaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will rest}
+      1s: descansare
+      1p: descansáremos
+      2s: descansares
+      2p: descansareis
+      3s: descansare
+      3p: descansaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have rested, rested'}
+      1s: haya descansado
+      1p: hayamos descansado
+      2s: hayas descansado
+      2p: hayáis descansado
+      3s: haya descansado
+      3p: hayan descansado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have rested}
+      1s: hubiere descansado
+      1p: hubiéremos descansado
+      2s: hubieres descansado
+      2p: hubiereis descansado
+      3s: hubiere descansado
+      3p: hubieren descansado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had rested}
+      1s: hubiera descansado
+      1p: hubiéramos descansado
+      2s: hubieras descansado
+      2p: hubierais descansado
+      3s: hubiera descansado
+      3p: hubieran descansado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Rest! Don't rest!}
+      1s: ''
+      1p: ''
+      2s: descansa
+      2p: descanse
+      3s: descansad
+      3p: descansen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Rest! Don't rest!}
+      1s: ''
+      1p: ''
+      2s: no descanses
+      2p: no descanse
+      3s: no descanséis
+      3p: no descansen

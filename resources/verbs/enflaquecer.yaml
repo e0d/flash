@@ -1,0 +1,186 @@
+enflaquecer:
+  infinitive: enflaquecer
+  gerund: enflaqueciendo
+  pastparticiple: enflaquecido
+  definitions: {en: 'to make thin, make weak, weaken'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I make thin, am making thin'}
+      1s: enflaquezco
+      1p: enflaquecemos
+      2s: enflaqueces
+      2p: enflaquecéis
+      3s: enflaquece
+      3p: enflaquecen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will make thin}
+      1s: enflaqueceré
+      1p: enflaqueceremos
+      2s: enflaquecerás
+      2p: enflaqueceréis
+      3s: enflaquecerá
+      3p: enflaquecerán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was making thin, used to make thin, made thin'}
+      1s: enflaquecía
+      1p: enflaquecíamos
+      2s: enflaquecías
+      2p: enflaquecíais
+      3s: enflaquecía
+      3p: enflaquecían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I made thin}
+      1s: enflaquecí
+      1p: enflaquecimos
+      2s: enflaqueciste
+      2p: enflaquecisteis
+      3s: enflaqueció
+      3p: enflaquecieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would make thin}
+      1s: enflaquecería
+      1p: enflaqueceríamos
+      2s: enflaquecerías
+      2p: enflaqueceríais
+      3s: enflaquecería
+      3p: enflaquecerían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have made thin}
+      1s: he enflaquecido
+      1p: hemos enflaquecido
+      2s: has enflaquecido
+      2p: habéis enflaquecido
+      3s: ha enflaquecido
+      3p: han enflaquecido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have made thin}
+      1s: habré enflaquecido
+      1p: habremos enflaquecido
+      2s: habrás enflaquecido
+      2p: habréis enflaquecido
+      3s: habrá enflaquecido
+      3p: habrán enflaquecido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had made thin}
+      1s: había enflaquecido
+      1p: habíamos enflaquecido
+      2s: habías enflaquecido
+      2p: habíais enflaquecido
+      3s: había enflaquecido
+      3p: habían enflaquecido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had made thin}
+      1s: hube enflaquecido
+      1p: hubimos enflaquecido
+      2s: hubiste enflaquecido
+      2p: hubisteis enflaquecido
+      3s: hubo enflaquecido
+      3p: hubieron enflaquecido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have made thin}
+      1s: habría enflaquecido
+      1p: habríamos enflaquecido
+      2s: habrías enflaquecido
+      2p: habríais enflaquecido
+      3s: habría enflaquecido
+      3p: habrían enflaquecido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I make thin, am making thin'}
+      1s: enflaquezca
+      1p: enflaquezcamos
+      2s: enflaquezcas
+      2p: enflaquezcáis
+      3s: enflaquezca
+      3p: enflaquezcan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I made thin, was making thin'}
+      1s: enflaqueciera
+      1p: enflaqueciéramos
+      2s: enflaquecieras
+      2p: enflaquecierais
+      3s: enflaqueciera
+      3p: enflaquecieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will make thin}
+      1s: enflaqueciere
+      1p: enflaqueciéremos
+      2s: enflaquecieres
+      2p: enflaqueciereis
+      3s: enflaqueciere
+      3p: enflaquecieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have made thin, made thin'}
+      1s: haya enflaquecido
+      1p: hayamos enflaquecido
+      2s: hayas enflaquecido
+      2p: hayáis enflaquecido
+      3s: haya enflaquecido
+      3p: hayan enflaquecido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have made thin}
+      1s: hubiere enflaquecido
+      1p: hubiéremos enflaquecido
+      2s: hubieres enflaquecido
+      2p: hubiereis enflaquecido
+      3s: hubiere enflaquecido
+      3p: hubieren enflaquecido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had made thin}
+      1s: hubiera enflaquecido
+      1p: hubiéramos enflaquecido
+      2s: hubieras enflaquecido
+      2p: hubierais enflaquecido
+      3s: hubiera enflaquecido
+      3p: hubieran enflaquecido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Make thin! Don't make thin!}
+      1s: ''
+      1p: ''
+      2s: enflaquece
+      2p: enflaquezca
+      3s: enflaqueced
+      3p: enflaquezcan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Make thin! Don't make thin!}
+      1s: ''
+      1p: ''
+      2s: no enflaquezcas
+      2p: no enflaquezca
+      3s: no enflaquezcáis
+      3p: no enflaquezcan

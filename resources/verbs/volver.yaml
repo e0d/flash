@@ -1,0 +1,186 @@
+volver:
+  infinitive: volver
+  gerund: volviendo
+  pastparticiple: vuelto
+  definitions: {en: 'to return, go back'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I return, am returning'}
+      1s: vuelvo
+      1p: volvemos
+      2s: vuelves
+      2p: volvéis
+      3s: vuelve
+      3p: vuelven
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will return}
+      1s: volveré
+      1p: volveremos
+      2s: volverás
+      2p: volveréis
+      3s: volverá
+      3p: volverán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was returning, used to return, returned'}
+      1s: volvía
+      1p: volvíamos
+      2s: volvías
+      2p: volvíais
+      3s: volvía
+      3p: volvían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I returned}
+      1s: volví
+      1p: volvimos
+      2s: volviste
+      2p: volvisteis
+      3s: volvió
+      3p: volvieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would return}
+      1s: volvería
+      1p: volveríamos
+      2s: volverías
+      2p: volveríais
+      3s: volvería
+      3p: volverían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have returned}
+      1s: he vuelto
+      1p: hemos vuelto
+      2s: has vuelto
+      2p: habéis vuelto
+      3s: ha vuelto
+      3p: han vuelto
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have returned}
+      1s: habré vuelto
+      1p: habremos vuelto
+      2s: habrás vuelto
+      2p: habréis vuelto
+      3s: habrá vuelto
+      3p: habrán vuelto
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had returned}
+      1s: había vuelto
+      1p: habíamos vuelto
+      2s: habías vuelto
+      2p: habíais vuelto
+      3s: había vuelto
+      3p: habían vuelto
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had returned}
+      1s: hube vuelto
+      1p: hubimos vuelto
+      2s: hubiste vuelto
+      2p: hubisteis vuelto
+      3s: hubo vuelto
+      3p: hubieron vuelto
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have returned}
+      1s: habría vuelto
+      1p: habríamos vuelto
+      2s: habrías vuelto
+      2p: habríais vuelto
+      3s: habría vuelto
+      3p: habrían vuelto
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I return, am returning'}
+      1s: vuelva
+      1p: volvamos
+      2s: vuelvas
+      2p: volváis
+      3s: vuelva
+      3p: vuelvan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I returned, was returning'}
+      1s: volviera
+      1p: volviéramos
+      2s: volvieras
+      2p: volvierais
+      3s: volviera
+      3p: volvieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will return}
+      1s: volviere
+      1p: volviéremos
+      2s: volvieres
+      2p: volviereis
+      3s: volviere
+      3p: volvieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have returned, returned'}
+      1s: haya vuelto
+      1p: hayamos vuelto
+      2s: hayas vuelto
+      2p: hayáis vuelto
+      3s: haya vuelto
+      3p: hayan vuelto
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have returned}
+      1s: hubiere vuelto
+      1p: hubiéremos vuelto
+      2s: hubieres vuelto
+      2p: hubiereis vuelto
+      3s: hubiere vuelto
+      3p: hubieren vuelto
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had returned}
+      1s: hubiera vuelto
+      1p: hubiéramos vuelto
+      2s: hubieras vuelto
+      2p: hubierais vuelto
+      3s: hubiera vuelto
+      3p: hubieran vuelto
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Return! Don't return!}
+      1s: ''
+      1p: ''
+      2s: vuelve
+      2p: vuelva
+      3s: volved
+      3p: vuelvan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Return! Don't return!}
+      1s: ''
+      1p: ''
+      2s: no vuelvas
+      2p: no vuelva
+      3s: no volváis
+      3p: no vuelvan

@@ -1,0 +1,186 @@
+graduar:
+  infinitive: graduar
+  gerund: graduando
+  pastparticiple: graduado
+  definitions: {en: to graduate}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I graduate, am graduating'}
+      1s: gradúo
+      1p: graduamos
+      2s: gradúas
+      2p: graduáis
+      3s: gradúa
+      3p: gradúan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will graduate}
+      1s: graduaré
+      1p: graduaremos
+      2s: graduarás
+      2p: graduaréis
+      3s: graduará
+      3p: graduarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was graduating, used to graduate, graduated'}
+      1s: graduaba
+      1p: graduábamos
+      2s: graduabas
+      2p: graduabais
+      3s: graduaba
+      3p: graduaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I graduated}
+      1s: gradué
+      1p: graduamos
+      2s: graduaste
+      2p: graduasteis
+      3s: graduó
+      3p: graduaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would graduate}
+      1s: graduaría
+      1p: graduaríamos
+      2s: graduarías
+      2p: graduaríais
+      3s: graduaría
+      3p: graduarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have graduated}
+      1s: he graduado
+      1p: hemos graduado
+      2s: has graduado
+      2p: habéis graduado
+      3s: ha graduado
+      3p: han graduado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have graduated}
+      1s: habré graduado
+      1p: habremos graduado
+      2s: habrás graduado
+      2p: habréis graduado
+      3s: habrá graduado
+      3p: habrán graduado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had graduated}
+      1s: había graduado
+      1p: habíamos graduado
+      2s: habías graduado
+      2p: habíais graduado
+      3s: había graduado
+      3p: habían graduado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had graduated}
+      1s: hube graduado
+      1p: hubimos graduado
+      2s: hubiste graduado
+      2p: hubisteis graduado
+      3s: hubo graduado
+      3p: hubieron graduado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have graduated}
+      1s: habría graduado
+      1p: habríamos graduado
+      2s: habrías graduado
+      2p: habríais graduado
+      3s: habría graduado
+      3p: habrían graduado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I graduate, am graduating'}
+      1s: gradúe
+      1p: graduemos
+      2s: gradúes
+      2p: graduéis
+      3s: gradúe
+      3p: gradúen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I graduated, was graduating'}
+      1s: graduara
+      1p: graduáramos
+      2s: graduaras
+      2p: graduarais
+      3s: graduara
+      3p: graduaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will graduate}
+      1s: graduare
+      1p: graduáremos
+      2s: graduares
+      2p: graduareis
+      3s: graduare
+      3p: graduaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have graduated, graduated'}
+      1s: haya graduado
+      1p: hayamos graduado
+      2s: hayas graduado
+      2p: hayáis graduado
+      3s: haya graduado
+      3p: hayan graduado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have graduated}
+      1s: hubiere graduado
+      1p: hubiéremos graduado
+      2s: hubieres graduado
+      2p: hubiereis graduado
+      3s: hubiere graduado
+      3p: hubieren graduado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had graduated}
+      1s: hubiera graduado
+      1p: hubiéramos graduado
+      2s: hubieras graduado
+      2p: hubierais graduado
+      3s: hubiera graduado
+      3p: hubieran graduado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Graduate! Don't graduate!}
+      1s: ''
+      1p: ''
+      2s: gradúa
+      2p: gradúe
+      3s: graduad
+      3p: gradúen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Graduate! Don't graduate!}
+      1s: ''
+      1p: ''
+      2s: no gradúes
+      2p: no gradúe
+      3s: no gradúéis
+      3p: no gradúen

@@ -1,0 +1,186 @@
+torcer:
+  infinitive: torcer
+  gerund: torciendo
+  pastparticiple: torcido
+  definitions: {en: 'to twist, bend, warp, wring, sprain'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I twist, am twisting'}
+      1s: tuerzo
+      1p: torcemos
+      2s: tuerces
+      2p: torcéis
+      3s: tuerce
+      3p: tuercen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will twist}
+      1s: torceré
+      1p: torceremos
+      2s: torcerás
+      2p: torceréis
+      3s: torcerá
+      3p: torcerán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was twisting, used to twist, twisted'}
+      1s: torcía
+      1p: torcíamos
+      2s: torcías
+      2p: torcíais
+      3s: torcía
+      3p: torcían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I twisted}
+      1s: torcí
+      1p: torcimos
+      2s: torciste
+      2p: torcisteis
+      3s: torció
+      3p: torcieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would twist}
+      1s: torcería
+      1p: torceríamos
+      2s: torcerías
+      2p: torceríais
+      3s: torcería
+      3p: torcerían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have twisted}
+      1s: he torcido
+      1p: hemos torcido
+      2s: has torcido
+      2p: habéis torcido
+      3s: ha torcido
+      3p: han torcido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have twisted}
+      1s: habré torcido
+      1p: habremos torcido
+      2s: habrás torcido
+      2p: habréis torcido
+      3s: habrá torcido
+      3p: habrán torcido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had twisted}
+      1s: había torcido
+      1p: habíamos torcido
+      2s: habías torcido
+      2p: habíais torcido
+      3s: había torcido
+      3p: habían torcido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had twisted}
+      1s: hube torcido
+      1p: hubimos torcido
+      2s: hubiste torcido
+      2p: hubisteis torcido
+      3s: hubo torcido
+      3p: hubieron torcido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have twisted}
+      1s: habría torcido
+      1p: habríamos torcido
+      2s: habrías torcido
+      2p: habríais torcido
+      3s: habría torcido
+      3p: habrían torcido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I twist, am twisting'}
+      1s: tuerza
+      1p: torzamos
+      2s: tuerzas
+      2p: torzáis
+      3s: tuerza
+      3p: tuerzan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I twisted, was twisting'}
+      1s: torciera
+      1p: torciéramos
+      2s: torcieras
+      2p: torcierais
+      3s: torciera
+      3p: torcieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will twist}
+      1s: torciere
+      1p: torciéremos
+      2s: torcieres
+      2p: torciereis
+      3s: torciere
+      3p: torcieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have twisted, twisted'}
+      1s: haya torcido
+      1p: hayamos torcido
+      2s: hayas torcido
+      2p: hayáis torcido
+      3s: haya torcido
+      3p: hayan torcido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have twisted}
+      1s: hubiere torcido
+      1p: hubiéremos torcido
+      2s: hubieres torcido
+      2p: hubiereis torcido
+      3s: hubiere torcido
+      3p: hubieren torcido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had twisted}
+      1s: hubiera torcido
+      1p: hubiéramos torcido
+      2s: hubieras torcido
+      2p: hubierais torcido
+      3s: hubiera torcido
+      3p: hubieran torcido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Twist! Don't twist!}
+      1s: ''
+      1p: ''
+      2s: tuerce
+      2p: tuerza
+      3s: torced
+      3p: tuerzan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Twist! Don't twist!}
+      1s: ''
+      1p: ''
+      2s: no tuerzas
+      2p: no tuerza
+      3s: no torzáis
+      3p: no tuerzan

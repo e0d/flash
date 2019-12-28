@@ -1,0 +1,186 @@
+explotar:
+  infinitive: explotar
+  gerund: explotando
+  pastparticiple: explotado
+  definitions: {en: to exploit; to explode}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I exploit, am exploiting'}
+      1s: exploto
+      1p: explotamos
+      2s: explotas
+      2p: explotáis
+      3s: explota
+      3p: explotan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will exploit}
+      1s: explotaré
+      1p: explotaremos
+      2s: explotarás
+      2p: explotaréis
+      3s: explotará
+      3p: explotarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was exploiting, used to exploit, exploited'}
+      1s: explotaba
+      1p: explotábamos
+      2s: explotabas
+      2p: explotabais
+      3s: explotaba
+      3p: explotaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I exploited}
+      1s: exploté
+      1p: explotamos
+      2s: explotaste
+      2p: explotasteis
+      3s: explotó
+      3p: explotaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would exploit}
+      1s: explotaría
+      1p: explotaríamos
+      2s: explotarías
+      2p: explotaríais
+      3s: explotaría
+      3p: explotarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have exploited}
+      1s: he explotado
+      1p: hemos explotado
+      2s: has explotado
+      2p: habéis explotado
+      3s: ha explotado
+      3p: han explotado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have exploited}
+      1s: habré explotado
+      1p: habremos explotado
+      2s: habrás explotado
+      2p: habréis explotado
+      3s: habrá explotado
+      3p: habrán explotado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had exploited}
+      1s: había explotado
+      1p: habíamos explotado
+      2s: habías explotado
+      2p: habíais explotado
+      3s: había explotado
+      3p: habían explotado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had exploited}
+      1s: hube explotado
+      1p: hubimos explotado
+      2s: hubiste explotado
+      2p: hubisteis explotado
+      3s: hubo explotado
+      3p: hubieron explotado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have exploited}
+      1s: habría explotado
+      1p: habríamos explotado
+      2s: habrías explotado
+      2p: habríais explotado
+      3s: habría explotado
+      3p: habrían explotado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I exploit, am exploiting'}
+      1s: explote
+      1p: explotemos
+      2s: explotes
+      2p: explotéis
+      3s: explote
+      3p: exploten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I exploited, was exploiting'}
+      1s: explotara
+      1p: explotáramos
+      2s: explotaras
+      2p: explotarais
+      3s: explotara
+      3p: explotaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will exploit}
+      1s: explotare
+      1p: explotáremos
+      2s: explotares
+      2p: explotareis
+      3s: explotare
+      3p: explotaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have exploited, exploited'}
+      1s: haya explotado
+      1p: hayamos explotado
+      2s: hayas explotado
+      2p: hayáis explotado
+      3s: haya explotado
+      3p: hayan explotado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have exploited}
+      1s: hubiere explotado
+      1p: hubiéremos explotado
+      2s: hubieres explotado
+      2p: hubiereis explotado
+      3s: hubiere explotado
+      3p: hubieren explotado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had exploited}
+      1s: hubiera explotado
+      1p: hubiéramos explotado
+      2s: hubieras explotado
+      2p: hubierais explotado
+      3s: hubiera explotado
+      3p: hubieran explotado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: exploit! Don't exploit!}
+      1s: ''
+      1p: ''
+      2s: explota
+      2p: explote
+      3s: explotad
+      3p: exploten
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: exploit! Don't exploit!}
+      1s: ''
+      1p: ''
+      2s: no explotes
+      2p: no explote
+      3s: no explotéis
+      3p: no exploten

@@ -1,0 +1,186 @@
+aprender:
+  infinitive: aprender
+  gerund: aprendiendo
+  pastparticiple: aprendido
+  definitions: {en: to learn}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I learn, am learning'}
+      1s: aprendo
+      1p: aprendemos
+      2s: aprendes
+      2p: aprendéis
+      3s: aprende
+      3p: aprenden
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will learn}
+      1s: aprenderé
+      1p: aprenderemos
+      2s: aprenderás
+      2p: aprenderéis
+      3s: aprenderá
+      3p: aprenderán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was learning, used to learn, learned'}
+      1s: aprendía
+      1p: aprendíamos
+      2s: aprendías
+      2p: aprendíais
+      3s: aprendía
+      3p: aprendían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I learned}
+      1s: aprendí
+      1p: aprendimos
+      2s: aprendiste
+      2p: aprendisteis
+      3s: aprendió
+      3p: aprendieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would learn}
+      1s: aprendería
+      1p: aprenderíamos
+      2s: aprenderías
+      2p: aprenderíais
+      3s: aprendería
+      3p: aprenderían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have learned}
+      1s: he aprendido
+      1p: hemos aprendido
+      2s: has aprendido
+      2p: habéis aprendido
+      3s: ha aprendido
+      3p: han aprendido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have learned}
+      1s: habré aprendido
+      1p: habremos aprendido
+      2s: habrás aprendido
+      2p: habréis aprendido
+      3s: habrá aprendido
+      3p: habrán aprendido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had learned}
+      1s: había aprendido
+      1p: habíamos aprendido
+      2s: habías aprendido
+      2p: habíais aprendido
+      3s: había aprendido
+      3p: habían aprendido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had learned}
+      1s: hube aprendido
+      1p: hubimos aprendido
+      2s: hubiste aprendido
+      2p: hubisteis aprendido
+      3s: hubo aprendido
+      3p: hubieron aprendido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have learned}
+      1s: habría aprendido
+      1p: habríamos aprendido
+      2s: habrías aprendido
+      2p: habríais aprendido
+      3s: habría aprendido
+      3p: habrían aprendido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I learn, am learning'}
+      1s: aprenda
+      1p: aprendamos
+      2s: aprendas
+      2p: aprendáis
+      3s: aprenda
+      3p: aprendan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I learned, was learning'}
+      1s: aprendiera
+      1p: aprendiéramos
+      2s: aprendieras
+      2p: aprendierais
+      3s: aprendiera
+      3p: aprendieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will learn}
+      1s: aprendiere
+      1p: aprendiéremos
+      2s: aprendieres
+      2p: aprendiereis
+      3s: aprendiere
+      3p: aprendieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have learned, learned'}
+      1s: haya aprendido
+      1p: hayamos aprendido
+      2s: hayas aprendido
+      2p: hayáis aprendido
+      3s: haya aprendido
+      3p: hayan aprendido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have learned}
+      1s: hubiere aprendido
+      1p: hubiéremos aprendido
+      2s: hubieres aprendido
+      2p: hubiereis aprendido
+      3s: hubiere aprendido
+      3p: hubieren aprendido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had learned}
+      1s: hubiera aprendido
+      1p: hubiéramos aprendido
+      2s: hubieras aprendido
+      2p: hubierais aprendido
+      3s: hubiera aprendido
+      3p: hubieran aprendido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Learn! Don't learn!}
+      1s: ''
+      1p: ''
+      2s: aprende
+      2p: aprenda
+      3s: aprended
+      3p: aprendan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Learn! Don't learn!}
+      1s: ''
+      1p: ''
+      2s: no aprendas
+      2p: no aprenda
+      3s: no aprendáis
+      3p: no aprendan

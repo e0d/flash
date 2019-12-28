@@ -1,0 +1,186 @@
+reparar:
+  infinitive: reparar
+  gerund: reparando
+  pastparticiple: reparado
+  definitions: {en: 'to repair, mend, restore'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I repair, am repairing'}
+      1s: reparo
+      1p: reparamos
+      2s: reparas
+      2p: reparáis
+      3s: repara
+      3p: reparan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will repair}
+      1s: repararé
+      1p: repararemos
+      2s: repararás
+      2p: repararéis
+      3s: reparará
+      3p: repararán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was repairing, used to repair, repaired'}
+      1s: reparaba
+      1p: reparábamos
+      2s: reparabas
+      2p: reparabais
+      3s: reparaba
+      3p: reparaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I repaired}
+      1s: reparé
+      1p: reparamos
+      2s: reparaste
+      2p: reparasteis
+      3s: reparó
+      3p: repararon
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would repair}
+      1s: repararía
+      1p: repararíamos
+      2s: repararías
+      2p: repararíais
+      3s: repararía
+      3p: repararían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have repaired}
+      1s: he reparado
+      1p: hemos reparado
+      2s: has reparado
+      2p: habéis reparado
+      3s: ha reparado
+      3p: han reparado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have repaired}
+      1s: habré reparado
+      1p: habremos reparado
+      2s: habrás reparado
+      2p: habréis reparado
+      3s: habrá reparado
+      3p: habrán reparado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had repaired}
+      1s: había reparado
+      1p: habíamos reparado
+      2s: habías reparado
+      2p: habíais reparado
+      3s: había reparado
+      3p: habían reparado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had repaired}
+      1s: hube reparado
+      1p: hubimos reparado
+      2s: hubiste reparado
+      2p: hubisteis reparado
+      3s: hubo reparado
+      3p: hubieron reparado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have repaired}
+      1s: habría reparado
+      1p: habríamos reparado
+      2s: habrías reparado
+      2p: habríais reparado
+      3s: habría reparado
+      3p: habrían reparado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I repair, am repairing'}
+      1s: repare
+      1p: reparemos
+      2s: repares
+      2p: reparéis
+      3s: repare
+      3p: reparen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I repaired, was repairing'}
+      1s: reparara
+      1p: reparáramos
+      2s: repararas
+      2p: repararais
+      3s: reparara
+      3p: repararan
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will repair}
+      1s: reparare
+      1p: reparáremos
+      2s: reparares
+      2p: reparareis
+      3s: reparare
+      3p: repararen
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have repaired, repaired'}
+      1s: haya reparado
+      1p: hayamos reparado
+      2s: hayas reparado
+      2p: hayáis reparado
+      3s: haya reparado
+      3p: hayan reparado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have repaired}
+      1s: hubiere reparado
+      1p: hubiéremos reparado
+      2s: hubieres reparado
+      2p: hubiereis reparado
+      3s: hubiere reparado
+      3p: hubieren reparado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had repaired}
+      1s: hubiera reparado
+      1p: hubiéramos reparado
+      2s: hubieras reparado
+      2p: hubierais reparado
+      3s: hubiera reparado
+      3p: hubieran reparado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Repair! Don't repair!}
+      1s: ''
+      1p: ''
+      2s: repara
+      2p: repare
+      3s: reparad
+      3p: reparen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Repair! Don't repair!}
+      1s: ''
+      1p: ''
+      2s: no repares
+      2p: no repare
+      3s: no reparéis
+      3p: no reparen

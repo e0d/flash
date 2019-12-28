@@ -1,0 +1,186 @@
+doblar:
+  infinitive: doblar
+  gerund: doblando
+  pastparticiple: doblado
+  definitions: {en: 'to double; to turn [a corner, to the right, etc.]; to fold, crease'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I double, am doubling'}
+      1s: doblo
+      1p: doblamos
+      2s: doblas
+      2p: dobláis
+      3s: dobla
+      3p: doblan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will double}
+      1s: doblaré
+      1p: doblaremos
+      2s: doblarás
+      2p: doblaréis
+      3s: doblará
+      3p: doblarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was doubling, used to double, doubled'}
+      1s: doblaba
+      1p: doblábamos
+      2s: doblabas
+      2p: doblabais
+      3s: doblaba
+      3p: doblaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I doubled}
+      1s: doblé
+      1p: doblamos
+      2s: doblaste
+      2p: doblasteis
+      3s: dobló
+      3p: doblaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would double}
+      1s: doblaría
+      1p: doblaríamos
+      2s: doblarías
+      2p: doblaríais
+      3s: doblaría
+      3p: doblarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have doubled}
+      1s: he doblado
+      1p: hemos doblado
+      2s: has doblado
+      2p: habéis doblado
+      3s: ha doblado
+      3p: han doblado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have doubled}
+      1s: habré doblado
+      1p: habremos doblado
+      2s: habrás doblado
+      2p: habréis doblado
+      3s: habrá doblado
+      3p: habrán doblado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had doubled}
+      1s: había doblado
+      1p: habíamos doblado
+      2s: habías doblado
+      2p: habíais doblado
+      3s: había doblado
+      3p: habían doblado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had doubled}
+      1s: hube doblado
+      1p: hubimos doblado
+      2s: hubiste doblado
+      2p: hubisteis doblado
+      3s: hubo doblado
+      3p: hubieron doblado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have doubled}
+      1s: habría doblado
+      1p: habríamos doblado
+      2s: habrías doblado
+      2p: habríais doblado
+      3s: habría doblado
+      3p: habrían doblado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I double, am doubling'}
+      1s: doble
+      1p: doblemos
+      2s: dobles
+      2p: dobléis
+      3s: doble
+      3p: doblen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I doubled, was doubling'}
+      1s: doblara
+      1p: dobláramos
+      2s: doblaras
+      2p: doblarais
+      3s: doblara
+      3p: doblaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will double}
+      1s: doblare
+      1p: dobláremos
+      2s: doblares
+      2p: doblareis
+      3s: doblare
+      3p: doblaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have doubled, doubled'}
+      1s: haya doblado
+      1p: hayamos doblado
+      2s: hayas doblado
+      2p: hayáis doblado
+      3s: haya doblado
+      3p: hayan doblado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have doubled}
+      1s: hubiere doblado
+      1p: hubiéremos doblado
+      2s: hubieres doblado
+      2p: hubiereis doblado
+      3s: hubiere doblado
+      3p: hubieren doblado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had doubled}
+      1s: hubiera doblado
+      1p: hubiéramos doblado
+      2s: hubieras doblado
+      2p: hubierais doblado
+      3s: hubiera doblado
+      3p: hubieran doblado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Double! Don't double!}
+      1s: ''
+      1p: ''
+      2s: dobla
+      2p: doble
+      3s: doblad
+      3p: doblen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Double! Don't double!}
+      1s: ''
+      1p: ''
+      2s: no dobles
+      2p: no doble
+      3s: no dobléis
+      3p: no doblen

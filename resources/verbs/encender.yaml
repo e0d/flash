@@ -1,0 +1,186 @@
+encender:
+  infinitive: encender
+  gerund: encendiendo
+  pastparticiple: encendido
+  definitions: {en: 'to burn, light, turn on'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I burn, am burning'}
+      1s: enciendo
+      1p: encendemos
+      2s: enciendes
+      2p: encendéis
+      3s: enciende
+      3p: encienden
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will burn}
+      1s: encenderé
+      1p: encenderemos
+      2s: encenderás
+      2p: encenderéis
+      3s: encenderá
+      3p: encenderán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was burning, used to burn, burnt'}
+      1s: encendía
+      1p: encendíamos
+      2s: encendías
+      2p: encendíais
+      3s: encendía
+      3p: encendían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I burnt}
+      1s: encendí
+      1p: encendimos
+      2s: encendiste
+      2p: encendisteis
+      3s: encendió
+      3p: encendieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would burn}
+      1s: encendería
+      1p: encenderíamos
+      2s: encenderías
+      2p: encenderíais
+      3s: encendería
+      3p: encenderían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have burnt}
+      1s: he encendido
+      1p: hemos encendido
+      2s: has encendido
+      2p: habéis encendido
+      3s: ha encendido
+      3p: han encendido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have burnt}
+      1s: habré encendido
+      1p: habremos encendido
+      2s: habrás encendido
+      2p: habréis encendido
+      3s: habrá encendido
+      3p: habrán encendido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had burnt}
+      1s: había encendido
+      1p: habíamos encendido
+      2s: habías encendido
+      2p: habíais encendido
+      3s: había encendido
+      3p: habían encendido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had burnt}
+      1s: hube encendido
+      1p: hubimos encendido
+      2s: hubiste encendido
+      2p: hubisteis encendido
+      3s: hubo encendido
+      3p: hubieron encendido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have burnt}
+      1s: habría encendido
+      1p: habríamos encendido
+      2s: habrías encendido
+      2p: habríais encendido
+      3s: habría encendido
+      3p: habrían encendido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I burn, am burning'}
+      1s: encienda
+      1p: encendamos
+      2s: enciendas
+      2p: encendáis
+      3s: encienda
+      3p: enciendan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I burnt, was burning'}
+      1s: encendiera
+      1p: encendiéramos
+      2s: encendieras
+      2p: encendierais
+      3s: encendiera
+      3p: encendieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will burn}
+      1s: encendiere
+      1p: encendiéremos
+      2s: encendieres
+      2p: encendiereis
+      3s: encendiere
+      3p: encendieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have burnt, burnt'}
+      1s: haya encendido
+      1p: hayamos encendido
+      2s: hayas encendido
+      2p: hayáis encendido
+      3s: haya encendido
+      3p: hayan encendido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have burnt}
+      1s: hubiere encendido
+      1p: hubiéremos encendido
+      2s: hubieres encendido
+      2p: hubiereis encendido
+      3s: hubiere encendido
+      3p: hubieren encendido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had burnt}
+      1s: hubiera encendido
+      1p: hubiéramos encendido
+      2s: hubieras encendido
+      2p: hubierais encendido
+      3s: hubiera encendido
+      3p: hubieran encendido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Burn! Don't burn!}
+      1s: ''
+      1p: ''
+      2s: enciende
+      2p: encienda
+      3s: encended
+      3p: enciendan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Burn! Don't burn!}
+      1s: ''
+      1p: ''
+      2s: no enciendas
+      2p: no encienda
+      3s: no encendáis
+      3p: no enciendan

@@ -1,0 +1,186 @@
+parecer:
+  infinitive: parecer
+  gerund: pareciendo
+  pastparticiple: parecido
+  definitions: {en: 'to seem, appear'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I seem, am seeming'}
+      1s: parezco
+      1p: parecemos
+      2s: pareces
+      2p: parecéis
+      3s: parece
+      3p: parecen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will seem}
+      1s: pareceré
+      1p: pareceremos
+      2s: parecerás
+      2p: pareceréis
+      3s: parecerá
+      3p: parecerán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was seeming, used to seem, seemed'}
+      1s: parecía
+      1p: parecíamos
+      2s: parecías
+      2p: parecíais
+      3s: parecía
+      3p: parecían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I seemed}
+      1s: parecí
+      1p: parecimos
+      2s: pareciste
+      2p: parecisteis
+      3s: pareció
+      3p: parecieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would seem}
+      1s: parecería
+      1p: pareceríamos
+      2s: parecerías
+      2p: pareceríais
+      3s: parecería
+      3p: parecerían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have seemed}
+      1s: he parecido
+      1p: hemos parecido
+      2s: has parecido
+      2p: habéis parecido
+      3s: ha parecido
+      3p: han parecido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have seemed}
+      1s: habré parecido
+      1p: habremos parecido
+      2s: habrás parecido
+      2p: habréis parecido
+      3s: habrá parecido
+      3p: habrán parecido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had seemed}
+      1s: había parecido
+      1p: habíamos parecido
+      2s: habías parecido
+      2p: habíais parecido
+      3s: había parecido
+      3p: habían parecido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had seemed}
+      1s: hube parecido
+      1p: hubimos parecido
+      2s: hubiste parecido
+      2p: hubisteis parecido
+      3s: hubo parecido
+      3p: hubieron parecido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have seemed}
+      1s: habría parecido
+      1p: habríamos parecido
+      2s: habrías parecido
+      2p: habríais parecido
+      3s: habría parecido
+      3p: habrían parecido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I seem, am seeming'}
+      1s: parezca
+      1p: parezcamos
+      2s: parezcas
+      2p: parezcáis
+      3s: parezca
+      3p: parezcan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I seemed, was seeming'}
+      1s: pareciera
+      1p: pareciéramos
+      2s: parecieras
+      2p: parecierais
+      3s: pareciera
+      3p: parecieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will seem}
+      1s: pareciere
+      1p: pareciéremos
+      2s: parecieres
+      2p: pareciereis
+      3s: pareciere
+      3p: parecieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have seemed, seemed'}
+      1s: haya parecido
+      1p: hayamos parecido
+      2s: hayas parecido
+      2p: hayáis parecido
+      3s: haya parecido
+      3p: hayan parecido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have seemed}
+      1s: hubiere parecido
+      1p: hubiéremos parecido
+      2s: hubieres parecido
+      2p: hubiereis parecido
+      3s: hubiere parecido
+      3p: hubieren parecido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had seemed}
+      1s: hubiera parecido
+      1p: hubiéramos parecido
+      2s: hubieras parecido
+      2p: hubierais parecido
+      3s: hubiera parecido
+      3p: hubieran parecido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Seem! Don't seem!}
+      1s: ''
+      1p: ''
+      2s: parece
+      2p: parezca
+      3s: pareced
+      3p: parezcan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Seem! Don't seem!}
+      1s: ''
+      1p: ''
+      2s: no parezcas
+      2p: no parezca
+      3s: no parezcáis
+      3p: no parezcan

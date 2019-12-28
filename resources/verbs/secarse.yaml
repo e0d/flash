@@ -1,0 +1,186 @@
+secarse:
+  infinitive: secarse
+  gerund: secándose
+  pastparticiple: secado
+  definitions: {en: 'to dry, dry off, dry up'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I dry, am drying'}
+      1s: me seco
+      1p: nos secamos
+      2s: te secas
+      2p: os secáis
+      3s: se seca
+      3p: se secan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will dry}
+      1s: me secaré
+      1p: nos secaremos
+      2s: te secarás
+      2p: os secaréis
+      3s: se secará
+      3p: se secarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was drying, used to dry, dried'}
+      1s: me secaba
+      1p: nos secábamos
+      2s: te secabas
+      2p: os secabais
+      3s: se secaba
+      3p: se secaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I dried}
+      1s: me sequé
+      1p: nos secamos
+      2s: te secaste
+      2p: secasteis
+      3s: se secó
+      3p: se secaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would dry}
+      1s: me secaría
+      1p: nos secaríamos
+      2s: te secarías
+      2p: os secaríais
+      3s: se secaría
+      3p: se secarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have dried}
+      1s: me he secado
+      1p: nos hemos secado
+      2s: te has secado
+      2p: os habéis secado
+      3s: se ha secado
+      3p: se han secado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have dried}
+      1s: me habré secado
+      1p: nos habremos secado
+      2s: te habrás secado
+      2p: os habréis secado
+      3s: se habrá secado
+      3p: se habrán secado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had dried}
+      1s: me había secado
+      1p: nos habíamos secado
+      2s: te habías secado
+      2p: os habíais secado
+      3s: se había secado
+      3p: se habían secado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had dried}
+      1s: me hube secado
+      1p: nos hubimos secado
+      2s: te hubiste secado
+      2p: os hubisteis secado
+      3s: se hubo secado
+      3p: se hubieron secado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have dried}
+      1s: me habría secado
+      1p: nos habríamos secado
+      2s: te habrías secado
+      2p: os habríais secado
+      3s: se habría secado
+      3p: se habrían secado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I dry, am drying'}
+      1s: me seque
+      1p: nos sequemos
+      2s: te seques
+      2p: os sequéis
+      3s: se seque
+      3p: se sequen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I dried, was drying'}
+      1s: me secara
+      1p: nos secáramos
+      2s: te secaras
+      2p: os secarais
+      3s: se secara
+      3p: se secaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will dry}
+      1s: me secare
+      1p: nos secáremos
+      2s: te secares
+      2p: os secareis
+      3s: se secare
+      3p: se secaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have dried, dried'}
+      1s: me haya secado
+      1p: nos hayamos secado
+      2s: te hayas secado
+      2p: os hayáis secado
+      3s: se haya secado
+      3p: se hayan secado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have dried}
+      1s: me hubiere secado
+      1p: nos hubiéremos secado
+      2s: te hubieres secado
+      2p: os hubiereis secado
+      3s: se hubiere secado
+      3p: se hubieren secado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had dried}
+      1s: me hubiera secado
+      1p: nos hubiéramos secado
+      2s: te hubieras secado
+      2p: os hubierais secado
+      3s: se hubiera secado
+      3p: se hubieran secado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Dry! Don't dry!}
+      1s: ''
+      1p: ''
+      2s: equivócate
+      2p: equivóquese
+      3s: secaos
+      3p: equivóquense
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Dry! Don't dry!}
+      1s: ''
+      1p: ''
+      2s: no te seques
+      2p: no se seque
+      3s: no os sequéis
+      3p: no se sequen

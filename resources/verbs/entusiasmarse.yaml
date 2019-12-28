@@ -1,0 +1,186 @@
+entusiasmarse:
+  infinitive: entusiasmarse
+  gerund: entusiasmándose
+  pastparticiple: entusiasmado
+  definitions: {en: 'to get excited, become excited [filled with excitement or enthusiasm]'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I get excited, am getting excited'}
+      1s: me entusiasmo
+      1p: nos entusiasmamos
+      2s: te entusiasmas
+      2p: os entusiasmáis
+      3s: se entusiasma
+      3p: se entusiasman
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will get excited}
+      1s: me entusiasmaré
+      1p: nos entusiasmaremos
+      2s: te entusiasmarás
+      2p: os entusiasmaréis
+      3s: se entusiasmará
+      3p: se entusiasmarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was getting excited, used to get excited, got excited'}
+      1s: me entusiasmaba
+      1p: nos entusiasmábamos
+      2s: te entusiasmabas
+      2p: os entusiasmabais
+      3s: se entusiasmaba
+      3p: se entusiasmaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I got excited}
+      1s: me entusiasmé
+      1p: nos entusiasmamos
+      2s: te entusiasmaste
+      2p: os entusiasmasteis
+      3s: se entusiasmó
+      3p: se entusiasmaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would get excited}
+      1s: me entusiasmaría
+      1p: nos entusiasmaríamos
+      2s: te entusiasmarías
+      2p: os entusiasmaríais
+      3s: se entusiasmaría
+      3p: se entusiasmarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have gotten excited}
+      1s: me he entusiasmado
+      1p: nos hemos entusiasmado
+      2s: te has entusiasmado
+      2p: os habéis entusiasmado
+      3s: se ha entusiasmado
+      3p: se han entusiasmado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have gotten excited}
+      1s: me habré entusiasmado
+      1p: nos habremos entusiasmado
+      2s: te habrás entusiasmado
+      2p: os habréis entusiasmado
+      3s: se habrá entusiasmado
+      3p: se habrán entusiasmado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had gotten excited}
+      1s: me había entusiasmado
+      1p: nos habíamos entusiasmado
+      2s: te habías entusiasmado
+      2p: os habíais entusiasmado
+      3s: se había entusiasmado
+      3p: se habían entusiasmado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had gotten excited}
+      1s: me hube entusiasmado
+      1p: nos hubimos entusiasmado
+      2s: te hubiste entusiasmado
+      2p: os hubisteis entusiasmado
+      3s: se hubo entusiasmado
+      3p: se hubieron entusiasmado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have gotten excited}
+      1s: me habría entusiasmado
+      1p: nos habríamos entusiasmado
+      2s: te habrías entusiasmado
+      2p: os habríais entusiasmado
+      3s: se habría entusiasmado
+      3p: se habrían entusiasmado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I get excited, am getting excited'}
+      1s: me entusiasme
+      1p: nos entusiasmemos
+      2s: te entusiasmes
+      2p: os entusiasméis
+      3s: se entusiasme
+      3p: se entusiasmen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I got excited, was getting excited'}
+      1s: me entusiasmara
+      1p: nos entusiasmáramos
+      2s: te entusiasmaras
+      2p: os entusiasmarais
+      3s: se entusiasmara
+      3p: se entusiasmaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will get excited}
+      1s: me entusiasmare
+      1p: nos entusiasmáremos
+      2s: te entusiasmares
+      2p: os entusiasmareis
+      3s: se entusiasmare
+      3p: se entusiasmaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have gotten excited, got excited'}
+      1s: me haya entusiasmado
+      1p: nos hayamos entusiasmado
+      2s: te hayas entusiasmado
+      2p: os hayáis entusiasmado
+      3s: se haya entusiasmado
+      3p: se hayan entusiasmado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have gotten excited}
+      1s: me hubiere entusiasmado
+      1p: nos hubiéremos entusiasmado
+      2s: te hubieres entusiasmado
+      2p: os hubiereis entusiasmado
+      3s: se hubiere entusiasmado
+      3p: se hubieren entusiasmado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had gotten excited}
+      1s: me hubiera entusiasmado
+      1p: nos hubiéramos entusiasmado
+      2s: te hubieras entusiasmado
+      2p: os hubierais entusiasmado
+      3s: se hubiera entusiasmado
+      3p: se hubieran entusiasmado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Get excited! Don't get excited!}
+      1s: ''
+      1p: ''
+      2s: entusiásmate
+      2p: entusiásmese
+      3s: entusiasmaos
+      3p: entusiásmense
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Get excited! Don't get excited!}
+      1s: ''
+      1p: ''
+      2s: no te entusiasmes
+      2p: no se entusiasme
+      3s: no os entusiasméis
+      3p: no se entusiasmen

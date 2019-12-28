@@ -1,0 +1,186 @@
+conocer:
+  infinitive: conocer
+  gerund: conociendo
+  pastparticiple: conocido
+  definitions: {en: to know}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I know}
+      1s: conozco
+      1p: conocemos
+      2s: conoces
+      2p: conocéis
+      3s: conoce
+      3p: conocen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will know}
+      1s: conoceré
+      1p: conoceremos
+      2s: conocerás
+      2p: conoceréis
+      3s: conocerá
+      3p: conocerán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I used to know, knew'}
+      1s: conocía
+      1p: conocíamos
+      2s: conocías
+      2p: conocíais
+      3s: conocía
+      3p: conocían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I knew}
+      1s: conocí
+      1p: conocimos
+      2s: conociste
+      2p: conocisteis
+      3s: conoció
+      3p: conocieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would know}
+      1s: conocería
+      1p: conoceríamos
+      2s: conocerías
+      2p: conoceríais
+      3s: conocería
+      3p: conocerían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have known}
+      1s: he conocido
+      1p: hemos conocido
+      2s: has conocido
+      2p: habéis conocido
+      3s: ha conocido
+      3p: han conocido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have known}
+      1s: habré conocido
+      1p: habremos conocido
+      2s: habrás conocido
+      2p: habréis conocido
+      3s: habrá conocido
+      3p: habrán conocido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had known}
+      1s: había conocido
+      1p: habíamos conocido
+      2s: habías conocido
+      2p: habíais conocido
+      3s: había conocido
+      3p: habían conocido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had known}
+      1s: hube conocido
+      1p: hubimos conocido
+      2s: hubiste conocido
+      2p: hubisteis conocido
+      3s: hubo conocido
+      3p: hubieron conocido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have known}
+      1s: habría conocido
+      1p: habríamos conocido
+      2s: habrías conocido
+      2p: habríais conocido
+      3s: habría conocido
+      3p: habrían conocido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I know}
+      1s: conozca
+      1p: conozcamos
+      2s: conozcas
+      2p: conozcáis
+      3s: conozca
+      3p: conozcan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I knew, was knowing'}
+      1s: conociera
+      1p: conociéramos
+      2s: conocieras
+      2p: conocierais
+      3s: conociera
+      3p: conocieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will know}
+      1s: conociere
+      1p: conociéremos
+      2s: conocieres
+      2p: conociereis
+      3s: conociere
+      3p: conocieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have known, knew'}
+      1s: haya conocido
+      1p: hayamos conocido
+      2s: hayas conocido
+      2p: hayáis conocido
+      3s: haya conocido
+      3p: hayan conocido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have known}
+      1s: hubiere conocido
+      1p: hubiéremos conocido
+      2s: hubieres conocido
+      2p: hubiereis conocido
+      3s: hubiere conocido
+      3p: hubieren conocido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had known}
+      1s: hubiera conocido
+      1p: hubiéramos conocido
+      2s: hubieras conocido
+      2p: hubierais conocido
+      3s: hubiera conocido
+      3p: hubieran conocido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Know! Don't know!}
+      1s: ''
+      1p: ''
+      2s: conoce
+      2p: conozca
+      3s: conoced
+      3p: conozcan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Know! Don't know!}
+      1s: ''
+      1p: ''
+      2s: no conozcas
+      2p: no conozca
+      3s: no conozcáis
+      3p: no conozcan

@@ -1,0 +1,186 @@
+apostar:
+  infinitive: apostar
+  gerund: apostando
+  pastparticiple: apostado
+  definitions: {en: 'to bet, wager'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I bet, am betting'}
+      1s: apuesto
+      1p: apostamos
+      2s: apuestas
+      2p: apostáis
+      3s: apuesta
+      3p: apuestan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will bet}
+      1s: apostaré
+      1p: apostaremos
+      2s: apostarás
+      2p: apostaréis
+      3s: apostará
+      3p: apostarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was betting, used to bet, bet'}
+      1s: apostaba
+      1p: apostábamos
+      2s: apostabas
+      2p: apostabais
+      3s: apostaba
+      3p: apostaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I bet}
+      1s: aposté
+      1p: apostamos
+      2s: apostaste
+      2p: apostasteis
+      3s: apostó
+      3p: apostaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would bet}
+      1s: apostaría
+      1p: apostaríamos
+      2s: apostarías
+      2p: apostaríais
+      3s: apostaría
+      3p: apostarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have bet}
+      1s: he apostado
+      1p: hemos apostado
+      2s: has apostado
+      2p: habéis apostado
+      3s: ha apostado
+      3p: han apostado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have bet}
+      1s: habré apostado
+      1p: habremos apostado
+      2s: habrás apostado
+      2p: habréis apostado
+      3s: habrá apostado
+      3p: habrán apostado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had bet}
+      1s: había apostado
+      1p: habíamos apostado
+      2s: habías apostado
+      2p: habíais apostado
+      3s: había apostado
+      3p: habían apostado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had bet}
+      1s: hube apostado
+      1p: hubimos apostado
+      2s: hubiste apostado
+      2p: hubisteis apostado
+      3s: hubo apostado
+      3p: hubieron apostado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have bet}
+      1s: habría apostado
+      1p: habríamos apostado
+      2s: habrías apostado
+      2p: habríais apostado
+      3s: habría apostado
+      3p: habrían apostado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I bet, am betting'}
+      1s: apueste
+      1p: apostemos
+      2s: apuestes
+      2p: apostéis
+      3s: apueste
+      3p: apuesten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I bet, was betting'}
+      1s: apostara
+      1p: apostáramos
+      2s: apostaras
+      2p: apostarais
+      3s: apostara
+      3p: apostaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will bet}
+      1s: apostare
+      1p: apostáremos
+      2s: apostares
+      2p: apostareis
+      3s: apostare
+      3p: apostaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have bet, bet'}
+      1s: haya apostado
+      1p: hayamos apostado
+      2s: hayas apostado
+      2p: hayáis apostado
+      3s: haya apostado
+      3p: hayan apostado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have bet}
+      1s: hubiere apostado
+      1p: hubiéremos apostado
+      2s: hubieres apostado
+      2p: hubiereis apostado
+      3s: hubiere apostado
+      3p: hubieren apostado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had bet}
+      1s: hubiera apostado
+      1p: hubiéramos apostado
+      2s: hubieras apostado
+      2p: hubierais apostado
+      3s: hubiera apostado
+      3p: hubieran apostado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Bet! Don't bet!}
+      1s: ''
+      1p: ''
+      2s: apuesta
+      2p: apueste
+      3s: apostad
+      3p: apuesten
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Bet! Don't bet!}
+      1s: ''
+      1p: ''
+      2s: no apuestes
+      2p: no apueste
+      3s: no apostéis
+      3p: no apuesten

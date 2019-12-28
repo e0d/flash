@@ -1,0 +1,186 @@
+acostumbrarse:
+  infinitive: acostumbrarse
+  gerund: acostumbrándose
+  pastparticiple: acostumbrado
+  definitions: {en: 'to get used to, get accustomed to'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I get used to, am getting used to'}
+      1s: me acostumbro
+      1p: nos acostumbramos
+      2s: te acostumbras
+      2p: os acostumbráis
+      3s: se acostumbra
+      3p: se acostumbran
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will get used to}
+      1s: me acostumbraré
+      1p: nos acostumbraremos
+      2s: te acostumbrarás
+      2p: os acostumbraréis
+      3s: se acostumbrará
+      3p: se acostumbrarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was getting used to, used to get used to, got used to'}
+      1s: me acostumbraba
+      1p: nos acostumbrábamos
+      2s: te acostumbrabas
+      2p: os acostumbrabais
+      3s: se acostumbraba
+      3p: se acostumbraban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I got used to}
+      1s: me acostumbré
+      1p: nos acostumbramos
+      2s: te acostumbraste
+      2p: os acostumbrasteis
+      3s: se acostumbró
+      3p: se acostumbraron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would get used to}
+      1s: me acostumbraría
+      1p: nos acostumbraríamos
+      2s: te acostumbrarías
+      2p: os acostumbraríais
+      3s: se acostumbraría
+      3p: se acostumbrarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have gotten used to}
+      1s: me he acostumbrado
+      1p: nos hemos acostumbrado
+      2s: te has acostumbrado
+      2p: os habéis acostumbrado
+      3s: se ha acostumbrado
+      3p: se han acostumbrado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have gotten used to}
+      1s: me habré acostumbrado
+      1p: nos habremos acostumbrado
+      2s: te habrás acostumbrado
+      2p: os habréis acostumbrado
+      3s: se habrá acostumbrado
+      3p: se habrán acostumbrado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had gotten used to}
+      1s: me había acostumbrado
+      1p: nos habíamos acostumbrado
+      2s: te habías acostumbrado
+      2p: os habíais acostumbrado
+      3s: se había acostumbrado
+      3p: se habían acostumbrado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had gotten used to}
+      1s: me hube acostumbrado
+      1p: nos hubimos acostumbrado
+      2s: te hubiste acostumbrado
+      2p: os hubisteis acostumbrado
+      3s: se hubo acostumbrado
+      3p: se hubieron acostumbrado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have gotten used to}
+      1s: me habría acostumbrado
+      1p: nos habríamos acostumbrado
+      2s: te habrías acostumbrado
+      2p: os habríais acostumbrado
+      3s: se habría acostumbrado
+      3p: se habrían acostumbrado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I get used to, am getting used to'}
+      1s: me acostumbre
+      1p: nos acostumbremos
+      2s: te acostumbres
+      2p: os acostumbréis
+      3s: se acostumbre
+      3p: se acostumbren
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I got used to, was getting used to'}
+      1s: me acostumbrara
+      1p: nos acostumbráramos
+      2s: te acostumbraras
+      2p: os acostumbrarais
+      3s: se acostumbrara
+      3p: se acostumbraran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will get used to}
+      1s: me acostumbrare
+      1p: nos acostumbráremos
+      2s: te acostumbrares
+      2p: os acostumbrareis
+      3s: se acostumbrare
+      3p: se acostumbraren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have gotten used to, got used to'}
+      1s: me haya acostumbrado
+      1p: nos hayamos acostumbrado
+      2s: te hayas acostumbrado
+      2p: os hayáis acostumbrado
+      3s: se haya acostumbrado
+      3p: se hayan acostumbrado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have gotten used to}
+      1s: me hubiere acostumbrado
+      1p: nos hubiéremos acostumbrado
+      2s: te hubieres acostumbrado
+      2p: os hubiereis acostumbrado
+      3s: se hubiere acostumbrado
+      3p: se hubieren acostumbrado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had gotten used to}
+      1s: me hubiera acostumbrado
+      1p: nos hubiéramos acostumbrado
+      2s: te hubieras acostumbrado
+      2p: os hubierais acostumbrado
+      3s: se hubiera acostumbrado
+      3p: se hubieran acostumbrado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: get used to! Don't get used to!}
+      1s: ''
+      1p: ''
+      2s: acostúmbrate
+      2p: acostúmbrese
+      3s: acostumbraos
+      3p: acostúmbrense
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: get used to! Don't get used to!}
+      1s: ''
+      1p: ''
+      2s: no te acostumbres
+      2p: no se acostumbre
+      3s: no os acostumbréis
+      3p: no se acostumbren

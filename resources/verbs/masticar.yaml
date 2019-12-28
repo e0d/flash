@@ -1,0 +1,186 @@
+masticar:
+  infinitive: masticar
+  gerund: masticando
+  pastparticiple: masticado
+  definitions: {en: to chew}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I chew, am chewing'}
+      1s: mastico
+      1p: masticamos
+      2s: masticas
+      2p: masticáis
+      3s: mastica
+      3p: mastican
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will chew}
+      1s: masticaré
+      1p: masticaremos
+      2s: masticarás
+      2p: masticaréis
+      3s: masticará
+      3p: masticarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was chewing, used to chew, chewed'}
+      1s: masticaba
+      1p: masticábamos
+      2s: masticabas
+      2p: masticabais
+      3s: masticaba
+      3p: masticaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I chewed}
+      1s: mastiqué
+      1p: masticamos
+      2s: masticaste
+      2p: masticasteis
+      3s: masticó
+      3p: masticaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would chew}
+      1s: masticaría
+      1p: masticaríamos
+      2s: masticarías
+      2p: masticaríais
+      3s: masticaría
+      3p: masticarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have chewed}
+      1s: he masticado
+      1p: hemos masticado
+      2s: has masticado
+      2p: habéis masticado
+      3s: ha masticado
+      3p: han masticado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have chewed}
+      1s: habré masticado
+      1p: habremos masticado
+      2s: habrás masticado
+      2p: habréis masticado
+      3s: habrá masticado
+      3p: habrán masticado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had chewed}
+      1s: había masticado
+      1p: habíamos masticado
+      2s: habías masticado
+      2p: habíais masticado
+      3s: había masticado
+      3p: habían masticado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had chewed}
+      1s: hube masticado
+      1p: hubimos masticado
+      2s: hubiste masticado
+      2p: hubisteis masticado
+      3s: hubo masticado
+      3p: hubieron masticado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have chewed}
+      1s: habría masticado
+      1p: habríamos masticado
+      2s: habrías masticado
+      2p: habríais masticado
+      3s: habría masticado
+      3p: habrían masticado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I chew, am chewing'}
+      1s: mastique
+      1p: mastiquemos
+      2s: mastiques
+      2p: mastiquéis
+      3s: mastique
+      3p: mastiquen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I chewed, was chewing'}
+      1s: masticara
+      1p: masticáramos
+      2s: masticaras
+      2p: masticarais
+      3s: masticara
+      3p: masticaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will chew}
+      1s: masticare
+      1p: masticáremos
+      2s: masticares
+      2p: masticareis
+      3s: masticare
+      3p: masticaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have chewed, chewed'}
+      1s: haya masticado
+      1p: hayamos masticado
+      2s: hayas masticado
+      2p: hayáis masticado
+      3s: haya masticado
+      3p: hayan masticado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have chewed}
+      1s: hubiere masticado
+      1p: hubiéremos masticado
+      2s: hubieres masticado
+      2p: hubiereis masticado
+      3s: hubiere masticado
+      3p: hubieren masticado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had chewed}
+      1s: hubiera masticado
+      1p: hubiéramos masticado
+      2s: hubieras masticado
+      2p: hubierais masticado
+      3s: hubiera masticado
+      3p: hubieran masticado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Chew! Don't chew!}
+      1s: ''
+      1p: ''
+      2s: mastica
+      2p: mastique
+      3s: masticad
+      3p: mastiquen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Chew! Don't chew!}
+      1s: ''
+      1p: ''
+      2s: no mastiques
+      2p: no mastique
+      3s: no mastiquéis
+      3p: no mastiquen

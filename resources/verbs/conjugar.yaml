@@ -1,0 +1,186 @@
+conjugar:
+  infinitive: conjugar
+  gerund: conjugando
+  pastparticiple: conjugado
+  definitions: {en: to conjugate}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I conjugate, am conjugating'}
+      1s: conjugo
+      1p: conjugamos
+      2s: conjugas
+      2p: conjugáis
+      3s: conjuga
+      3p: conjugan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will conjugate}
+      1s: conjugaré
+      1p: conjugaremos
+      2s: conjugarás
+      2p: conjugaréis
+      3s: conjugará
+      3p: conjugarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was conjugating, used to conjugate, conjugated'}
+      1s: conjugaba
+      1p: conjugábamos
+      2s: conjugabas
+      2p: conjugabais
+      3s: conjugaba
+      3p: conjugaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I conjugated}
+      1s: conjugué
+      1p: conjugamos
+      2s: conjugaste
+      2p: conjugasteis
+      3s: conjugó
+      3p: conjugaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would conjugate}
+      1s: conjugaría
+      1p: conjugaríamos
+      2s: conjugarías
+      2p: conjugaríais
+      3s: conjugaría
+      3p: conjugarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have conjugated}
+      1s: he conjugado
+      1p: hemos conjugado
+      2s: has conjugado
+      2p: habéis conjugado
+      3s: ha conjugado
+      3p: han conjugado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have conjugated}
+      1s: habré conjugado
+      1p: habremos conjugado
+      2s: habrás conjugado
+      2p: habréis conjugado
+      3s: habrá conjugado
+      3p: habrán conjugado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had conjugated}
+      1s: había conjugado
+      1p: habíamos conjugado
+      2s: habías conjugado
+      2p: habíais conjugado
+      3s: había conjugado
+      3p: habían conjugado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had conjugated}
+      1s: hube conjugado
+      1p: hubimos conjugado
+      2s: hubiste conjugado
+      2p: hubisteis conjugado
+      3s: hubo conjugado
+      3p: hubieron conjugado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have conjugated}
+      1s: habría conjugado
+      1p: habríamos conjugado
+      2s: habrías conjugado
+      2p: habríais conjugado
+      3s: habría conjugado
+      3p: habrían conjugado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I conjugate, am conjugating'}
+      1s: conjugue
+      1p: conjuguemos
+      2s: conjugues
+      2p: conjuguéis
+      3s: conjugue
+      3p: conjuguen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I conjugated, was conjugating'}
+      1s: conjugara
+      1p: conjugáramos
+      2s: conjugaras
+      2p: conjugarais
+      3s: conjugara
+      3p: conjugaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will conjugate}
+      1s: conjugare
+      1p: conjugáremos
+      2s: conjugares
+      2p: conjugareis
+      3s: conjugare
+      3p: conjugaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have conjugated, conjugated'}
+      1s: haya conjugado
+      1p: hayamos conjugado
+      2s: hayas conjugado
+      2p: hayáis conjugado
+      3s: haya conjugado
+      3p: hayan conjugado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have conjugated}
+      1s: hubiere conjugado
+      1p: hubiéremos conjugado
+      2s: hubieres conjugado
+      2p: hubiereis conjugado
+      3s: hubiere conjugado
+      3p: hubieren conjugado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had conjugated}
+      1s: hubiera conjugado
+      1p: hubiéramos conjugado
+      2s: hubieras conjugado
+      2p: hubierais conjugado
+      3s: hubiera conjugado
+      3p: hubieran conjugado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Conjugate! Don't conjugate!}
+      1s: ''
+      1p: ''
+      2s: conjuga
+      2p: conjugue
+      3s: conjugad
+      3p: conjuguen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Conjugate! Don't conjugate!}
+      1s: ''
+      1p: ''
+      2s: no conjugues
+      2p: no conjugue
+      3s: no conjuguéis
+      3p: no conjuguen

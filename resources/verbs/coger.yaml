@@ -1,0 +1,186 @@
+coger:
+  infinitive: coger
+  gerund: cogiendo
+  pastparticiple: cogido
+  definitions: {en: 'to catch, grasp, take hold of'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I catch, am catching'}
+      1s: cojo
+      1p: cogemos
+      2s: coges
+      2p: cogéis
+      3s: coge
+      3p: cogen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will catch}
+      1s: cogeré
+      1p: cogeremos
+      2s: cogerás
+      2p: cogeréis
+      3s: cogerá
+      3p: cogerán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was catching, used to catch, caught'}
+      1s: cogía
+      1p: cogíamos
+      2s: cogías
+      2p: cogíais
+      3s: cogía
+      3p: cogían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I caught}
+      1s: cogí
+      1p: cogimos
+      2s: cogiste
+      2p: cogisteis
+      3s: cogió
+      3p: cogieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would catch}
+      1s: cogería
+      1p: cogeríamos
+      2s: cogerías
+      2p: cogeríais
+      3s: cogería
+      3p: cogerían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have caught}
+      1s: he cogido
+      1p: hemos cogido
+      2s: has cogido
+      2p: habéis cogido
+      3s: ha cogido
+      3p: han cogido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have caught}
+      1s: habré cogido
+      1p: habremos cogido
+      2s: habrás cogido
+      2p: habréis cogido
+      3s: habrá cogido
+      3p: habrán cogido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had caught}
+      1s: había cogido
+      1p: habíamos cogido
+      2s: habías cogido
+      2p: habíais cogido
+      3s: había cogido
+      3p: habían cogido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had caught}
+      1s: hube cogido
+      1p: hubimos cogido
+      2s: hubiste cogido
+      2p: hubisteis cogido
+      3s: hubo cogido
+      3p: hubieron cogido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have caught}
+      1s: habría cogido
+      1p: habríamos cogido
+      2s: habrías cogido
+      2p: habríais cogido
+      3s: habría cogido
+      3p: habrían cogido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I catch, am catching'}
+      1s: coja
+      1p: cojamos
+      2s: cojas
+      2p: cojáis
+      3s: coja
+      3p: cojan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I caught, was catching'}
+      1s: cogiera
+      1p: cogiéramos
+      2s: cogieras
+      2p: cogierais
+      3s: cogiera
+      3p: cogieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will catch}
+      1s: cogiere
+      1p: cogiéremos
+      2s: cogieres
+      2p: cogiereis
+      3s: cogiere
+      3p: cogieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have caught, caught'}
+      1s: haya cogido
+      1p: hayamos cogido
+      2s: hayas cogido
+      2p: hayáis cogido
+      3s: haya cogido
+      3p: hayan cogido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have caught}
+      1s: hubiere cogido
+      1p: hubiéremos cogido
+      2s: hubieres cogido
+      2p: hubiereis cogido
+      3s: hubiere cogido
+      3p: hubieren cogido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had caught}
+      1s: hubiera cogido
+      1p: hubiéramos cogido
+      2s: hubieras cogido
+      2p: hubierais cogido
+      3s: hubiera cogido
+      3p: hubieran cogido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Catch! Don't catch!}
+      1s: ''
+      1p: ''
+      2s: coge
+      2p: coja
+      3s: coged
+      3p: cojan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Catch! Don't catch!}
+      1s: ''
+      1p: ''
+      2s: no cojas
+      2p: no coja
+      3s: no cojáis
+      3p: no cojan

@@ -1,0 +1,186 @@
+rezar:
+  infinitive: rezar
+  gerund: rezando
+  pastparticiple: rezado
+  definitions: {en: to pray}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I pray, am praying'}
+      1s: rezo
+      1p: rezamos
+      2s: rezas
+      2p: rezáis
+      3s: reza
+      3p: rezan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will pray}
+      1s: rezaré
+      1p: rezaremos
+      2s: rezarás
+      2p: rezaréis
+      3s: rezará
+      3p: rezarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was praying, used to pray, prayed'}
+      1s: rezaba
+      1p: rezábamos
+      2s: rezabas
+      2p: rezabais
+      3s: rezaba
+      3p: rezaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I prayed}
+      1s: recé
+      1p: rezamos
+      2s: rezaste
+      2p: rezasteis
+      3s: rezó
+      3p: rezaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would pray}
+      1s: rezaría
+      1p: rezaríamos
+      2s: rezarías
+      2p: rezaríais
+      3s: rezaría
+      3p: rezarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have prayed}
+      1s: he rezado
+      1p: hemos rezado
+      2s: has rezado
+      2p: habéis rezado
+      3s: ha rezado
+      3p: han rezado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have prayed}
+      1s: habré rezado
+      1p: habremos rezado
+      2s: habrás rezado
+      2p: habréis rezado
+      3s: habrá rezado
+      3p: habrán rezado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had prayed}
+      1s: había rezado
+      1p: habíamos rezado
+      2s: habías rezado
+      2p: habíais rezado
+      3s: había rezado
+      3p: habían rezado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had prayed}
+      1s: hube rezado
+      1p: hubimos rezado
+      2s: hubiste rezado
+      2p: hubisteis rezado
+      3s: hubo rezado
+      3p: hubieron rezado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have prayed}
+      1s: habría rezado
+      1p: habríamos rezado
+      2s: habrías rezado
+      2p: habríais rezado
+      3s: habría rezado
+      3p: habrían rezado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I pray, am praying'}
+      1s: rece
+      1p: recemos
+      2s: reces
+      2p: recéis
+      3s: rece
+      3p: recen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I prayed, was praying'}
+      1s: rezara
+      1p: rezáramos
+      2s: rezaras
+      2p: rezarais
+      3s: rezara
+      3p: rezaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will pray}
+      1s: rezare
+      1p: rezáremos
+      2s: rezares
+      2p: rezareis
+      3s: rezare
+      3p: rezaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have prayed, prayed'}
+      1s: haya rezado
+      1p: hayamos rezado
+      2s: hayas rezado
+      2p: hayáis rezado
+      3s: haya rezado
+      3p: hayan rezado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have prayed}
+      1s: hubiere rezado
+      1p: hubiéremos rezado
+      2s: hubieres rezado
+      2p: hubiereis rezado
+      3s: hubiere rezado
+      3p: hubieren rezado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had prayed}
+      1s: hubiera rezado
+      1p: hubiéramos rezado
+      2s: hubieras rezado
+      2p: hubierais rezado
+      3s: hubiera rezado
+      3p: hubieran rezado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Pray! Don't pray!}
+      1s: ''
+      1p: ''
+      2s: reza
+      2p: rece
+      3s: rezad
+      3p: recen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Pray! Don't pray!}
+      1s: ''
+      1p: ''
+      2s: no reces
+      2p: no rece
+      3s: no recéis
+      3p: no recen

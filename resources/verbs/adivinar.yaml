@@ -1,0 +1,186 @@
+adivinar:
+  infinitive: adivinar
+  gerund: adivinando
+  pastparticiple: adivinado
+  definitions: {en: 'to guess, fortell, prophesy; to guess correctly'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I guess, am guessing'}
+      1s: adivino
+      1p: adivinamos
+      2s: adivinas
+      2p: adivináis
+      3s: adivina
+      3p: adivinan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will guess}
+      1s: adivinaré
+      1p: adivinaremos
+      2s: adivinarás
+      2p: adivinaréis
+      3s: adivinará
+      3p: adivinarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was guessing, used to guess, guessed'}
+      1s: adivinaba
+      1p: adivinábamos
+      2s: adivinabas
+      2p: adivinabais
+      3s: adivinaba
+      3p: adivinaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I guessed}
+      1s: adiviné
+      1p: adivinamos
+      2s: adivinaste
+      2p: adivinasteis
+      3s: adivinó
+      3p: adivinaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would guess}
+      1s: adivinaría
+      1p: adivinaríamos
+      2s: adivinarías
+      2p: adivinaríais
+      3s: adivinaría
+      3p: adivinarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have guessed}
+      1s: he adivinado
+      1p: hemos adivinado
+      2s: has adivinado
+      2p: habéis adivinado
+      3s: ha adivinado
+      3p: han adivinado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have guessed}
+      1s: habré adivinado
+      1p: habremos adivinado
+      2s: habrás adivinado
+      2p: habréis adivinado
+      3s: habrá adivinado
+      3p: habrán adivinado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had guessed}
+      1s: había adivinado
+      1p: habíamos adivinado
+      2s: habías adivinado
+      2p: habíais adivinado
+      3s: había adivinado
+      3p: habían adivinado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had guessed}
+      1s: hube adivinado
+      1p: hubimos adivinado
+      2s: hubiste adivinado
+      2p: hubisteis adivinado
+      3s: hubo adivinado
+      3p: hubieron adivinado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have guessed}
+      1s: habría adivinado
+      1p: habríamos adivinado
+      2s: habrías adivinado
+      2p: habríais adivinado
+      3s: habría adivinado
+      3p: habrían adivinado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I guess, am guessing'}
+      1s: adivine
+      1p: adivinemos
+      2s: adivines
+      2p: adivinéis
+      3s: adivine
+      3p: adivinen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I guessed, was guessing'}
+      1s: adivinara
+      1p: adivináramos
+      2s: adivinaras
+      2p: adivinarais
+      3s: adivinara
+      3p: adivinaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will guess}
+      1s: adivinare
+      1p: adivináremos
+      2s: adivinares
+      2p: adivinareis
+      3s: adivinare
+      3p: adivinaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have guessed, guessed'}
+      1s: haya adivinado
+      1p: hayamos adivinado
+      2s: hayas adivinado
+      2p: hayáis adivinado
+      3s: haya adivinado
+      3p: hayan adivinado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have guessed}
+      1s: hubiere adivinado
+      1p: hubiéremos adivinado
+      2s: hubieres adivinado
+      2p: hubiereis adivinado
+      3s: hubiere adivinado
+      3p: hubieren adivinado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had guessed}
+      1s: hubiera adivinado
+      1p: hubiéramos adivinado
+      2s: hubieras adivinado
+      2p: hubierais adivinado
+      3s: hubiera adivinado
+      3p: hubieran adivinado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Guess! Don't guess!}
+      1s: ''
+      1p: ''
+      2s: adivina
+      2p: adivine
+      3s: adivinad
+      3p: adivinen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Guess! Don't guess!}
+      1s: ''
+      1p: ''
+      2s: no adivines
+      2p: no adivine
+      3s: no adivinéis
+      3p: no adivinen

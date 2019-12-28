@@ -1,0 +1,186 @@
+regresar:
+  infinitive: regresar
+  gerund: regresando
+  pastparticiple: regresado
+  definitions: {en: 'to return, go back'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I return, am returning'}
+      1s: regreso
+      1p: regresamos
+      2s: regresas
+      2p: regresáis
+      3s: regresa
+      3p: regresan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will return}
+      1s: regresaré
+      1p: regresaremos
+      2s: regresarás
+      2p: regresaréis
+      3s: regresará
+      3p: regresarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was returning, used to return, returned'}
+      1s: regresaba
+      1p: regresábamos
+      2s: regresabas
+      2p: regresabais
+      3s: regresaba
+      3p: regresaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I returned}
+      1s: regresé
+      1p: regresamos
+      2s: regresaste
+      2p: regresasteis
+      3s: regresó
+      3p: regresaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would return}
+      1s: regresaría
+      1p: regresaríamos
+      2s: regresarías
+      2p: regresaríais
+      3s: regresaría
+      3p: regresarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have returned}
+      1s: he regresado
+      1p: hemos regresado
+      2s: has regresado
+      2p: habéis regresado
+      3s: ha regresado
+      3p: han regresado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have returned}
+      1s: habré regresado
+      1p: habremos regresado
+      2s: habrás regresado
+      2p: habréis regresado
+      3s: habrá regresado
+      3p: habrán regresado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had returned}
+      1s: había regresado
+      1p: habíamos regresado
+      2s: habías regresado
+      2p: habíais regresado
+      3s: había regresado
+      3p: habían regresado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had returned}
+      1s: hube regresado
+      1p: hubimos regresado
+      2s: hubiste regresado
+      2p: hubisteis regresado
+      3s: hubo regresado
+      3p: hubieron regresado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have returned}
+      1s: habría regresado
+      1p: habríamos regresado
+      2s: habrías regresado
+      2p: habríais regresado
+      3s: habría regresado
+      3p: habrían regresado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I return, am returning'}
+      1s: regrese
+      1p: regresemos
+      2s: regreses
+      2p: regreséis
+      3s: regrese
+      3p: regresen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I returned, was returning'}
+      1s: regresara
+      1p: regresáramos
+      2s: regresaras
+      2p: regresarais
+      3s: regresara
+      3p: regresaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will return}
+      1s: regresare
+      1p: regresáremos
+      2s: regresares
+      2p: regresareis
+      3s: regresare
+      3p: regresaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have returned, returned'}
+      1s: haya regresado
+      1p: hayamos regresado
+      2s: hayas regresado
+      2p: hayáis regresado
+      3s: haya regresado
+      3p: hayan regresado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have returned}
+      1s: hubiere regresado
+      1p: hubiéremos regresado
+      2s: hubieres regresado
+      2p: hubiereis regresado
+      3s: hubiere regresado
+      3p: hubieren regresado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had returned}
+      1s: hubiera regresado
+      1p: hubiéramos regresado
+      2s: hubieras regresado
+      2p: hubierais regresado
+      3s: hubiera regresado
+      3p: hubieran regresado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Return! Don't return!}
+      1s: ''
+      1p: ''
+      2s: regresa
+      2p: regrese
+      3s: regresad
+      3p: regresen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Return! Don't return!}
+      1s: ''
+      1p: ''
+      2s: no regreses
+      2p: no regrese
+      3s: no regreséis
+      3p: no regresen

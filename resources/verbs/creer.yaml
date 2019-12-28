@@ -1,0 +1,186 @@
+creer:
+  infinitive: creer
+  gerund: creyendo
+  pastparticiple: creído
+  definitions: {en: to believe}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I believe, am believing'}
+      1s: creo
+      1p: creemos
+      2s: crees
+      2p: creéis
+      3s: cree
+      3p: creen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will believe}
+      1s: creeré
+      1p: creeremos
+      2s: creerás
+      2p: creeréis
+      3s: creerá
+      3p: creerán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was believing, used to believe, believed'}
+      1s: creía
+      1p: creíamos
+      2s: creías
+      2p: creíais
+      3s: creía
+      3p: creían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I believed}
+      1s: creí
+      1p: creímos
+      2s: creíste
+      2p: creísteis
+      3s: creyó
+      3p: creyeron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would believe}
+      1s: creería
+      1p: creeríamos
+      2s: creerías
+      2p: creeríais
+      3s: creería
+      3p: creerían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have believed}
+      1s: he creído
+      1p: hemos creído
+      2s: has creído
+      2p: habéis creído
+      3s: ha creído
+      3p: han creído
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have believed}
+      1s: habré creído
+      1p: habremos creído
+      2s: habrás creído
+      2p: habréis creído
+      3s: habrá creído
+      3p: habrán creído
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had believed}
+      1s: había creído
+      1p: habíamos creído
+      2s: habías creído
+      2p: habíais creído
+      3s: había creído
+      3p: habían creído
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had believed}
+      1s: hube creído
+      1p: hubimos creído
+      2s: hubiste creído
+      2p: hubisteis creído
+      3s: hubo creído
+      3p: hubieron creído
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have believed}
+      1s: habría creído
+      1p: habríamos creído
+      2s: habrías creído
+      2p: habríais creído
+      3s: habría creído
+      3p: habrían creído
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I believe, am believing'}
+      1s: crea
+      1p: creamos
+      2s: creas
+      2p: creáis
+      3s: crea
+      3p: crean
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I believed, was believing'}
+      1s: creyera
+      1p: creyéramos
+      2s: creyeras
+      2p: creyerais
+      3s: creyera
+      3p: creyeran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will believe}
+      1s: creyere
+      1p: creyéremos
+      2s: creyeres
+      2p: creyereis
+      3s: creyere
+      3p: creyeren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have believed, believed'}
+      1s: haya creído
+      1p: hayamos creído
+      2s: hayas creído
+      2p: hayáis creído
+      3s: haya creído
+      3p: hayan creído
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have believed}
+      1s: hubiere creído
+      1p: hubiéremos creído
+      2s: hubieres creído
+      2p: hubiereis creído
+      3s: hubiere creído
+      3p: hubieren creído
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had believed}
+      1s: hubiera creído
+      1p: hubiéramos creído
+      2s: hubieras creído
+      2p: hubierais creído
+      3s: hubiera creído
+      3p: hubieran creído
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Believe! Don't believe!}
+      1s: ''
+      1p: ''
+      2s: cree
+      2p: crea
+      3s: creed
+      3p: crean
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Believe! Don't believe!}
+      1s: ''
+      1p: ''
+      2s: no creas
+      2p: no crea
+      3s: no creáis
+      3p: no crean

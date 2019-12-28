@@ -1,0 +1,186 @@
+marcar:
+  infinitive: marcar
+  gerund: marcando
+  pastparticiple: marcado
+  definitions: {en: 'to mark, stamp, to show, indicate; to dial [e.g., a phone]'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I mark, am marking'}
+      1s: marco
+      1p: marcamos
+      2s: marcas
+      2p: marcáis
+      3s: marca
+      3p: marcan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will mark}
+      1s: marcaré
+      1p: marcaremos
+      2s: marcarás
+      2p: marcaréis
+      3s: marcará
+      3p: marcarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was marking, used to mark, marked'}
+      1s: marcaba
+      1p: marcábamos
+      2s: marcabas
+      2p: marcabais
+      3s: marcaba
+      3p: marcaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I marked}
+      1s: marqué
+      1p: marcamos
+      2s: marcaste
+      2p: marcasteis
+      3s: marcó
+      3p: marcaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would mark}
+      1s: marcaría
+      1p: marcaríamos
+      2s: marcarías
+      2p: marcaríais
+      3s: marcaría
+      3p: marcarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have marked}
+      1s: he marcado
+      1p: hemos marcado
+      2s: has marcado
+      2p: habéis marcado
+      3s: ha marcado
+      3p: han marcado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have marked}
+      1s: habré marcado
+      1p: habremos marcado
+      2s: habrás marcado
+      2p: habréis marcado
+      3s: habrá marcado
+      3p: habrán marcado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had marked}
+      1s: había marcado
+      1p: habíamos marcado
+      2s: habías marcado
+      2p: habíais marcado
+      3s: había marcado
+      3p: habían marcado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had marked}
+      1s: hube marcado
+      1p: hubimos marcado
+      2s: hubiste marcado
+      2p: hubisteis marcado
+      3s: hubo marcado
+      3p: hubieron marcado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have marked}
+      1s: habría marcado
+      1p: habríamos marcado
+      2s: habrías marcado
+      2p: habríais marcado
+      3s: habría marcado
+      3p: habrían marcado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I mark, am marking'}
+      1s: marque
+      1p: marquemos
+      2s: marques
+      2p: marquéis
+      3s: marque
+      3p: marquen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I marked, was marking'}
+      1s: marcara
+      1p: marcáramos
+      2s: marcaras
+      2p: marcarais
+      3s: marcara
+      3p: marcaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will mark}
+      1s: marcare
+      1p: marcáremos
+      2s: marcares
+      2p: marcareis
+      3s: marcare
+      3p: marcaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have marked, marked'}
+      1s: haya marcado
+      1p: hayamos marcado
+      2s: hayas marcado
+      2p: hayáis marcado
+      3s: haya marcado
+      3p: hayan marcado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have marked}
+      1s: hubiere marcado
+      1p: hubiéremos marcado
+      2s: hubieres marcado
+      2p: hubiereis marcado
+      3s: hubiere marcado
+      3p: hubieren marcado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had marked}
+      1s: hubiera marcado
+      1p: hubiéramos marcado
+      2s: hubieras marcado
+      2p: hubierais marcado
+      3s: hubiera marcado
+      3p: hubieran marcado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Mark! Don't mark!}
+      1s: ''
+      1p: ''
+      2s: marca
+      2p: marque
+      3s: marcad
+      3p: marquen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Mark! Don't mark!}
+      1s: ''
+      1p: ''
+      2s: no marques
+      2p: no marque
+      3s: no marquéis
+      3p: no marquen

@@ -1,0 +1,186 @@
+enfermar:
+  infinitive: enfermar
+  gerund: enfermando
+  pastparticiple: enfermado
+  definitions: {en: 'to make ill, make sick, cause illness in'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I make ill, am making ill'}
+      1s: enfermo
+      1p: enfermamos
+      2s: enfermas
+      2p: enfermáis
+      3s: enferma
+      3p: enferman
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will make ill}
+      1s: enfermaré
+      1p: enfermaremos
+      2s: enfermarás
+      2p: enfermaréis
+      3s: enfermará
+      3p: enfermarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was making ill, used to make ill, made ill'}
+      1s: enfermaba
+      1p: enfermábamos
+      2s: enfermabas
+      2p: enfermabais
+      3s: enfermaba
+      3p: enfermaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I made ill}
+      1s: enfermé
+      1p: enfermamos
+      2s: enfermaste
+      2p: enfermasteis
+      3s: enfermó
+      3p: enfermaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would make ill}
+      1s: enfermaría
+      1p: enfermaríamos
+      2s: enfermarías
+      2p: enfermaríais
+      3s: enfermaría
+      3p: enfermarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have made ill}
+      1s: he enfermado
+      1p: hemos enfermado
+      2s: has enfermado
+      2p: habéis enfermado
+      3s: ha enfermado
+      3p: han enfermado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have made ill}
+      1s: habré enfermado
+      1p: habremos enfermado
+      2s: habrás enfermado
+      2p: habréis enfermado
+      3s: habrá enfermado
+      3p: habrán enfermado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had made ill}
+      1s: había enfermado
+      1p: habíamos enfermado
+      2s: habías enfermado
+      2p: habíais enfermado
+      3s: había enfermado
+      3p: habían enfermado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had made ill}
+      1s: hube enfermado
+      1p: hubimos enfermado
+      2s: hubiste enfermado
+      2p: hubisteis enfermado
+      3s: hubo enfermado
+      3p: hubieron enfermado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have made ill}
+      1s: habría enfermado
+      1p: habríamos enfermado
+      2s: habrías enfermado
+      2p: habríais enfermado
+      3s: habría enfermado
+      3p: habrían enfermado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I make ill, am making ill'}
+      1s: enferme
+      1p: enfermemos
+      2s: enfermes
+      2p: enferméis
+      3s: enferme
+      3p: enfermen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I made ill, was making ill'}
+      1s: enfermara
+      1p: enfermáramos
+      2s: enfermaras
+      2p: enfermarais
+      3s: enfermara
+      3p: enfermaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will make ill}
+      1s: enfermare
+      1p: enfermáremos
+      2s: enfermares
+      2p: enfermareis
+      3s: enfermare
+      3p: enfermaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have made ill, made ill'}
+      1s: haya enfermado
+      1p: hayamos enfermado
+      2s: hayas enfermado
+      2p: hayáis enfermado
+      3s: haya enfermado
+      3p: hayan enfermado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have made ill}
+      1s: hubiere enfermado
+      1p: hubiéremos enfermado
+      2s: hubieres enfermado
+      2p: hubiereis enfermado
+      3s: hubiere enfermado
+      3p: hubieren enfermado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had made ill}
+      1s: hubiera enfermado
+      1p: hubiéramos enfermado
+      2s: hubieras enfermado
+      2p: hubierais enfermado
+      3s: hubiera enfermado
+      3p: hubieran enfermado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Make ill! Don't make ill!}
+      1s: ''
+      1p: ''
+      2s: enferma
+      2p: enferme
+      3s: enfermad
+      3p: enfermen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Make ill! Don't make ill!}
+      1s: ''
+      1p: ''
+      2s: no enfermes
+      2p: no enferme
+      3s: no enferméis
+      3p: no enfermen

@@ -1,0 +1,186 @@
+tratar:
+  infinitive: tratar
+  gerund: tratando
+  pastparticiple: tratado
+  definitions: {en: 'to treat, handle'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I treat, am treating'}
+      1s: trato
+      1p: tratamos
+      2s: tratas
+      2p: tratáis
+      3s: trata
+      3p: tratan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will treat}
+      1s: trataré
+      1p: trataremos
+      2s: tratarás
+      2p: trataréis
+      3s: tratará
+      3p: tratarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was treating, used to treat, treated'}
+      1s: trataba
+      1p: tratábamos
+      2s: tratabas
+      2p: tratabais
+      3s: trataba
+      3p: trataban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I treated}
+      1s: traté
+      1p: tratamos
+      2s: trataste
+      2p: tratasteis
+      3s: trató
+      3p: trataron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would treat}
+      1s: trataría
+      1p: trataríamos
+      2s: tratarías
+      2p: trataríais
+      3s: trataría
+      3p: tratarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have treated}
+      1s: he tratado
+      1p: hemos tratado
+      2s: has tratado
+      2p: habéis tratado
+      3s: ha tratado
+      3p: han tratado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have treated}
+      1s: habré tratado
+      1p: habremos tratado
+      2s: habrás tratado
+      2p: habréis tratado
+      3s: habrá tratado
+      3p: habrán tratado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had treated}
+      1s: había tratado
+      1p: habíamos tratado
+      2s: habías tratado
+      2p: habíais tratado
+      3s: había tratado
+      3p: habían tratado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had treated}
+      1s: hube tratado
+      1p: hubimos tratado
+      2s: hubiste tratado
+      2p: hubisteis tratado
+      3s: hubo tratado
+      3p: hubieron tratado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have treated}
+      1s: habría tratado
+      1p: habríamos tratado
+      2s: habrías tratado
+      2p: habríais tratado
+      3s: habría tratado
+      3p: habrían tratado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I treat, am treating'}
+      1s: trate
+      1p: tratemos
+      2s: trates
+      2p: tratéis
+      3s: trate
+      3p: traten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I treated, was treating'}
+      1s: tratara
+      1p: tratáramos
+      2s: trataras
+      2p: tratarais
+      3s: tratara
+      3p: trataran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will treat}
+      1s: tratare
+      1p: tratáremos
+      2s: tratares
+      2p: tratareis
+      3s: tratare
+      3p: trataren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have treated, treated'}
+      1s: haya tratado
+      1p: hayamos tratado
+      2s: hayas tratado
+      2p: hayáis tratado
+      3s: haya tratado
+      3p: hayan tratado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have treated}
+      1s: hubiere tratado
+      1p: hubiéremos tratado
+      2s: hubieres tratado
+      2p: hubiereis tratado
+      3s: hubiere tratado
+      3p: hubieren tratado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had treated}
+      1s: hubiera tratado
+      1p: hubiéramos tratado
+      2s: hubieras tratado
+      2p: hubierais tratado
+      3s: hubiera tratado
+      3p: hubieran tratado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Treat! Don't treat!}
+      1s: ''
+      1p: ''
+      2s: trata
+      2p: trate
+      3s: tratad
+      3p: traten
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Treat! Don't treat!}
+      1s: ''
+      1p: ''
+      2s: no trates
+      2p: no trate
+      3s: no tratéis
+      3p: no traten

@@ -1,0 +1,186 @@
+contaminar:
+  infinitive: contaminar
+  gerund: contaminando
+  pastparticiple: contaminado
+  definitions: {en: 'to contaminate, pollute; to corrupt'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I contaminate, am contaminating'}
+      1s: contamino
+      1p: contaminamos
+      2s: contaminas
+      2p: contamináis
+      3s: contamina
+      3p: contaminan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will contaminate}
+      1s: contaminaré
+      1p: contaminaremos
+      2s: contaminarás
+      2p: contaminaréis
+      3s: contaminará
+      3p: contaminarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was contaminating, used to contaminate, contaminated'}
+      1s: contaminaba
+      1p: contaminábamos
+      2s: contaminabas
+      2p: contaminabais
+      3s: contaminaba
+      3p: contaminaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I contaminated}
+      1s: contaminé
+      1p: contaminamos
+      2s: contaminaste
+      2p: contaminasteis
+      3s: contaminó
+      3p: contaminaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would contaminate}
+      1s: contaminaría
+      1p: contaminaríamos
+      2s: contaminarías
+      2p: contaminaríais
+      3s: contaminaría
+      3p: contaminarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have contaminated}
+      1s: he contaminado
+      1p: hemos contaminado
+      2s: has contaminado
+      2p: habéis contaminado
+      3s: ha contaminado
+      3p: han contaminado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have contaminated}
+      1s: habré contaminado
+      1p: habremos contaminado
+      2s: habrás contaminado
+      2p: habréis contaminado
+      3s: habrá contaminado
+      3p: habrán contaminado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had contaminated}
+      1s: había contaminado
+      1p: habíamos contaminado
+      2s: habías contaminado
+      2p: habíais contaminado
+      3s: había contaminado
+      3p: habían contaminado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had contaminated}
+      1s: hube contaminado
+      1p: hubimos contaminado
+      2s: hubiste contaminado
+      2p: hubisteis contaminado
+      3s: hubo contaminado
+      3p: hubieron contaminado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have contaminated}
+      1s: habría contaminado
+      1p: habríamos contaminado
+      2s: habrías contaminado
+      2p: habríais contaminado
+      3s: habría contaminado
+      3p: habrían contaminado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I contaminate, am contaminating'}
+      1s: contamine
+      1p: contaminemos
+      2s: contamines
+      2p: contaminéis
+      3s: contamine
+      3p: contaminen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I contaminated, was contaminating'}
+      1s: contaminara
+      1p: contamináramos
+      2s: contaminaras
+      2p: contaminarais
+      3s: contaminara
+      3p: contaminaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will contaminate}
+      1s: contaminare
+      1p: contamináremos
+      2s: contaminares
+      2p: contaminareis
+      3s: contaminare
+      3p: contaminaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have contaminated, contaminated'}
+      1s: haya contaminado
+      1p: hayamos contaminado
+      2s: hayas contaminado
+      2p: hayáis contaminado
+      3s: haya contaminado
+      3p: hayan contaminado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have contaminated}
+      1s: hubiere contaminado
+      1p: hubiéremos contaminado
+      2s: hubieres contaminado
+      2p: hubiereis contaminado
+      3s: hubiere contaminado
+      3p: hubieren contaminado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had contaminated}
+      1s: hubiera contaminado
+      1p: hubiéramos contaminado
+      2s: hubieras contaminado
+      2p: hubierais contaminado
+      3s: hubiera contaminado
+      3p: hubieran contaminado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Contaminate! Don't contaminate!}
+      1s: ''
+      1p: ''
+      2s: contamina
+      2p: contamine
+      3s: contaminad
+      3p: contaminen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Contaminate! Don't contaminate!}
+      1s: ''
+      1p: ''
+      2s: no contamines
+      2p: no contamine
+      3s: no contaminéis
+      3p: no contaminen

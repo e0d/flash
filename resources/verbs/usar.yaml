@@ -1,0 +1,186 @@
+usar:
+  infinitive: usar
+  gerund: usando
+  pastparticiple: usado
+  definitions: {en: to use}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I use, am using'}
+      1s: uso
+      1p: usamos
+      2s: usas
+      2p: usáis
+      3s: usa
+      3p: usan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will use}
+      1s: usaré
+      1p: usaremos
+      2s: usarás
+      2p: usaréis
+      3s: usará
+      3p: usarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was using, used to use, used'}
+      1s: usaba
+      1p: usábamos
+      2s: usabas
+      2p: usabais
+      3s: usaba
+      3p: usaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I used}
+      1s: usé
+      1p: usamos
+      2s: usaste
+      2p: usasteis
+      3s: usó
+      3p: usaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would use}
+      1s: usaría
+      1p: usaríamos
+      2s: usarías
+      2p: usaríais
+      3s: usaría
+      3p: usarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have used}
+      1s: he usado
+      1p: hemos usado
+      2s: has usado
+      2p: habéis usado
+      3s: ha usado
+      3p: han usado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have used}
+      1s: habré usado
+      1p: habremos usado
+      2s: habrás usado
+      2p: habréis usado
+      3s: habrá usado
+      3p: habrán usado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had used}
+      1s: había usado
+      1p: habíamos usado
+      2s: habías usado
+      2p: habíais usado
+      3s: había usado
+      3p: habían usado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had used}
+      1s: hube usado
+      1p: hubimos usado
+      2s: hubiste usado
+      2p: hubisteis usado
+      3s: hubo usado
+      3p: hubieron usado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have used}
+      1s: habría usado
+      1p: habríamos usado
+      2s: habrías usado
+      2p: habríais usado
+      3s: habría usado
+      3p: habrían usado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I use, am using'}
+      1s: use
+      1p: usemos
+      2s: uses
+      2p: uséis
+      3s: use
+      3p: usen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I used, was using'}
+      1s: usara
+      1p: usáramos
+      2s: usaras
+      2p: usarais
+      3s: usara
+      3p: usaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will use}
+      1s: usare
+      1p: usáremos
+      2s: usares
+      2p: usareis
+      3s: usare
+      3p: usaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have used, used'}
+      1s: haya usado
+      1p: hayamos usado
+      2s: hayas usado
+      2p: hayáis usado
+      3s: haya usado
+      3p: hayan usado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have used}
+      1s: hubiere usado
+      1p: hubiéremos usado
+      2s: hubieres usado
+      2p: hubiereis usado
+      3s: hubiere usado
+      3p: hubieren usado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had used}
+      1s: hubiera usado
+      1p: hubiéramos usado
+      2s: hubieras usado
+      2p: hubierais usado
+      3s: hubiera usado
+      3p: hubieran usado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Use! Don't use!}
+      1s: ''
+      1p: ''
+      2s: usa
+      2p: use
+      3s: usad
+      3p: usen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Use! Don't use!}
+      1s: ''
+      1p: ''
+      2s: no uses
+      2p: no use
+      3s: no uséis
+      3p: no usen

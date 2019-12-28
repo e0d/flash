@@ -1,0 +1,186 @@
+demostrar:
+  infinitive: demostrar
+  gerund: demostrando
+  pastparticiple: demostrado
+  definitions: {en: 'to demonstrate, show'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I demonstrate, am demonstrating'}
+      1s: demuestro
+      1p: demostramos
+      2s: demuestras
+      2p: demostráis
+      3s: demuestra
+      3p: demuestran
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will demonstrate}
+      1s: demostraré
+      1p: demostraremos
+      2s: demostrarás
+      2p: demostraréis
+      3s: demostrará
+      3p: demostrarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was demonstrating, used to demonstrate, demonstrated'}
+      1s: demostraba
+      1p: demostrábamos
+      2s: demostrabas
+      2p: demostrabais
+      3s: demostraba
+      3p: demostraban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I demonstrated}
+      1s: demostré
+      1p: demostramos
+      2s: demostraste
+      2p: demostrasteis
+      3s: demostró
+      3p: demostraron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would demonstrate}
+      1s: demostraría
+      1p: demostraríamos
+      2s: demostrarías
+      2p: demostraríais
+      3s: demostraría
+      3p: demostrarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have demonstrated}
+      1s: he demostrado
+      1p: hemos demostrado
+      2s: has demostrado
+      2p: habéis demostrado
+      3s: ha demostrado
+      3p: han demostrado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have demonstrated}
+      1s: habré demostrado
+      1p: habremos demostrado
+      2s: habrás demostrado
+      2p: habréis demostrado
+      3s: habrá demostrado
+      3p: habrán demostrado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had demonstrated}
+      1s: había demostrado
+      1p: habíamos demostrado
+      2s: habías demostrado
+      2p: habíais demostrado
+      3s: había demostrado
+      3p: habían demostrado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had demonstrated}
+      1s: hube demostrado
+      1p: hubimos demostrado
+      2s: hubiste demostrado
+      2p: hubisteis demostrado
+      3s: hubo demostrado
+      3p: hubieron demostrado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have demonstrated}
+      1s: habría demostrado
+      1p: habríamos demostrado
+      2s: habrías demostrado
+      2p: habríais demostrado
+      3s: habría demostrado
+      3p: habrían demostrado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I demonstrate, am demonstrating'}
+      1s: demuestre
+      1p: demostremos
+      2s: demuestres
+      2p: demostréis
+      3s: demuestre
+      3p: demuestren
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I demonstrated, was demonstrating'}
+      1s: demostrara
+      1p: demostráramos
+      2s: demostraras
+      2p: demostrarais
+      3s: demostrara
+      3p: demostraran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will demonstrate}
+      1s: demostrare
+      1p: demostráremos
+      2s: demostrares
+      2p: demostrareis
+      3s: demostrare
+      3p: demostraren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have demonstrated, demonstrated'}
+      1s: haya demostrado
+      1p: hayamos demostrado
+      2s: hayas demostrado
+      2p: hayáis demostrado
+      3s: haya demostrado
+      3p: hayan demostrado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have demonstrated}
+      1s: hubiere demostrado
+      1p: hubiéremos demostrado
+      2s: hubieres demostrado
+      2p: hubiereis demostrado
+      3s: hubiere demostrado
+      3p: hubieren demostrado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had demonstrated}
+      1s: hubiera demostrado
+      1p: hubiéramos demostrado
+      2s: hubieras demostrado
+      2p: hubierais demostrado
+      3s: hubiera demostrado
+      3p: hubieran demostrado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Demonstrate! Don't demonstrate!}
+      1s: ''
+      1p: ''
+      2s: demuestra
+      2p: demuestre
+      3s: demostrad
+      3p: demuestren
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Demonstrate! Don't demonstrate!}
+      1s: ''
+      1p: ''
+      2s: no demuestres
+      2p: no demuestre
+      3s: no demostréis
+      3p: no demuestren

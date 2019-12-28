@@ -1,0 +1,186 @@
+sentir:
+  infinitive: sentir
+  gerund: sintiendo
+  pastparticiple: sentido
+  definitions: {en: 'to feel, regret'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I feel, am feeling'}
+      1s: siento
+      1p: sentimos
+      2s: sientes
+      2p: sentís
+      3s: siente
+      3p: sienten
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will feel}
+      1s: sentiré
+      1p: sentiremos
+      2s: sentirás
+      2p: sentiréis
+      3s: sentirá
+      3p: sentirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was feeling, used to feel, felt'}
+      1s: sentía
+      1p: sentíamos
+      2s: sentías
+      2p: sentíais
+      3s: sentía
+      3p: sentían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I felt}
+      1s: sentí
+      1p: sentimos
+      2s: sentiste
+      2p: sentisteis
+      3s: sintió
+      3p: sintieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would feel}
+      1s: sentiría
+      1p: sentiríamos
+      2s: sentirías
+      2p: sentiríais
+      3s: sentiría
+      3p: sentirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have felt}
+      1s: he sentido
+      1p: hemos sentido
+      2s: has sentido
+      2p: habéis sentido
+      3s: ha sentido
+      3p: han sentido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have felt}
+      1s: habré sentido
+      1p: habremos sentido
+      2s: habrás sentido
+      2p: habréis sentido
+      3s: habrá sentido
+      3p: habrán sentido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had felt}
+      1s: había sentido
+      1p: habíamos sentido
+      2s: habías sentido
+      2p: habíais sentido
+      3s: había sentido
+      3p: habían sentido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had felt}
+      1s: hube sentido
+      1p: hubimos sentido
+      2s: hubiste sentido
+      2p: hubisteis sentido
+      3s: hubo sentido
+      3p: hubieron sentido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have felt}
+      1s: habría sentido
+      1p: habríamos sentido
+      2s: habrías sentido
+      2p: habríais sentido
+      3s: habría sentido
+      3p: habrían sentido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I feel, am feeling'}
+      1s: sienta
+      1p: sintamos
+      2s: sientas
+      2p: sintáis
+      3s: sienta
+      3p: sientan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I felt, was feeling'}
+      1s: sintiera
+      1p: sintiéramos
+      2s: sintieras
+      2p: sintierais
+      3s: sintiera
+      3p: sintieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will feel}
+      1s: sintiere
+      1p: sintiéremos
+      2s: sintieres
+      2p: sintiereis
+      3s: sintiere
+      3p: sintieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have felt, felt'}
+      1s: haya sentido
+      1p: hayamos sentido
+      2s: hayas sentido
+      2p: hayáis sentido
+      3s: haya sentido
+      3p: hayan sentido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have felt}
+      1s: hubiere sentido
+      1p: hubiéremos sentido
+      2s: hubieres sentido
+      2p: hubiereis sentido
+      3s: hubiere sentido
+      3p: hubieren sentido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had felt}
+      1s: hubiera sentido
+      1p: hubiéramos sentido
+      2s: hubieras sentido
+      2p: hubierais sentido
+      3s: hubiera sentido
+      3p: hubieran sentido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Feel! Don't feel!}
+      1s: ''
+      1p: ''
+      2s: siente
+      2p: sienta
+      3s: sentid
+      3p: sientan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Feel! Don't feel!}
+      1s: ''
+      1p: ''
+      2s: no sientas
+      2p: no sienta
+      3s: no sintáis
+      3p: no sientan

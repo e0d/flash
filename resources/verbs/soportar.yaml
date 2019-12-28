@@ -1,0 +1,186 @@
+soportar:
+  infinitive: soportar
+  gerund: soportando
+  pastparticiple: soportado
+  definitions: {en: 'to support, hold up, bear; to put up with, tolerate'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I support, am supporting'}
+      1s: soporto
+      1p: soportamos
+      2s: soportas
+      2p: soportáis
+      3s: soporta
+      3p: soportan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will support}
+      1s: soportaré
+      1p: soportaremos
+      2s: soportarás
+      2p: soportaréis
+      3s: soportará
+      3p: soportarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was supporting, used to support, supported'}
+      1s: soportaba
+      1p: soportábamos
+      2s: soportabas
+      2p: soportabais
+      3s: soportaba
+      3p: soportaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I supported}
+      1s: soporté
+      1p: soportamos
+      2s: soportaste
+      2p: soportasteis
+      3s: soportó
+      3p: soportaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would support}
+      1s: soportaría
+      1p: soportaríamos
+      2s: soportarías
+      2p: soportaríais
+      3s: soportaría
+      3p: soportarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have supported}
+      1s: he soportado
+      1p: hemos soportado
+      2s: has soportado
+      2p: habéis soportado
+      3s: ha soportado
+      3p: han soportado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have supported}
+      1s: habré soportado
+      1p: habremos soportado
+      2s: habrás soportado
+      2p: habréis soportado
+      3s: habrá soportado
+      3p: habrán soportado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had supported}
+      1s: había soportado
+      1p: habíamos soportado
+      2s: habías soportado
+      2p: habíais soportado
+      3s: había soportado
+      3p: habían soportado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had supported}
+      1s: hube soportado
+      1p: hubimos soportado
+      2s: hubiste soportado
+      2p: hubisteis soportado
+      3s: hubo soportado
+      3p: hubieron soportado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have supported}
+      1s: habría soportado
+      1p: habríamos soportado
+      2s: habrías soportado
+      2p: habríais soportado
+      3s: habría soportado
+      3p: habrían soportado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I support, am supporting'}
+      1s: soporte
+      1p: soportemos
+      2s: soportes
+      2p: soportéis
+      3s: soporte
+      3p: soporten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I supported, was supporting'}
+      1s: soportara
+      1p: soportáramos
+      2s: soportaras
+      2p: soportarais
+      3s: soportara
+      3p: soportaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will support}
+      1s: soportare
+      1p: soportáremos
+      2s: soportares
+      2p: soportareis
+      3s: soportare
+      3p: soportaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have supported, supported'}
+      1s: haya soportado
+      1p: hayamos soportado
+      2s: hayas soportado
+      2p: hayáis soportado
+      3s: haya soportado
+      3p: hayan soportado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have supported}
+      1s: hubiere soportado
+      1p: hubiéremos soportado
+      2s: hubieres soportado
+      2p: hubiereis soportado
+      3s: hubiere soportado
+      3p: hubieren soportado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had supported}
+      1s: hubiera soportado
+      1p: hubiéramos soportado
+      2s: hubieras soportado
+      2p: hubierais soportado
+      3s: hubiera soportado
+      3p: hubieran soportado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Support! Don't support!}
+      1s: ''
+      1p: ''
+      2s: soporta
+      2p: soporte
+      3s: soportad
+      3p: soporten
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Support! Don't support!}
+      1s: ''
+      1p: ''
+      2s: no soportes
+      2p: no soporte
+      3s: no soportéis
+      3p: no soporten

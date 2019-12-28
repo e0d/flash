@@ -1,0 +1,186 @@
+cansar:
+  infinitive: cansar
+  gerund: cansando
+  pastparticiple: cansado
+  definitions: {en: 'to tire, tire out, fatigue, wear out'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I tire, am tiring'}
+      1s: canso
+      1p: cansamos
+      2s: cansas
+      2p: cansáis
+      3s: cansa
+      3p: cansan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will tire}
+      1s: cansaré
+      1p: cansaremos
+      2s: cansarás
+      2p: cansaréis
+      3s: cansará
+      3p: cansarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was tiring, used to tire, tired'}
+      1s: cansaba
+      1p: cansábamos
+      2s: cansabas
+      2p: cansabais
+      3s: cansaba
+      3p: cansaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I tired}
+      1s: cansé
+      1p: cansamos
+      2s: cansaste
+      2p: cansasteis
+      3s: cansó
+      3p: cansaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would tire}
+      1s: cansaría
+      1p: cansaríamos
+      2s: cansarías
+      2p: cansaríais
+      3s: cansaría
+      3p: cansarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have tired}
+      1s: he cansado
+      1p: hemos cansado
+      2s: has cansado
+      2p: habéis cansado
+      3s: ha cansado
+      3p: han cansado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have tired}
+      1s: habré cansado
+      1p: habremos cansado
+      2s: habrás cansado
+      2p: habréis cansado
+      3s: habrá cansado
+      3p: habrán cansado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had tired}
+      1s: había cansado
+      1p: habíamos cansado
+      2s: habías cansado
+      2p: habíais cansado
+      3s: había cansado
+      3p: habían cansado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had tired}
+      1s: hube cansado
+      1p: hubimos cansado
+      2s: hubiste cansado
+      2p: hubisteis cansado
+      3s: hubo cansado
+      3p: hubieron cansado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have tired}
+      1s: habría cansado
+      1p: habríamos cansado
+      2s: habrías cansado
+      2p: habríais cansado
+      3s: habría cansado
+      3p: habrían cansado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I tire, am tiring'}
+      1s: canse
+      1p: cansemos
+      2s: canses
+      2p: canséis
+      3s: canse
+      3p: cansen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I tired, was tiring'}
+      1s: cansara
+      1p: cansáramos
+      2s: cansaras
+      2p: cansarais
+      3s: cansara
+      3p: cansaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will tire}
+      1s: cansare
+      1p: cansáremos
+      2s: cansares
+      2p: cansareis
+      3s: cansare
+      3p: cansaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have tired, tired'}
+      1s: haya cansado
+      1p: hayamos cansado
+      2s: hayas cansado
+      2p: hayáis cansado
+      3s: haya cansado
+      3p: hayan cansado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have tired}
+      1s: hubiere cansado
+      1p: hubiéremos cansado
+      2s: hubieres cansado
+      2p: hubiereis cansado
+      3s: hubiere cansado
+      3p: hubieren cansado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had tired}
+      1s: hubiera cansado
+      1p: hubiéramos cansado
+      2s: hubieras cansado
+      2p: hubierais cansado
+      3s: hubiera cansado
+      3p: hubieran cansado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Tire! Don't tire!}
+      1s: ''
+      1p: ''
+      2s: cansa
+      2p: canse
+      3s: cansad
+      3p: cansen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Tire! Don't tire!}
+      1s: ''
+      1p: ''
+      2s: no canses
+      2p: no canse
+      3s: no canséis
+      3p: no cansen

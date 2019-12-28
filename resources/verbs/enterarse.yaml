@@ -1,0 +1,186 @@
+enterarse:
+  infinitive: enterarse
+  gerund: enterándose
+  pastparticiple: enterado
+  definitions: {en: 'to find out [about something], to learn [of something])'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I find out, am finding out'}
+      1s: me entero
+      1p: nos enteramos
+      2s: te enteras
+      2p: os enteráis
+      3s: se entera
+      3p: se enteran
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will find out}
+      1s: me enteraré
+      1p: nos enteraremos
+      2s: te enterarás
+      2p: os enteraréis
+      3s: se enterará
+      3p: se enterarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was finding out, used to find out, found out'}
+      1s: me enteraba
+      1p: nos enterábamos
+      2s: te enterabas
+      2p: os enterabais
+      3s: se enteraba
+      3p: se enteraban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I found out}
+      1s: me enteré
+      1p: nos enteramos
+      2s: te enteraste
+      2p: os enterasteis
+      3s: se enteró
+      3p: se enteraron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would find out}
+      1s: me enteraría
+      1p: nos enteraríamos
+      2s: te enterarías
+      2p: os enteraríais
+      3s: se enteraría
+      3p: se enterarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have found out}
+      1s: me he enterado
+      1p: nos hemos enterado
+      2s: te has enterado
+      2p: os habéis enterado
+      3s: se ha enterado
+      3p: se han enterado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have found out}
+      1s: me habré enterado
+      1p: nos habremos enterado
+      2s: te habrás enterado
+      2p: os habréis enterado
+      3s: se habrá enterado
+      3p: se habrán enterado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had found out}
+      1s: me había enterado
+      1p: nos habíamos enterado
+      2s: te habías enterado
+      2p: os habíais enterado
+      3s: se había enterado
+      3p: se habían enterado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had found out}
+      1s: me hube enterado
+      1p: nos hubimos enterado
+      2s: te hubiste enterado
+      2p: os hubisteis enterado
+      3s: se hubo enterado
+      3p: se hubieron enterado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have found out}
+      1s: me habría enterado
+      1p: nos habríamos enterado
+      2s: te habrías enterado
+      2p: os habríais enterado
+      3s: se habría enterado
+      3p: se habrían enterado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I find out, am finding out'}
+      1s: me entere
+      1p: nos enteremos
+      2s: te enteres
+      2p: os enteréis
+      3s: se entere
+      3p: se enteren
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I found out, was finding out'}
+      1s: me enterara
+      1p: nos enteráramos
+      2s: te enteraras
+      2p: os enterarais
+      3s: se enterara
+      3p: se enteraran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will find out}
+      1s: me enterare
+      1p: nos enteráremos
+      2s: te enterares
+      2p: os enterareis
+      3s: se enterare
+      3p: se enteraren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have found out, found out'}
+      1s: me haya enterado
+      1p: nos hayamos enterado
+      2s: te hayas enterado
+      2p: os hayáis enterado
+      3s: se haya enterado
+      3p: se hayan enterado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have found out}
+      1s: me hubiere enterado
+      1p: nos hubiéremos enterado
+      2s: te hubieres enterado
+      2p: os hubiereis enterado
+      3s: se hubiere enterado
+      3p: se hubieren enterado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had found out}
+      1s: me hubiera enterado
+      1p: nos hubiéramos enterado
+      2s: te hubieras enterado
+      2p: os hubierais enterado
+      3s: se hubiera enterado
+      3p: se hubieran enterado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: find out! Don't find out!}
+      1s: ''
+      1p: ''
+      2s: entérate
+      2p: entérese
+      3s: enteraos
+      3p: entérense
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: find out! Don't find out!}
+      1s: ''
+      1p: ''
+      2s: no te enteres
+      2p: no se entere
+      3s: no os enteréis
+      3p: no se enteren

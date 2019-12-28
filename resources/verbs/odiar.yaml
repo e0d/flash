@@ -1,0 +1,186 @@
+odiar:
+  infinitive: odiar
+  gerund: odiando
+  pastparticiple: odiado
+  definitions: {en: to hate}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I hate, am hating'}
+      1s: odio
+      1p: odiamos
+      2s: odias
+      2p: odiáis
+      3s: odia
+      3p: odian
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will hate}
+      1s: odiaré
+      1p: odiaremos
+      2s: odiarás
+      2p: odiaréis
+      3s: odiará
+      3p: odiarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was hating, used to hate, hated'}
+      1s: odiaba
+      1p: odiábamos
+      2s: odiabas
+      2p: odiabais
+      3s: odiaba
+      3p: odiaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I hated}
+      1s: odié
+      1p: odiamos
+      2s: odiaste
+      2p: odiasteis
+      3s: odió
+      3p: odiaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would hate}
+      1s: odiaría
+      1p: odiaríamos
+      2s: odiarías
+      2p: odiaríais
+      3s: odiaría
+      3p: odiarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have hated}
+      1s: he odiado
+      1p: hemos odiado
+      2s: has odiado
+      2p: habéis odiado
+      3s: ha odiado
+      3p: han odiado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have hated}
+      1s: habré odiado
+      1p: habremos odiado
+      2s: habrás odiado
+      2p: habréis odiado
+      3s: habrá odiado
+      3p: habrán odiado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had hated}
+      1s: había odiado
+      1p: habíamos odiado
+      2s: habías odiado
+      2p: habíais odiado
+      3s: había odiado
+      3p: habían odiado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had hated}
+      1s: hube odiado
+      1p: hubimos odiado
+      2s: hubiste odiado
+      2p: hubisteis odiado
+      3s: hubo odiado
+      3p: hubieron odiado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have hated}
+      1s: habría odiado
+      1p: habríamos odiado
+      2s: habrías odiado
+      2p: habríais odiado
+      3s: habría odiado
+      3p: habrían odiado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I hate, am hating'}
+      1s: odie
+      1p: odiemos
+      2s: odies
+      2p: odiéis
+      3s: odie
+      3p: odien
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I hated, was hating'}
+      1s: odiara
+      1p: odiáramos
+      2s: odiaras
+      2p: odiarais
+      3s: odiara
+      3p: odiaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will hate}
+      1s: odiare
+      1p: odiáremos
+      2s: odiares
+      2p: odiareis
+      3s: odiare
+      3p: odiaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have hated, hated'}
+      1s: haya odiado
+      1p: hayamos odiado
+      2s: hayas odiado
+      2p: hayáis odiado
+      3s: haya odiado
+      3p: hayan odiado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have hated}
+      1s: hubiere odiado
+      1p: hubiéremos odiado
+      2s: hubieres odiado
+      2p: hubiereis odiado
+      3s: hubiere odiado
+      3p: hubieren odiado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had hated}
+      1s: hubiera odiado
+      1p: hubiéramos odiado
+      2s: hubieras odiado
+      2p: hubierais odiado
+      3s: hubiera odiado
+      3p: hubieran odiado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Hate! Don't hate!}
+      1s: ''
+      1p: ''
+      2s: odia
+      2p: odie
+      3s: odiad
+      3p: odien
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Hate! Don't hate!}
+      1s: ''
+      1p: ''
+      2s: no odies
+      2p: no odie
+      3s: no odiéis
+      3p: no odien

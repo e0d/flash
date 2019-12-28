@@ -1,0 +1,186 @@
+ser:
+  infinitive: ser
+  gerund: siendo
+  pastparticiple: sido
+  definitions: {en: to be}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I am}
+      1s: soy
+      1p: somos
+      2s: eres
+      2p: sois
+      3s: es
+      3p: son
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will be}
+      1s: seré
+      1p: seremos
+      2s: serás
+      2p: seréis
+      3s: será
+      3p: serán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I used to be, was'}
+      1s: era
+      1p: éramos
+      2s: eras
+      2p: erais
+      3s: era
+      3p: eran
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I was}
+      1s: fui
+      1p: fuimos
+      2s: fuiste
+      2p: fuisteis
+      3s: fue
+      3p: fueron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would be}
+      1s: sería
+      1p: seríamos
+      2s: serías
+      2p: seríais
+      3s: sería
+      3p: serían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have been}
+      1s: he sido
+      1p: hemos sido
+      2s: has sido
+      2p: habéis sido
+      3s: ha sido
+      3p: han sido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have been}
+      1s: habré sido
+      1p: habremos sido
+      2s: habrás sido
+      2p: habréis sido
+      3s: habrá sido
+      3p: habrán sido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had been}
+      1s: había sido
+      1p: habíamos sido
+      2s: habías sido
+      2p: habíais sido
+      3s: había sido
+      3p: habían sido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had been}
+      1s: hube sido
+      1p: hubimos sido
+      2s: hubiste sido
+      2p: hubisteis sido
+      3s: hubo sido
+      3p: hubieron sido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have been}
+      1s: habría sido
+      1p: habríamos sido
+      2s: habrías sido
+      2p: habríais sido
+      3s: habría sido
+      3p: habrían sido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I am}
+      1s: sea
+      1p: seamos
+      2s: seas
+      2p: seáis
+      3s: sea
+      3p: sean
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I was, was being, were'}
+      1s: fuera
+      1p: fuéramos
+      2s: fueras
+      2p: fuerais
+      3s: fuera
+      3p: fueran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will be}
+      1s: fuere
+      1p: fuéremos
+      2s: fueres
+      2p: fuereis
+      3s: fuere
+      3p: fueren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have been, was'}
+      1s: haya sido
+      1p: hayamos sido
+      2s: hayas sido
+      2p: hayáis sido
+      3s: haya sido
+      3p: hayan sido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have been}
+      1s: hubiere sido
+      1p: hubiéremos sido
+      2s: hubieres sido
+      2p: hubiereis sido
+      3s: hubiere sido
+      3p: hubieren sido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had been}
+      1s: hubiera sido
+      1p: hubiéramos sido
+      2s: hubieras sido
+      2p: hubierais sido
+      3s: hubiera sido
+      3p: hubieran sido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Be! Don't be!}
+      1s: ''
+      1p: ''
+      2s: sé
+      2p: sea
+      3s: sed
+      3p: sean
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Be! Don't be!}
+      1s: ''
+      1p: ''
+      2s: no seas
+      2p: no sea
+      3s: no seais
+      3p: no sean

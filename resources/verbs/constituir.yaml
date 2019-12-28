@@ -1,0 +1,186 @@
+constituir:
+  infinitive: constituir
+  gerund: constituyendo
+  pastparticiple: constituido
+  definitions: {en: to constitute}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I constitute, am constituting'}
+      1s: constituyo
+      1p: constituimos
+      2s: constituyes
+      2p: constituís
+      3s: constituye
+      3p: constituyen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will constitute}
+      1s: constituiré
+      1p: constituiremos
+      2s: constituirás
+      2p: constituiréis
+      3s: constituirá
+      3p: constituirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was constituting, used to constitute, constituted'}
+      1s: constituía
+      1p: constituíamos
+      2s: constituías
+      2p: constituíais
+      3s: constituía
+      3p: constituían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I constituted}
+      1s: constituí
+      1p: constituimos
+      2s: constituiste
+      2p: constituisteis
+      3s: constituyó
+      3p: constituyeron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would constitute}
+      1s: constituiría
+      1p: constituiríamos
+      2s: constituirías
+      2p: constituiríais
+      3s: constituiría
+      3p: constituirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have constituted}
+      1s: he constituido
+      1p: hemos constituido
+      2s: has constituido
+      2p: habéis constituido
+      3s: ha constituido
+      3p: han constituido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have constituted}
+      1s: habré constituido
+      1p: habremos constituido
+      2s: habrás constituido
+      2p: habréis constituido
+      3s: habrá constituido
+      3p: habrán constituido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had constituted}
+      1s: había constituido
+      1p: habíamos constituido
+      2s: habías constituido
+      2p: habíais constituido
+      3s: había constituido
+      3p: habían constituido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had constituted}
+      1s: hube constituido
+      1p: hubimos constituido
+      2s: hubiste constituido
+      2p: hubisteis constituido
+      3s: hubo constituido
+      3p: hubieron constituido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have constituted}
+      1s: habría constituido
+      1p: habríamos constituido
+      2s: habrías constituido
+      2p: habríais constituido
+      3s: habría constituido
+      3p: habrían constituido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I constitute, am constituting'}
+      1s: constituya
+      1p: constituyamos
+      2s: constituyas
+      2p: constituyáis
+      3s: constituya
+      3p: constituyan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I constituted, was constituting'}
+      1s: constituyera
+      1p: constituyéramos
+      2s: constituyeras
+      2p: constituyerais
+      3s: constituyera
+      3p: constituyeran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will constitute}
+      1s: constituyere
+      1p: constituyéremos
+      2s: constituyeres
+      2p: constituyereis
+      3s: constituyere
+      3p: constituyeren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have constituted, constituted'}
+      1s: haya constituido
+      1p: hayamos constituido
+      2s: hayas constituido
+      2p: hayáis constituido
+      3s: haya constituido
+      3p: hayan constituido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have constituted}
+      1s: hubiere constituido
+      1p: hubiéremos constituido
+      2s: hubieres constituido
+      2p: hubiereis constituido
+      3s: hubiere constituido
+      3p: hubieren constituido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had constituted}
+      1s: hubiera constituido
+      1p: hubiéramos constituido
+      2s: hubieras constituido
+      2p: hubierais constituido
+      3s: hubiera constituido
+      3p: hubieran constituido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Constitute! Don't constitute!}
+      1s: ''
+      1p: ''
+      2s: constituye
+      2p: constituya
+      3s: constituid
+      3p: constituyan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Constitute! Don't constitute!}
+      1s: ''
+      1p: ''
+      2s: no constituyas
+      2p: no constituya
+      3s: no constituyáis
+      3p: no constituyan

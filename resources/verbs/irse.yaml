@@ -1,0 +1,186 @@
+irse:
+  infinitive: irse
+  gerund: yéndose
+  pastparticiple: ido
+  definitions: {en: 'to go away, leave, depart'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I go away, am going away'}
+      1s: me voy
+      1p: nos vamos
+      2s: te vas
+      2p: os vais
+      3s: se va
+      3p: se van
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will go away}
+      1s: me iré
+      1p: nos iremos
+      2s: te irás
+      2p: os iréis
+      3s: se irá
+      3p: se irán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was going away, used to go away, went away'}
+      1s: me iba
+      1p: nos íbamos
+      2s: te ibas
+      2p: os ibais
+      3s: se iba
+      3p: se iban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I went away}
+      1s: me fui
+      1p: nos fuimos
+      2s: te fuiste
+      2p: os fuisteis
+      3s: se fue
+      3p: se fueron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would go away}
+      1s: me iría
+      1p: nos iríamos
+      2s: te irías
+      2p: os iríais
+      3s: se iría
+      3p: se irían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have gone away}
+      1s: me he ido
+      1p: nos hemos ido
+      2s: te has ido
+      2p: os habéis ido
+      3s: se ha ido
+      3p: se han ido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have gone away}
+      1s: me habré ido
+      1p: nos habremos ido
+      2s: te habrás ido
+      2p: os habréis ido
+      3s: se habrá ido
+      3p: se habrán ido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had gone away}
+      1s: me había ido
+      1p: nos habíamos ido
+      2s: te habías ido
+      2p: os habíais ido
+      3s: se había ido
+      3p: se habían ido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had gone away}
+      1s: me hube ido
+      1p: nos hubimos ido
+      2s: te hubiste ido
+      2p: os hubisteis ido
+      3s: se hubo ido
+      3p: se hubieron ido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have gone away}
+      1s: me habría ido
+      1p: nos habríamos ido
+      2s: te habrías ido
+      2p: os habríais ido
+      3s: se habría ido
+      3p: se habrían ido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I go away, am going away'}
+      1s: me vaya
+      1p: nos vayamos
+      2s: te vayas
+      2p: os vayáis
+      3s: se vaya
+      3p: se vayan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I went away, was going away'}
+      1s: me fuera
+      1p: nos fuéramos
+      2s: te fueras
+      2p: os fuerais
+      3s: se fuera
+      3p: se fueran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will go away}
+      1s: me fuere
+      1p: nos fuéremos
+      2s: te fueres
+      2p: os fuereis
+      3s: se fuere
+      3p: se fueren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have gone away, went away'}
+      1s: me haya ido
+      1p: nos hayamos ido
+      2s: te hayas ido
+      2p: os hayáis ido
+      3s: se haya ido
+      3p: se hayan ido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have gone away}
+      1s: me hubiere ido
+      1p: nos hubiéremos ido
+      2s: te hubieres ido
+      2p: os hubiereis ido
+      3s: se hubiere ido
+      3p: se hubieren ido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had gone away}
+      1s: me hubiera ido
+      1p: nos hubiéramos ido
+      2s: te hubieras ido
+      2p: os hubierais ido
+      3s: se hubiera ido
+      3p: se hubieran ido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Go away! Don't go away!}
+      1s: ''
+      1p: ''
+      2s: vete
+      2p: váyase
+      3s: idos
+      3p: váyanse
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Go away! Don't go away!}
+      1s: ''
+      1p: ''
+      2s: no te vayas
+      2p: no se vaya
+      3s: no os vayáis
+      3p: no se vayan

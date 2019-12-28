@@ -1,0 +1,186 @@
+compartir:
+  infinitive: compartir
+  gerund: compartiendo
+  pastparticiple: compartido
+  definitions: {en: 'to share; to divide [up]'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I share, am sharing'}
+      1s: comparto
+      1p: compartimos
+      2s: compartes
+      2p: compartís
+      3s: comparte
+      3p: comparten
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will share}
+      1s: compartiré
+      1p: compartiremos
+      2s: compartirás
+      2p: compartiréis
+      3s: compartirá
+      3p: compartirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was sharing, used to share, shared'}
+      1s: compartía
+      1p: compartíamos
+      2s: compartías
+      2p: compartíais
+      3s: compartía
+      3p: compartían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I shared}
+      1s: compartí
+      1p: compartimos
+      2s: compartiste
+      2p: compartisteis
+      3s: compartió
+      3p: compartieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would share}
+      1s: compartiría
+      1p: compartiríamos
+      2s: compartirías
+      2p: compartiríais
+      3s: compartiría
+      3p: compartirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have shared}
+      1s: he compartido
+      1p: hemos compartido
+      2s: has compartido
+      2p: habéis compartido
+      3s: ha compartido
+      3p: han compartido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have shared}
+      1s: habré compartido
+      1p: habremos compartido
+      2s: habrás compartido
+      2p: habréis compartido
+      3s: habrá compartido
+      3p: habrán compartido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had shared}
+      1s: había compartido
+      1p: habíamos compartido
+      2s: habías compartido
+      2p: habíais compartido
+      3s: había compartido
+      3p: habían compartido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had shared}
+      1s: hube compartido
+      1p: hubimos compartido
+      2s: hubiste compartido
+      2p: hubisteis compartido
+      3s: hubo compartido
+      3p: hubieron compartido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have shared}
+      1s: habría compartido
+      1p: habríamos compartido
+      2s: habrías compartido
+      2p: habríais compartido
+      3s: habría compartido
+      3p: habrían compartido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I share, am sharing'}
+      1s: comparta
+      1p: compartamos
+      2s: compartas
+      2p: compartáis
+      3s: comparta
+      3p: compartan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I shared, was sharing'}
+      1s: compartiera
+      1p: compartiéramos
+      2s: compartieras
+      2p: compartierais
+      3s: compartiera
+      3p: compartieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will share}
+      1s: compartiere
+      1p: compartiéremos
+      2s: compartieres
+      2p: compartiereis
+      3s: compartiere
+      3p: compartieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have shared, shared'}
+      1s: haya compartido
+      1p: hayamos compartido
+      2s: hayas compartido
+      2p: hayáis compartido
+      3s: haya compartido
+      3p: hayan compartido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have shared}
+      1s: hubiere compartido
+      1p: hubiéremos compartido
+      2s: hubieres compartido
+      2p: hubiereis compartido
+      3s: hubiere compartido
+      3p: hubieren compartido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had shared}
+      1s: hubiera compartido
+      1p: hubiéramos compartido
+      2s: hubieras compartido
+      2p: hubierais compartido
+      3s: hubiera compartido
+      3p: hubieran compartido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Share! Don't share!}
+      1s: ''
+      1p: ''
+      2s: comparte
+      2p: comparta
+      3s: compartid
+      3p: compartan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Share! Don't share!}
+      1s: ''
+      1p: ''
+      2s: no compartas
+      2p: no comparta
+      3s: no compartáis
+      3p: no compartan

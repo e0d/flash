@@ -1,0 +1,186 @@
+conquistar:
+  infinitive: conquistar
+  gerund: conquistando
+  pastparticiple: conquistado
+  definitions: {en: 'to conquer, overcome, win'}
+  tenses:
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will conquer}
+      1s: conquistaré
+      1p: conquistaremos
+      2s: conquistarás
+      2p: conquistaréis
+      3s: conquistará
+      3p: conquistarán
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I conquer, am conquering'}
+      1s: conquisto
+      1p: conquistamos
+      2s: conquistas
+      2p: conquistáis
+      3s: conquista
+      3p: conquistan
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was conquering, used to conquer, conquered'}
+      1s: conquistaba
+      1p: conquistábamos
+      2s: conquistabas
+      2p: conquistabais
+      3s: conquistaba
+      3p: conquistaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I conquered}
+      1s: conquisté
+      1p: conquistamos
+      2s: conquistaste
+      2p: conquistasteis
+      3s: conquistó
+      3p: conquistaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would conquer}
+      1s: conquistaría
+      1p: conquistaríamos
+      2s: conquistarías
+      2p: conquistaríais
+      3s: conquistaría
+      3p: conquistarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have conquered}
+      1s: he conquistado
+      1p: hemos conquistado
+      2s: has conquistado
+      2p: habéis conquistado
+      3s: ha conquistado
+      3p: han conquistado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have conquered}
+      1s: habré conquistado
+      1p: habremos conquistado
+      2s: habrás conquistado
+      2p: habréis conquistado
+      3s: habrá conquistado
+      3p: habrán conquistado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had conquered}
+      1s: había conquistado
+      1p: habíamos conquistado
+      2s: habías conquistado
+      2p: habíais conquistado
+      3s: había conquistado
+      3p: habían conquistado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had conquered}
+      1s: hube conquistado
+      1p: hubimos conquistado
+      2s: hubiste conquistado
+      2p: hubisteis conquistado
+      3s: hubo conquistado
+      3p: hubieron conquistado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have conquered}
+      1s: habría conquistado
+      1p: habríamos conquistado
+      2s: habrías conquistado
+      2p: habríais conquistado
+      3s: habría conquistado
+      3p: habrían conquistado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I conquer, am conquering'}
+      1s: conquiste
+      1p: conquistemos
+      2s: conquistes
+      2p: conquistéis
+      3s: conquiste
+      3p: conquisten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I conquered, was conquering'}
+      1s: conquistara
+      1p: conquistáramos
+      2s: conquistaras
+      2p: conquistarais
+      3s: conquistara
+      3p: conquistaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will conquer}
+      1s: conquistare
+      1p: conquistáremos
+      2s: conquistares
+      2p: conquistareis
+      3s: conquistare
+      3p: conquistaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have conquered, conquered'}
+      1s: haya conquistado
+      1p: hayamos conquistado
+      2s: hayas conquistado
+      2p: hayáis conquistado
+      3s: haya conquistado
+      3p: hayan conquistado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have conquered}
+      1s: hubiere conquistado
+      1p: hubiéremos conquistado
+      2s: hubieres conquistado
+      2p: hubiereis conquistado
+      3s: hubiere conquistado
+      3p: hubieren conquistado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had conquered}
+      1s: hubiera conquistado
+      1p: hubiéramos conquistado
+      2s: hubieras conquistado
+      2p: hubierais conquistado
+      3s: hubiera conquistado
+      3p: hubieran conquistado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Conquer! Don't conquer!}
+      1s: ''
+      1p: ''
+      2s: conquista
+      2p: conquiste
+      3s: conquistad
+      3p: conquisten
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Conquer! Don't conquer!}
+      1s: ''
+      1p: ''
+      2s: no conquistes
+      2p: no conquiste
+      3s: no conquistéis
+      3p: no conquisten

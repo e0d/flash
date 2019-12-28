@@ -1,0 +1,186 @@
+pagar:
+  infinitive: pagar
+  gerund: pagando
+  pastparticiple: pagado
+  definitions: {en: 'to pay, pay for'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I pay, am paying'}
+      1s: pago
+      1p: pagamos
+      2s: pagas
+      2p: pagáis
+      3s: paga
+      3p: pagan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will pay}
+      1s: pagaré
+      1p: pagaremos
+      2s: pagarás
+      2p: pagaréis
+      3s: pagará
+      3p: pagarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was paying, used to pay, paid'}
+      1s: pagaba
+      1p: pagábamos
+      2s: pagabas
+      2p: pagabais
+      3s: pagaba
+      3p: pagaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I paid}
+      1s: pagué
+      1p: pagamos
+      2s: pagaste
+      2p: pagasteis
+      3s: pagó
+      3p: pagaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would pay}
+      1s: pagaría
+      1p: pagaríamos
+      2s: pagarías
+      2p: pagaríais
+      3s: pagaría
+      3p: pagarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have paid}
+      1s: he pagado
+      1p: hemos pagado
+      2s: has pagado
+      2p: habéis pagado
+      3s: ha pagado
+      3p: han pagado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have paid}
+      1s: habré pagado
+      1p: habremos pagado
+      2s: habrás pagado
+      2p: habréis pagado
+      3s: habrá pagado
+      3p: habrán pagado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had paid}
+      1s: había pagado
+      1p: habíamos pagado
+      2s: habías pagado
+      2p: habíais pagado
+      3s: había pagado
+      3p: habían pagado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had paid}
+      1s: hube pagado
+      1p: hubimos pagado
+      2s: hubiste pagado
+      2p: hubisteis pagado
+      3s: hubo pagado
+      3p: hubieron pagado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have paid}
+      1s: habría pagado
+      1p: habríamos pagado
+      2s: habrías pagado
+      2p: habríais pagado
+      3s: habría pagado
+      3p: habrían pagado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I pay, am paying'}
+      1s: pague
+      1p: paguemos
+      2s: pagues
+      2p: paguéis
+      3s: pague
+      3p: paguen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I paid, was paying'}
+      1s: pagara
+      1p: pagáramos
+      2s: pagaras
+      2p: pagarais
+      3s: pagara
+      3p: pagaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will pay}
+      1s: pagare
+      1p: pagáremos
+      2s: pagares
+      2p: pagareis
+      3s: pagare
+      3p: pagaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have paid, paid'}
+      1s: haya pagado
+      1p: hayamos pagado
+      2s: hayas pagado
+      2p: hayáis pagado
+      3s: haya pagado
+      3p: hayan pagado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have paid}
+      1s: hubiere pagado
+      1p: hubiéremos pagado
+      2s: hubieres pagado
+      2p: hubiereis pagado
+      3s: hubiere pagado
+      3p: hubieren pagado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had paid}
+      1s: hubiera pagado
+      1p: hubiéramos pagado
+      2s: hubieras pagado
+      2p: hubierais pagado
+      3s: hubiera pagado
+      3p: hubieran pagado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Pay! Don't pay!}
+      1s: ''
+      1p: ''
+      2s: paga
+      2p: pague
+      3s: pagad
+      3p: paguen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Pay! Don't pay!}
+      1s: ''
+      1p: ''
+      2s: no pagues
+      2p: no pague
+      3s: no paguéis
+      3p: no paguen

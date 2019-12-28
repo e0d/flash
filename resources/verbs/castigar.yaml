@@ -1,0 +1,186 @@
+castigar:
+  infinitive: castigar
+  gerund: castigando
+  pastparticiple: castigado
+  definitions: {en: 'to punish, penalize, castigate'}
+  tenses:
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Punish! Don't punish!}
+      1s: ''
+      1p: ''
+      2s: castiga
+      2p: castigue
+      3s: castigad
+      3p: castiguen
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I punish, am punishing'}
+      1s: castigo
+      1p: castigamos
+      2s: castigas
+      2p: castigáis
+      3s: castiga
+      3p: castigan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will punish}
+      1s: castigaré
+      1p: castigaremos
+      2s: castigarás
+      2p: castigaréis
+      3s: castigará
+      3p: castigarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was punishing, used to punish, punished'}
+      1s: castigaba
+      1p: castigábamos
+      2s: castigabas
+      2p: castigabais
+      3s: castigaba
+      3p: castigaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I punished}
+      1s: castigué
+      1p: castigamos
+      2s: castigaste
+      2p: castigasteis
+      3s: castigó
+      3p: castigaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would punish}
+      1s: castigaría
+      1p: castigaríamos
+      2s: castigarías
+      2p: castigaríais
+      3s: castigaría
+      3p: castigarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have punished}
+      1s: he castigado
+      1p: hemos castigado
+      2s: has castigado
+      2p: habéis castigado
+      3s: ha castigado
+      3p: han castigado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have punished}
+      1s: habré castigado
+      1p: habremos castigado
+      2s: habrás castigado
+      2p: habréis castigado
+      3s: habrá castigado
+      3p: habrán castigado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had punished}
+      1s: había castigado
+      1p: habíamos castigado
+      2s: habías castigado
+      2p: habíais castigado
+      3s: había castigado
+      3p: habían castigado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had punished}
+      1s: hube castigado
+      1p: hubimos castigado
+      2s: hubiste castigado
+      2p: hubisteis castigado
+      3s: hubo castigado
+      3p: hubieron castigado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have punished}
+      1s: habría castigado
+      1p: habríamos castigado
+      2s: habrías castigado
+      2p: habríais castigado
+      3s: habría castigado
+      3p: habrían castigado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I punish, am punishing'}
+      1s: castigue
+      1p: castiguemos
+      2s: castigues
+      2p: castiguéis
+      3s: castigue
+      3p: castiguen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I punished, was punishing'}
+      1s: castigara
+      1p: castigáramos
+      2s: castigaras
+      2p: castigarais
+      3s: castigara
+      3p: castigaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will punish}
+      1s: castigare
+      1p: castigáremos
+      2s: castigares
+      2p: castigareis
+      3s: castigare
+      3p: castigaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have punished, punished'}
+      1s: haya castigado
+      1p: hayamos castigado
+      2s: hayas castigado
+      2p: hayáis castigado
+      3s: haya castigado
+      3p: hayan castigado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have punished}
+      1s: hubiere castigado
+      1p: hubiéremos castigado
+      2s: hubieres castigado
+      2p: hubiereis castigado
+      3s: hubiere castigado
+      3p: hubieren castigado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had punished}
+      1s: hubiera castigado
+      1p: hubiéramos castigado
+      2s: hubieras castigado
+      2p: hubierais castigado
+      3s: hubiera castigado
+      3p: hubieran castigado
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Punish! Don't punish!}
+      1s: ''
+      1p: ''
+      2s: no castigues
+      2p: no castigue
+      3s: no castiguéis
+      3p: no castiguen

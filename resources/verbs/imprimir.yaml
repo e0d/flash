@@ -1,0 +1,186 @@
+imprimir:
+  infinitive: imprimir
+  gerund: imprimiendo
+  pastparticiple: imprimido, impreso
+  definitions: {en: to print}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I print, am printing'}
+      1s: imprimo
+      1p: imprimimos
+      2s: imprimes
+      2p: imprimís
+      3s: imprime
+      3p: imprimen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will print}
+      1s: imprimiré
+      1p: imprimiremos
+      2s: imprimirás
+      2p: imprimiréis
+      3s: imprimirá
+      3p: imprimirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was printing, used to print, printed'}
+      1s: imprimía
+      1p: imprimíamos
+      2s: imprimías
+      2p: imprimíais
+      3s: imprimía
+      3p: imprimían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I printed}
+      1s: imprimí
+      1p: imprimimos
+      2s: imprimiste
+      2p: imprimisteis
+      3s: imprimió
+      3p: imprimieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would print}
+      1s: imprimiría
+      1p: imprimiríamos
+      2s: imprimirías
+      2p: imprimiríais
+      3s: imprimiría
+      3p: imprimirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have printed}
+      1s: he imprimido
+      1p: hemos imprimido
+      2s: has imprimido
+      2p: habéis imprimido
+      3s: ha imprimido
+      3p: han imprimido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have printed}
+      1s: habré imprimido
+      1p: habremos imprimido
+      2s: habrás imprimido
+      2p: habréis imprimido
+      3s: habrá imprimido
+      3p: habrán imprimido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had printed}
+      1s: había imprimido
+      1p: habíamos imprimido
+      2s: habías imprimido
+      2p: habíais imprimido
+      3s: había imprimido
+      3p: habían imprimido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had printed}
+      1s: hube imprimido
+      1p: hubimos imprimido
+      2s: hubiste imprimido
+      2p: hubisteis imprimido
+      3s: hubo imprimido
+      3p: hubieron imprimido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have printed}
+      1s: habría imprimido
+      1p: habríamos imprimido
+      2s: habrías imprimido
+      2p: habríais imprimido
+      3s: habría imprimido
+      3p: habrían imprimido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I print, am printing'}
+      1s: imprima
+      1p: imprimamos
+      2s: imprimas
+      2p: imprimáis
+      3s: imprima
+      3p: impriman
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I printed, was printing'}
+      1s: imprimiera
+      1p: imprimiéramos
+      2s: imprimieras
+      2p: imprimierais
+      3s: imprimiera
+      3p: imprimieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will print}
+      1s: imprimiere
+      1p: imprimiéremos
+      2s: imprimieres
+      2p: imprimiereis
+      3s: imprimiere
+      3p: imprimieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have printed, printed'}
+      1s: haya imprimido
+      1p: hayamos imprimido
+      2s: hayas imprimido
+      2p: hayáis imprimido
+      3s: haya imprimido
+      3p: hayan imprimido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have printed}
+      1s: hubiere imprimido
+      1p: hubiéremos imprimido
+      2s: hubieres imprimido
+      2p: hubiereis imprimido
+      3s: hubiere imprimido
+      3p: hubieren imprimido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had printed}
+      1s: hubiera imprimido
+      1p: hubiéramos imprimido
+      2s: hubieras imprimido
+      2p: hubierais imprimido
+      3s: hubiera imprimido
+      3p: hubieran imprimido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Print! Don't print!}
+      1s: ''
+      1p: ''
+      2s: imprime
+      2p: imprima
+      3s: imprimid
+      3p: impriman
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Print! Don't print!}
+      1s: ''
+      1p: ''
+      2s: no imprimas
+      2p: no imprima
+      3s: no imprimáis
+      3p: no impriman

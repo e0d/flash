@@ -1,0 +1,186 @@
+diseñar:
+  infinitive: diseñar
+  gerund: diseñando
+  pastparticiple: diseñado
+  definitions: {en: to design}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I design, am designing'}
+      1s: diseño
+      1p: diseñamos
+      2s: diseñas
+      2p: diseñáis
+      3s: diseña
+      3p: diseñan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will design}
+      1s: diseñaré
+      1p: diseñaremos
+      2s: diseñarás
+      2p: diseñaréis
+      3s: diseñará
+      3p: diseñarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was designing, used to design, designed'}
+      1s: diseñaba
+      1p: diseñábamos
+      2s: diseñabas
+      2p: diseñabais
+      3s: diseñaba
+      3p: diseñaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I designed}
+      1s: diseñé
+      1p: diseñamos
+      2s: diseñaste
+      2p: diseñasteis
+      3s: diseñó
+      3p: diseñaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would design}
+      1s: diseñaría
+      1p: diseñaríamos
+      2s: diseñarías
+      2p: diseñaríais
+      3s: diseñaría
+      3p: diseñarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have designed}
+      1s: he diseñado
+      1p: hemos diseñado
+      2s: has diseñado
+      2p: habéis diseñado
+      3s: ha diseñado
+      3p: han diseñado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have designed}
+      1s: habré diseñado
+      1p: habremos diseñado
+      2s: habrás diseñado
+      2p: habréis diseñado
+      3s: habrá diseñado
+      3p: habrán diseñado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had designed}
+      1s: había diseñado
+      1p: habíamos diseñado
+      2s: habías diseñado
+      2p: habíais diseñado
+      3s: había diseñado
+      3p: habían diseñado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had designed}
+      1s: hube diseñado
+      1p: hubimos diseñado
+      2s: hubiste diseñado
+      2p: hubisteis diseñado
+      3s: hubo diseñado
+      3p: hubieron diseñado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have designed}
+      1s: habría diseñado
+      1p: habríamos diseñado
+      2s: habrías diseñado
+      2p: habríais diseñado
+      3s: habría diseñado
+      3p: habrían diseñado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I design, am designing'}
+      1s: diseñe
+      1p: diseñemos
+      2s: diseñes
+      2p: diseñéis
+      3s: diseñe
+      3p: diseñen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I designed, was designing'}
+      1s: diseñara
+      1p: diseñáramos
+      2s: diseñaras
+      2p: diseñarais
+      3s: diseñara
+      3p: diseñaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will design}
+      1s: diseñare
+      1p: diseñáremos
+      2s: diseñares
+      2p: diseñareis
+      3s: diseñare
+      3p: diseñaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have designed, designed'}
+      1s: haya diseñado
+      1p: hayamos diseñado
+      2s: hayas diseñado
+      2p: hayáis diseñado
+      3s: haya diseñado
+      3p: hayan diseñado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have designed}
+      1s: hubiere diseñado
+      1p: hubiéremos diseñado
+      2s: hubieres diseñado
+      2p: hubiereis diseñado
+      3s: hubiere diseñado
+      3p: hubieren diseñado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had designed}
+      1s: hubiera diseñado
+      1p: hubiéramos diseñado
+      2s: hubieras diseñado
+      2p: hubierais diseñado
+      3s: hubiera diseñado
+      3p: hubieran diseñado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Design! Don't design!}
+      1s: ''
+      1p: ''
+      2s: diseña
+      2p: diseñe
+      3s: diseñad
+      3p: diseñen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Design! Don't design!}
+      1s: ''
+      1p: ''
+      2s: no diseñes
+      2p: no diseñe
+      3s: no diseñéis
+      3p: no diseñen

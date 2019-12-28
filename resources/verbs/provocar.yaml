@@ -1,0 +1,186 @@
+provocar:
+  infinitive: provocar
+  gerund: provocando
+  pastparticiple: provocado
+  definitions: {en: to provoke}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I provoke, am provoking'}
+      1s: provoco
+      1p: provocamos
+      2s: provocas
+      2p: provocáis
+      3s: provoca
+      3p: provocan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will provoke}
+      1s: provocaré
+      1p: provocaremos
+      2s: provocarás
+      2p: provocaréis
+      3s: provocará
+      3p: provocarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was provoking, used to provoke, provoked'}
+      1s: provocaba
+      1p: provocábamos
+      2s: provocabas
+      2p: provocabais
+      3s: provocaba
+      3p: provocaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I provoked}
+      1s: provoqué
+      1p: provocamos
+      2s: provocaste
+      2p: provocasteis
+      3s: provocó
+      3p: provocaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would provoke}
+      1s: provocaría
+      1p: provocaríamos
+      2s: provocarías
+      2p: provocaríais
+      3s: provocaría
+      3p: provocarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have provoked}
+      1s: he provocado
+      1p: hemos provocado
+      2s: has provocado
+      2p: habéis provocado
+      3s: ha provocado
+      3p: han provocado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have provoked}
+      1s: habré provocado
+      1p: habremos provocado
+      2s: habrás provocado
+      2p: habréis provocado
+      3s: habrá provocado
+      3p: habrán provocado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had provoked}
+      1s: había provocado
+      1p: habíamos provocado
+      2s: habías provocado
+      2p: habíais provocado
+      3s: había provocado
+      3p: habían provocado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had provoked}
+      1s: hube provocado
+      1p: hubimos provocado
+      2s: hubiste provocado
+      2p: hubisteis provocado
+      3s: hubo provocado
+      3p: hubieron provocado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have provoked}
+      1s: habría provocado
+      1p: habríamos provocado
+      2s: habrías provocado
+      2p: habríais provocado
+      3s: habría provocado
+      3p: habrían provocado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I provoke, am provoking'}
+      1s: provoque
+      1p: provoquemos
+      2s: provoques
+      2p: provoquéis
+      3s: provoque
+      3p: provoquen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I provoked, was provoking'}
+      1s: provocara
+      1p: provocáramos
+      2s: provocaras
+      2p: provocarais
+      3s: provocara
+      3p: provocaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will provoke}
+      1s: provocare
+      1p: provocáremos
+      2s: provocares
+      2p: provocareis
+      3s: provocare
+      3p: provocaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have provoked, provoked'}
+      1s: haya provocado
+      1p: hayamos provocado
+      2s: hayas provocado
+      2p: hayáis provocado
+      3s: haya provocado
+      3p: hayan provocado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have provoked}
+      1s: hubiere provocado
+      1p: hubiéremos provocado
+      2s: hubieres provocado
+      2p: hubiereis provocado
+      3s: hubiere provocado
+      3p: hubieren provocado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had provoked}
+      1s: hubiera provocado
+      1p: hubiéramos provocado
+      2s: hubieras provocado
+      2p: hubierais provocado
+      3s: hubiera provocado
+      3p: hubieran provocado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Provoke! Don't provoke!}
+      1s: ''
+      1p: ''
+      2s: provoca
+      2p: provoque
+      3s: provocad
+      3p: provoquen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Provoke! Don't provoke!}
+      1s: ''
+      1p: ''
+      2s: no provoques
+      2p: no provoque
+      3s: no provoquéis
+      3p: no provoquen

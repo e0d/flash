@@ -1,0 +1,186 @@
+peinarse:
+  infinitive: peinarse
+  gerund: peinándose
+  pastparticiple: peinado
+  definitions: {en: to comb one's hair; to do one's hair}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I comb my hair, am combing my hair'}
+      1s: me peino
+      1p: nos peinamos
+      2s: te peinas
+      2p: os peináis
+      3s: se peina
+      3p: se peinan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will comb my hair}
+      1s: me peinaré
+      1p: nos peinaremos
+      2s: te peinarás
+      2p: os peinaréis
+      3s: se peinará
+      3p: se peinarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was combing my hair, used to comb my hair, combed my hair'}
+      1s: me peinaba
+      1p: nos peinábamos
+      2s: te peinabas
+      2p: os peinabais
+      3s: se peinaba
+      3p: se peinaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I combed my hair}
+      1s: me peiné
+      1p: nos peinamos
+      2s: te peinaste
+      2p: os peinasteis
+      3s: se peinó
+      3p: se peinaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would comb my hair}
+      1s: me peinaría
+      1p: nos peinaríamos
+      2s: te peinarías
+      2p: os peinaríais
+      3s: se peinaría
+      3p: se peinarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have combed my hair}
+      1s: me he peinado
+      1p: nos hemos peinado
+      2s: te has peinado
+      2p: os habéis peinado
+      3s: se ha peinado
+      3p: se han peinado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have combed my hair}
+      1s: me habré peinado
+      1p: nos habremos peinado
+      2s: te habrás peinado
+      2p: os habréis peinado
+      3s: se habrá peinado
+      3p: se habrán peinado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had combed my hair}
+      1s: me había peinado
+      1p: nos habíamos peinado
+      2s: te habías peinado
+      2p: os habíais peinado
+      3s: se había peinado
+      3p: se habían peinado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had combed my hair}
+      1s: me hube peinado
+      1p: nos hubimos peinado
+      2s: te hubiste peinado
+      2p: os hubisteis peinado
+      3s: se hubo peinado
+      3p: se hubieron peinado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have combed my hair}
+      1s: me habría peinado
+      1p: nos habríamos peinado
+      2s: te habrías peinado
+      2p: os habríais peinado
+      3s: se habría peinado
+      3p: se habrían peinado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I comb my hair, am combing my hair'}
+      1s: me peine
+      1p: nos peinemos
+      2s: te peines
+      2p: os peinéis
+      3s: se peine
+      3p: se peinen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I combed my hair, was combing my hair'}
+      1s: me peinara
+      1p: nos peináramos
+      2s: te peinaras
+      2p: os peinarais
+      3s: se peinara
+      3p: se peinaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will comb my hair}
+      1s: me peinare
+      1p: nos peináremos
+      2s: te peinares
+      2p: os peinareis
+      3s: se peinare
+      3p: se peinaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have combed my hair, combed my hair'}
+      1s: me haya peinado
+      1p: nos hayamos peinado
+      2s: te hayas peinado
+      2p: os hayáis peinado
+      3s: se haya peinado
+      3p: se hayan peinado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have combed my hair}
+      1s: me hubiere peinado
+      1p: nos hubiéremos peinado
+      2s: te hubieres peinado
+      2p: os hubiereis peinado
+      3s: se hubiere peinado
+      3p: se hubieren peinado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had combed my hair}
+      1s: me hubiera peinado
+      1p: nos hubiéramos peinado
+      2s: te hubieras peinado
+      2p: os hubierais peinado
+      3s: se hubiera peinado
+      3p: se hubieran peinado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Comb my hair! Don't comb my hair!}
+      1s: ''
+      1p: ''
+      2s: péinate
+      2p: péinese
+      3s: peinaos
+      3p: péinense
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Comb my hair! Don't comb my hair!}
+      1s: ''
+      1p: ''
+      2s: no te peines
+      2p: no se peine
+      3s: no os peinéis
+      3p: no se peinen

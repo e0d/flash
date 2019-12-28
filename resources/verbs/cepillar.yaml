@@ -1,0 +1,186 @@
+cepillar:
+  infinitive: cepillar
+  gerund: cepillando
+  pastparticiple: cepillado
+  definitions: {en: to brush}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I brush, am brushing'}
+      1s: cepillo
+      1p: cepillamos
+      2s: cepillas
+      2p: cepilláis
+      3s: cepilla
+      3p: cepillan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will brush}
+      1s: cepillaré
+      1p: cepillaremos
+      2s: cepillarás
+      2p: cepillaréis
+      3s: cepillará
+      3p: cepillarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was brushing, used to brush, brushed'}
+      1s: cepillaba
+      1p: cepillábamos
+      2s: cepillabas
+      2p: cepillabais
+      3s: cepillaba
+      3p: cepillaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I brushed}
+      1s: cepillé
+      1p: cepillamos
+      2s: cepillaste
+      2p: cepillasteis
+      3s: cepilló
+      3p: cepillaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would brush}
+      1s: cepillaría
+      1p: cepillaríamos
+      2s: cepillarías
+      2p: cepillaríais
+      3s: cepillaría
+      3p: cepillarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have brushed}
+      1s: he cepillado
+      1p: hemos cepillado
+      2s: has cepillado
+      2p: cepilléis cepillado
+      3s: ha cepillado
+      3p: han cepillado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have brushed}
+      1s: cepillré cepillado
+      1p: cepillremos cepillado
+      2s: cepillrás cepillado
+      2p: cepillréis cepillado
+      3s: cepillrá cepillado
+      3p: cepillrán cepillado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had brushed}
+      1s: cepillía cepillado
+      1p: cepillíamos cepillado
+      2s: cepillías cepillado
+      2p: cepillíais cepillado
+      3s: cepillía cepillado
+      3p: cepillían cepillado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had brushed}
+      1s: hube cepillado
+      1p: hubimos cepillado
+      2s: hubiste cepillado
+      2p: hubisteis cepillado
+      3s: hubo cepillado
+      3p: hubieron cepillado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have brushed}
+      1s: cepillría cepillado
+      1p: cepillríamos cepillado
+      2s: cepillrías cepillado
+      2p: cepillríais cepillado
+      3s: cepillría cepillado
+      3p: cepillrían cepillado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I brush, am brushing'}
+      1s: cepille
+      1p: cepillemos
+      2s: cepilles
+      2p: cepilléis
+      3s: cepille
+      3p: cepillen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I brushed, was brushing'}
+      1s: cepillara
+      1p: cepilláramos
+      2s: cepillaras
+      2p: cepillarais
+      3s: cepillara
+      3p: cepillaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will brush}
+      1s: cepillare
+      1p: cepilláremos
+      2s: cepillares
+      2p: cepillareis
+      3s: cepillare
+      3p: cepillaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have brushed, brushed'}
+      1s: haya cepillado
+      1p: hayamos cepillado
+      2s: hayas cepillado
+      2p: hayáis cepillado
+      3s: haya cepillado
+      3p: hayan cepillado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have brushed}
+      1s: hubiere cepillado
+      1p: hubiéremos cepillado
+      2s: hubieres cepillado
+      2p: hubiereis cepillado
+      3s: hubiere cepillado
+      3p: hubieren cepillado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had brushed}
+      1s: hubiera cepillado
+      1p: hubiéramos cepillado
+      2s: hubieras cepillado
+      2p: hubierais cepillado
+      3s: hubiera cepillado
+      3p: hubieran cepillado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Brush! Don't brush!}
+      1s: ''
+      1p: ''
+      2s: cepilla
+      2p: cepille
+      3s: cepillad
+      3p: cepillen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Brush! Don't brush!}
+      1s: ''
+      1p: ''
+      2s: no cepilles
+      2p: no cepille
+      3s: no cepilléis
+      3p: no cepillen

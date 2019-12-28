@@ -1,0 +1,186 @@
+coser:
+  infinitive: coser
+  gerund: cosiendo
+  pastparticiple: cosido
+  definitions: {en: 'to sew, sew up; to stitch, stitch up'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I sew, am sewing'}
+      1s: coso
+      1p: cosemos
+      2s: coses
+      2p: coséis
+      3s: cose
+      3p: cosen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will sew}
+      1s: coseré
+      1p: coseremos
+      2s: coserás
+      2p: coseréis
+      3s: coserá
+      3p: coserán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was sewing, used to sew, sewed'}
+      1s: cosía
+      1p: cosíamos
+      2s: cosías
+      2p: cosíais
+      3s: cosía
+      3p: cosían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I sewed}
+      1s: cosí
+      1p: cosimos
+      2s: cosiste
+      2p: cosisteis
+      3s: cosió
+      3p: cosieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would sew}
+      1s: cosería
+      1p: coseríamos
+      2s: coserías
+      2p: coseríais
+      3s: cosería
+      3p: coserían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have sewn}
+      1s: he cosido
+      1p: hemos cosido
+      2s: has cosido
+      2p: habéis cosido
+      3s: ha cosido
+      3p: han cosido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have sewn}
+      1s: habré cosido
+      1p: habremos cosido
+      2s: habrás cosido
+      2p: habréis cosido
+      3s: habrá cosido
+      3p: habrán cosido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had sewn}
+      1s: había cosido
+      1p: habíamos cosido
+      2s: habías cosido
+      2p: habíais cosido
+      3s: había cosido
+      3p: habían cosido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had sewn}
+      1s: hube cosido
+      1p: hubimos cosido
+      2s: hubiste cosido
+      2p: hubisteis cosido
+      3s: hubo cosido
+      3p: hubieron cosido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have sewn}
+      1s: habría cosido
+      1p: habríamos cosido
+      2s: habrías cosido
+      2p: habríais cosido
+      3s: habría cosido
+      3p: habrían cosido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I sew, am sewing'}
+      1s: cosa
+      1p: cosamos
+      2s: cosas
+      2p: cosáis
+      3s: cosa
+      3p: cosan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I sewed, was sewing'}
+      1s: cosiera
+      1p: cosiéramos
+      2s: cosieras
+      2p: cosierais
+      3s: cosiera
+      3p: cosieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will sew}
+      1s: cosiere
+      1p: cosiéremos
+      2s: cosieres
+      2p: cosiereis
+      3s: cosiere
+      3p: cosieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have sewn, sewed'}
+      1s: haya cosido
+      1p: hayamos cosido
+      2s: hayas cosido
+      2p: hayáis cosido
+      3s: haya cosido
+      3p: hayan cosido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have sewn}
+      1s: hubiere cosido
+      1p: hubiéremos cosido
+      2s: hubieres cosido
+      2p: hubiereis cosido
+      3s: hubiere cosido
+      3p: hubieren cosido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had sewn}
+      1s: hubiera cosido
+      1p: hubiéramos cosido
+      2s: hubieras cosido
+      2p: hubierais cosido
+      3s: hubiera cosido
+      3p: hubieran cosido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Sew! Don't sew!}
+      1s: ''
+      1p: ''
+      2s: cose
+      2p: cosa
+      3s: cosed
+      3p: cosan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Sew! Don't sew!}
+      1s: ''
+      1p: ''
+      2s: no cosas
+      2p: no cosa
+      3s: no cosáis
+      3p: no cosan

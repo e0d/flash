@@ -1,0 +1,186 @@
+decidir:
+  infinitive: decidir
+  gerund: decidiendo
+  pastparticiple: decidido
+  definitions: {en: 'to decide, settle, resolve'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I decide, am deciding'}
+      1s: decido
+      1p: decidimos
+      2s: decides
+      2p: decidís
+      3s: decide
+      3p: deciden
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will decide}
+      1s: decidiré
+      1p: decidiremos
+      2s: decidirás
+      2p: decidiréis
+      3s: decidirá
+      3p: decidirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was deciding, used to decide, decided'}
+      1s: decidía
+      1p: decidíamos
+      2s: decidías
+      2p: decidíais
+      3s: decidía
+      3p: decidían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I decided}
+      1s: decidí
+      1p: decidimos
+      2s: decidiste
+      2p: decidisteis
+      3s: decidió
+      3p: decidieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would decide}
+      1s: decidiría
+      1p: decidiríamos
+      2s: decidirías
+      2p: decidiríais
+      3s: decidiría
+      3p: decidirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have decided}
+      1s: he decidido
+      1p: hemos decidido
+      2s: has decidido
+      2p: habéis decidido
+      3s: ha decidido
+      3p: han decidido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have decided}
+      1s: habré decidido
+      1p: habremos decidido
+      2s: habrás decidido
+      2p: habréis decidido
+      3s: habrá decidido
+      3p: habrán decidido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had decided}
+      1s: había decidido
+      1p: habíamos decidido
+      2s: habías decidido
+      2p: habíais decidido
+      3s: había decidido
+      3p: habían decidido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had decided}
+      1s: hube decidido
+      1p: hubimos decidido
+      2s: hubiste decidido
+      2p: hubisteis decidido
+      3s: hubo decidido
+      3p: hubieron decidido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have decided}
+      1s: habría decidido
+      1p: habríamos decidido
+      2s: habrías decidido
+      2p: habríais decidido
+      3s: habría decidido
+      3p: habrían decidido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I decide, am deciding'}
+      1s: decida
+      1p: decidamos
+      2s: decidas
+      2p: decidáis
+      3s: decida
+      3p: decidan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I decided, was deciding'}
+      1s: decidiera
+      1p: decidiéramos
+      2s: decidieras
+      2p: decidierais
+      3s: decidiera
+      3p: decidieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will decide}
+      1s: decidiere
+      1p: decidiéremos
+      2s: decidieres
+      2p: decidiereis
+      3s: decidiere
+      3p: decidieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have decided, decided'}
+      1s: haya decidido
+      1p: hayamos decidido
+      2s: hayas decidido
+      2p: hayáis decidido
+      3s: haya decidido
+      3p: hayan decidido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have decided}
+      1s: hubiere decidido
+      1p: hubiéremos decidido
+      2s: hubieres decidido
+      2p: hubiereis decidido
+      3s: hubiere decidido
+      3p: hubieren decidido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had decided}
+      1s: hubiera decidido
+      1p: hubiéramos decidido
+      2s: hubieras decidido
+      2p: hubierais decidido
+      3s: hubiera decidido
+      3p: hubieran decidido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Decide! Don't decide!}
+      1s: ''
+      1p: ''
+      2s: decide
+      2p: decida
+      3s: decidid
+      3p: decidan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Decide! Don't decide!}
+      1s: ''
+      1p: ''
+      2s: no decidas
+      2p: no decida
+      3s: no decidáis
+      3p: no decidan

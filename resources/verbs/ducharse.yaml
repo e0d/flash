@@ -1,0 +1,186 @@
+ducharse:
+  infinitive: ducharse
+  gerund: duchándose
+  pastparticiple: duchado
+  definitions: {en: 'to take a shower, shower [oneself]'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I take a shower, am taking a shower'}
+      1s: me ducho
+      1p: nos duchamos
+      2s: te duchas
+      2p: os ducháis
+      3s: se ducha
+      3p: se duchan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will take a shower}
+      1s: me ducharé
+      1p: nos ducharemos
+      2s: te ducharás
+      2p: os ducharéis
+      3s: se duchará
+      3p: se ducharán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was taking a shower, used to take a shower, took a shower'}
+      1s: me duchaba
+      1p: nos duchábamos
+      2s: te duchabas
+      2p: os duchabais
+      3s: se duchaba
+      3p: se duchaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I took a shower}
+      1s: me duché
+      1p: nos duchamos
+      2s: te duchaste
+      2p: os duchasteis
+      3s: se duchó
+      3p: se ducharon
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would take a shower}
+      1s: me ducharía
+      1p: nos ducharíamos
+      2s: te ducharías
+      2p: os ducharíais
+      3s: se ducharía
+      3p: se ducharían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have taken a shower}
+      1s: me he duchado
+      1p: nos hemos duchado
+      2s: te has duchado
+      2p: os habéis duchado
+      3s: se ha duchado
+      3p: se han duchado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have taken a shower}
+      1s: me habré duchado
+      1p: nos habremos duchado
+      2s: te habrás duchado
+      2p: os habréis duchado
+      3s: se habrá duchado
+      3p: se habrán duchado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had taken a shower}
+      1s: me había duchado
+      1p: nos habíamos duchado
+      2s: te habías duchado
+      2p: os habíais duchado
+      3s: se había duchado
+      3p: se habían duchado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had taken a shower}
+      1s: me hube duchado
+      1p: nos hubimos duchado
+      2s: te hubiste duchado
+      2p: os hubisteis duchado
+      3s: se hubo duchado
+      3p: se hubieron duchado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have taken a shower}
+      1s: me habría duchado
+      1p: nos habríamos duchado
+      2s: te habrías duchado
+      2p: os habríais duchado
+      3s: se habría duchado
+      3p: se habrían duchado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I take a shower, am taking a shower'}
+      1s: me duche
+      1p: nos duchemos
+      2s: te duches
+      2p: os duchéis
+      3s: se duche
+      3p: se duchen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I took a shower, was taking a shower'}
+      1s: me duchara
+      1p: nos ducháramos
+      2s: te ducharas
+      2p: os ducharais
+      3s: se duchara
+      3p: se ducharan
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will take a shower}
+      1s: me duchare
+      1p: nos ducháremos
+      2s: te duchares
+      2p: os duchareis
+      3s: se duchare
+      3p: se ducharen
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have taken a shower, took a shower'}
+      1s: me haya duchado
+      1p: nos hayamos duchado
+      2s: te hayas duchado
+      2p: os hayáis duchado
+      3s: se haya duchado
+      3p: se hayan duchado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have taken a shower}
+      1s: me hubiere duchado
+      1p: nos hubiéremos duchado
+      2s: te hubieres duchado
+      2p: os hubiereis duchado
+      3s: se hubiere duchado
+      3p: se hubieren duchado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had taken a shower}
+      1s: me hubiera duchado
+      1p: nos hubiéramos duchado
+      2s: te hubieras duchado
+      2p: os hubierais duchado
+      3s: se hubiera duchado
+      3p: se hubieran duchado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Take a shower! Don't take a shower!}
+      1s: ''
+      1p: ''
+      2s: dúchate
+      2p: dúchese
+      3s: duchaos
+      3p: dúchense
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Take a shower! Don't take a shower!}
+      1s: ''
+      1p: ''
+      2s: no te duches
+      2p: no se duche
+      3s: no os duchéis
+      3p: no se duchen

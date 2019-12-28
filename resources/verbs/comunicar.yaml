@@ -1,0 +1,186 @@
+comunicar:
+  infinitive: comunicar
+  gerund: comunicando
+  pastparticiple: comunicado
+  definitions: {en: 'to communicate, transmit, tell, pass on'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I communicate, am communicating'}
+      1s: comunico
+      1p: comunicamos
+      2s: comunicas
+      2p: comunicáis
+      3s: comunica
+      3p: comunican
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will communicate}
+      1s: comunicaré
+      1p: comunicaremos
+      2s: comunicarás
+      2p: comunicaréis
+      3s: comunicará
+      3p: comunicarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was communicating, used to communicate, communicated'}
+      1s: comunicaba
+      1p: comunicábamos
+      2s: comunicabas
+      2p: comunicabais
+      3s: comunicaba
+      3p: comunicaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I communicated}
+      1s: comuniqué
+      1p: comunicamos
+      2s: comunicaste
+      2p: comunicasteis
+      3s: comunicó
+      3p: comunicaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would communicate}
+      1s: comunicaría
+      1p: comunicaríamos
+      2s: comunicarías
+      2p: comunicaríais
+      3s: comunicaría
+      3p: comunicarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have communicated}
+      1s: he comunicado
+      1p: hemos comunicado
+      2s: has comunicado
+      2p: habéis comunicado
+      3s: ha comunicado
+      3p: han comunicado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have communicated}
+      1s: habré comunicado
+      1p: habremos comunicado
+      2s: habrás comunicado
+      2p: habréis comunicado
+      3s: habrá comunicado
+      3p: habrán comunicado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had communicated}
+      1s: había comunicado
+      1p: habíamos comunicado
+      2s: habías comunicado
+      2p: habíais comunicado
+      3s: había comunicado
+      3p: habían comunicado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had communicated}
+      1s: hube comunicado
+      1p: hubimos comunicado
+      2s: hubiste comunicado
+      2p: hubisteis comunicado
+      3s: hubo comunicado
+      3p: hubieron comunicado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have communicated}
+      1s: habría comunicado
+      1p: habríamos comunicado
+      2s: habrías comunicado
+      2p: habríais comunicado
+      3s: habría comunicado
+      3p: habrían comunicado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I communicate, am communicating'}
+      1s: comunique
+      1p: comuniquemos
+      2s: comuniques
+      2p: comuniquéis
+      3s: comunique
+      3p: comuniquen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I communicated, was communicating'}
+      1s: comunicara
+      1p: comunicáramos
+      2s: comunicaras
+      2p: comunicarais
+      3s: comunicara
+      3p: comunicaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will communicate}
+      1s: comunicare
+      1p: comunicáremos
+      2s: comunicares
+      2p: comunicareis
+      3s: comunicare
+      3p: comunicaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have communicated, communicated'}
+      1s: haya comunicado
+      1p: hayamos comunicado
+      2s: hayas comunicado
+      2p: hayáis comunicado
+      3s: haya comunicado
+      3p: hayan comunicado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have communicated}
+      1s: hubiere comunicado
+      1p: hubiéremos comunicado
+      2s: hubieres comunicado
+      2p: hubiereis comunicado
+      3s: hubiere comunicado
+      3p: hubieren comunicado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had communicated}
+      1s: hubiera comunicado
+      1p: hubiéramos comunicado
+      2s: hubieras comunicado
+      2p: hubierais comunicado
+      3s: hubiera comunicado
+      3p: hubieran comunicado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: communicate! Don't communicate!}
+      1s: ''
+      1p: ''
+      2s: comunica
+      2p: comunique
+      3s: comunicad
+      3p: comuniquen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: communicate! Don't communicate!}
+      1s: ''
+      1p: ''
+      2s: no comuniques
+      2p: no comunique
+      3s: no comuniquéis
+      3p: no comuniquen

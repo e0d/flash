@@ -1,0 +1,186 @@
+abandonar:
+  infinitive: abandonar
+  gerund: abandonando
+  pastparticiple: abandonado
+  definitions: {en: 'to abandon, leave behind, desert; to quit, give up'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I abandon, am abandoning'}
+      1s: abandono
+      1p: abandonamos
+      2s: abandonas
+      2p: abandonáis
+      3s: abandona
+      3p: abandonan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will abandon}
+      1s: abandonaré
+      1p: abandonaremos
+      2s: abandonarás
+      2p: abandonaréis
+      3s: abandonará
+      3p: abandonarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was abandoning, used to abandon, abandoned'}
+      1s: abandonaba
+      1p: abandonábamos
+      2s: abandonabas
+      2p: abandonabais
+      3s: abandonaba
+      3p: abandonaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I abandoned}
+      1s: abandoné
+      1p: abandonamos
+      2s: abandonaste
+      2p: abandonasteis
+      3s: abandonó
+      3p: abandonaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would abandon}
+      1s: abandonaría
+      1p: abandonaríamos
+      2s: abandonarías
+      2p: abandonaríais
+      3s: abandonaría
+      3p: abandonarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have abandoned}
+      1s: he abandonado
+      1p: hemos abandonado
+      2s: has abandonado
+      2p: habéis abandonado
+      3s: ha abandonado
+      3p: han abandonado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have abandoned}
+      1s: habré abandonado
+      1p: habremos abandonado
+      2s: habrás abandonado
+      2p: habréis abandonado
+      3s: habrá abandonado
+      3p: habrán abandonado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had abandoned}
+      1s: había abandonado
+      1p: habíamos abandonado
+      2s: habías abandonado
+      2p: habíais abandonado
+      3s: había abandonado
+      3p: habían abandonado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had abandoned}
+      1s: hube abandonado
+      1p: hubimos abandonado
+      2s: hubiste abandonado
+      2p: hubisteis abandonado
+      3s: hubo abandonado
+      3p: hubieron abandonado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have abandoned}
+      1s: habría abandonado
+      1p: habríamos abandonado
+      2s: habrías abandonado
+      2p: habríais abandonado
+      3s: habría abandonado
+      3p: habrían abandonado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I abandon, am abandoning'}
+      1s: abandone
+      1p: abandonemos
+      2s: abandones
+      2p: abandonéis
+      3s: abandone
+      3p: abandonen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I abandoned, was abandoning'}
+      1s: abandonara
+      1p: abandonáramos
+      2s: abandonaras
+      2p: abandonarais
+      3s: abandonara
+      3p: abandonaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will abandon}
+      1s: abandonare
+      1p: abandonáremos
+      2s: abandonares
+      2p: abandonareis
+      3s: abandonare
+      3p: abandonaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have abandoned, abandoned'}
+      1s: haya abandonado
+      1p: hayamos abandonado
+      2s: hayas abandonado
+      2p: hayáis abandonado
+      3s: haya abandonado
+      3p: hayan abandonado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have abandoned}
+      1s: hubiere abandonado
+      1p: hubiéremos abandonado
+      2s: hubieres abandonado
+      2p: hubiereis abandonado
+      3s: hubiere abandonado
+      3p: hubieren abandonado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had abandoned}
+      1s: hubiera abandonado
+      1p: hubiéramos abandonado
+      2s: hubieras abandonado
+      2p: hubierais abandonado
+      3s: hubiera abandonado
+      3p: hubieran abandonado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Abandon! Don't abandon!}
+      1s: ''
+      1p: ''
+      2s: abandona
+      2p: abandone
+      3s: abandonad
+      3p: abandonen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Abandon! Don't abandon!}
+      1s: ''
+      1p: ''
+      2s: no abandones
+      2p: no abandone
+      3s: no abandonéis
+      3p: no abandonen

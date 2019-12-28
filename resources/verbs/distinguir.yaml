@@ -1,0 +1,186 @@
+distinguir:
+  infinitive: distinguir
+  gerund: distinguiendo
+  pastparticiple: distinguido
+  definitions: {en: 'to distinguish, discern, make out, recognize, single out'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I distinguish, am distinguishing'}
+      1s: distingo
+      1p: distinguimos
+      2s: distingues
+      2p: distinguís
+      3s: distingue
+      3p: distinguen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will distinguish}
+      1s: distinguiré
+      1p: distinguiremos
+      2s: distinguirás
+      2p: distinguiréis
+      3s: distinguirá
+      3p: distinguirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was distinguishing, used to distinguish, distinguished'}
+      1s: distinguía
+      1p: distinguíamos
+      2s: distinguías
+      2p: distinguíais
+      3s: distinguía
+      3p: distinguían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I distinguished}
+      1s: distinguí
+      1p: distinguimos
+      2s: distinguiste
+      2p: distinguisteis
+      3s: distinguió
+      3p: distinguieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would distinguish}
+      1s: distinguiría
+      1p: distinguiríamos
+      2s: distinguirías
+      2p: distinguiríais
+      3s: distinguiría
+      3p: distinguirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have distinguished}
+      1s: he distinguido
+      1p: hemos distinguido
+      2s: has distinguido
+      2p: habéis distinguido
+      3s: ha distinguido
+      3p: han distinguido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have distinguished}
+      1s: habré distinguido
+      1p: habremos distinguido
+      2s: habrás distinguido
+      2p: habréis distinguido
+      3s: habrá distinguido
+      3p: habrán distinguido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had distinguished}
+      1s: había distinguido
+      1p: habíamos distinguido
+      2s: habías distinguido
+      2p: habíais distinguido
+      3s: había distinguido
+      3p: habían distinguido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had distinguished}
+      1s: hube distinguido
+      1p: hubimos distinguido
+      2s: hubiste distinguido
+      2p: hubisteis distinguido
+      3s: hubo distinguido
+      3p: hubieron distinguido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have distinguished}
+      1s: habría distinguido
+      1p: habríamos distinguido
+      2s: habrías distinguido
+      2p: habríais distinguido
+      3s: habría distinguido
+      3p: habrían distinguido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I distinguish, am distinguishing'}
+      1s: distinga
+      1p: distingamos
+      2s: distingas
+      2p: distingáis
+      3s: distinga
+      3p: distingan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I distinguished, was distinguishing'}
+      1s: distinguiera
+      1p: distinguiéramos
+      2s: distinguieras
+      2p: distinguierais
+      3s: distinguiera
+      3p: distinguieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will distinguish}
+      1s: distinguiere
+      1p: distinguiéremos
+      2s: distinguieres
+      2p: distinguiereis
+      3s: distinguiere
+      3p: distinguieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have distinguished, distinguished'}
+      1s: haya distinguido
+      1p: hayamos distinguido
+      2s: hayas distinguido
+      2p: hayáis distinguido
+      3s: haya distinguido
+      3p: hayan distinguido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have distinguished}
+      1s: hubiere distinguido
+      1p: hubiéremos distinguido
+      2s: hubieres distinguido
+      2p: hubiereis distinguido
+      3s: hubiere distinguido
+      3p: hubieren distinguido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had distinguished}
+      1s: hubiera distinguido
+      1p: hubiéramos distinguido
+      2s: hubieras distinguido
+      2p: hubierais distinguido
+      3s: hubiera distinguido
+      3p: hubieran distinguido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Distinguish! Don't distinguish!}
+      1s: ''
+      1p: ''
+      2s: distingue
+      2p: distinga
+      3s: distinguid
+      3p: distingan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Distinguish! Don't distinguish!}
+      1s: ''
+      1p: ''
+      2s: no distingas
+      2p: no distinga
+      3s: no distingáis
+      3p: no distingan

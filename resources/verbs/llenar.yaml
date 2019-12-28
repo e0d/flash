@@ -1,0 +1,186 @@
+llenar:
+  infinitive: llenar
+  gerund: llenando
+  pastparticiple: llenado
+  definitions: {en: to fill; to fulfill}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I fill, am filling'}
+      1s: lleno
+      1p: llenamos
+      2s: llenas
+      2p: llenáis
+      3s: llena
+      3p: llenan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will fill}
+      1s: llenaré
+      1p: llenaremos
+      2s: llenarás
+      2p: llenaréis
+      3s: llenará
+      3p: llenarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was filling, used to fill, filled'}
+      1s: llenaba
+      1p: llenábamos
+      2s: llenabas
+      2p: llenabais
+      3s: llenaba
+      3p: llenaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I filled}
+      1s: llené
+      1p: llenamos
+      2s: llenaste
+      2p: llenasteis
+      3s: llenó
+      3p: llenaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would fill}
+      1s: llenaría
+      1p: llenaríamos
+      2s: llenarías
+      2p: llenaríais
+      3s: llenaría
+      3p: llenarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have filled}
+      1s: he llenado
+      1p: hemos llenado
+      2s: has llenado
+      2p: habéis llenado
+      3s: ha llenado
+      3p: han llenado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have filled}
+      1s: habré llenado
+      1p: habremos llenado
+      2s: habrás llenado
+      2p: habréis llenado
+      3s: habrá llenado
+      3p: habrán llenado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had filled}
+      1s: había llenado
+      1p: habíamos llenado
+      2s: habías llenado
+      2p: habíais llenado
+      3s: había llenado
+      3p: habían llenado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had filled}
+      1s: hube llenado
+      1p: hubimos llenado
+      2s: hubiste llenado
+      2p: hubisteis llenado
+      3s: hubo llenado
+      3p: hubieron llenado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have filled}
+      1s: habría llenado
+      1p: habríamos llenado
+      2s: habrías llenado
+      2p: habríais llenado
+      3s: habría llenado
+      3p: habrían llenado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I fill, am filling'}
+      1s: llene
+      1p: llenemos
+      2s: llenes
+      2p: llenéis
+      3s: llene
+      3p: llenen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I filled, was filling'}
+      1s: llenara
+      1p: llenáramos
+      2s: llenaras
+      2p: llenarais
+      3s: llenara
+      3p: llenaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will fill}
+      1s: llenare
+      1p: llenáremos
+      2s: llenares
+      2p: llenareis
+      3s: llenare
+      3p: llenaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have filled, filled'}
+      1s: haya llenado
+      1p: hayamos llenado
+      2s: hayas llenado
+      2p: hayáis llenado
+      3s: haya llenado
+      3p: hayan llenado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have filled}
+      1s: hubiere llenado
+      1p: hubiéremos llenado
+      2s: hubieres llenado
+      2p: hubiereis llenado
+      3s: hubiere llenado
+      3p: hubieren llenado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had filled}
+      1s: hubiera llenado
+      1p: hubiéramos llenado
+      2s: hubieras llenado
+      2p: hubierais llenado
+      3s: hubiera llenado
+      3p: hubieran llenado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Fill! Don't fill!}
+      1s: ''
+      1p: ''
+      2s: llena
+      2p: llene
+      3s: llenad
+      3p: llenen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Fill! Don't fill!}
+      1s: ''
+      1p: ''
+      2s: no llenes
+      2p: no llene
+      3s: no llenéis
+      3p: no llenen

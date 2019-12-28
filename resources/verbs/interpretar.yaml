@@ -1,0 +1,186 @@
+interpretar:
+  infinitive: interpretar
+  gerund: interpretando
+  pastparticiple: interpretado
+  definitions: {en: to interpret; to translate}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I interpret, am interpreting'}
+      1s: interpreto
+      1p: interpretamos
+      2s: interpretas
+      2p: interpretáis
+      3s: interpreta
+      3p: interpretan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will interpret}
+      1s: interpretaré
+      1p: interpretaremos
+      2s: interpretarás
+      2p: interpretaréis
+      3s: interpretará
+      3p: interpretarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was interpreting, used to interpret, interpreted'}
+      1s: interpretaba
+      1p: interpretábamos
+      2s: interpretabas
+      2p: interpretabais
+      3s: interpretaba
+      3p: interpretaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I interpreted}
+      1s: interpreté
+      1p: interpretamos
+      2s: interpretaste
+      2p: interpretasteis
+      3s: interpretó
+      3p: interpretaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would interpret}
+      1s: interpretaría
+      1p: interpretaríamos
+      2s: interpretarías
+      2p: interpretaríais
+      3s: interpretaría
+      3p: interpretarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have interpreted}
+      1s: he interpretado
+      1p: hemos interpretado
+      2s: has interpretado
+      2p: habéis interpretado
+      3s: ha interpretado
+      3p: han interpretado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have interpreted}
+      1s: habré interpretado
+      1p: habremos interpretado
+      2s: habrás interpretado
+      2p: habréis interpretado
+      3s: habrá interpretado
+      3p: habrán interpretado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had interpreted}
+      1s: había interpretado
+      1p: habíamos interpretado
+      2s: habías interpretado
+      2p: habíais interpretado
+      3s: había interpretado
+      3p: habían interpretado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had interpreted}
+      1s: hube interpretado
+      1p: hubimos interpretado
+      2s: hubiste interpretado
+      2p: hubisteis interpretado
+      3s: hubo interpretado
+      3p: hubieron interpretado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have interpreted}
+      1s: habría interpretado
+      1p: habríamos interpretado
+      2s: habrías interpretado
+      2p: habríais interpretado
+      3s: habría interpretado
+      3p: habrían interpretado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I interpret, am interpreting'}
+      1s: interprete
+      1p: interpretemos
+      2s: interpretes
+      2p: interpretéis
+      3s: interprete
+      3p: interpreten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I interpreted, was interpreting'}
+      1s: interpretara
+      1p: interpretáramos
+      2s: interpretaras
+      2p: interpretarais
+      3s: interpretara
+      3p: interpretaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will interpret}
+      1s: interpretare
+      1p: interpretáremos
+      2s: interpretares
+      2p: interpretareis
+      3s: interpretare
+      3p: interpretaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have interpreted, interpreted'}
+      1s: haya interpretado
+      1p: hayamos interpretado
+      2s: hayas interpretado
+      2p: hayáis interpretado
+      3s: haya interpretado
+      3p: hayan interpretado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have interpreted}
+      1s: hubiere interpretado
+      1p: hubiéremos interpretado
+      2s: hubieres interpretado
+      2p: hubiereis interpretado
+      3s: hubiere interpretado
+      3p: hubieren interpretado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had interpreted}
+      1s: hubiera interpretado
+      1p: hubiéramos interpretado
+      2s: hubieras interpretado
+      2p: hubierais interpretado
+      3s: hubiera interpretado
+      3p: hubieran interpretado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Interpret! Don't interpret!}
+      1s: ''
+      1p: ''
+      2s: interpreta
+      2p: interprete
+      3s: interpretad
+      3p: interpreten
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Interpret! Don't interpret!}
+      1s: ''
+      1p: ''
+      2s: no interpretes
+      2p: no interprete
+      3s: no interpretéis
+      3p: no interpreten

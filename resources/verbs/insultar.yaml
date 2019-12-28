@@ -1,0 +1,186 @@
+insultar:
+  infinitive: insultar
+  gerund: insultando
+  pastparticiple: insultado
+  definitions: {en: to insult}
+  tenses:
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I insulted}
+      1s: insulté
+      1p: insultamos
+      2s: insultaste
+      2p: insultasteis
+      3s: insultó
+      3p: insultaron
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I insult, am insulting'}
+      1s: insulto
+      1p: insultamos
+      2s: insultas
+      2p: insultáis
+      3s: insulta
+      3p: insultan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will insult}
+      1s: insultaré
+      1p: insultaremos
+      2s: insultarás
+      2p: insultaréis
+      3s: insultará
+      3p: insultarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was insulting, used to insult, insulted'}
+      1s: insultaba
+      1p: insultábamos
+      2s: insultabas
+      2p: insultabais
+      3s: insultaba
+      3p: insultaban
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would insult}
+      1s: insultaría
+      1p: insultaríamos
+      2s: insultarías
+      2p: insultaríais
+      3s: insultaría
+      3p: insultarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have insulted}
+      1s: he insultado
+      1p: hemos insultado
+      2s: has insultado
+      2p: habéis insultado
+      3s: ha insultado
+      3p: han insultado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have insulted}
+      1s: habré insultado
+      1p: habremos insultado
+      2s: habrás insultado
+      2p: habréis insultado
+      3s: habrá insultado
+      3p: habrán insultado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had insulted}
+      1s: había insultado
+      1p: habíamos insultado
+      2s: habías insultado
+      2p: habíais insultado
+      3s: había insultado
+      3p: habían insultado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had insulted}
+      1s: hube insultado
+      1p: hubimos insultado
+      2s: hubiste insultado
+      2p: hubisteis insultado
+      3s: hubo insultado
+      3p: hubieron insultado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have insulted}
+      1s: habría insultado
+      1p: habríamos insultado
+      2s: habrías insultado
+      2p: habríais insultado
+      3s: habría insultado
+      3p: habrían insultado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I insult, am insulting'}
+      1s: insulte
+      1p: insultemos
+      2s: insultes
+      2p: insultéis
+      3s: insulte
+      3p: insulten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I insulted, was insulting'}
+      1s: insultara
+      1p: insultáramos
+      2s: insultaras
+      2p: insultarais
+      3s: insultara
+      3p: insultaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will insult}
+      1s: insultare
+      1p: insultáremos
+      2s: insultares
+      2p: insultareis
+      3s: insultare
+      3p: insultaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have insulted, insulted'}
+      1s: haya insultado
+      1p: hayamos insultado
+      2s: hayas insultado
+      2p: hayáis insultado
+      3s: haya insultado
+      3p: hayan insultado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have insulted}
+      1s: hubiere insultado
+      1p: hubiéremos insultado
+      2s: hubieres insultado
+      2p: hubiereis insultado
+      3s: hubiere insultado
+      3p: hubieren insultado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had insulted}
+      1s: hubiera insultado
+      1p: hubiéramos insultado
+      2s: hubieras insultado
+      2p: hubierais insultado
+      3s: hubiera insultado
+      3p: hubieran insultado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Insult! Don't insult!}
+      1s: ''
+      1p: ''
+      2s: insulta
+      2p: insulte
+      3s: insultad
+      3p: insulten
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Insult! Don't insult!}
+      1s: ''
+      1p: ''
+      2s: no insultes
+      2p: no insulte
+      3s: no insultéis
+      3p: no insulten

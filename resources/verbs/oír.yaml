@@ -1,0 +1,186 @@
+oír:
+  infinitive: oír
+  gerund: oyendo
+  pastparticiple: oído
+  definitions: {en: to hear}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I hear, am hearing'}
+      1s: oigo
+      1p: oímos
+      2s: oyes
+      2p: oís
+      3s: oye
+      3p: oyen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will hear}
+      1s: oiré
+      1p: oiremos
+      2s: oirás
+      2p: oiréis
+      3s: oirá
+      3p: oirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was hearing, used to hear, heard'}
+      1s: oía
+      1p: oíamos
+      2s: oías
+      2p: oíais
+      3s: oía
+      3p: oían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I heard}
+      1s: oí
+      1p: oímos
+      2s: oíste
+      2p: oísteis
+      3s: oyó
+      3p: oyeron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would hear}
+      1s: oiría
+      1p: oiríamos
+      2s: oirías
+      2p: oiríais
+      3s: oiría
+      3p: oirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have heard}
+      1s: he oído
+      1p: hemos oído
+      2s: has oído
+      2p: habéis oído
+      3s: ha oído
+      3p: han oído
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have heard}
+      1s: habré oído
+      1p: habremos oído
+      2s: habrás oído
+      2p: habréis oído
+      3s: habrá oído
+      3p: habrán oído
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had heard}
+      1s: había oído
+      1p: habíamos oído
+      2s: habías oído
+      2p: habíais oído
+      3s: había oído
+      3p: habían oído
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had heard}
+      1s: hube oído
+      1p: hubimos oído
+      2s: hubiste oído
+      2p: hubisteis oído
+      3s: hubo oído
+      3p: hubieron oído
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have heard}
+      1s: habría oído
+      1p: habríamos oído
+      2s: habrías oído
+      2p: habríais oído
+      3s: habría oído
+      3p: habrían oído
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I hear, am hearing'}
+      1s: oiga
+      1p: oigamos
+      2s: oigas
+      2p: oigáis
+      3s: oiga
+      3p: oigan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I heard, was hearing'}
+      1s: oyera
+      1p: oyéramos
+      2s: oyeras
+      2p: oyerais
+      3s: oyera
+      3p: oyeran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will hear}
+      1s: oyere
+      1p: oyéremos
+      2s: oyeres
+      2p: oyereis
+      3s: oyere
+      3p: oyeren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have heard, heard'}
+      1s: haya oído
+      1p: hayamos oído
+      2s: hayas oído
+      2p: hayáis oído
+      3s: haya oído
+      3p: hayan oído
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have heard}
+      1s: hubiere oído
+      1p: hubiéremos oído
+      2s: hubieres oído
+      2p: hubiereis oído
+      3s: hubiere oído
+      3p: hubieren oído
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had heard}
+      1s: hubiera oído
+      1p: hubiéramos oído
+      2s: hubieras oído
+      2p: hubierais oído
+      3s: hubiera oído
+      3p: hubieran oído
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Hear! Don't hear!}
+      1s: ''
+      1p: ''
+      2s: oye
+      2p: oiga
+      3s: oíd
+      3p: oigan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Hear! Don't hear!}
+      1s: ''
+      1p: ''
+      2s: no oigas
+      2p: no oiga
+      3s: no oigáis
+      3p: no oigan

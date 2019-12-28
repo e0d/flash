@@ -1,0 +1,186 @@
+planchar:
+  infinitive: planchar
+  gerund: planchando
+  pastparticiple: planchado
+  definitions: {en: 'to iron, press; to do the ironing'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I iron, am ironing'}
+      1s: plancho
+      1p: planchamos
+      2s: planchas
+      2p: plancháis
+      3s: plancha
+      3p: planchan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will iron}
+      1s: plancharé
+      1p: plancharemos
+      2s: plancharás
+      2p: plancharéis
+      3s: planchará
+      3p: plancharán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was ironing, used to iron, ironed'}
+      1s: planchaba
+      1p: planchábamos
+      2s: planchabas
+      2p: planchabais
+      3s: planchaba
+      3p: planchaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I ironed}
+      1s: planché
+      1p: planchamos
+      2s: planchaste
+      2p: planchasteis
+      3s: planchó
+      3p: plancharon
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would iron}
+      1s: plancharía
+      1p: plancharíamos
+      2s: plancharías
+      2p: plancharíais
+      3s: plancharía
+      3p: plancharían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have ironed}
+      1s: he planchado
+      1p: hemos planchado
+      2s: has planchado
+      2p: habéis planchado
+      3s: ha planchado
+      3p: han planchado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have ironed}
+      1s: habré planchado
+      1p: habremos planchado
+      2s: habrás planchado
+      2p: habréis planchado
+      3s: habrá planchado
+      3p: habrán planchado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had ironed}
+      1s: había planchado
+      1p: habíamos planchado
+      2s: habías planchado
+      2p: habíais planchado
+      3s: había planchado
+      3p: habían planchado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had ironed}
+      1s: hube planchado
+      1p: hubimos planchado
+      2s: hubiste planchado
+      2p: hubisteis planchado
+      3s: hubo planchado
+      3p: hubieron planchado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have ironed}
+      1s: habría planchado
+      1p: habríamos planchado
+      2s: habrías planchado
+      2p: habríais planchado
+      3s: habría planchado
+      3p: habrían planchado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I iron, am ironing'}
+      1s: planche
+      1p: planchemos
+      2s: planches
+      2p: planchéis
+      3s: planche
+      3p: planchen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I ironed, was ironing'}
+      1s: planchara
+      1p: plancháramos
+      2s: plancharas
+      2p: plancharais
+      3s: planchara
+      3p: plancharan
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will iron}
+      1s: planchare
+      1p: plancháremos
+      2s: planchares
+      2p: planchareis
+      3s: planchare
+      3p: plancharen
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have ironed, ironed'}
+      1s: haya planchado
+      1p: hayamos planchado
+      2s: hayas planchado
+      2p: hayáis planchado
+      3s: haya planchado
+      3p: hayan planchado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have ironed}
+      1s: hubiere planchado
+      1p: hubiéremos planchado
+      2s: hubieres planchado
+      2p: hubiereis planchado
+      3s: hubiere planchado
+      3p: hubieren planchado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had ironed}
+      1s: hubiera planchado
+      1p: hubiéramos planchado
+      2s: hubieras planchado
+      2p: hubierais planchado
+      3s: hubiera planchado
+      3p: hubieran planchado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: iron! Don't iron!}
+      1s: ''
+      1p: ''
+      2s: plancha
+      2p: planche
+      3s: planchad
+      3p: planchen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: iron! Don't iron!}
+      1s: ''
+      1p: ''
+      2s: no planches
+      2p: no planche
+      3s: no planchéis
+      3p: no planchen

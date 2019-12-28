@@ -1,0 +1,186 @@
+echar:
+  infinitive: echar
+  gerund: echando
+  pastparticiple: echado
+  definitions: {en: 'to throw, cast, fling, hurl, pitch, toss'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I throw, am throwing'}
+      1s: echo
+      1p: echamos
+      2s: echas
+      2p: echáis
+      3s: echa
+      3p: echan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will throw}
+      1s: echaré
+      1p: echaremos
+      2s: echarás
+      2p: echaréis
+      3s: echará
+      3p: echarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was throwing, used to throw, threw'}
+      1s: echaba
+      1p: echábamos
+      2s: echabas
+      2p: echabais
+      3s: echaba
+      3p: echaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I threw}
+      1s: eché
+      1p: echamos
+      2s: echaste
+      2p: echasteis
+      3s: echó
+      3p: echaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would throw}
+      1s: echaría
+      1p: echaríamos
+      2s: echarías
+      2p: echaríais
+      3s: echaría
+      3p: echarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have thrown}
+      1s: he echado
+      1p: hemos echado
+      2s: has echado
+      2p: habéis echado
+      3s: ha echado
+      3p: han echado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have thrown}
+      1s: habré echado
+      1p: habremos echado
+      2s: habrás echado
+      2p: habréis echado
+      3s: habrá echado
+      3p: habrán echado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had thrown}
+      1s: había echado
+      1p: habíamos echado
+      2s: habías echado
+      2p: habíais echado
+      3s: había echado
+      3p: habían echado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had thrown}
+      1s: hube echado
+      1p: hubimos echado
+      2s: hubiste echado
+      2p: hubisteis echado
+      3s: hubo echado
+      3p: hubieron echado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have thrown}
+      1s: habría echado
+      1p: habríamos echado
+      2s: habrías echado
+      2p: habríais echado
+      3s: habría echado
+      3p: habrían echado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I throw, am throwing'}
+      1s: eche
+      1p: echemos
+      2s: eches
+      2p: echéis
+      3s: eche
+      3p: echen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I threw, was throwing'}
+      1s: echara
+      1p: echáramos
+      2s: echaras
+      2p: echarais
+      3s: echara
+      3p: echaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will throw}
+      1s: echare
+      1p: echáremos
+      2s: echares
+      2p: echareis
+      3s: echare
+      3p: echaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have thrown, threw'}
+      1s: haya echado
+      1p: hayamos echado
+      2s: hayas echado
+      2p: hayáis echado
+      3s: haya echado
+      3p: hayan echado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have thrown}
+      1s: hubiere echado
+      1p: hubiéremos echado
+      2s: hubieres echado
+      2p: hubiereis echado
+      3s: hubiere echado
+      3p: hubieren echado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had thrown}
+      1s: hubiera echado
+      1p: hubiéramos echado
+      2s: hubieras echado
+      2p: hubierais echado
+      3s: hubiera echado
+      3p: hubieran echado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Throw! Don't throw!}
+      1s: ''
+      1p: ''
+      2s: echa
+      2p: eche
+      3s: echad
+      3p: echen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Throw! Don't throw!}
+      1s: ''
+      1p: ''
+      2s: no eches
+      2p: no eche
+      3s: no echéis
+      3p: no echen

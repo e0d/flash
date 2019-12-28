@@ -1,0 +1,186 @@
+preguntarse:
+  infinitive: preguntarse
+  gerund: preguntándose
+  pastparticiple: preguntado
+  definitions: {en: 'to wonder, ask oneself'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I wonder, am wondering'}
+      1s: me pregunto
+      1p: nos preguntamos
+      2s: te preguntas
+      2p: os preguntáis
+      3s: se pregunta
+      3p: se preguntan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will wonder}
+      1s: me preguntaré
+      1p: nos preguntaremos
+      2s: te preguntarás
+      2p: os preguntaréis
+      3s: se preguntará
+      3p: se preguntarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was wondering, used to wonder, wondered'}
+      1s: me preguntaba
+      1p: nos preguntábamos
+      2s: te preguntabas
+      2p: os preguntabais
+      3s: se preguntaba
+      3p: se preguntaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I wondered}
+      1s: me pregunté
+      1p: nos preguntamos
+      2s: te preguntaste
+      2p: os preguntasteis
+      3s: se preguntó
+      3p: se preguntaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would wonder}
+      1s: me preguntaría
+      1p: nos preguntaríamos
+      2s: te preguntarías
+      2p: os preguntaríais
+      3s: se preguntaría
+      3p: se preguntarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have wondered}
+      1s: me he preguntado
+      1p: nos hemos preguntado
+      2s: te has preguntado
+      2p: os habéis preguntado
+      3s: se ha preguntado
+      3p: se han preguntado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have wondered}
+      1s: me habré preguntado
+      1p: nos habremos preguntado
+      2s: te habrás preguntado
+      2p: os habréis preguntado
+      3s: se habrá preguntado
+      3p: se habrán preguntado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had wondered}
+      1s: me había preguntado
+      1p: nos habíamos preguntado
+      2s: te habías preguntado
+      2p: os habíais preguntado
+      3s: se había preguntado
+      3p: se habían preguntado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had wondered}
+      1s: me hube preguntado
+      1p: nos hubimos preguntado
+      2s: te hubiste preguntado
+      2p: os hubisteis preguntado
+      3s: se hubo preguntado
+      3p: se hubieron preguntado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have wondered}
+      1s: me habría preguntado
+      1p: nos habríamos preguntado
+      2s: te habrías preguntado
+      2p: os habríais preguntado
+      3s: se habría preguntado
+      3p: se habrían preguntado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I wonder, am wondering'}
+      1s: me pregunte
+      1p: nos preguntemos
+      2s: te preguntes
+      2p: os preguntéis
+      3s: se pregunte
+      3p: se pregunten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I wondered, was wondering'}
+      1s: me preguntara
+      1p: nos preguntáramos
+      2s: te preguntaras
+      2p: os preguntarais
+      3s: se preguntara
+      3p: se preguntaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will wonder}
+      1s: me preguntare
+      1p: nos preguntáremos
+      2s: te preguntares
+      2p: os preguntareis
+      3s: se preguntare
+      3p: se preguntaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have wondered, wondered'}
+      1s: me haya preguntado
+      1p: nos hayamos preguntado
+      2s: te hayas preguntado
+      2p: os hayáis preguntado
+      3s: se haya preguntado
+      3p: se hayan preguntado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have wondered}
+      1s: me hubiere preguntado
+      1p: nos hubiéremos preguntado
+      2s: te hubieres preguntado
+      2p: os hubiereis preguntado
+      3s: se hubiere preguntado
+      3p: se hubieren preguntado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had wondered}
+      1s: me hubiera preguntado
+      1p: nos hubiéramos preguntado
+      2s: te hubieras preguntado
+      2p: os hubierais preguntado
+      3s: se hubiera preguntado
+      3p: se hubieran preguntado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Wonder! Don't wonder!}
+      1s: ''
+      1p: ''
+      2s: pregúntate
+      2p: pregúntese
+      3s: preguntaos
+      3p: pregúntense
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Wonder! Don't wonder!}
+      1s: ''
+      1p: ''
+      2s: no te preguntes
+      2p: no se pregunte
+      3s: no os preguntéis
+      3p: no se pregunten

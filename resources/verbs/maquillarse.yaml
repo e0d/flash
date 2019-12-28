@@ -1,0 +1,186 @@
+maquillarse:
+  infinitive: maquillarse
+  gerund: maquillándose
+  pastparticiple: maquillado
+  definitions: {en: 'to put on make-up [on oneself]'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I put on make-up, am putting on make-up'}
+      1s: me maquillo
+      1p: nos maquillamos
+      2s: te maquillas
+      2p: os maquilláis
+      3s: se maquilla
+      3p: se maquillan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will put on make-up}
+      1s: me maquillaré
+      1p: nos maquillaremos
+      2s: te maquillarás
+      2p: os maquillaréis
+      3s: se maquillará
+      3p: se maquillarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was putting on make-up, used to put on make-up, put on make-up'}
+      1s: me maquillaba
+      1p: nos maquillábamos
+      2s: te maquillabas
+      2p: os maquillabais
+      3s: se maquillaba
+      3p: se maquillaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I put on make-up}
+      1s: me maquillé
+      1p: nos maquillamos
+      2s: te maquillaste
+      2p: os maquillasteis
+      3s: se maquilló
+      3p: se maquillaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would put on make-up}
+      1s: me maquillaría
+      1p: nos maquillaríamos
+      2s: te maquillarías
+      2p: os maquillaríais
+      3s: se maquillaría
+      3p: se maquillarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have put on make-up}
+      1s: me he maquillado
+      1p: nos hemos maquillado
+      2s: te has maquillado
+      2p: os habéis maquillado
+      3s: se ha maquillado
+      3p: se han maquillado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have put on make-up}
+      1s: me habré maquillado
+      1p: nos habremos maquillado
+      2s: te habrás maquillado
+      2p: os habréis maquillado
+      3s: se habrá maquillado
+      3p: se habrán maquillado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had put on make-up}
+      1s: me había maquillado
+      1p: nos habíamos maquillado
+      2s: te habías maquillado
+      2p: os habíais maquillado
+      3s: se había maquillado
+      3p: se habían maquillado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had put on make-up}
+      1s: me hube maquillado
+      1p: nos hubimos maquillado
+      2s: te hubiste maquillado
+      2p: os hubisteis maquillado
+      3s: se hubo maquillado
+      3p: se hubieron maquillado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have put on make-up}
+      1s: me habría maquillado
+      1p: nos habríamos maquillado
+      2s: te habrías maquillado
+      2p: os habríais maquillado
+      3s: se habría maquillado
+      3p: se habrían maquillado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I put on make-up, am putting on make-up'}
+      1s: me maquille
+      1p: nos maquillemos
+      2s: te maquilles
+      2p: os maquilléis
+      3s: se maquille
+      3p: se maquillen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I put on make-up, was putting on make-up'}
+      1s: me maquillara
+      1p: nos maquilláramos
+      2s: te maquillaras
+      2p: os maquillarais
+      3s: se maquillara
+      3p: se maquillaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will put on make-up}
+      1s: me maquillare
+      1p: nos maquilláremos
+      2s: te maquillares
+      2p: os maquillareis
+      3s: se maquillare
+      3p: se maquillaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have put on make-up, put on make-up'}
+      1s: me haya maquillado
+      1p: nos hayamos maquillado
+      2s: te hayas maquillado
+      2p: os hayáis maquillado
+      3s: se haya maquillado
+      3p: se hayan maquillado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have put on make-up}
+      1s: me hubiere maquillado
+      1p: nos hubiéremos maquillado
+      2s: te hubieres maquillado
+      2p: os hubiereis maquillado
+      3s: se hubiere maquillado
+      3p: se hubieren maquillado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had put on make-up}
+      1s: me hubiera maquillado
+      1p: nos hubiéramos maquillado
+      2s: te hubieras maquillado
+      2p: os hubierais maquillado
+      3s: se hubiera maquillado
+      3p: se hubieran maquillado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Put on make-up! Don't put on make-up!}
+      1s: ''
+      1p: ''
+      2s: no te maquíllate
+      2p: no te maquíllese
+      3s: maquillaos
+      3p: maquíllense
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Put on make-up! Don't put on make-up!}
+      1s: ''
+      1p: ''
+      2s: no te maquilles
+      2p: no se maquille
+      3s: no os maquilléis
+      3p: no se maquillen

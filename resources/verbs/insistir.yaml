@@ -1,0 +1,186 @@
+insistir:
+  infinitive: insistir
+  gerund: insistiendo
+  pastparticiple: insistido
+  definitions: {en: to insist}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I insist, am insisting'}
+      1s: insisto
+      1p: insistimos
+      2s: insistes
+      2p: insistís
+      3s: insiste
+      3p: insisten
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will insist}
+      1s: insistiré
+      1p: insistiremos
+      2s: insistirás
+      2p: insistiréis
+      3s: insistirá
+      3p: insistirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was insisting, used to insist, insisted'}
+      1s: insistía
+      1p: insistíamos
+      2s: insistías
+      2p: insistíais
+      3s: insistía
+      3p: insistían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I insisted}
+      1s: insistí
+      1p: insistimos
+      2s: insististe
+      2p: insististeis
+      3s: insistió
+      3p: insistieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would insist}
+      1s: insistiría
+      1p: insistiríamos
+      2s: insistirías
+      2p: insistiríais
+      3s: insistiría
+      3p: insistirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have insisted}
+      1s: he insistido
+      1p: hemos insistido
+      2s: has insistido
+      2p: habéis insistido
+      3s: ha insistido
+      3p: han insistido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have insisted}
+      1s: habré insistido
+      1p: habremos insistido
+      2s: habrás insistido
+      2p: habréis insistido
+      3s: habrá insistido
+      3p: habrán insistido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had insisted}
+      1s: había insistido
+      1p: habíamos insistido
+      2s: habías insistido
+      2p: habíais insistido
+      3s: había insistido
+      3p: habían insistido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had insisted}
+      1s: hube insistido
+      1p: hubimos insistido
+      2s: hubiste insistido
+      2p: hubisteis insistido
+      3s: hubo insistido
+      3p: hubieron insistido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have insisted}
+      1s: habría insistido
+      1p: habríamos insistido
+      2s: habrías insistido
+      2p: habríais insistido
+      3s: habría insistido
+      3p: habrían insistido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I insist, am insisting'}
+      1s: insista
+      1p: insistamos
+      2s: insistas
+      2p: insistáis
+      3s: insista
+      3p: insistan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I insisted, was insisting'}
+      1s: insistiera
+      1p: insistiéramos
+      2s: insistieras
+      2p: insistierais
+      3s: insistiera
+      3p: insistieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will insist}
+      1s: insistiere
+      1p: insistiéremos
+      2s: insistieres
+      2p: insistiereis
+      3s: insistiere
+      3p: insistieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have insisted, insisted'}
+      1s: haya insistido
+      1p: hayamos insistido
+      2s: hayas insistido
+      2p: hayáis insistido
+      3s: haya insistido
+      3p: hayan insistido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have insisted}
+      1s: hubiere insistido
+      1p: hubiéremos insistido
+      2s: hubieres insistido
+      2p: hubiereis insistido
+      3s: hubiere insistido
+      3p: hubieren insistido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had insisted}
+      1s: hubiera insistido
+      1p: hubiéramos insistido
+      2s: hubieras insistido
+      2p: hubierais insistido
+      3s: hubiera insistido
+      3p: hubieran insistido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Insist! Don't insist!}
+      1s: ''
+      1p: ''
+      2s: insiste
+      2p: insista
+      3s: insistid
+      3p: insistan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Insist! Don't insist!}
+      1s: ''
+      1p: ''
+      2s: no insistas
+      2p: no insista
+      3s: no insistáis
+      3p: no insistan

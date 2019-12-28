@@ -1,0 +1,186 @@
+plantar:
+  infinitive: plantar
+  gerund: plantando
+  pastparticiple: plantado
+  definitions: {en: to plant}
+  tenses:
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I planted}
+      1s: planté
+      1p: plantamos
+      2s: plantaste
+      2p: plantasteis
+      3s: plantó
+      3p: plantaron
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I plant, am planting'}
+      1s: planto
+      1p: plantamos
+      2s: plantas
+      2p: plantáis
+      3s: planta
+      3p: plantan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will plant}
+      1s: plantaré
+      1p: plantaremos
+      2s: plantarás
+      2p: plantaréis
+      3s: plantará
+      3p: plantarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was planting, used to plant, planted'}
+      1s: plantaba
+      1p: plantábamos
+      2s: plantabas
+      2p: plantabais
+      3s: plantaba
+      3p: plantaban
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would plant}
+      1s: plantaría
+      1p: plantaríamos
+      2s: plantarías
+      2p: plantaríais
+      3s: plantaría
+      3p: plantarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have planted}
+      1s: he plantado
+      1p: hemos plantado
+      2s: has plantado
+      2p: habéis plantado
+      3s: ha plantado
+      3p: han plantado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have planted}
+      1s: habré plantado
+      1p: habremos plantado
+      2s: habrás plantado
+      2p: habréis plantado
+      3s: habrá plantado
+      3p: habrán plantado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had planted}
+      1s: había plantado
+      1p: habíamos plantado
+      2s: habías plantado
+      2p: habíais plantado
+      3s: había plantado
+      3p: habían plantado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had planted}
+      1s: hube plantado
+      1p: hubimos plantado
+      2s: hubiste plantado
+      2p: hubisteis plantado
+      3s: hubo plantado
+      3p: hubieron plantado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have planted}
+      1s: habría plantado
+      1p: habríamos plantado
+      2s: habrías plantado
+      2p: habríais plantado
+      3s: habría plantado
+      3p: habrían plantado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I plant, am planting'}
+      1s: plante
+      1p: plantemos
+      2s: plantes
+      2p: plantéis
+      3s: plante
+      3p: planten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I planted, was planting'}
+      1s: plantara
+      1p: plantáramos
+      2s: plantaras
+      2p: plantarais
+      3s: plantara
+      3p: plantaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will plant}
+      1s: plantare
+      1p: plantáremos
+      2s: plantares
+      2p: plantareis
+      3s: plantare
+      3p: plantaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have planted, planted'}
+      1s: haya plantado
+      1p: hayamos plantado
+      2s: hayas plantado
+      2p: hayáis plantado
+      3s: haya plantado
+      3p: hayan plantado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have planted}
+      1s: hubiere plantado
+      1p: hubiéremos plantado
+      2s: hubieres plantado
+      2p: hubiereis plantado
+      3s: hubiere plantado
+      3p: hubieren plantado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had planted}
+      1s: hubiera plantado
+      1p: hubiéramos plantado
+      2s: hubieras plantado
+      2p: hubierais plantado
+      3s: hubiera plantado
+      3p: hubieran plantado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Plant! Don't plant!}
+      1s: ''
+      1p: ''
+      2s: planta
+      2p: plante
+      3s: plantad
+      3p: planten
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Plant! Don't plant!}
+      1s: ''
+      1p: ''
+      2s: no plantes
+      2p: no plante
+      3s: no plantéis
+      3p: no planten

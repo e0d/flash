@@ -1,0 +1,186 @@
+cargar:
+  infinitive: cargar
+  gerund: cargando
+  pastparticiple: cargado
+  definitions: {en: 'to load, load up; to charge'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I load, am loading'}
+      1s: cargo
+      1p: cargamos
+      2s: cargas
+      2p: cargáis
+      3s: carga
+      3p: cargan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will load}
+      1s: cargaré
+      1p: cargaremos
+      2s: cargarás
+      2p: cargaréis
+      3s: cargará
+      3p: cargarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was loading, used to load, loaded'}
+      1s: cargaba
+      1p: cargábamos
+      2s: cargabas
+      2p: cargabais
+      3s: cargaba
+      3p: cargaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I loaded}
+      1s: cargué
+      1p: cargamos
+      2s: cargaste
+      2p: cargasteis
+      3s: cargó
+      3p: cargaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would load}
+      1s: cargaría
+      1p: cargaríamos
+      2s: cargarías
+      2p: cargaríais
+      3s: cargaría
+      3p: cargarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have loaded}
+      1s: he cargado
+      1p: hemos cargado
+      2s: has cargado
+      2p: habéis cargado
+      3s: ha cargado
+      3p: han cargado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have loaded}
+      1s: habré cargado
+      1p: habremos cargado
+      2s: habrás cargado
+      2p: habréis cargado
+      3s: habrá cargado
+      3p: habrán cargado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had loaded}
+      1s: había cargado
+      1p: habíamos cargado
+      2s: habías cargado
+      2p: habíais cargado
+      3s: había cargado
+      3p: habían cargado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had loaded}
+      1s: hube cargado
+      1p: hubimos cargado
+      2s: hubiste cargado
+      2p: hubisteis cargado
+      3s: hubo cargado
+      3p: hubieron cargado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have loaded}
+      1s: habría cargado
+      1p: habríamos cargado
+      2s: habrías cargado
+      2p: habríais cargado
+      3s: habría cargado
+      3p: habrían cargado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I load, am loading'}
+      1s: cargue
+      1p: carguemos
+      2s: cargues
+      2p: carguéis
+      3s: cargue
+      3p: carguen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I loaded, was loading'}
+      1s: cargara
+      1p: cargáramos
+      2s: cargaras
+      2p: cargarais
+      3s: cargara
+      3p: cargaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will load}
+      1s: cargare
+      1p: cargáremos
+      2s: cargares
+      2p: cargareis
+      3s: cargare
+      3p: cargaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have loaded, loaded'}
+      1s: haya cargado
+      1p: hayamos cargado
+      2s: hayas cargado
+      2p: hayáis cargado
+      3s: haya cargado
+      3p: hayan cargado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have loaded}
+      1s: hubiere cargado
+      1p: hubiéremos cargado
+      2s: hubieres cargado
+      2p: hubiereis cargado
+      3s: hubiere cargado
+      3p: hubieren cargado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had loaded}
+      1s: hubiera cargado
+      1p: hubiéramos cargado
+      2s: hubieras cargado
+      2p: hubierais cargado
+      3s: hubiera cargado
+      3p: hubieran cargado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Load! Don't load!}
+      1s: ''
+      1p: ''
+      2s: carga
+      2p: cargue
+      3s: cargad
+      3p: carguen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Load! Don't load!}
+      1s: ''
+      1p: ''
+      2s: no cargues
+      2p: no cargue
+      3s: no carguéis
+      3p: no carguen

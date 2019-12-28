@@ -1,0 +1,186 @@
+soler:
+  infinitive: soler
+  gerund: soliendo
+  pastparticiple: solido
+  definitions: {en: 'to be accustomed to, be accustomed to'}
+  tenses:
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will be accustomed to}
+      1s: soliere
+      1p: soliéremos
+      2s: solieres
+      2p: soliereis
+      3s: soliere
+      3p: solieren
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I am accustomed to}
+      1s: suelo
+      1p: solemos
+      2s: sueles
+      2p: soléis
+      3s: suele
+      3p: suelen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will be accustomed to}
+      1s: soleré
+      1p: soleremos
+      2s: solerás
+      2p: soleréis
+      3s: solerá
+      3p: solerán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I was accustomed to}
+      1s: solía
+      1p: solíamos
+      2s: solías
+      2p: solíais
+      3s: solía
+      3p: solían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I was accustomed to}
+      1s: solí
+      1p: solimos
+      2s: soliste
+      2p: solisteis
+      3s: solió
+      3p: solieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would be accustomed to}
+      1s: solería
+      1p: soleríamos
+      2s: solerías
+      2p: soleríais
+      3s: solería
+      3p: solerían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have been accustomed to}
+      1s: he solido
+      1p: hemos solido
+      2s: has solido
+      2p: habéis solido
+      3s: ha solido
+      3p: han solido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have been accustomed to}
+      1s: habré solido
+      1p: habremos solido
+      2s: habrás solido
+      2p: habréis solido
+      3s: habrá solido
+      3p: habrán solido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had been accustomed to}
+      1s: había solido
+      1p: habíamos solido
+      2s: habías solido
+      2p: habíais solido
+      3s: había solido
+      3p: habían solido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had been accustomed to}
+      1s: hube solido
+      1p: hubimos solido
+      2s: hubiste solido
+      2p: hubisteis solido
+      3s: hubo solido
+      3p: hubieron solido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have been accustomed to}
+      1s: habría solido
+      1p: habríamos solido
+      2s: habrías solido
+      2p: habríais solido
+      3s: habría solido
+      3p: habrían solido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I am accustomed to}
+      1s: suela
+      1p: solamos
+      2s: suelas
+      2p: soláis
+      3s: suela
+      3p: suelan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I was accustomed to}
+      1s: soliera
+      1p: soliéramos
+      2s: solieras
+      2p: solierais
+      3s: soliera
+      3p: solieran
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have been accustomed to, was accustomed to'}
+      1s: haya solido
+      1p: hayamos solido
+      2s: hayas solido
+      2p: hayáis solido
+      3s: haya solido
+      3p: hayan solido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have been accustomed to}
+      1s: hubiere solido
+      1p: hubiéremos solido
+      2s: hubieres solido
+      2p: hubiereis solido
+      3s: hubiere solido
+      3p: hubieren solido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had been accustomed to}
+      1s: hubiera solido
+      1p: hubiéramos solido
+      2s: hubieras solido
+      2p: hubierais solido
+      3s: hubiera solido
+      3p: hubieran solido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Be accustomed to! Don't be accustomed to!}
+      1s: ''
+      1p: ''
+      2s: suele
+      2p: suela
+      3s: soled
+      3p: suelan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Be accustomed to! Don't be accustomed to!}
+      1s: ''
+      1p: ''
+      2s: no suelas
+      2p: no suela
+      3s: no soláis
+      3p: no suelan

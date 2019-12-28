@@ -1,0 +1,186 @@
+poner:
+  infinitive: poner
+  gerund: poniendo
+  pastparticiple: puesto
+  definitions: {en: 'to put, place, set'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I put, am puting'}
+      1s: pongo
+      1p: ponemos
+      2s: pones
+      2p: ponéis
+      3s: pone
+      3p: ponen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will put}
+      1s: pondré
+      1p: pondremos
+      2s: pondrás
+      2p: pondréis
+      3s: pondrá
+      3p: pondrán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was puting, used to put, put'}
+      1s: ponía
+      1p: poníamos
+      2s: ponías
+      2p: poníais
+      3s: ponía
+      3p: ponían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I put}
+      1s: puse
+      1p: pusimos
+      2s: pusiste
+      2p: pusisteis
+      3s: puso
+      3p: pusieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would put}
+      1s: pondría
+      1p: pondríamos
+      2s: pondrías
+      2p: pondríais
+      3s: pondría
+      3p: pondrían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have put}
+      1s: he puesto
+      1p: hemos puesto
+      2s: has puesto
+      2p: habéis puesto
+      3s: ha puesto
+      3p: han puesto
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have put}
+      1s: habré puesto
+      1p: habremos puesto
+      2s: habrás puesto
+      2p: habréis puesto
+      3s: habrá puesto
+      3p: habrán puesto
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had put}
+      1s: había puesto
+      1p: habíamos puesto
+      2s: habías puesto
+      2p: habíais puesto
+      3s: había puesto
+      3p: habían puesto
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had put}
+      1s: hube puesto
+      1p: hubimos puesto
+      2s: hubiste puesto
+      2p: hubisteis puesto
+      3s: hubo puesto
+      3p: hubieron puesto
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have put}
+      1s: habría puesto
+      1p: habríamos puesto
+      2s: habrías puesto
+      2p: habríais puesto
+      3s: habría puesto
+      3p: habrían puesto
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I put, am puting'}
+      1s: ponga
+      1p: pongamos
+      2s: pongas
+      2p: pongáis
+      3s: ponga
+      3p: pongan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I put, was puting'}
+      1s: pusiera
+      1p: pusiéramos
+      2s: pusieras
+      2p: pusierais
+      3s: pusiera
+      3p: pusieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will put}
+      1s: pusiere
+      1p: pusiéremos
+      2s: pusieres
+      2p: pusiereis
+      3s: pusiere
+      3p: pusieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have put, put'}
+      1s: haya puesto
+      1p: hayamos puesto
+      2s: hayas puesto
+      2p: hayáis puesto
+      3s: haya puesto
+      3p: hayan puesto
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have put}
+      1s: hubiere puesto
+      1p: hubiéremos puesto
+      2s: hubieres puesto
+      2p: hubiereis puesto
+      3s: hubiere puesto
+      3p: hubieren puesto
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had put}
+      1s: hubiera puesto
+      1p: hubiéramos puesto
+      2s: hubieras puesto
+      2p: hubierais puesto
+      3s: hubiera puesto
+      3p: hubieran puesto
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Put! Don't put!}
+      1s: ''
+      1p: ''
+      2s: pon
+      2p: ponga
+      3s: poned
+      3p: pongan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Put! Don't put!}
+      1s: ''
+      1p: ''
+      2s: no pongas
+      2p: no ponga
+      3s: no pongáis
+      3p: no pongan

@@ -1,0 +1,186 @@
+votar:
+  infinitive: votar
+  gerund: votando
+  pastparticiple: votado
+  definitions: {en: to vote}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I vote, am voting'}
+      1s: voto
+      1p: votamos
+      2s: votas
+      2p: votáis
+      3s: vota
+      3p: votan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will vote}
+      1s: votaré
+      1p: votaremos
+      2s: votarás
+      2p: votaréis
+      3s: votará
+      3p: votarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was voting, used to vote, voted'}
+      1s: votaba
+      1p: votábamos
+      2s: votabas
+      2p: votabais
+      3s: votaba
+      3p: votaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I voted}
+      1s: voté
+      1p: votamos
+      2s: votaste
+      2p: votasteis
+      3s: votó
+      3p: votaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would vote}
+      1s: votaría
+      1p: votaríamos
+      2s: votarías
+      2p: votaríais
+      3s: votaría
+      3p: votarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have voted}
+      1s: he votado
+      1p: hemos votado
+      2s: has votado
+      2p: habéis votado
+      3s: ha votado
+      3p: han votado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have voted}
+      1s: habré votado
+      1p: habremos votado
+      2s: habrás votado
+      2p: habréis votado
+      3s: habrá votado
+      3p: habrán votado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had voted}
+      1s: había votado
+      1p: habíamos votado
+      2s: habías votado
+      2p: habíais votado
+      3s: había votado
+      3p: habían votado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had voted}
+      1s: hube votado
+      1p: hubimos votado
+      2s: hubiste votado
+      2p: hubisteis votado
+      3s: hubo votado
+      3p: hubieron votado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have voted}
+      1s: habría votado
+      1p: habríamos votado
+      2s: habrías votado
+      2p: habríais votado
+      3s: habría votado
+      3p: habrían votado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I vote, am voting'}
+      1s: vote
+      1p: votemos
+      2s: votes
+      2p: votéis
+      3s: vote
+      3p: voten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I voted, was voting'}
+      1s: votara
+      1p: votáramos
+      2s: votaras
+      2p: votarais
+      3s: votara
+      3p: votaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will vote}
+      1s: votare
+      1p: votáremos
+      2s: votares
+      2p: votareis
+      3s: votare
+      3p: votaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have voted, voted'}
+      1s: haya votado
+      1p: hayamos votado
+      2s: hayas votado
+      2p: hayáis votado
+      3s: haya votado
+      3p: hayan votado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have voted}
+      1s: hubiere votado
+      1p: hubiéremos votado
+      2s: hubieres votado
+      2p: hubiereis votado
+      3s: hubiere votado
+      3p: hubieren votado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had voted}
+      1s: hubiera votado
+      1p: hubiéramos votado
+      2s: hubieras votado
+      2p: hubierais votado
+      3s: hubiera votado
+      3p: hubieran votado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Vote! Don't vote!}
+      1s: ''
+      1p: ''
+      2s: vota
+      2p: vote
+      3s: votad
+      3p: voten
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Vote! Don't vote!}
+      1s: ''
+      1p: ''
+      2s: no votes
+      2p: no vote
+      3s: no votéis
+      3p: no voten

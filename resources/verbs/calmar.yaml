@@ -1,0 +1,186 @@
+calmar:
+  infinitive: calmar
+  gerund: calmando
+  pastparticiple: calmado
+  definitions: {en: 'to calm (down), quiet, soothe'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I calm, am calming'}
+      1s: calmo
+      1p: calmamos
+      2s: calmas
+      2p: calmáis
+      3s: calma
+      3p: calman
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will calm}
+      1s: calmaré
+      1p: calmaremos
+      2s: calmarás
+      2p: calmaréis
+      3s: calmará
+      3p: calmarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was calming, used to calm, calmed'}
+      1s: calmaba
+      1p: calmábamos
+      2s: calmabas
+      2p: calmabais
+      3s: calmaba
+      3p: calmaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I calmed}
+      1s: calmé
+      1p: calmamos
+      2s: calmaste
+      2p: calmasteis
+      3s: calmó
+      3p: calmaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would calm}
+      1s: calmaría
+      1p: calmaríamos
+      2s: calmarías
+      2p: calmaríais
+      3s: calmaría
+      3p: calmarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have calmed}
+      1s: he calmado
+      1p: hemos calmado
+      2s: has calmado
+      2p: habéis calmado
+      3s: ha calmado
+      3p: han calmado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have calmed}
+      1s: habré calmado
+      1p: habremos calmado
+      2s: habrás calmado
+      2p: habréis calmado
+      3s: habrá calmado
+      3p: habrán calmado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had calmed}
+      1s: había calmado
+      1p: habíamos calmado
+      2s: habías calmado
+      2p: habíais calmado
+      3s: había calmado
+      3p: habían calmado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had calmed}
+      1s: hube calmado
+      1p: hubimos calmado
+      2s: hubiste calmado
+      2p: hubisteis calmado
+      3s: hubo calmado
+      3p: hubieron calmado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have calmed}
+      1s: habría calmado
+      1p: habríamos calmado
+      2s: habrías calmado
+      2p: habríais calmado
+      3s: habría calmado
+      3p: habrían calmado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I calm, am calming'}
+      1s: calme
+      1p: calmemos
+      2s: calmes
+      2p: calméis
+      3s: calme
+      3p: calmen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I calmed, was calming'}
+      1s: calmara
+      1p: calmáramos
+      2s: calmaras
+      2p: calmarais
+      3s: calmara
+      3p: calmaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will calm}
+      1s: calmare
+      1p: calmáremos
+      2s: calmares
+      2p: calmareis
+      3s: calmare
+      3p: calmaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have calmed, calmed'}
+      1s: haya calmado
+      1p: hayamos calmado
+      2s: hayas calmado
+      2p: hayáis calmado
+      3s: haya calmado
+      3p: hayan calmado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have calmed}
+      1s: hubiere calmado
+      1p: hubiéremos calmado
+      2s: hubieres calmado
+      2p: hubiereis calmado
+      3s: hubiere calmado
+      3p: hubieren calmado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had calmed}
+      1s: hubiera calmado
+      1p: hubiéramos calmado
+      2s: hubieras calmado
+      2p: hubierais calmado
+      3s: hubiera calmado
+      3p: hubieran calmado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Calm! Don't calm!}
+      1s: ''
+      1p: ''
+      2s: calma
+      2p: calme
+      3s: calmad
+      3p: calmen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Calm! Don't calm!}
+      1s: ''
+      1p: ''
+      2s: no calmes
+      2p: no calme
+      3s: no calméis
+      3p: no calmen

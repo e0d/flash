@@ -1,0 +1,186 @@
+llamarse:
+  infinitive: llamarse
+  gerund: llamándose
+  pastparticiple: llamado
+  definitions: {en: 'to be called, be named'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: my name is}
+      1s: me llamo
+      1p: nos llamamos
+      2s: te llamas
+      2p: os llamáis
+      3s: se llama
+      3p: se llaman
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: my name will be}
+      1s: me llamaré
+      1p: nos llamaremos
+      2s: te llamarás
+      2p: os llamaréis
+      3s: se llamará
+      3p: se llamarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'my name was, my name used to be'}
+      1s: me llamaba
+      1p: nos llamábamos
+      2s: te llamabas
+      2p: os llamabais
+      3s: se llamaba
+      3p: se llamaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: my name was}
+      1s: me llamé
+      1p: nos llamamos
+      2s: te llamaste
+      2p: os llamasteis
+      3s: se llamó
+      3p: se llamaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: my name would be}
+      1s: me llamaría
+      1p: nos llamaríamos
+      2s: te llamarías
+      2p: os llamaríais
+      3s: se llamaría
+      3p: se llamarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: my name has been}
+      1s: me he llamado
+      1p: nos hemos llamado
+      2s: te has llamado
+      2p: os habéis llamado
+      3s: se ha llamado
+      3p: se han llamado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: my name will have been}
+      1s: me habré llamado
+      1p: nos habremos llamado
+      2s: te habrás llamado
+      2p: os habréis llamado
+      3s: se habrá llamado
+      3p: se habrán llamado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: my name had been}
+      1s: me había llamado
+      1p: nos habíamos llamado
+      2s: te habías llamado
+      2p: os habíais llamado
+      3s: se había llamado
+      3p: se habían llamado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: my name had been}
+      1s: me hube llamado
+      1p: nos hubimos llamado
+      2s: te hubiste llamado
+      2p: os hubisteis llamado
+      3s: se hubo llamado
+      3p: se hubieron llamado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: my name would have been}
+      1s: me habría llamado
+      1p: nos habríamos llamado
+      2s: te habrías llamado
+      2p: os habríais llamado
+      3s: se habría llamado
+      3p: se habrían llamado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: my name is}
+      1s: me llame
+      1p: nos llamemos
+      2s: te llames
+      2p: os llaméis
+      3s: se llame
+      3p: se llamen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: my name was}
+      1s: me llamara
+      1p: nos llamáramos
+      2s: te llamaras
+      2p: os llamarais
+      3s: se llamara
+      3p: se llamaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: my name will be}
+      1s: me llamare
+      1p: nos llamáremos
+      2s: te llamares
+      2p: os llamareis
+      3s: se llamare
+      3p: se llamaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'my name has been, my name was'}
+      1s: me haya llamado
+      1p: nos hayamos llamado
+      2s: te hayas llamado
+      2p: os hayáis llamado
+      3s: se haya llamado
+      3p: se hayan llamado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: my name will have been}
+      1s: me hubiere llamado
+      1p: nos hubiéremos llamado
+      2s: te hubieres llamado
+      2p: os hubiereis llamado
+      3s: se hubiere llamado
+      3p: se hubieren llamado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: my name had been}
+      1s: me hubiera llamado
+      1p: nos hubiéramos llamado
+      2s: te hubieras llamado
+      2p: os hubierais llamado
+      3s: se hubiera llamado
+      3p: se hubieran llamado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Be named! Call yourself! Don't be named/call yourself!}
+      1s: ''
+      1p: ''
+      2s: llámate
+      2p: llámese
+      3s: llamaos
+      3p: llámense
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Be named! Call yourself! Don't be named/call yourself!}
+      1s: ''
+      1p: ''
+      2s: no te llames
+      2p: no se llame
+      3s: no os llaméis
+      3p: no se llamen

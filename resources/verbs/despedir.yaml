@@ -1,0 +1,187 @@
+despedir:
+  infinitive: despedir
+  gerund: despidiendo
+  pastparticiple: despedido
+  definitions: {en: 'to say goodbye to, show out, dismiss'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I say goodbye to, am saying goodbye to'}
+      1s: despido
+      1p: despedimos
+      2s: despides
+      2p: despedís
+      3s: despide
+      3p: despiden
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will say goodbye to}
+      1s: despediré
+      1p: despediremos
+      2s: despedirás
+      2p: despediréis
+      3s: despedirá
+      3p: despedirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was saying goodbye to, used to say goodbye to, said goodbye
+          to'}
+      1s: despedía
+      1p: despedíamos
+      2s: despedías
+      2p: despedíais
+      3s: despedía
+      3p: despedían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I said goodbye to}
+      1s: despedí
+      1p: despedimos
+      2s: despediste
+      2p: despedisteis
+      3s: despidió
+      3p: despidieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would say goodbye to}
+      1s: despediría
+      1p: despediríamos
+      2s: despedirías
+      2p: despediríais
+      3s: despediría
+      3p: despedirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have said goodbye to}
+      1s: he despedido
+      1p: hemos despedido
+      2s: has despedido
+      2p: habéis despedido
+      3s: ha despedido
+      3p: han despedido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have said goodbye to}
+      1s: habré despedido
+      1p: habremos despedido
+      2s: habrás despedido
+      2p: habréis despedido
+      3s: habrá despedido
+      3p: habrán despedido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had said goodbye to}
+      1s: había despedido
+      1p: habíamos despedido
+      2s: habías despedido
+      2p: habíais despedido
+      3s: había despedido
+      3p: habían despedido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had said goodbye to}
+      1s: hube despedido
+      1p: hubimos despedido
+      2s: hubiste despedido
+      2p: hubisteis despedido
+      3s: hubo despedido
+      3p: hubieron despedido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have said goodbye to}
+      1s: habría despedido
+      1p: habríamos despedido
+      2s: habrías despedido
+      2p: habríais despedido
+      3s: habría despedido
+      3p: habrían despedido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I say goodbye to, am saying goodbye to'}
+      1s: despida
+      1p: despidamos
+      2s: despidas
+      2p: despidáis
+      3s: despida
+      3p: despidan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I said goodbye to, was saying goodbye to'}
+      1s: despidiera
+      1p: despidiéramos
+      2s: despidieras
+      2p: despidierais
+      3s: despidiera
+      3p: despidieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will say goodbye to}
+      1s: despidiere
+      1p: despidiéremos
+      2s: despidieres
+      2p: despidiereis
+      3s: despidiere
+      3p: despidieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have said goodbye to, said goodbye to'}
+      1s: haya despedido
+      1p: hayamos despedido
+      2s: hayas despedido
+      2p: hayáis despedido
+      3s: haya despedido
+      3p: hayan despedido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have said goodbye to}
+      1s: hubiere despedido
+      1p: hubiéremos despedido
+      2s: hubieres despedido
+      2p: hubiereis despedido
+      3s: hubiere despedido
+      3p: hubieren despedido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had said goodbye to}
+      1s: hubiera despedido
+      1p: hubiéramos despedido
+      2s: hubieras despedido
+      2p: hubierais despedido
+      3s: hubiera despedido
+      3p: hubieran despedido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Say goodbye to! Don't say goodbye to!}
+      1s: ''
+      1p: ''
+      2s: despide
+      2p: despida
+      3s: despedid
+      3p: despidan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Say goodbye to! Don't say goodbye to!}
+      1s: ''
+      1p: ''
+      2s: no despidas
+      2p: no despida
+      3s: no despidáis
+      3p: no despidan

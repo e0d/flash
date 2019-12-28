@@ -1,0 +1,186 @@
+recibir:
+  infinitive: recibir
+  gerund: recibiendo
+  pastparticiple: recibido
+  definitions: {en: 'to receive; to welcome, greet'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I receive, am receiving'}
+      1s: recibo
+      1p: recibimos
+      2s: recibes
+      2p: recibís
+      3s: recibe
+      3p: reciben
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will receive}
+      1s: recibiré
+      1p: recibiremos
+      2s: recibirás
+      2p: recibiréis
+      3s: recibirá
+      3p: recibirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was receiving, used to receive, received'}
+      1s: recibía
+      1p: recibíamos
+      2s: recibías
+      2p: recibíais
+      3s: recibía
+      3p: recibían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I received}
+      1s: recibí
+      1p: recibimos
+      2s: recibiste
+      2p: recibisteis
+      3s: recibió
+      3p: recibieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would receive}
+      1s: recibiría
+      1p: recibiríamos
+      2s: recibirías
+      2p: recibiríais
+      3s: recibiría
+      3p: recibirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have received}
+      1s: he recibido
+      1p: hemos recibido
+      2s: has recibido
+      2p: habéis recibido
+      3s: ha recibido
+      3p: han recibido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have received}
+      1s: habré recibido
+      1p: habremos recibido
+      2s: habrás recibido
+      2p: habréis recibido
+      3s: habrá recibido
+      3p: habrán recibido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had received}
+      1s: había recibido
+      1p: habíamos recibido
+      2s: habías recibido
+      2p: habíais recibido
+      3s: había recibido
+      3p: habían recibido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had received}
+      1s: hube recibido
+      1p: hubimos recibido
+      2s: hubiste recibido
+      2p: hubisteis recibido
+      3s: hubo recibido
+      3p: hubieron recibido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have received}
+      1s: habría recibido
+      1p: habríamos recibido
+      2s: habrías recibido
+      2p: habríais recibido
+      3s: habría recibido
+      3p: habrían recibido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I receive, am receiving'}
+      1s: reciba
+      1p: recibamos
+      2s: recibas
+      2p: recibáis
+      3s: reciba
+      3p: reciban
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I received, was receiving'}
+      1s: recibiera
+      1p: recibiéramos
+      2s: recibieras
+      2p: recibierais
+      3s: recibiera
+      3p: recibieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will receive}
+      1s: recibiere
+      1p: recibiéremos
+      2s: recibieres
+      2p: recibiereis
+      3s: recibiere
+      3p: recibieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have received, received'}
+      1s: haya recibido
+      1p: hayamos recibido
+      2s: hayas recibido
+      2p: hayáis recibido
+      3s: haya recibido
+      3p: hayan recibido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have received}
+      1s: hubiere recibido
+      1p: hubiéremos recibido
+      2s: hubieres recibido
+      2p: hubiereis recibido
+      3s: hubiere recibido
+      3p: hubieren recibido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had received}
+      1s: hubiera recibido
+      1p: hubiéramos recibido
+      2s: hubieras recibido
+      2p: hubierais recibido
+      3s: hubiera recibido
+      3p: hubieran recibido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Receive! Don't receive!}
+      1s: ''
+      1p: ''
+      2s: recibe
+      2p: reciba
+      3s: recibid
+      3p: reciban
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Receive! Don't receive!}
+      1s: ''
+      1p: ''
+      2s: no recibas
+      2p: no reciba
+      3s: no recibáis
+      3p: no reciban

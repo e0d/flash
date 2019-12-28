@@ -1,0 +1,186 @@
+aliviar:
+  infinitive: aliviar
+  gerund: aliviando
+  pastparticiple: aliviado
+  definitions: {en: 'to alleviate, ease, lessen, lighthen, relieve'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I alleviate, am alleviating'}
+      1s: alivio
+      1p: aliviamos
+      2s: alivias
+      2p: aliviáis
+      3s: alivia
+      3p: alivian
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will alleviate}
+      1s: aliviaré
+      1p: aliviaremos
+      2s: aliviarás
+      2p: aliviaréis
+      3s: aliviará
+      3p: aliviarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was alleviating, used to alleviate, alleviated'}
+      1s: aliviaba
+      1p: aliviábamos
+      2s: aliviabas
+      2p: aliviabais
+      3s: aliviaba
+      3p: aliviaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I alleviated}
+      1s: alivié
+      1p: aliviamos
+      2s: aliviaste
+      2p: aliviasteis
+      3s: alivió
+      3p: aliviaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would alleviate}
+      1s: aliviaría
+      1p: aliviaríamos
+      2s: aliviarías
+      2p: aliviaríais
+      3s: aliviaría
+      3p: aliviarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have alleviated}
+      1s: he aliviado
+      1p: hemos aliviado
+      2s: has aliviado
+      2p: habéis aliviado
+      3s: ha aliviado
+      3p: han aliviado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have alleviated}
+      1s: habré aliviado
+      1p: habremos aliviado
+      2s: habrás aliviado
+      2p: habréis aliviado
+      3s: habrá aliviado
+      3p: habrán aliviado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had alleviated}
+      1s: había aliviado
+      1p: habíamos aliviado
+      2s: habías aliviado
+      2p: habíais aliviado
+      3s: había aliviado
+      3p: habían aliviado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had alleviated}
+      1s: hube aliviado
+      1p: hubimos aliviado
+      2s: hubiste aliviado
+      2p: hubisteis aliviado
+      3s: hubo aliviado
+      3p: hubieron aliviado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have alleviated}
+      1s: habría aliviado
+      1p: habríamos aliviado
+      2s: habrías aliviado
+      2p: habríais aliviado
+      3s: habría aliviado
+      3p: habrían aliviado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I alleviate, am alleviating'}
+      1s: alivie
+      1p: aliviemos
+      2s: alivies
+      2p: aliviéis
+      3s: alivie
+      3p: alivien
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I alleviated, was alleviating'}
+      1s: aliviara
+      1p: aliviáramos
+      2s: aliviaras
+      2p: aliviarais
+      3s: aliviara
+      3p: aliviaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will alleviate}
+      1s: aliviare
+      1p: aliviáremos
+      2s: aliviares
+      2p: aliviareis
+      3s: aliviare
+      3p: aliviaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have alleviated, alleviated'}
+      1s: haya aliviado
+      1p: hayamos aliviado
+      2s: hayas aliviado
+      2p: hayáis aliviado
+      3s: haya aliviado
+      3p: hayan aliviado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have alleviated}
+      1s: hubiere aliviado
+      1p: hubiéremos aliviado
+      2s: hubieres aliviado
+      2p: hubiereis aliviado
+      3s: hubiere aliviado
+      3p: hubieren aliviado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had alleviated}
+      1s: hubiera aliviado
+      1p: hubiéramos aliviado
+      2s: hubieras aliviado
+      2p: hubierais aliviado
+      3s: hubiera aliviado
+      3p: hubieran aliviado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Alleviate! Don't alleviate!}
+      1s: ''
+      1p: ''
+      2s: alivia
+      2p: alivie
+      3s: aliviad
+      3p: alivien
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Alleviate! Don't alleviate!}
+      1s: ''
+      1p: ''
+      2s: no alivies
+      2p: no alivie
+      3s: no aliviéis
+      3p: no alivien

@@ -1,0 +1,186 @@
+contener:
+  infinitive: contener
+  gerund: conteniendo
+  pastparticiple: contenido
+  definitions: {en: 'to contain, hold'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I contain, am containing'}
+      1s: contengo
+      1p: contenemos
+      2s: contienes
+      2p: contenéis
+      3s: contiene
+      3p: contienen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will contain}
+      1s: contendré
+      1p: contendremos
+      2s: contendrás
+      2p: contendréis
+      3s: contendrá
+      3p: contendrán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was containing, used to contain, contained'}
+      1s: contenía
+      1p: conteníamos
+      2s: contenías
+      2p: conteníais
+      3s: contenía
+      3p: contenían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I contained}
+      1s: contuve
+      1p: contuvimos
+      2s: contuviste
+      2p: contuvisteis
+      3s: contuvo
+      3p: contuvieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would contain}
+      1s: contendría
+      1p: contendríamos
+      2s: contendrías
+      2p: contendríais
+      3s: contendría
+      3p: contendrían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have contained}
+      1s: he contenido
+      1p: hemos contenido
+      2s: has contenido
+      2p: habéis contenido
+      3s: ha contenido
+      3p: han contenido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have contained}
+      1s: habré contenido
+      1p: habremos contenido
+      2s: habrás contenido
+      2p: habréis contenido
+      3s: habrá contenido
+      3p: habrán contenido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had contained}
+      1s: había contenido
+      1p: habíamos contenido
+      2s: habías contenido
+      2p: habíais contenido
+      3s: había contenido
+      3p: habían contenido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had contained}
+      1s: hube contenido
+      1p: hubimos contenido
+      2s: hubiste contenido
+      2p: hubisteis contenido
+      3s: hubo contenido
+      3p: hubieron contenido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have contained}
+      1s: habría contenido
+      1p: habríamos contenido
+      2s: habrías contenido
+      2p: habríais contenido
+      3s: habría contenido
+      3p: habrían contenido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I contain, am containing'}
+      1s: contenga
+      1p: contengamos
+      2s: contengas
+      2p: contengáis
+      3s: contenga
+      3p: contengan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I contained, was containing'}
+      1s: contuviera
+      1p: contuviéramos
+      2s: contuvieras
+      2p: contuvierais
+      3s: contuviera
+      3p: contuvieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will contain}
+      1s: contuviere
+      1p: contuviéremos
+      2s: contuvieres
+      2p: contuviereis
+      3s: contuviere
+      3p: contuvieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have contained, contained'}
+      1s: haya contenido
+      1p: hayamos contenido
+      2s: hayas contenido
+      2p: hayáis contenido
+      3s: haya contenido
+      3p: hayan contenido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have contained}
+      1s: hubiere contenido
+      1p: hubiéremos contenido
+      2s: hubieres contenido
+      2p: hubiereis contenido
+      3s: hubiere contenido
+      3p: hubieren contenido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had contained}
+      1s: hubiera contenido
+      1p: hubiéramos contenido
+      2s: hubieras contenido
+      2p: hubierais contenido
+      3s: hubiera contenido
+      3p: hubieran contenido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Contain! Don't contain!}
+      1s: ''
+      1p: ''
+      2s: contén
+      2p: contenga
+      3s: contened
+      3p: contengan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Contain! Don't contain!}
+      1s: ''
+      1p: ''
+      2s: no contengas
+      2p: no contenga
+      3s: no contengáis
+      3p: no contengan

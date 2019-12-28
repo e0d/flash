@@ -1,0 +1,186 @@
+negarse:
+  infinitive: negarse
+  gerund: negándose
+  pastparticiple: negado
+  definitions: {en: to refuse}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I refuse, am refusing'}
+      1s: me niego
+      1p: nos negamos
+      2s: te niegas
+      2p: os negáis
+      3s: se niega
+      3p: se niegan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will refuse}
+      1s: me negaré
+      1p: nos negaremos
+      2s: te negarás
+      2p: os negaréis
+      3s: se negará
+      3p: se negarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was refusing, used to refuse, refused'}
+      1s: me negaba
+      1p: nos negábamos
+      2s: te negabas
+      2p: os negabais
+      3s: se negaba
+      3p: se negaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I refused}
+      1s: me negué
+      1p: nos negamos
+      2s: te negaste
+      2p: os negasteis
+      3s: se negó
+      3p: se negaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would refuse}
+      1s: me negaría
+      1p: nos negaríamos
+      2s: te negarías
+      2p: os negaríais
+      3s: se negaría
+      3p: se negarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have refused}
+      1s: me he negado
+      1p: nos hemos negado
+      2s: te has negado
+      2p: os habéis negado
+      3s: se ha negado
+      3p: se han negado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have refused}
+      1s: me habré negado
+      1p: nos habremos negado
+      2s: te habrás negado
+      2p: os habréis negado
+      3s: se habrá negado
+      3p: se habrán negado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had refused}
+      1s: me había negado
+      1p: nos habíamos negado
+      2s: te habías negado
+      2p: os habíais negado
+      3s: se había negado
+      3p: se habían negado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had refused}
+      1s: me hube negado
+      1p: nos hubimos negado
+      2s: te hubiste negado
+      2p: os hubisteis negado
+      3s: se hubo negado
+      3p: se hubieron negado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have refused}
+      1s: me habría negado
+      1p: nos habríamos negado
+      2s: te habrías negado
+      2p: os habríais negado
+      3s: se habría negado
+      3p: se habrían negado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I refuse, am refusing'}
+      1s: me niegue
+      1p: nos neguemos
+      2s: te niegues
+      2p: os neguéis
+      3s: se niegue
+      3p: se nieguen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I refused, was refusing'}
+      1s: me negara
+      1p: nos negáramos
+      2s: te negaras
+      2p: os negarais
+      3s: se negara
+      3p: se negaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will refuse}
+      1s: me negare
+      1p: nos negáremos
+      2s: te negares
+      2p: os negareis
+      3s: se negare
+      3p: se negaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have refused, refused'}
+      1s: me haya negado
+      1p: nos hayamos negado
+      2s: te hayas negado
+      2p: os hayáis negado
+      3s: se haya negado
+      3p: se hayan negado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have refused}
+      1s: me hubiere negado
+      1p: nos hubiéremos negado
+      2s: te hubieres negado
+      2p: os hubiereis negado
+      3s: se hubiere negado
+      3p: se hubieren negado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had refused}
+      1s: me hubiera negado
+      1p: nos hubiéramos negado
+      2s: te hubieras negado
+      2p: os hubierais negado
+      3s: se hubiera negado
+      3p: se hubieran negado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Refuse! Don't refuse!}
+      1s: ''
+      1p: ''
+      2s: niégate
+      2p: niéguese
+      3s: negaos
+      3p: niéguense
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Refuse! Don't refuse!}
+      1s: ''
+      1p: ''
+      2s: no te niegues
+      2p: no se niegue
+      3s: no os neguéis
+      3p: no se nieguen

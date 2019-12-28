@@ -1,0 +1,186 @@
+yacer:
+  infinitive: yacer
+  gerund: yaciendo
+  pastparticiple: yacido
+  definitions: {en: to lie}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I lie, am lying'}
+      1s: yazco
+      1p: yacemos
+      2s: yaces
+      2p: yacéis
+      3s: yace
+      3p: yacen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will lie}
+      1s: yaceré
+      1p: yaceremos
+      2s: yacerás
+      2p: yaceréis
+      3s: yacerá
+      3p: yacerán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was lying, used to lie, lay/laid'}
+      1s: yacía
+      1p: yacíamos
+      2s: yacías
+      2p: yacíais
+      3s: yacía
+      3p: yacían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I lay/laid}
+      1s: yací
+      1p: yacimos
+      2s: yaciste
+      2p: yacisteis
+      3s: yació
+      3p: yacieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would lie}
+      1s: yacería
+      1p: yaceríamos
+      2s: yacerías
+      2p: yaceríais
+      3s: yacería
+      3p: yacerían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have lain}
+      1s: he yacido
+      1p: hemos yacido
+      2s: has yacido
+      2p: habéis yacido
+      3s: ha yacido
+      3p: han yacido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have lain}
+      1s: habré yacido
+      1p: habremos yacido
+      2s: habrás yacido
+      2p: habréis yacido
+      3s: habrá yacido
+      3p: habrán yacido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had lain}
+      1s: había yacido
+      1p: habíamos yacido
+      2s: habías yacido
+      2p: habíais yacido
+      3s: había yacido
+      3p: habían yacido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had lain}
+      1s: hube yacido
+      1p: hubimos yacido
+      2s: hubiste yacido
+      2p: hubisteis yacido
+      3s: hubo yacido
+      3p: hubieron yacido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have lain}
+      1s: habría yacido
+      1p: habríamos yacido
+      2s: habrías yacido
+      2p: habríais yacido
+      3s: habría yacido
+      3p: habrían yacido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I lie, am lying'}
+      1s: yazca
+      1p: yazcamos
+      2s: yazcas
+      2p: yazcáis
+      3s: yazca
+      3p: yazcan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I lay/laid, was lying'}
+      1s: yaciera
+      1p: yaciéramos
+      2s: yacieras
+      2p: yacierais
+      3s: yaciera
+      3p: yacieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will lie}
+      1s: yaciere
+      1p: yaciéremos
+      2s: yacieres
+      2p: yaciereis
+      3s: yaciere
+      3p: yacieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have lain, lay/laid'}
+      1s: haya yacido
+      1p: hayamos yacido
+      2s: hayas yacido
+      2p: hayáis yacido
+      3s: haya yacido
+      3p: hayan yacido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have lain}
+      1s: hubiere yacido
+      1p: hubiéremos yacido
+      2s: hubieres yacido
+      2p: hubiereis yacido
+      3s: hubiere yacido
+      3p: hubieren yacido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had lain}
+      1s: hubiera yacido
+      1p: hubiéramos yacido
+      2s: hubieras yacido
+      2p: hubierais yacido
+      3s: hubiera yacido
+      3p: hubieran yacido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Lie! Don't lie!}
+      1s: ''
+      1p: ''
+      2s: yace
+      2p: yazca
+      3s: yaced
+      3p: yazcan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Lie! Don't lie!}
+      1s: ''
+      1p: ''
+      2s: no yazcas
+      2p: no yazca
+      3s: no yazcáis
+      3p: no yazcan

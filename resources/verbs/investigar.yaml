@@ -1,0 +1,186 @@
+investigar:
+  infinitive: investigar
+  gerund: investigando
+  pastparticiple: investigado
+  definitions: {en: to investigate}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I investigate, am investigating'}
+      1s: investigo
+      1p: investigamos
+      2s: investigas
+      2p: investigáis
+      3s: investiga
+      3p: investigan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will investigate}
+      1s: investigaré
+      1p: investigaremos
+      2s: investigarás
+      2p: investigaréis
+      3s: investigará
+      3p: investigarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was investigating, used to investigate, investigated'}
+      1s: investigaba
+      1p: investigábamos
+      2s: investigabas
+      2p: investigabais
+      3s: investigaba
+      3p: investigaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I investigated}
+      1s: investigué
+      1p: investigamos
+      2s: investigaste
+      2p: investigasteis
+      3s: investigó
+      3p: investigaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would investigate}
+      1s: investigaría
+      1p: investigaríamos
+      2s: investigarías
+      2p: investigaríais
+      3s: investigaría
+      3p: investigarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have investigated}
+      1s: he investigado
+      1p: hemos investigado
+      2s: has investigado
+      2p: habéis investigado
+      3s: ha investigado
+      3p: han investigado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have investigated}
+      1s: habré investigado
+      1p: habremos investigado
+      2s: habrás investigado
+      2p: habréis investigado
+      3s: habrá investigado
+      3p: habrán investigado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had investigated}
+      1s: había investigado
+      1p: habíamos investigado
+      2s: habías investigado
+      2p: habíais investigado
+      3s: había investigado
+      3p: habían investigado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had investigated}
+      1s: hube investigado
+      1p: hubimos investigado
+      2s: hubiste investigado
+      2p: hubisteis investigado
+      3s: hubo investigado
+      3p: hubieron investigado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have investigated}
+      1s: habría investigado
+      1p: habríamos investigado
+      2s: habrías investigado
+      2p: habríais investigado
+      3s: habría investigado
+      3p: habrían investigado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I investigate, am investigating'}
+      1s: investigue
+      1p: investiguemos
+      2s: investigues
+      2p: investiguéis
+      3s: investigue
+      3p: investiguen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I investigated, was investigating'}
+      1s: investigara
+      1p: investigáramos
+      2s: investigaras
+      2p: investigarais
+      3s: investigara
+      3p: investigaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will investigate}
+      1s: investigare
+      1p: investigáremos
+      2s: investigares
+      2p: investigareis
+      3s: investigare
+      3p: investigaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have investigated, investigated'}
+      1s: haya investigado
+      1p: hayamos investigado
+      2s: hayas investigado
+      2p: hayáis investigado
+      3s: haya investigado
+      3p: hayan investigado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have investigated}
+      1s: hubiere investigado
+      1p: hubiéremos investigado
+      2s: hubieres investigado
+      2p: hubiereis investigado
+      3s: hubiere investigado
+      3p: hubieren investigado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had investigated}
+      1s: hubiera investigado
+      1p: hubiéramos investigado
+      2s: hubieras investigado
+      2p: hubierais investigado
+      3s: hubiera investigado
+      3p: hubieran investigado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Investigate! Don't investigate!}
+      1s: ''
+      1p: ''
+      2s: investiga
+      2p: investigue
+      3s: investigad
+      3p: investiguen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Investigate! Don't investigate!}
+      1s: ''
+      1p: ''
+      2s: no investigues
+      2p: no investigue
+      3s: no investiguéis
+      3p: no investiguen

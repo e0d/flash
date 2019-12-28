@@ -1,0 +1,186 @@
+declarar:
+  infinitive: declarar
+  gerund: declarando
+  pastparticiple: declarado
+  definitions: {en: 'to declare, state; to bid [in cards]'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I declare, am declaring'}
+      1s: declaro
+      1p: declaramos
+      2s: declaras
+      2p: declaráis
+      3s: declara
+      3p: declaran
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will declare}
+      1s: declararé
+      1p: declararemos
+      2s: declararás
+      2p: declararéis
+      3s: declarará
+      3p: declararán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was declaring, used to declare, declared'}
+      1s: declaraba
+      1p: declarábamos
+      2s: declarabas
+      2p: declarabais
+      3s: declaraba
+      3p: declaraban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I declared}
+      1s: declaré
+      1p: declaramos
+      2s: declaraste
+      2p: declarasteis
+      3s: declaró
+      3p: declararon
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would declare}
+      1s: declararía
+      1p: declararíamos
+      2s: declararías
+      2p: declararíais
+      3s: declararía
+      3p: declararían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have declared}
+      1s: he declarado
+      1p: hemos declarado
+      2s: has declarado
+      2p: habéis declarado
+      3s: ha declarado
+      3p: han declarado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have declared}
+      1s: habré declarado
+      1p: habremos declarado
+      2s: habrás declarado
+      2p: habréis declarado
+      3s: habrá declarado
+      3p: habrán declarado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had declared}
+      1s: había declarado
+      1p: habíamos declarado
+      2s: habías declarado
+      2p: habíais declarado
+      3s: había declarado
+      3p: habían declarado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had declared}
+      1s: hube declarado
+      1p: hubimos declarado
+      2s: hubiste declarado
+      2p: hubisteis declarado
+      3s: hubo declarado
+      3p: hubieron declarado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have declared}
+      1s: habría declarado
+      1p: habríamos declarado
+      2s: habrías declarado
+      2p: habríais declarado
+      3s: habría declarado
+      3p: habrían declarado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I declare, am declaring'}
+      1s: declare
+      1p: declaremos
+      2s: declares
+      2p: declaréis
+      3s: declare
+      3p: declaren
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I declared, was declaring'}
+      1s: declarara
+      1p: declaráramos
+      2s: declararas
+      2p: declararais
+      3s: declarara
+      3p: declararan
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will declare}
+      1s: declarare
+      1p: declaráremos
+      2s: declarares
+      2p: declarareis
+      3s: declarare
+      3p: declararen
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have declared, declared'}
+      1s: haya declarado
+      1p: hayamos declarado
+      2s: hayas declarado
+      2p: hayáis declarado
+      3s: haya declarado
+      3p: hayan declarado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have declared}
+      1s: hubiere declarado
+      1p: hubiéremos declarado
+      2s: hubieres declarado
+      2p: hubiereis declarado
+      3s: hubiere declarado
+      3p: hubieren declarado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had declared}
+      1s: hubiera declarado
+      1p: hubiéramos declarado
+      2s: hubieras declarado
+      2p: hubierais declarado
+      3s: hubiera declarado
+      3p: hubieran declarado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Declare! Don't declare!}
+      1s: ''
+      1p: ''
+      2s: declara
+      2p: declare
+      3s: declarad
+      3p: declaren
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Declare! Don't declare!}
+      1s: ''
+      1p: ''
+      2s: no declares
+      2p: no declare
+      3s: no declaréis
+      3p: no declaren

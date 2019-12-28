@@ -1,0 +1,186 @@
+colocar:
+  infinitive: colocar
+  gerund: colocando
+  pastparticiple: colocado
+  definitions: {en: 'to locate, place'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I locate, am locating'}
+      1s: coloco
+      1p: colocamos
+      2s: colocas
+      2p: colocáis
+      3s: coloca
+      3p: colocan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will locate}
+      1s: colocaré
+      1p: colocaremos
+      2s: colocarás
+      2p: colocaréis
+      3s: colocará
+      3p: colocarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was locating, used to locate, located'}
+      1s: colocaba
+      1p: colocábamos
+      2s: colocabas
+      2p: colocabais
+      3s: colocaba
+      3p: colocaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I located}
+      1s: coloqué
+      1p: colocamos
+      2s: colocaste
+      2p: colocasteis
+      3s: colocó
+      3p: colocaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would locate}
+      1s: colocaría
+      1p: colocaríamos
+      2s: colocarías
+      2p: colocaríais
+      3s: colocaría
+      3p: colocarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have located}
+      1s: he colocado
+      1p: hemos colocado
+      2s: has colocado
+      2p: habéis colocado
+      3s: ha colocado
+      3p: han colocado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have located}
+      1s: habré colocado
+      1p: habremos colocado
+      2s: habrás colocado
+      2p: habréis colocado
+      3s: habrá colocado
+      3p: habrán colocado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had located}
+      1s: había colocado
+      1p: habíamos colocado
+      2s: habías colocado
+      2p: habíais colocado
+      3s: había colocado
+      3p: habían colocado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had located}
+      1s: hube colocado
+      1p: hubimos colocado
+      2s: hubiste colocado
+      2p: hubisteis colocado
+      3s: hubo colocado
+      3p: hubieron colocado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have located}
+      1s: habría colocado
+      1p: habríamos colocado
+      2s: habrías colocado
+      2p: habríais colocado
+      3s: habría colocado
+      3p: habrían colocado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I locate, am locating'}
+      1s: coloque
+      1p: coloquemos
+      2s: coloques
+      2p: coloquéis
+      3s: coloque
+      3p: coloquen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I located, was locating'}
+      1s: colocara
+      1p: colocáramos
+      2s: colocaras
+      2p: colocarais
+      3s: colocara
+      3p: colocaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will locate}
+      1s: colocare
+      1p: colocáremos
+      2s: colocares
+      2p: colocareis
+      3s: colocare
+      3p: colocaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have located, located'}
+      1s: haya colocado
+      1p: hayamos colocado
+      2s: hayas colocado
+      2p: hayáis colocado
+      3s: haya colocado
+      3p: hayan colocado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have located}
+      1s: hubiere colocado
+      1p: hubiéremos colocado
+      2s: hubieres colocado
+      2p: hubiereis colocado
+      3s: hubiere colocado
+      3p: hubieren colocado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had located}
+      1s: hubiera colocado
+      1p: hubiéramos colocado
+      2s: hubieras colocado
+      2p: hubierais colocado
+      3s: hubiera colocado
+      3p: hubieran colocado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Locate! Don't locate!}
+      1s: ''
+      1p: ''
+      2s: coloca
+      2p: coloque
+      3s: colocad
+      3p: coloquen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Locate! Don't locate!}
+      1s: ''
+      1p: ''
+      2s: no coloques
+      2p: no coloque
+      3s: no coloquéis
+      3p: no coloquen

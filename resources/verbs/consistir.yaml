@@ -1,0 +1,186 @@
+consistir:
+  infinitive: consistir
+  gerund: consistiendo
+  pastparticiple: consistido
+  definitions: {en: 'to consist [of], be composed [of]'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I consist, am consisting'}
+      1s: consisto
+      1p: consistimos
+      2s: consistes
+      2p: consistís
+      3s: consiste
+      3p: consisten
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will consist}
+      1s: consistiré
+      1p: consistiremos
+      2s: consistirás
+      2p: consistiréis
+      3s: consistirá
+      3p: consistirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was consisting, used to consist, consisted'}
+      1s: consistía
+      1p: consistíamos
+      2s: consistías
+      2p: consistíais
+      3s: consistía
+      3p: consistían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I consisted}
+      1s: consistí
+      1p: consistimos
+      2s: consististe
+      2p: consististeis
+      3s: consistió
+      3p: consistieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would consist}
+      1s: consistiría
+      1p: consistiríamos
+      2s: consistirías
+      2p: consistiríais
+      3s: consistiría
+      3p: consistirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have consisted}
+      1s: he consistido
+      1p: hemos consistido
+      2s: has consistido
+      2p: habéis consistido
+      3s: ha consistido
+      3p: han consistido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have consisted}
+      1s: habré consistido
+      1p: habremos consistido
+      2s: habrás consistido
+      2p: habréis consistido
+      3s: habrá consistido
+      3p: habrán consistido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had consisted}
+      1s: había consistido
+      1p: habíamos consistido
+      2s: habías consistido
+      2p: habíais consistido
+      3s: había consistido
+      3p: habían consistido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had consisted}
+      1s: hube consistido
+      1p: hubimos consistido
+      2s: hubiste consistido
+      2p: hubisteis consistido
+      3s: hubo consistido
+      3p: hubieron consistido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have consisted}
+      1s: habría consistido
+      1p: habríamos consistido
+      2s: habrías consistido
+      2p: habríais consistido
+      3s: habría consistido
+      3p: habrían consistido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I consist, am consisting'}
+      1s: consista
+      1p: consistamos
+      2s: consistas
+      2p: consistáis
+      3s: consista
+      3p: consistan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I consisted, was consisting'}
+      1s: consistiera
+      1p: consistiéramos
+      2s: consistieras
+      2p: consistierais
+      3s: consistiera
+      3p: consistieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will consist}
+      1s: consistiere
+      1p: consistiéremos
+      2s: consistieres
+      2p: consistiereis
+      3s: consistiere
+      3p: consistieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have consisted, consisted'}
+      1s: haya consistido
+      1p: hayamos consistido
+      2s: hayas consistido
+      2p: hayáis consistido
+      3s: haya consistido
+      3p: hayan consistido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have consisted}
+      1s: hubiere consistido
+      1p: hubiéremos consistido
+      2s: hubieres consistido
+      2p: hubiereis consistido
+      3s: hubiere consistido
+      3p: hubieren consistido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had consisted}
+      1s: hubiera consistido
+      1p: hubiéramos consistido
+      2s: hubieras consistido
+      2p: hubierais consistido
+      3s: hubiera consistido
+      3p: hubieran consistido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Consist! Don't consist!}
+      1s: ''
+      1p: ''
+      2s: consiste
+      2p: consista
+      3s: consistid
+      3p: consistan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Consist! Don't consist!}
+      1s: ''
+      1p: ''
+      2s: no consistas
+      2p: no consista
+      3s: no consistáis
+      3p: no consistan

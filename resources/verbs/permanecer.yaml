@@ -1,0 +1,186 @@
+permanecer:
+  infinitive: permanecer
+  gerund: permaneciendo
+  pastparticiple: permanecido
+  definitions: {en: 'to stay, remain'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I stay, am staying'}
+      1s: permanezco
+      1p: permanecemos
+      2s: permaneces
+      2p: permanecéis
+      3s: permanece
+      3p: permanecen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will stay}
+      1s: permaneceré
+      1p: permaneceremos
+      2s: permanecerás
+      2p: permaneceréis
+      3s: permanecerá
+      3p: permanecerán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was staying, used to stay, stayed'}
+      1s: permanecía
+      1p: permanecíamos
+      2s: permanecías
+      2p: permanecíais
+      3s: permanecía
+      3p: permanecían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I stayed}
+      1s: permanecí
+      1p: permanecimos
+      2s: permaneciste
+      2p: permanecisteis
+      3s: permaneció
+      3p: permanecieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would stay}
+      1s: permanecería
+      1p: permaneceríamos
+      2s: permanecerías
+      2p: permaneceríais
+      3s: permanecería
+      3p: permanecerían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have stayed}
+      1s: he permanecido
+      1p: hemos permanecido
+      2s: has permanecido
+      2p: habéis permanecido
+      3s: ha permanecido
+      3p: han permanecido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have stayed}
+      1s: habré permanecido
+      1p: habremos permanecido
+      2s: habrás permanecido
+      2p: habréis permanecido
+      3s: habrá permanecido
+      3p: habrán permanecido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had stayed}
+      1s: había permanecido
+      1p: habíamos permanecido
+      2s: habías permanecido
+      2p: habíais permanecido
+      3s: había permanecido
+      3p: habían permanecido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had stayed}
+      1s: hube permanecido
+      1p: hubimos permanecido
+      2s: hubiste permanecido
+      2p: hubisteis permanecido
+      3s: hubo permanecido
+      3p: hubieron permanecido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have stayed}
+      1s: habría permanecido
+      1p: habríamos permanecido
+      2s: habrías permanecido
+      2p: habríais permanecido
+      3s: habría permanecido
+      3p: habrían permanecido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I stay, am staying'}
+      1s: permanezca
+      1p: permanezcamos
+      2s: permanezcas
+      2p: permanezcáis
+      3s: permanezca
+      3p: permanezcan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I stayed, was staying'}
+      1s: permaneciera
+      1p: permaneciéramos
+      2s: permanecieras
+      2p: permanecierais
+      3s: permaneciera
+      3p: permanecieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will stay}
+      1s: permaneciere
+      1p: permaneciéremos
+      2s: permanecieres
+      2p: permaneciereis
+      3s: permaneciere
+      3p: permanecieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have stayed, stayed'}
+      1s: haya permanecido
+      1p: hayamos permanecido
+      2s: hayas permanecido
+      2p: hayáis permanecido
+      3s: haya permanecido
+      3p: hayan permanecido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have stayed}
+      1s: hubiere permanecido
+      1p: hubiéremos permanecido
+      2s: hubieres permanecido
+      2p: hubiereis permanecido
+      3s: hubiere permanecido
+      3p: hubieren permanecido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had stayed}
+      1s: hubiera permanecido
+      1p: hubiéramos permanecido
+      2s: hubieras permanecido
+      2p: hubierais permanecido
+      3s: hubiera permanecido
+      3p: hubieran permanecido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Stay! Don't stay!}
+      1s: ''
+      1p: ''
+      2s: permanece
+      2p: permanezca
+      3s: permaneced
+      3p: permanezcan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Stay! Don't stay!}
+      1s: ''
+      1p: ''
+      2s: no permanezcas
+      2p: no permanezca
+      3s: no permanezcáis
+      3p: no permanezcan

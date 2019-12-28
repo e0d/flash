@@ -1,0 +1,186 @@
+esperar:
+  infinitive: esperar
+  gerund: esperando
+  pastparticiple: esperado
+  definitions: {en: t o   h o p e}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I hope, am hoping'}
+      1s: espero
+      1p: esperamos
+      2s: esperas
+      2p: esperáis
+      3s: espera
+      3p: esperan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will hope}
+      1s: esperaré
+      1p: esperaremos
+      2s: esperarás
+      2p: esperaréis
+      3s: esperará
+      3p: esperarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was hoping, used to hope, hoped'}
+      1s: esperaba
+      1p: esperábamos
+      2s: esperabas
+      2p: esperabais
+      3s: esperaba
+      3p: esperaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I hoped}
+      1s: esperé
+      1p: esperamos
+      2s: esperaste
+      2p: esperasteis
+      3s: esperó
+      3p: esperaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would hope}
+      1s: esperaría
+      1p: esperaríamos
+      2s: esperarías
+      2p: esperaríais
+      3s: esperaría
+      3p: esperarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have hoped}
+      1s: he esperado
+      1p: hemos esperado
+      2s: has esperado
+      2p: habéis esperado
+      3s: ha esperado
+      3p: han esperado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have hoped}
+      1s: habré esperado
+      1p: habremos esperado
+      2s: habrás esperado
+      2p: habréis esperado
+      3s: habrá esperado
+      3p: habrán esperado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had hoped}
+      1s: había esperado
+      1p: habíamos esperado
+      2s: habías esperado
+      2p: habíais esperado
+      3s: había esperado
+      3p: habían esperado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had hoped}
+      1s: hube esperado
+      1p: hubimos esperado
+      2s: hubiste esperado
+      2p: hubisteis esperado
+      3s: hubo esperado
+      3p: hubieron esperado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have hoped}
+      1s: habría esperado
+      1p: habríamos esperado
+      2s: habrías esperado
+      2p: habríais esperado
+      3s: habría esperado
+      3p: habrían esperado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I hope, am hoping'}
+      1s: espere
+      1p: esperemos
+      2s: esperes
+      2p: esperéis
+      3s: espere
+      3p: esperen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I hoped, was hoping'}
+      1s: esperara
+      1p: esperáramos
+      2s: esperaras
+      2p: esperarais
+      3s: esperara
+      3p: esperaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will hope}
+      1s: esperare
+      1p: esperáremos
+      2s: esperares
+      2p: esperareis
+      3s: esperare
+      3p: esperaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have hoped, hoped'}
+      1s: haya esperado
+      1p: hayamos esperado
+      2s: hayas esperado
+      2p: hayáis esperado
+      3s: haya esperado
+      3p: hayan esperado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have hoped}
+      1s: hubiere esperado
+      1p: hubiéremos esperado
+      2s: hubieres esperado
+      2p: hubiereis esperado
+      3s: hubiere esperado
+      3p: hubieren esperado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had hoped}
+      1s: hubiera esperado
+      1p: hubiéramos esperado
+      2s: hubieras esperado
+      2p: hubierais esperado
+      3s: hubiera esperado
+      3p: hubieran esperado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Hope! Don't hope!}
+      1s: ''
+      1p: ''
+      2s: espera
+      2p: espere
+      3s: esperad
+      3p: esperen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Hope! Don't hope!}
+      1s: ''
+      1p: ''
+      2s: no esperes
+      2p: no espere
+      3s: no esperéis
+      3p: no esperen

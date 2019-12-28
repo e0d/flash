@@ -1,0 +1,186 @@
+arrepentirse:
+  infinitive: arrepentirse
+  gerund: arrepintiéndose
+  pastparticiple: arrepentido
+  definitions: {en: 'to repent, be repentant, regret'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I repent, am repenting'}
+      1s: me arrepiento
+      1p: nos arrepentimos
+      2s: te arrepientes
+      2p: os arrepentís
+      3s: se arrepiente
+      3p: se arrepienten
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will repent}
+      1s: me arrepentiré
+      1p: nos arrepentiremos
+      2s: te arrepentirás
+      2p: os arrepentiréis
+      3s: se arrepentirá
+      3p: se arrepentirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was repenting, used to repent, repented'}
+      1s: me arrepentía
+      1p: nos arrepentíamos
+      2s: te arrepentías
+      2p: os arrepentíais
+      3s: se arrepentía
+      3p: se arrepentían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I repented}
+      1s: me arrepentí
+      1p: nos arrepentimos
+      2s: te arrepentiste
+      2p: os arrepentisteis
+      3s: se arrepintió
+      3p: se arrepintieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would repent}
+      1s: me arrepentiría
+      1p: nos arrepentiríamos
+      2s: te arrepentirías
+      2p: os arrepentiríais
+      3s: se arrepentiría
+      3p: se arrepentirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have repented}
+      1s: me he arrepentido
+      1p: nos hemos arrepentido
+      2s: te has arrepentido
+      2p: os habéis arrepentido
+      3s: se ha arrepentido
+      3p: se han arrepentido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have repented}
+      1s: me habré arrepentido
+      1p: nos habremos arrepentido
+      2s: te habrás arrepentido
+      2p: os habréis arrepentido
+      3s: se habrá arrepentido
+      3p: se habrán arrepentido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had repented}
+      1s: me había arrepentido
+      1p: nos habíamos arrepentido
+      2s: te habías arrepentido
+      2p: os habíais arrepentido
+      3s: se había arrepentido
+      3p: se habían arrepentido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had repented}
+      1s: me hube arrepentido
+      1p: nos hubimos arrepentido
+      2s: te hubiste arrepentido
+      2p: os hubisteis arrepentido
+      3s: se hubo arrepentido
+      3p: se hubieron arrepentido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have repented}
+      1s: me habría arrepentido
+      1p: nos habríamos arrepentido
+      2s: te habrías arrepentido
+      2p: os habríais arrepentido
+      3s: se habría arrepentido
+      3p: se habrían arrepentido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I repent, am repenting'}
+      1s: me arrepienta
+      1p: nos arrepintamos
+      2s: te arrepientas
+      2p: os arrepintáis
+      3s: se arrepienta
+      3p: se arrepientan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I repented, was repenting'}
+      1s: me arrepintiera
+      1p: nos arrepintiéramos
+      2s: te arrepintieras
+      2p: os arrepintierais
+      3s: se arrepintiera
+      3p: se arrepintieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will repent}
+      1s: me arrepintiere
+      1p: nos arrepintiéremos
+      2s: te arrepintieres
+      2p: os arrepintiereis
+      3s: se arrepintiere
+      3p: se arrepintieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have repented, repented'}
+      1s: me haya arrepentido
+      1p: nos hayamos arrepentido
+      2s: te hayas arrepentido
+      2p: os hayáis arrepentido
+      3s: se haya arrepentido
+      3p: se hayan arrepentido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have repented}
+      1s: me hubiere arrepentido
+      1p: nos hubiéremos arrepentido
+      2s: te hubieres arrepentido
+      2p: os hubiereis arrepentido
+      3s: se hubiere arrepentido
+      3p: se hubieren arrepentido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had repented}
+      1s: me hubiera arrepentido
+      1p: nos hubiéramos arrepentido
+      2s: te hubieras arrepentido
+      2p: os hubierais arrepentido
+      3s: se hubiera arrepentido
+      3p: se hubieran arrepentido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Repent! Don't repent!}
+      1s: ''
+      1p: ''
+      2s: arrepiéntete
+      2p: arrepiéntase
+      3s: arrepentíos
+      3p: arrepiéntanse
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Repent! Don't repent!}
+      1s: ''
+      1p: ''
+      2s: no te arrepientas
+      2p: no se arrepienta
+      3s: no os arrepentáis
+      3p: no se arrepientan

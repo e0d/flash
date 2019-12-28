@@ -1,0 +1,186 @@
+molestar:
+  infinitive: molestar
+  gerund: molestando
+  pastparticiple: molestado
+  definitions: {en: 'to bother, annoy, inconovenience, put out, upset'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I bother, am bothering'}
+      1s: molesto
+      1p: molestamos
+      2s: molestas
+      2p: molestáis
+      3s: molesta
+      3p: molestan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will bother}
+      1s: molestaré
+      1p: molestaremos
+      2s: molestarás
+      2p: molestaréis
+      3s: molestará
+      3p: molestarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was bothering, used to bother, bothered'}
+      1s: molestaba
+      1p: molestábamos
+      2s: molestabas
+      2p: molestabais
+      3s: molestaba
+      3p: molestaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I bothered}
+      1s: molesté
+      1p: molestamos
+      2s: molestaste
+      2p: molestasteis
+      3s: molestó
+      3p: molestaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would bother}
+      1s: molestaría
+      1p: molestaríamos
+      2s: molestarías
+      2p: molestaríais
+      3s: molestaría
+      3p: molestarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have bothered}
+      1s: he molestado
+      1p: hemos molestado
+      2s: has molestado
+      2p: habéis molestado
+      3s: ha molestado
+      3p: han molestado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have bothered}
+      1s: habré molestado
+      1p: habremos molestado
+      2s: habrás molestado
+      2p: habréis molestado
+      3s: habrá molestado
+      3p: habrán molestado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had bothered}
+      1s: había molestado
+      1p: habíamos molestado
+      2s: habías molestado
+      2p: habíais molestado
+      3s: había molestado
+      3p: habían molestado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had bothered}
+      1s: hube molestado
+      1p: hubimos molestado
+      2s: hubiste molestado
+      2p: hubisteis molestado
+      3s: hubo molestado
+      3p: hubieron molestado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have bothered}
+      1s: habría molestado
+      1p: habríamos molestado
+      2s: habrías molestado
+      2p: habríais molestado
+      3s: habría molestado
+      3p: habrían molestado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I bother, am bothering'}
+      1s: moleste
+      1p: molestemos
+      2s: molestes
+      2p: molestéis
+      3s: moleste
+      3p: molesten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I bothered, was bothering'}
+      1s: molestara
+      1p: molestáramos
+      2s: molestaras
+      2p: molestarais
+      3s: molestara
+      3p: molestaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will bother}
+      1s: molestare
+      1p: molestáremos
+      2s: molestares
+      2p: molestareis
+      3s: molestare
+      3p: molestaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have bothered, bothered'}
+      1s: haya molestado
+      1p: hayamos molestado
+      2s: hayas molestado
+      2p: hayáis molestado
+      3s: haya molestado
+      3p: hayan molestado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have bothered}
+      1s: hubiere molestado
+      1p: hubiéremos molestado
+      2s: hubieres molestado
+      2p: hubiereis molestado
+      3s: hubiere molestado
+      3p: hubieren molestado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had bothered}
+      1s: hubiera molestado
+      1p: hubiéramos molestado
+      2s: hubieras molestado
+      2p: hubierais molestado
+      3s: hubiera molestado
+      3p: hubieran molestado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Bother! Don't bother!}
+      1s: ''
+      1p: ''
+      2s: molesta
+      2p: moleste
+      3s: molestad
+      3p: molesten
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Bother! Don't bother!}
+      1s: ''
+      1p: ''
+      2s: no molestes
+      2p: no moleste
+      3s: no molestéis
+      3p: no molesten

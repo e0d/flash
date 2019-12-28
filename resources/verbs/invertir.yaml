@@ -1,0 +1,186 @@
+invertir:
+  infinitive: invertir
+  gerund: invirtiendo
+  pastparticiple: invertido
+  definitions: {en: to invest}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I invest, am investing'}
+      1s: invierto
+      1p: invertimos
+      2s: inviertes
+      2p: invertís
+      3s: invierte
+      3p: invierten
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will invest}
+      1s: invertiré
+      1p: invertiremos
+      2s: invertirás
+      2p: invertiréis
+      3s: invertirá
+      3p: invertirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was investing, used to invest, invested'}
+      1s: invertía
+      1p: invertíamos
+      2s: invertías
+      2p: invertíais
+      3s: invertía
+      3p: invertían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I invested}
+      1s: invertí
+      1p: invertimos
+      2s: invertiste
+      2p: invertisteis
+      3s: invirtió
+      3p: invirtieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would invest}
+      1s: invertiría
+      1p: invertiríamos
+      2s: invertirías
+      2p: invertiríais
+      3s: invertiría
+      3p: invertirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have invested}
+      1s: he invertido
+      1p: hemos invertido
+      2s: has invertido
+      2p: habéis invertido
+      3s: ha invertido
+      3p: han invertido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have invested}
+      1s: habré invertido
+      1p: habremos invertido
+      2s: habrás invertido
+      2p: habréis invertido
+      3s: habrá invertido
+      3p: habrán invertido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had invested}
+      1s: había invertido
+      1p: habíamos invertido
+      2s: habías invertido
+      2p: habíais invertido
+      3s: había invertido
+      3p: habían invertido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had invested}
+      1s: hube invertido
+      1p: hubimos invertido
+      2s: hubiste invertido
+      2p: hubisteis invertido
+      3s: hubo invertido
+      3p: hubieron invertido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have invested}
+      1s: habría invertido
+      1p: habríamos invertido
+      2s: habrías invertido
+      2p: habríais invertido
+      3s: habría invertido
+      3p: habrían invertido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I invest, am investing'}
+      1s: invierta
+      1p: invirtamos
+      2s: inviertas
+      2p: invirtáis
+      3s: invierta
+      3p: inviertan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I invested, was investing'}
+      1s: invirtiera
+      1p: invirtéramos
+      2s: invirtieras
+      2p: invirtierais
+      3s: invirtiera
+      3p: invirtieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will invest}
+      1s: invirtiere
+      1p: invirtiéremos
+      2s: invirtieres
+      2p: invirtiereis
+      3s: invirtiere
+      3p: invirtieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have invested, invested'}
+      1s: haya invertido
+      1p: hayamos invertido
+      2s: hayas invertido
+      2p: hayáis invertido
+      3s: haya invertido
+      3p: hayan invertido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have invested}
+      1s: hubiere invertido
+      1p: hubiéremos invertido
+      2s: hubieres invertido
+      2p: hubiereis invertido
+      3s: hubiere invertido
+      3p: hubieren invertido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had invested}
+      1s: hubiera invertido
+      1p: hubiéramos invertido
+      2s: hubieras invertido
+      2p: hubierais invertido
+      3s: hubiera invertido
+      3p: hubieran invertido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Invest! Don't invest!}
+      1s: ''
+      1p: ''
+      2s: invierte
+      2p: invierta
+      3s: invertid
+      3p: inviertan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Invest! Don't invest!}
+      1s: ''
+      1p: ''
+      2s: no inviertas
+      2p: no invierta
+      3s: no invirtáis
+      3p: no inviertan

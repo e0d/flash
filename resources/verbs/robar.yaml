@@ -1,0 +1,186 @@
+robar:
+  infinitive: robar
+  gerund: robando
+  pastparticiple: robado
+  definitions: {en: 'to rob, steal, burgle, break into'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I rob, am robbing'}
+      1s: robo
+      1p: robamos
+      2s: robas
+      2p: robáis
+      3s: roba
+      3p: roban
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will rob}
+      1s: robaré
+      1p: robaremos
+      2s: robarás
+      2p: robaréis
+      3s: robará
+      3p: robarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was robbing, used to rob, robbed'}
+      1s: robaba
+      1p: robábamos
+      2s: robabas
+      2p: robabais
+      3s: robaba
+      3p: robaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I robbed}
+      1s: robé
+      1p: robamos
+      2s: robaste
+      2p: robasteis
+      3s: robó
+      3p: robaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would rob}
+      1s: robaría
+      1p: robaríamos
+      2s: robarías
+      2p: robaríais
+      3s: robaría
+      3p: robarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have robbed}
+      1s: he robado
+      1p: hemos robado
+      2s: has robado
+      2p: habéis robado
+      3s: ha robado
+      3p: han robado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have robbed}
+      1s: habré robado
+      1p: habremos robado
+      2s: habrás robado
+      2p: habréis robado
+      3s: habrá robado
+      3p: habrán robado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had robbed}
+      1s: había robado
+      1p: habíamos robado
+      2s: habías robado
+      2p: habíais robado
+      3s: había robado
+      3p: habían robado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had robbed}
+      1s: hube robado
+      1p: hubimos robado
+      2s: hubiste robado
+      2p: hubisteis robado
+      3s: hubo robado
+      3p: hubieron robado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have robbed}
+      1s: habría robado
+      1p: habríamos robado
+      2s: habrías robado
+      2p: habríais robado
+      3s: habría robado
+      3p: habrían robado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I rob, am robbing'}
+      1s: robe
+      1p: robemos
+      2s: robes
+      2p: robéis
+      3s: robe
+      3p: roben
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I robbed, was robbing'}
+      1s: robara
+      1p: robáramos
+      2s: robaras
+      2p: robarais
+      3s: robara
+      3p: robaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will rob}
+      1s: robare
+      1p: robáremos
+      2s: robares
+      2p: robareis
+      3s: robare
+      3p: robaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have robbed, robbed'}
+      1s: haya robado
+      1p: hayamos robado
+      2s: hayas robado
+      2p: hayáis robado
+      3s: haya robado
+      3p: hayan robado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have robbed}
+      1s: hubiere robado
+      1p: hubiéremos robado
+      2s: hubieres robado
+      2p: hubiereis robado
+      3s: hubiere robado
+      3p: hubieren robado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had robbed}
+      1s: hubiera robado
+      1p: hubiéramos robado
+      2s: hubieras robado
+      2p: hubierais robado
+      3s: hubiera robado
+      3p: hubieran robado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Rob! Don't rob!}
+      1s: ''
+      1p: ''
+      2s: roba
+      2p: robe
+      3s: robad
+      3p: roben
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Rob! Don't rob!}
+      1s: ''
+      1p: ''
+      2s: no robes
+      2p: no robe
+      3s: no robéis
+      3p: no roben

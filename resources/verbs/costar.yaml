@@ -1,0 +1,186 @@
+costar:
+  infinitive: costar
+  gerund: costando
+  pastparticiple: costado
+  definitions: {en: to cost}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I cost, am costing'}
+      1s: cuesto
+      1p: costamos
+      2s: cuestas
+      2p: costáis
+      3s: cuesta
+      3p: cuestan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will cost}
+      1s: costaré
+      1p: costaremos
+      2s: costarás
+      2p: costaréis
+      3s: costará
+      3p: costarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was costing, used to cost, cost'}
+      1s: costaba
+      1p: costábamos
+      2s: costabas
+      2p: costabais
+      3s: costaba
+      3p: costaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I cost}
+      1s: costé
+      1p: costamos
+      2s: costaste
+      2p: costasteis
+      3s: costó
+      3p: costaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would cost}
+      1s: costaría
+      1p: costaríamos
+      2s: costarías
+      2p: costaríais
+      3s: costaría
+      3p: costarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have cost}
+      1s: he costado
+      1p: hemos costado
+      2s: has costado
+      2p: habéis costado
+      3s: ha costado
+      3p: han costado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have cost}
+      1s: habré costado
+      1p: habremos costado
+      2s: habrás costado
+      2p: habréis costado
+      3s: habrá costado
+      3p: habrán costado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had cost}
+      1s: había costado
+      1p: habíamos costado
+      2s: habías costado
+      2p: habíais costado
+      3s: había costado
+      3p: habían costado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had cost}
+      1s: hube costado
+      1p: hubimos costado
+      2s: hubiste costado
+      2p: hubisteis costado
+      3s: hubo costado
+      3p: hubieron costado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have cost}
+      1s: habría costado
+      1p: habríamos costado
+      2s: habrías costado
+      2p: habríais costado
+      3s: habría costado
+      3p: habrían costado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I cost, am costing'}
+      1s: cueste
+      1p: costemos
+      2s: cuestes
+      2p: costéis
+      3s: cueste
+      3p: cuesten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I cost, was costing'}
+      1s: costara
+      1p: costáramos
+      2s: costaras
+      2p: costarais
+      3s: costara
+      3p: costaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will cost}
+      1s: costare
+      1p: costáremos
+      2s: costares
+      2p: costareis
+      3s: costare
+      3p: costaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have cost, cost'}
+      1s: haya costado
+      1p: hayamos costado
+      2s: hayas costado
+      2p: hayáis costado
+      3s: haya costado
+      3p: hayan costado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have cost}
+      1s: hubiere costado
+      1p: hubiéremos costado
+      2s: hubieres costado
+      2p: hubiereis costado
+      3s: hubiere costado
+      3p: hubieren costado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had cost}
+      1s: hubiera costado
+      1p: hubiéramos costado
+      2s: hubieras costado
+      2p: hubierais costado
+      3s: hubiera costado
+      3p: hubieran costado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Cost! Don't cost!}
+      1s: ''
+      1p: ''
+      2s: cuesta
+      2p: cueste
+      3s: costad
+      3p: cuesten
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Cost! Don't cost!}
+      1s: ''
+      1p: ''
+      2s: no cuestes
+      2p: no cueste
+      3s: no costéis
+      3p: no cuesten

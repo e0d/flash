@@ -1,0 +1,186 @@
+sufrir:
+  infinitive: sufrir
+  gerund: sufriendo
+  pastparticiple: sufrido
+  definitions: {en: 'to suffer; to undergo, experience, put up with'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I suffer, am suffering'}
+      1s: sufro
+      1p: sufrimos
+      2s: sufres
+      2p: sufrís
+      3s: sufre
+      3p: sufren
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will suffer}
+      1s: sufriré
+      1p: sufriremos
+      2s: sufrirás
+      2p: sufriréis
+      3s: sufrirá
+      3p: sufrirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was suffering, used to suffer, suffered'}
+      1s: sufría
+      1p: sufríamos
+      2s: sufrías
+      2p: sufríais
+      3s: sufría
+      3p: sufrían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I suffered}
+      1s: sufrí
+      1p: sufrimos
+      2s: sufriste
+      2p: sufristeis
+      3s: sufrió
+      3p: sufrieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would suffer}
+      1s: sufriría
+      1p: sufriríamos
+      2s: sufrirías
+      2p: sufriríais
+      3s: sufriría
+      3p: sufrirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have suffered}
+      1s: he sufrido
+      1p: hemos sufrido
+      2s: has sufrido
+      2p: habéis sufrido
+      3s: ha sufrido
+      3p: han sufrido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have suffered}
+      1s: habré sufrido
+      1p: habremos sufrido
+      2s: habrás sufrido
+      2p: habréis sufrido
+      3s: habrá sufrido
+      3p: habrán sufrido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had suffered}
+      1s: había sufrido
+      1p: habíamos sufrido
+      2s: habías sufrido
+      2p: habíais sufrido
+      3s: había sufrido
+      3p: habían sufrido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had suffered}
+      1s: hube sufrido
+      1p: hubimos sufrido
+      2s: hubiste sufrido
+      2p: hubisteis sufrido
+      3s: hubo sufrido
+      3p: hubieron sufrido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have suffered}
+      1s: habría sufrido
+      1p: habríamos sufrido
+      2s: habrías sufrido
+      2p: habríais sufrido
+      3s: habría sufrido
+      3p: habrían sufrido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I suffer, am suffering'}
+      1s: sufra
+      1p: suframos
+      2s: sufras
+      2p: sufráis
+      3s: sufra
+      3p: sufran
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I suffered, was suffering'}
+      1s: sufriera
+      1p: sufriéramos
+      2s: sufrieras
+      2p: sufrierais
+      3s: sufriera
+      3p: sufrieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will suffer}
+      1s: sufriere
+      1p: sufriéremos
+      2s: sufrieres
+      2p: sufriereis
+      3s: sufriere
+      3p: sufrieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have suffered, suffered'}
+      1s: haya sufrido
+      1p: hayamos sufrido
+      2s: hayas sufrido
+      2p: hayáis sufrido
+      3s: haya sufrido
+      3p: hayan sufrido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have suffered}
+      1s: hubiere sufrido
+      1p: hubiéremos sufrido
+      2s: hubieres sufrido
+      2p: hubiereis sufrido
+      3s: hubiere sufrido
+      3p: hubieren sufrido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had suffered}
+      1s: hubiera sufrido
+      1p: hubiéramos sufrido
+      2s: hubieras sufrido
+      2p: hubierais sufrido
+      3s: hubiera sufrido
+      3p: hubieran sufrido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Suffer! Don't suffer!}
+      1s: ''
+      1p: ''
+      2s: sufre
+      2p: sufra
+      3s: sufrid
+      3p: sufran
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Suffer! Don't suffer!}
+      1s: ''
+      1p: ''
+      2s: no sufras
+      2p: no sufra
+      3s: no sufráis
+      3p: no sufran

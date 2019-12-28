@@ -1,0 +1,186 @@
+despertar:
+  infinitive: despertar
+  gerund: despertando
+  pastparticiple: despertado
+  definitions: {en: to awaken}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I awaken, am awakening'}
+      1s: despierto
+      1p: despertamos
+      2s: despiertas
+      2p: despertáis
+      3s: despierta
+      3p: despiertan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will awaken}
+      1s: despertaré
+      1p: despertaremos
+      2s: despertarás
+      2p: despertaréis
+      3s: despertará
+      3p: despertarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was awakening, used to awaken, awakened'}
+      1s: despertaba
+      1p: despertábamos
+      2s: despertabas
+      2p: despertabais
+      3s: despertaba
+      3p: despertaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I awakened}
+      1s: desperté
+      1p: despertamos
+      2s: despertaste
+      2p: despertasteis
+      3s: despertó
+      3p: despertaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would awaken}
+      1s: despertaría
+      1p: despertaríamos
+      2s: despertarías
+      2p: despertaríais
+      3s: despertaría
+      3p: despertarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have awakened}
+      1s: he despertado
+      1p: hemos despertado
+      2s: has despertado
+      2p: habéis despertado
+      3s: ha despertado
+      3p: han despertado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have awakened}
+      1s: habré despertado
+      1p: habremos despertado
+      2s: habrás despertado
+      2p: habréis despertado
+      3s: habrá despertado
+      3p: habrán despertado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had awakened}
+      1s: había despertado
+      1p: habíamos despertado
+      2s: habías despertado
+      2p: habíais despertado
+      3s: había despertado
+      3p: habían despertado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had awakened}
+      1s: hube despertado
+      1p: hubimos despertado
+      2s: hubiste despertado
+      2p: hubisteis despertado
+      3s: hubo despertado
+      3p: hubieron despertado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have awakened}
+      1s: habría despertado
+      1p: habríamos despertado
+      2s: habrías despertado
+      2p: habríais despertado
+      3s: habría despertado
+      3p: habrían despertado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I awaken, am awakening'}
+      1s: despierte
+      1p: despertemos
+      2s: despiertes
+      2p: despertéis
+      3s: despierte
+      3p: despierten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I awakened, was awakening'}
+      1s: despertara
+      1p: despertáramos
+      2s: despertaras
+      2p: despertarais
+      3s: despertara
+      3p: despertaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will awaken}
+      1s: despertare
+      1p: despertáremos
+      2s: despertares
+      2p: despertareis
+      3s: despertare
+      3p: despertaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have awakened, awakened'}
+      1s: haya despertado
+      1p: hayamos despertado
+      2s: hayas despertado
+      2p: hayáis despertado
+      3s: haya despertado
+      3p: hayan despertado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have awakened}
+      1s: hubiere despertado
+      1p: hubiéremos despertado
+      2s: hubieres despertado
+      2p: hubiereis despertado
+      3s: hubiere despertado
+      3p: hubieren despertado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had awakened}
+      1s: hubiera despertado
+      1p: hubiéramos despertado
+      2s: hubieras despertado
+      2p: hubierais despertado
+      3s: hubiera despertado
+      3p: hubieran despertado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Awaken! Don't awaken!}
+      1s: ''
+      1p: ''
+      2s: despierta
+      2p: despierte
+      3s: despertad
+      3p: despierten
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Awaken! Don't awaken!}
+      1s: ''
+      1p: ''
+      2s: no despiertes
+      2p: no despierte
+      3s: no despertéis
+      3p: no despierten

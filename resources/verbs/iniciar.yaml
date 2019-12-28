@@ -1,0 +1,186 @@
+iniciar:
+  infinitive: iniciar
+  gerund: iniciando
+  pastparticiple: iniciado
+  definitions: {en: 'to initiate, begin, start'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I initiate, am initiating'}
+      1s: inicio
+      1p: iniciamos
+      2s: inicias
+      2p: iniciáis
+      3s: inicia
+      3p: inician
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will initiate}
+      1s: iniciaré
+      1p: iniciaremos
+      2s: iniciarás
+      2p: iniciaréis
+      3s: iniciará
+      3p: iniciarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was initiating, used to initiate, initiated'}
+      1s: iniciaba
+      1p: iniciábamos
+      2s: iniciabas
+      2p: iniciabais
+      3s: iniciaba
+      3p: iniciaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I initiated}
+      1s: inicié
+      1p: iniciamos
+      2s: iniciaste
+      2p: iniciasteis
+      3s: inició
+      3p: iniciaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would initiate}
+      1s: iniciaría
+      1p: iniciaríamos
+      2s: iniciarías
+      2p: iniciaríais
+      3s: iniciaría
+      3p: iniciarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have initiated}
+      1s: he iniciado
+      1p: hemos iniciado
+      2s: has iniciado
+      2p: habéis iniciado
+      3s: ha iniciado
+      3p: han iniciado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have initiated}
+      1s: habré iniciado
+      1p: habremos iniciado
+      2s: habrás iniciado
+      2p: habréis iniciado
+      3s: habrá iniciado
+      3p: habrán iniciado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had initiated}
+      1s: había iniciado
+      1p: habíamos iniciado
+      2s: habías iniciado
+      2p: habíais iniciado
+      3s: había iniciado
+      3p: habían iniciado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had initiated}
+      1s: hube iniciado
+      1p: hubimos iniciado
+      2s: hubiste iniciado
+      2p: hubisteis iniciado
+      3s: hubo iniciado
+      3p: hubieron iniciado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have initiated}
+      1s: habría iniciado
+      1p: habríamos iniciado
+      2s: habrías iniciado
+      2p: habríais iniciado
+      3s: habría iniciado
+      3p: habrían iniciado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I initiate, am initiating'}
+      1s: inicie
+      1p: iniciemos
+      2s: inicies
+      2p: iniciéis
+      3s: inicie
+      3p: inicien
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I initiated, was initiating'}
+      1s: iniciara
+      1p: iniciáramos
+      2s: iniciaras
+      2p: iniciarais
+      3s: iniciara
+      3p: iniciaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will initiate}
+      1s: iniciare
+      1p: iniciáremos
+      2s: iniciares
+      2p: iniciareis
+      3s: iniciare
+      3p: iniciaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have initiated, initiated'}
+      1s: haya iniciado
+      1p: hayamos iniciado
+      2s: hayas iniciado
+      2p: hayáis iniciado
+      3s: haya iniciado
+      3p: hayan iniciado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have initiated}
+      1s: hubiere iniciado
+      1p: hubiéremos iniciado
+      2s: hubieres iniciado
+      2p: hubiereis iniciado
+      3s: hubiere iniciado
+      3p: hubieren iniciado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had initiated}
+      1s: hubiera iniciado
+      1p: hubiéramos iniciado
+      2s: hubieras iniciado
+      2p: hubierais iniciado
+      3s: hubiera iniciado
+      3p: hubieran iniciado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Initiate! Don't initiate!}
+      1s: ''
+      1p: ''
+      2s: inicia
+      2p: inicie
+      3s: iniciad
+      3p: inicien
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Initiate! Don't initiate!}
+      1s: ''
+      1p: ''
+      2s: no inicies
+      2p: no inicie
+      3s: no iniciéis
+      3p: no inicien

@@ -1,0 +1,186 @@
+bajar:
+  infinitive: bajar
+  gerund: bajando
+  pastparticiple: bajado
+  definitions: {en: 'to lower, go down, descend, download'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I lower, am lowering'}
+      1s: bajo
+      1p: bajamos
+      2s: bajas
+      2p: bajáis
+      3s: baja
+      3p: bajan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will lower}
+      1s: bajaré
+      1p: bajaremos
+      2s: bajarás
+      2p: bajaréis
+      3s: bajará
+      3p: bajarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was lowering, used to lower, lowered'}
+      1s: bajaba
+      1p: bajábamos
+      2s: bajabas
+      2p: bajabais
+      3s: bajaba
+      3p: bajaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I lowered}
+      1s: bajé
+      1p: bajamos
+      2s: bajaste
+      2p: bajasteis
+      3s: bajó
+      3p: bajaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would lower}
+      1s: bajaría
+      1p: bajaríamos
+      2s: bajarías
+      2p: bajaríais
+      3s: bajaría
+      3p: bajarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have lowered}
+      1s: he bajado
+      1p: hemos bajado
+      2s: has bajado
+      2p: habéis bajado
+      3s: ha bajado
+      3p: han bajado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have lowered}
+      1s: habré bajado
+      1p: habremos bajado
+      2s: habrás bajado
+      2p: habréis bajado
+      3s: habrá bajado
+      3p: habrán bajado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had lowered}
+      1s: había bajado
+      1p: habíamos bajado
+      2s: habías bajado
+      2p: habíais bajado
+      3s: había bajado
+      3p: habían bajado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had lowered}
+      1s: hube bajado
+      1p: hubimos bajado
+      2s: hubiste bajado
+      2p: hubisteis bajado
+      3s: hubo bajado
+      3p: hubieron bajado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have lowered}
+      1s: habría bajado
+      1p: habríamos bajado
+      2s: habrías bajado
+      2p: habríais bajado
+      3s: habría bajado
+      3p: habrían bajado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I lower, am lowering'}
+      1s: baje
+      1p: bajemos
+      2s: bajes
+      2p: bajéis
+      3s: baje
+      3p: bajen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I lowered, was lowering'}
+      1s: bajara
+      1p: bajáramos
+      2s: bajaras
+      2p: bajarais
+      3s: bajara
+      3p: bajaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will lower}
+      1s: bajare
+      1p: bajáremos
+      2s: bajares
+      2p: bajareis
+      3s: bajare
+      3p: bajaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have lowered, lowered'}
+      1s: haya bajado
+      1p: hayamos bajado
+      2s: hayas bajado
+      2p: hayáis bajado
+      3s: haya bajado
+      3p: hayan bajado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have lowered}
+      1s: hubiere bajado
+      1p: hubiéremos bajado
+      2s: hubieres bajado
+      2p: hubiereis bajado
+      3s: hubiere bajado
+      3p: hubieren bajado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had lowered}
+      1s: hubiera bajado
+      1p: hubiéramos bajado
+      2s: hubieras bajado
+      2p: hubierais bajado
+      3s: hubiera bajado
+      3p: hubieran bajado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Lower! Don't lower!}
+      1s: ''
+      1p: ''
+      2s: baja
+      2p: baje
+      3s: bajad
+      3p: bajen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Lower! Don't lower!}
+      1s: ''
+      1p: ''
+      2s: no bajes
+      2p: no baje
+      3s: no bajéis
+      3p: no bajen

@@ -1,0 +1,186 @@
+ubicar:
+  infinitive: ubicar
+  gerund: ubicando
+  pastparticiple: ubicado
+  definitions: {en: 'to place, locate; to be located, be situated'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I place, am placing'}
+      1s: ubico
+      1p: ubicamos
+      2s: ubicas
+      2p: ubicáis
+      3s: ubica
+      3p: ubican
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will place}
+      1s: ubicaré
+      1p: ubicaremos
+      2s: ubicarás
+      2p: ubicaréis
+      3s: ubicará
+      3p: ubicarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was placing, used to place, placed'}
+      1s: ubicaba
+      1p: ubicábamos
+      2s: ubicabas
+      2p: ubicabais
+      3s: ubicaba
+      3p: ubicaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I placed}
+      1s: ubiqué
+      1p: ubicamos
+      2s: ubicaste
+      2p: ubicasteis
+      3s: ubicó
+      3p: ubicaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would place}
+      1s: ubicaría
+      1p: ubicaríamos
+      2s: ubicarías
+      2p: ubicaríais
+      3s: ubicaría
+      3p: ubicarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have placed}
+      1s: he ubicado
+      1p: hemos ubicado
+      2s: has ubicado
+      2p: habéis ubicado
+      3s: ha ubicado
+      3p: han ubicado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have placed}
+      1s: habré ubicado
+      1p: habremos ubicado
+      2s: habrás ubicado
+      2p: habréis ubicado
+      3s: habrá ubicado
+      3p: habrán ubicado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had placed}
+      1s: había ubicado
+      1p: habíamos ubicado
+      2s: habías ubicado
+      2p: habíais ubicado
+      3s: había ubicado
+      3p: habían ubicado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had placed}
+      1s: hube ubicado
+      1p: hubimos ubicado
+      2s: hubiste ubicado
+      2p: hubisteis ubicado
+      3s: hubo ubicado
+      3p: hubieron ubicado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have placed}
+      1s: habría ubicado
+      1p: habríamos ubicado
+      2s: habrías ubicado
+      2p: habríais ubicado
+      3s: habría ubicado
+      3p: habrían ubicado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I place, am placing'}
+      1s: ubique
+      1p: ubiquemos
+      2s: ubiques
+      2p: ubiquéis
+      3s: ubique
+      3p: ubiquen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I placed, was placing'}
+      1s: ubicara
+      1p: ubicáramos
+      2s: ubicaras
+      2p: ubicarais
+      3s: ubicara
+      3p: ubicaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will place}
+      1s: ubicare
+      1p: ubicáremos
+      2s: ubicares
+      2p: ubicareis
+      3s: ubicare
+      3p: ubicaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have placed, placed'}
+      1s: haya ubicado
+      1p: hayamos ubicado
+      2s: hayas ubicado
+      2p: hayáis ubicado
+      3s: haya ubicado
+      3p: hayan ubicado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have placed}
+      1s: hubiere ubicado
+      1p: hubiéremos ubicado
+      2s: hubieres ubicado
+      2p: hubiereis ubicado
+      3s: hubiere ubicado
+      3p: hubieren ubicado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had placed}
+      1s: hubiera ubicado
+      1p: hubiéramos ubicado
+      2s: hubieras ubicado
+      2p: hubierais ubicado
+      3s: hubiera ubicado
+      3p: hubieran ubicado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Place! Don't place!}
+      1s: ''
+      1p: ''
+      2s: ubica
+      2p: ubique
+      3s: ubicad
+      3p: ubiquen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Place! Don't place!}
+      1s: ''
+      1p: ''
+      2s: no ubiques
+      2p: no ubique
+      3s: no ubiquéis
+      3p: no ubiquen

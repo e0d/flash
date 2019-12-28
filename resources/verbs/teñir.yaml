@@ -1,0 +1,186 @@
+teñir:
+  infinitive: teñir
+  gerund: tiñendo
+  pastparticiple: teñido
+  definitions: {en: 'to dye, tint, tinge, color, stain'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I dye, am dyeing'}
+      1s: tiño
+      1p: teñimos
+      2s: tiñes
+      2p: teñís
+      3s: tiñe
+      3p: tiñen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will dye}
+      1s: teñiré
+      1p: teñiremos
+      2s: teñirás
+      2p: teñiréis
+      3s: teñirá
+      3p: teñirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was dyeing, used to dye, dyed'}
+      1s: teñía
+      1p: teñíamos
+      2s: teñías
+      2p: teñíais
+      3s: teñía
+      3p: teñían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I dyed}
+      1s: teñí
+      1p: teñimos
+      2s: teñiste
+      2p: teñisteis
+      3s: tiñó
+      3p: tiñeron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would dye}
+      1s: teñiría
+      1p: teñiríamos
+      2s: teñirías
+      2p: teñiríais
+      3s: teñiría
+      3p: teñirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have dyed}
+      1s: he teñido
+      1p: hemos teñido
+      2s: has teñido
+      2p: habéis teñido
+      3s: ha teñido
+      3p: han teñido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have dyed}
+      1s: habré teñido
+      1p: habremos teñido
+      2s: habrás teñido
+      2p: habréis teñido
+      3s: habrá teñido
+      3p: habrán teñido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had dyed}
+      1s: había teñido
+      1p: habíamos teñido
+      2s: habías teñido
+      2p: habíais teñido
+      3s: había teñido
+      3p: habían teñido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had dyed}
+      1s: hube teñido
+      1p: hubimos teñido
+      2s: hubiste teñido
+      2p: hubisteis teñido
+      3s: hubo teñido
+      3p: hubieron teñido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have dyed}
+      1s: habría teñido
+      1p: habríamos teñido
+      2s: habrías teñido
+      2p: habríais teñido
+      3s: habría teñido
+      3p: habrían teñido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I dye, am dyeing'}
+      1s: tiña
+      1p: tiñamos
+      2s: tiñas
+      2p: tiñáis
+      3s: tiña
+      3p: tiñan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I dyed, was dyeing'}
+      1s: tiñera
+      1p: tiñéramos
+      2s: tiñeras
+      2p: tiñerais
+      3s: tiñera
+      3p: tiñeran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will dye}
+      1s: tiñere
+      1p: tiñéremos
+      2s: tiñeres
+      2p: tiñereis
+      3s: tiñere
+      3p: tiñeren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have dyed, dyed'}
+      1s: haya teñido
+      1p: hayamos teñido
+      2s: hayas teñido
+      2p: hayáis teñido
+      3s: haya teñido
+      3p: hayan teñido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have dyed}
+      1s: hubiere teñido
+      1p: hubiéremos teñido
+      2s: hubieres teñido
+      2p: hubiereis teñido
+      3s: hubiere teñido
+      3p: hubieren teñido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had dyed}
+      1s: hubiera teñido
+      1p: hubiéramos teñido
+      2s: hubieras teñido
+      2p: hubierais teñido
+      3s: hubiera teñido
+      3p: hubieran teñido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Dye! Don't dye!}
+      1s: ''
+      1p: ''
+      2s: tiñe
+      2p: tiña
+      3s: teñid
+      3p: tiñan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Dye! Don't dye!}
+      1s: ''
+      1p: ''
+      2s: no tiñas
+      2p: no tiña
+      3s: no tiñáis
+      3p: no tiñan

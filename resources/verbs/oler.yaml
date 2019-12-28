@@ -1,0 +1,186 @@
+oler:
+  infinitive: oler
+  gerund: oliendo
+  pastparticiple: olido
+  definitions: {en: to smell}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I smell, am smelling'}
+      1s: huelo
+      1p: olemos
+      2s: hueles
+      2p: oléis
+      3s: huele
+      3p: huelen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will smell}
+      1s: oleré
+      1p: oleremos
+      2s: olerás
+      2p: oleréis
+      3s: olerá
+      3p: olerán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was smelling, used to smell, smelled'}
+      1s: olía
+      1p: olíamos
+      2s: olías
+      2p: olíais
+      3s: olía
+      3p: olían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I smelled}
+      1s: olí
+      1p: olimos
+      2s: oliste
+      2p: olisteis
+      3s: olió
+      3p: olieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would smell}
+      1s: olería
+      1p: oleríamos
+      2s: olerías
+      2p: oleríais
+      3s: olería
+      3p: olerían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have smelled}
+      1s: he olido
+      1p: hemos olido
+      2s: has olido
+      2p: habéis olido
+      3s: ha olido
+      3p: han olido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have smelled}
+      1s: habré olido
+      1p: habremos olido
+      2s: habrás olido
+      2p: habréis olido
+      3s: habrá olido
+      3p: habrán olido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had smelled}
+      1s: había olido
+      1p: habíamos olido
+      2s: habías olido
+      2p: habíais olido
+      3s: había olido
+      3p: habían olido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had smelled}
+      1s: hube olido
+      1p: hubimos olido
+      2s: hubiste olido
+      2p: hubisteis olido
+      3s: hubo olido
+      3p: hubieron olido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have smelled}
+      1s: habría olido
+      1p: habríamos olido
+      2s: habrías olido
+      2p: habríais olido
+      3s: habría olido
+      3p: habrían olido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I smell, am smelling'}
+      1s: huela
+      1p: olamos
+      2s: huelas
+      2p: oláis
+      3s: huela
+      3p: huelan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I smelled, was smelling'}
+      1s: oliera
+      1p: oliéramos
+      2s: olieras
+      2p: olierais
+      3s: oliera
+      3p: olieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will smell}
+      1s: oliere
+      1p: oliéremos
+      2s: olieres
+      2p: oliereis
+      3s: oliere
+      3p: olieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have smelled, smelled'}
+      1s: haya olido
+      1p: hayamos olido
+      2s: hayas olido
+      2p: hayáis olido
+      3s: haya olido
+      3p: hayan olido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have smelled}
+      1s: hubiere olido
+      1p: hubiéremos olido
+      2s: hubieres olido
+      2p: hubiereis olido
+      3s: hubiere olido
+      3p: hubieren olido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had smelled}
+      1s: hubiera olido
+      1p: hubiéramos olido
+      2s: hubieras olido
+      2p: hubierais olido
+      3s: hubiera olido
+      3p: hubieran olido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Smell! Don't smell!}
+      1s: ''
+      1p: ''
+      2s: huele
+      2p: huela
+      3s: oled
+      3p: huelan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Smell! Don't smell!}
+      1s: ''
+      1p: ''
+      2s: no huelas
+      2p: no huela
+      3s: no oláis
+      3p: no huelan

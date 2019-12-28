@@ -1,0 +1,186 @@
+ganar:
+  infinitive: ganar
+  gerund: ganando
+  pastparticiple: ganado
+  definitions: {en: 'to win, gain, earn, get, acquire'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I win, am winning'}
+      1s: gano
+      1p: ganamos
+      2s: ganas
+      2p: ganáis
+      3s: gana
+      3p: ganan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will win}
+      1s: ganaré
+      1p: ganaremos
+      2s: ganarás
+      2p: ganaréis
+      3s: ganará
+      3p: ganarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was winning, used to win, won'}
+      1s: ganaba
+      1p: ganábamos
+      2s: ganabas
+      2p: ganabais
+      3s: ganaba
+      3p: ganaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I won}
+      1s: gané
+      1p: ganamos
+      2s: ganaste
+      2p: ganasteis
+      3s: ganó
+      3p: ganaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would win}
+      1s: ganaría
+      1p: ganaríamos
+      2s: ganarías
+      2p: ganaríais
+      3s: ganaría
+      3p: ganarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have won}
+      1s: he ganado
+      1p: hemos ganado
+      2s: has ganado
+      2p: habéis ganado
+      3s: ha ganado
+      3p: han ganado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have won}
+      1s: habré ganado
+      1p: habremos ganado
+      2s: habrás ganado
+      2p: habréis ganado
+      3s: habrá ganado
+      3p: habrán ganado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had won}
+      1s: había ganado
+      1p: habíamos ganado
+      2s: habías ganado
+      2p: habíais ganado
+      3s: había ganado
+      3p: habían ganado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had won}
+      1s: hube ganado
+      1p: hubimos ganado
+      2s: hubiste ganado
+      2p: hubisteis ganado
+      3s: hubo ganado
+      3p: hubieron ganado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have won}
+      1s: habría ganado
+      1p: habríamos ganado
+      2s: habrías ganado
+      2p: habríais ganado
+      3s: habría ganado
+      3p: habrían ganado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I win, am winning'}
+      1s: gane
+      1p: ganemos
+      2s: ganes
+      2p: ganéis
+      3s: gane
+      3p: ganen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I won, was winning'}
+      1s: ganara
+      1p: ganáramos
+      2s: ganaras
+      2p: ganarais
+      3s: ganara
+      3p: ganaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will win}
+      1s: ganare
+      1p: ganáremos
+      2s: ganares
+      2p: ganareis
+      3s: ganare
+      3p: ganaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have won, won'}
+      1s: haya ganado
+      1p: hayamos ganado
+      2s: hayas ganado
+      2p: hayáis ganado
+      3s: haya ganado
+      3p: hayan ganado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have won}
+      1s: hubiere ganado
+      1p: hubiéremos ganado
+      2s: hubieres ganado
+      2p: hubiereis ganado
+      3s: hubiere ganado
+      3p: hubieren ganado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had won}
+      1s: hubiera ganado
+      1p: hubiéramos ganado
+      2s: hubieras ganado
+      2p: hubierais ganado
+      3s: hubiera ganado
+      3p: hubieran ganado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Win! Don't win!}
+      1s: ''
+      1p: ''
+      2s: gana
+      2p: gane
+      3s: ganad
+      3p: ganen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Win! Don't win!}
+      1s: ''
+      1p: ''
+      2s: no ganes
+      2p: no gane
+      3s: no ganéis
+      3p: no ganen

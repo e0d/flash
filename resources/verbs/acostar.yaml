@@ -1,0 +1,186 @@
+acostar:
+  infinitive: acostar
+  gerund: acostando
+  pastparticiple: acostado
+  definitions: {en: to put to bed}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I put to bed, am putting to bed'}
+      1s: acuesto
+      1p: acostamos
+      2s: acuestas
+      2p: acostáis
+      3s: acuesta
+      3p: acuestan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will put to bed}
+      1s: acostaré
+      1p: acostaremos
+      2s: acostarás
+      2p: acostaréis
+      3s: acostará
+      3p: acostarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was putting to bed, used to put to bed, put to bed'}
+      1s: acostaba
+      1p: acostábamos
+      2s: acostabas
+      2p: acostabais
+      3s: acostaba
+      3p: acostaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I put to bed}
+      1s: acosté
+      1p: acostamos
+      2s: acostaste
+      2p: acostasteis
+      3s: acostó
+      3p: acostaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would put to bed}
+      1s: acostaría
+      1p: acostaríamos
+      2s: acostarías
+      2p: acostaríais
+      3s: acostaría
+      3p: acostarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have put to bed}
+      1s: he acostado
+      1p: hemos acostado
+      2s: has acostado
+      2p: habéis acostado
+      3s: ha acostado
+      3p: han acostado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have put to bed}
+      1s: habré acostado
+      1p: habremos acostado
+      2s: habrás acostado
+      2p: habréis acostado
+      3s: habrá acostado
+      3p: habrán acostado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had put to bed}
+      1s: había acostado
+      1p: habíamos acostado
+      2s: habías acostado
+      2p: habíais acostado
+      3s: había acostado
+      3p: habían acostado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had put to bed}
+      1s: hube acostado
+      1p: hubimos acostado
+      2s: hubiste acostado
+      2p: hubisteis acostado
+      3s: hubo acostado
+      3p: hubieron acostado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have put to bed}
+      1s: habría acostado
+      1p: habríamos acostado
+      2s: habrías acostado
+      2p: habríais acostado
+      3s: habría acostado
+      3p: habrían acostado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I put to bed, am putting to bed'}
+      1s: acueste
+      1p: acostemos
+      2s: acuestes
+      2p: acostéis
+      3s: acueste
+      3p: acuesten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I put to bed, was putting to bed'}
+      1s: acostara
+      1p: acostáramos
+      2s: acostaras
+      2p: acostarais
+      3s: acostara
+      3p: acostaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will put to bed}
+      1s: acostare
+      1p: acostáremos
+      2s: acostares
+      2p: acostareis
+      3s: acostare
+      3p: acostaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have put to bed, put to bed'}
+      1s: haya acostado
+      1p: hayamos acostado
+      2s: hayas acostado
+      2p: hayáis acostado
+      3s: haya acostado
+      3p: hayan acostado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have put to bed}
+      1s: hubiere acostado
+      1p: hubiéremos acostado
+      2s: hubieres acostado
+      2p: hubiereis acostado
+      3s: hubiere acostado
+      3p: hubieren acostado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had put to bed}
+      1s: hubiera acostado
+      1p: hubiéramos acostado
+      2s: hubieras acostado
+      2p: hubierais acostado
+      3s: hubiera acostado
+      3p: hubieran acostado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Put to bed! Don't put to bed!}
+      1s: ''
+      1p: ''
+      2s: acuesta
+      2p: acueste
+      3s: acostad
+      3p: acuesten
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Put to bed! Don't put to bed!}
+      1s: ''
+      1p: ''
+      2s: no acuestes
+      2p: no acueste
+      3s: no acostéis
+      3p: no acuesten

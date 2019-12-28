@@ -1,0 +1,186 @@
+enriquecerse:
+  infinitive: enriquecerse
+  gerund: enriqueciéndose
+  pastparticiple: enriquecido
+  definitions: {en: to get rich}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I get rich, am getting rich'}
+      1s: me enriquezco
+      1p: nos enriquecemos
+      2s: te enriqueces
+      2p: os enriquecéis
+      3s: se enriquece
+      3p: se enriquecen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will get rich}
+      1s: me enriqueceré
+      1p: nos enriqueceremos
+      2s: te enriquecerás
+      2p: os enriqueceréis
+      3s: se enriquecerá
+      3p: se enriquecerán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was getting rich, used to get rich, got rich'}
+      1s: me enriquecía
+      1p: nos enriquecíamos
+      2s: te enriquecías
+      2p: os enriquecíais
+      3s: se enriquecía
+      3p: se enriquecían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I got rich}
+      1s: me enriquecí
+      1p: nos enriquecimos
+      2s: te enriqueciste
+      2p: os enriquecisteis
+      3s: se enriqueció
+      3p: se enriquecieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would get rich}
+      1s: me enriquecería
+      1p: nos enriqueceríamos
+      2s: te enriquecerías
+      2p: os enriqueceríais
+      3s: se enriquecería
+      3p: se enriquecerían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have gotten rich}
+      1s: me he enriquecido
+      1p: nos hemos enriquecido
+      2s: te has enriquecido
+      2p: os habéis enriquecido
+      3s: se ha enriquecido
+      3p: se han enriquecido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have gotten rich}
+      1s: me habré enriquecido
+      1p: nos habremos enriquecido
+      2s: te habrás enriquecido
+      2p: os habréis enriquecido
+      3s: se habrá enriquecido
+      3p: se habrán enriquecido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had gotten rich}
+      1s: me había enriquecido
+      1p: nos habíamos enriquecido
+      2s: te habías enriquecido
+      2p: os habíais enriquecido
+      3s: se había enriquecido
+      3p: se habían enriquecido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had gotten rich}
+      1s: me hube enriquecido
+      1p: nos hubimos enriquecido
+      2s: te hubiste enriquecido
+      2p: os hubisteis enriquecido
+      3s: se hubo enriquecido
+      3p: se hubieron enriquecido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have gotten rich}
+      1s: me habría enriquecido
+      1p: nos habríamos enriquecido
+      2s: te habrías enriquecido
+      2p: os habríais enriquecido
+      3s: se habría enriquecido
+      3p: se habrían enriquecido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I get rich, am getting rich'}
+      1s: me enriquezca
+      1p: nos enriquezcamos
+      2s: te enriquezcas
+      2p: os enriquezcáis
+      3s: se enriquezca
+      3p: se enriquezcan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I got rich, was getting rich'}
+      1s: me enriqueciera
+      1p: nos enriqueciéramos
+      2s: te enriquecieras
+      2p: os enriquecierais
+      3s: se enriqueciera
+      3p: se enriquecieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will get rich}
+      1s: me enriqueciere
+      1p: nos enriqueciéremos
+      2s: te enriquecieres
+      2p: os enriqueciereis
+      3s: se enriqueciere
+      3p: se enriquecieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have gotten rich, gotten rich'}
+      1s: me haya enriquecido
+      1p: nos hayamos enriquecido
+      2s: te hayas enriquecido
+      2p: os hayáis enriquecido
+      3s: se haya enriquecido
+      3p: se hayan enriquecido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have gotten rich}
+      1s: me hubiere enriquecido
+      1p: nos hubiéremos enriquecido
+      2s: te hubieres enriquecido
+      2p: os hubiereis enriquecido
+      3s: se hubiere enriquecido
+      3p: se hubieren enriquecido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had gotten rich}
+      1s: me hubiera enriquecido
+      1p: nos hubiéramos enriquecido
+      2s: te hubieras enriquecido
+      2p: os hubierais enriquecido
+      3s: se hubiera enriquecido
+      3p: se hubieran enriquecido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Get rich! Don't get rich!}
+      1s: ''
+      1p: ''
+      2s: enriquécete
+      2p: enriquézcase
+      3s: enriqueceos
+      3p: enriquézcanse
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Get rich! Don't get rich!}
+      1s: ''
+      1p: ''
+      2s: no te enriquezcas
+      2p: no se enriquezca
+      3s: no os enriquezcáis
+      3p: no se enriquezcan

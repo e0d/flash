@@ -1,0 +1,186 @@
+criarse:
+  infinitive: criarse
+  gerund: criándose
+  pastparticiple: criado
+  definitions: {en: 'to grow [up]; to be brought up'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I grow up, am growing up'}
+      1s: me crío
+      1p: nos criamos
+      2s: te crías
+      2p: os criáis
+      3s: se cría
+      3p: se crían
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will grow up}
+      1s: me criaré
+      1p: nos criaremos
+      2s: te criarás
+      2p: os criaréis
+      3s: se criará
+      3p: se criarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was growing up, used to grow up, grew up'}
+      1s: me criaba
+      1p: nos criábamos
+      2s: te criabas
+      2p: os criabais
+      3s: se criaba
+      3p: se criaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I grew up}
+      1s: me crié
+      1p: nos criamos
+      2s: te criaste
+      2p: os criasteis
+      3s: se crio
+      3p: se criaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would grow up}
+      1s: me criaría
+      1p: nos criaríamos
+      2s: te criarías
+      2p: os criaríais
+      3s: se criaría
+      3p: se criarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have grown up}
+      1s: me he criado
+      1p: nos hemos criado
+      2s: te has criado
+      2p: os habéis criado
+      3s: se ha criado
+      3p: se han criado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have grown up}
+      1s: me habré criado
+      1p: nos habremos criado
+      2s: te habrás criado
+      2p: os habréis criado
+      3s: se habrá criado
+      3p: se habrán criado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had grown up}
+      1s: me había criado
+      1p: nos habíamos criado
+      2s: te habías criado
+      2p: os habíais criado
+      3s: se había criado
+      3p: se habían criado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had grown up}
+      1s: me hube criado
+      1p: nos hubimos criado
+      2s: te hubiste criado
+      2p: os hubisteis criado
+      3s: se hubo criado
+      3p: se hubieron criado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have grown up}
+      1s: me habría criado
+      1p: nos habríamos criado
+      2s: te habrías criado
+      2p: os habríais criado
+      3s: se habría criado
+      3p: se habrían criado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I grow up, am growing up'}
+      1s: me críe
+      1p: nos criemos
+      2s: te críes
+      2p: os criéis
+      3s: se críe
+      3p: se críen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I grew up, was growing up'}
+      1s: me criara
+      1p: nos criáramos
+      2s: te criaras
+      2p: os criarais
+      3s: se criara
+      3p: se criaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will grow up}
+      1s: me criare
+      1p: nos criáremos
+      2s: te criares
+      2p: os criareis
+      3s: se criare
+      3p: se criaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have grown up, grew up'}
+      1s: me haya criado
+      1p: nos hayamos criado
+      2s: te hayas criado
+      2p: os hayáis criado
+      3s: se haya criado
+      3p: se hayan criado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have grown up}
+      1s: me hubiere criado
+      1p: nos hubiéremos criado
+      2s: te hubieres criado
+      2p: os hubiereis criado
+      3s: se hubiere criado
+      3p: se hubieren criado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had grown up}
+      1s: me hubiera criado
+      1p: nos hubiéramos criado
+      2s: te hubieras criado
+      2p: os hubierais criado
+      3s: se hubiera criado
+      3p: se hubieran criado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Grow up! Don't grow up!}
+      1s: ''
+      1p: ''
+      2s: críate
+      2p: críese
+      3s: criaos
+      3p: críense
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Grow up! Don't grow up!}
+      1s: ''
+      1p: ''
+      2s: no te críes
+      2p: no se críe
+      3s: no os criéis
+      3p: no se críen

@@ -1,0 +1,186 @@
+convenir:
+  infinitive: convenir
+  gerund: conviniendo
+  pastparticiple: convenido
+  definitions: {en: 'to agree; to suit, be suited to; to be good for'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I agree, am agreeing'}
+      1s: convengo
+      1p: convenimos
+      2s: convienes
+      2p: convenís
+      3s: conviene
+      3p: convienen
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will agree}
+      1s: convendré
+      1p: convendremos
+      2s: convendrás
+      2p: convendréis
+      3s: convendrá
+      3p: convendrán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was agreeing, used to agree, agreed'}
+      1s: convenía
+      1p: conveníamos
+      2s: convenías
+      2p: conveníais
+      3s: convenía
+      3p: convenían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I agreed}
+      1s: convine
+      1p: convinimos
+      2s: conviniste
+      2p: convinisteis
+      3s: convino
+      3p: convinieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would agree}
+      1s: convendría
+      1p: convendríamos
+      2s: convendrías
+      2p: convendríais
+      3s: convendría
+      3p: convendrían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have agreed}
+      1s: he convenido
+      1p: hemos convenido
+      2s: has convenido
+      2p: habéis convenido
+      3s: ha convenido
+      3p: han convenido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have agreed}
+      1s: habré convenido
+      1p: habremos convenido
+      2s: habrás convenido
+      2p: habréis convenido
+      3s: habrá convenido
+      3p: habrán convenido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had agreed}
+      1s: había convenido
+      1p: habíamos convenido
+      2s: habías convenido
+      2p: habíais convenido
+      3s: había convenido
+      3p: habían convenido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had agreed}
+      1s: hube convenido
+      1p: hubimos convenido
+      2s: hubiste convenido
+      2p: hubisteis convenido
+      3s: hubo convenido
+      3p: hubieron convenido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have agreed}
+      1s: habría convenido
+      1p: habríamos convenido
+      2s: habrías convenido
+      2p: habríais convenido
+      3s: habría convenido
+      3p: habrían convenido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I agree, am agreeing'}
+      1s: convenga
+      1p: convengamos
+      2s: convengas
+      2p: convengáis
+      3s: convenga
+      3p: convengan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I agreed, was agreeing'}
+      1s: conviniera
+      1p: conviniéramos
+      2s: convinieras
+      2p: convinierais
+      3s: conviniera
+      3p: convinieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will agree}
+      1s: conviniere
+      1p: conviniéremos
+      2s: convinieres
+      2p: conviniereis
+      3s: conviniere
+      3p: convinieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have agreed, agreed'}
+      1s: haya convenido
+      1p: hayamos convenido
+      2s: hayas convenido
+      2p: hayáis convenido
+      3s: haya convenido
+      3p: hayan convenido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have agreed}
+      1s: hubiere convenido
+      1p: hubiéremos convenido
+      2s: hubieres convenido
+      2p: hubiereis convenido
+      3s: hubiere convenido
+      3p: hubieren convenido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had agreed}
+      1s: hubiera convenido
+      1p: hubiéramos convenido
+      2s: hubieras convenido
+      2p: hubierais convenido
+      3s: hubiera convenido
+      3p: hubieran convenido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Agree! Don't agree!}
+      1s: ''
+      1p: ''
+      2s: convén
+      2p: convenga
+      3s: convenid
+      3p: convengan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Agree! Don't agree!}
+      1s: ''
+      1p: ''
+      2s: no convengas
+      2p: no convenga
+      3s: no convengáis
+      3p: no convengan

@@ -1,0 +1,186 @@
+conversar:
+  infinitive: conversar
+  gerund: conversando
+  pastparticiple: conversado
+  definitions: {en: 'to talk, converse; to tell, relate'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I talk, am talking'}
+      1s: converso
+      1p: conversamos
+      2s: conversas
+      2p: conversáis
+      3s: conversa
+      3p: conversan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will talk}
+      1s: conversaré
+      1p: conversaremos
+      2s: conversarás
+      2p: conversaréis
+      3s: conversará
+      3p: conversarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was talking, used to talk, talked'}
+      1s: conversaba
+      1p: conversábamos
+      2s: conversabas
+      2p: conversabais
+      3s: conversaba
+      3p: conversaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I talked}
+      1s: conversé
+      1p: conversamos
+      2s: conversaste
+      2p: conversasteis
+      3s: conversó
+      3p: conversaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would talk}
+      1s: conversaría
+      1p: conversaríamos
+      2s: conversarías
+      2p: conversaríais
+      3s: conversaría
+      3p: conversarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have talked}
+      1s: he conversado
+      1p: hemos conversado
+      2s: has conversado
+      2p: habéis conversado
+      3s: ha conversado
+      3p: han conversado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have talked}
+      1s: habré conversado
+      1p: habremos conversado
+      2s: habrás conversado
+      2p: habréis conversado
+      3s: habrá conversado
+      3p: habrán conversado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had talked}
+      1s: había conversado
+      1p: habíamos conversado
+      2s: habías conversado
+      2p: habíais conversado
+      3s: había conversado
+      3p: habían conversado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had talked}
+      1s: hube conversado
+      1p: hubimos conversado
+      2s: hubiste conversado
+      2p: hubisteis conversado
+      3s: hubo conversado
+      3p: hubieron conversado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have talked}
+      1s: habría conversado
+      1p: habríamos conversado
+      2s: habrías conversado
+      2p: habríais conversado
+      3s: habría conversado
+      3p: habrían conversado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I talk, am talking'}
+      1s: converse
+      1p: conversemos
+      2s: converses
+      2p: converséis
+      3s: converse
+      3p: conversen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I talked, was talking'}
+      1s: conversara
+      1p: conversáramos
+      2s: conversaras
+      2p: conversarais
+      3s: conversara
+      3p: conversaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will talk}
+      1s: conversare
+      1p: conversáremos
+      2s: conversares
+      2p: conversareis
+      3s: conversare
+      3p: conversaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have talked, talked'}
+      1s: haya conversado
+      1p: hayamos conversado
+      2s: hayas conversado
+      2p: hayáis conversado
+      3s: haya conversado
+      3p: hayan conversado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have talked}
+      1s: hubiere conversado
+      1p: hubiéremos conversado
+      2s: hubieres conversado
+      2p: hubiereis conversado
+      3s: hubiere conversado
+      3p: hubieren conversado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had talked}
+      1s: hubiera conversado
+      1p: hubiéramos conversado
+      2s: hubieras conversado
+      2p: hubierais conversado
+      3s: hubiera conversado
+      3p: hubieran conversado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Talk! Don't talk!}
+      1s: ''
+      1p: ''
+      2s: conversa
+      2p: converse
+      3s: conversad
+      3p: conversen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Talk! Don't talk!}
+      1s: ''
+      1p: ''
+      2s: no converses
+      2p: no converse
+      3s: no converséis
+      3p: no conversen

@@ -1,0 +1,186 @@
+chismear:
+  infinitive: chismear
+  gerund: chismeando
+  pastparticiple: chismeado
+  definitions: {en: to gossip}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I gossip, am gossiping'}
+      1s: chismeo
+      1p: chismeamos
+      2s: chismeas
+      2p: chismeáis
+      3s: chismea
+      3p: chismean
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will gossip}
+      1s: chismearé
+      1p: chismearemos
+      2s: chismearás
+      2p: chismearéis
+      3s: chismeará
+      3p: chismearán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was gossiping, used to gossip, gossiped'}
+      1s: chismeaba
+      1p: chismeábamos
+      2s: chismeabas
+      2p: chismeabais
+      3s: chismeaba
+      3p: chismeaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I gossiped}
+      1s: chismeé
+      1p: chismeamos
+      2s: chismeaste
+      2p: chismeasteis
+      3s: chismeó
+      3p: chismearon
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would gossip}
+      1s: chismearía
+      1p: chismearíamos
+      2s: chismearías
+      2p: chismearíais
+      3s: chismearía
+      3p: chismearían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have gossiped}
+      1s: he chismeado
+      1p: hemos chismeado
+      2s: has chismeado
+      2p: habéis chismeado
+      3s: ha chismeado
+      3p: han chismeado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have gossiped}
+      1s: habré chismeado
+      1p: habremos chismeado
+      2s: habrás chismeado
+      2p: habréis chismeado
+      3s: habrá chismeado
+      3p: habrán chismeado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had gossiped}
+      1s: había chismeado
+      1p: habíamos chismeado
+      2s: habías chismeado
+      2p: habíais chismeado
+      3s: había chismeado
+      3p: habían chismeado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had gossiped}
+      1s: hube chismeado
+      1p: hubimos chismeado
+      2s: hubiste chismeado
+      2p: hubisteis chismeado
+      3s: hubo chismeado
+      3p: hubieron chismeado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have gossiped}
+      1s: habría chismeado
+      1p: habríamos chismeado
+      2s: habrías chismeado
+      2p: habríais chismeado
+      3s: habría chismeado
+      3p: habrían chismeado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I gossip, am gossiping'}
+      1s: chismee
+      1p: chismeemos
+      2s: chismees
+      2p: chismeéis
+      3s: chismee
+      3p: chismeen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I gossiped, was gossiping'}
+      1s: chismeara
+      1p: chismeáramos
+      2s: chismearas
+      2p: chismearais
+      3s: chismeara
+      3p: chismearan
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will gossip}
+      1s: chismeare
+      1p: chismeáremos
+      2s: chismeares
+      2p: chismeareis
+      3s: chismeare
+      3p: chismearen
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have gossiped, gossiped'}
+      1s: haya chismeado
+      1p: hayamos chismeado
+      2s: hayas chismeado
+      2p: hayáis chismeado
+      3s: haya chismeado
+      3p: hayan chismeado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have gossiped}
+      1s: hubiere chismeado
+      1p: hubiéremos chismeado
+      2s: hubieres chismeado
+      2p: hubiereis chismeado
+      3s: hubiere chismeado
+      3p: hubieren chismeado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had gossiped}
+      1s: hubiera chismeado
+      1p: hubiéramos chismeado
+      2s: hubieras chismeado
+      2p: hubierais chismeado
+      3s: hubiera chismeado
+      3p: hubieran chismeado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Gossip! Don't gossip!}
+      1s: ''
+      1p: ''
+      2s: chismea
+      2p: chismee
+      3s: chismead
+      3p: chismeen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Gossip! Don't gossip!}
+      1s: ''
+      1p: ''
+      2s: no chismees
+      2p: no chismee
+      3s: no chismeéis
+      3p: no chismeen

@@ -1,0 +1,186 @@
+apreciar:
+  infinitive: apreciar
+  gerund: apreciando
+  pastparticiple: apreciado
+  definitions: {en: 'to appreciate, value, esteem, estimate, notice'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I appreciate, am appreciating'}
+      1s: aprecio
+      1p: apreciamos
+      2s: aprecias
+      2p: apreciáis
+      3s: aprecia
+      3p: aprecian
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will appreciate}
+      1s: apreciaré
+      1p: apreciaremos
+      2s: apreciarás
+      2p: apreciaréis
+      3s: apreciará
+      3p: apreciarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was appreciating, used to appreciate, appreciated'}
+      1s: apreciaba
+      1p: apreciábamos
+      2s: apreciabas
+      2p: apreciabais
+      3s: apreciaba
+      3p: apreciaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I appreciated}
+      1s: aprecié
+      1p: apreciamos
+      2s: apreciaste
+      2p: apreciasteis
+      3s: apreció
+      3p: apreciaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would appreciate}
+      1s: apreciaría
+      1p: apreciaríamos
+      2s: apreciarías
+      2p: apreciaríais
+      3s: apreciaría
+      3p: apreciarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have appreciated}
+      1s: he apreciado
+      1p: hemos apreciado
+      2s: has apreciado
+      2p: habéis apreciado
+      3s: ha apreciado
+      3p: han apreciado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have appreciated}
+      1s: habré apreciado
+      1p: habremos apreciado
+      2s: habrás apreciado
+      2p: habréis apreciado
+      3s: habrá apreciado
+      3p: habrán apreciado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had appreciated}
+      1s: había apreciado
+      1p: habíamos apreciado
+      2s: habías apreciado
+      2p: habíais apreciado
+      3s: había apreciado
+      3p: habían apreciado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had appreciated}
+      1s: hube apreciado
+      1p: hubimos apreciado
+      2s: hubiste apreciado
+      2p: hubisteis apreciado
+      3s: hubo apreciado
+      3p: hubieron apreciado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have appreciated}
+      1s: habría apreciado
+      1p: habríamos apreciado
+      2s: habrías apreciado
+      2p: habríais apreciado
+      3s: habría apreciado
+      3p: habrían apreciado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I appreciate, am appreciating'}
+      1s: aprecie
+      1p: apreciemos
+      2s: aprecies
+      2p: apreciéis
+      3s: aprecie
+      3p: aprecien
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I appreciated, was appreciating'}
+      1s: apreciara
+      1p: apreciáramos
+      2s: apreciaras
+      2p: apreciarais
+      3s: apreciara
+      3p: apreciaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will appreciate}
+      1s: apreciare
+      1p: apreciáremos
+      2s: apreciares
+      2p: apreciareis
+      3s: apreciare
+      3p: apreciaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have appreciated, appreciated'}
+      1s: haya apreciado
+      1p: hayamos apreciado
+      2s: hayas apreciado
+      2p: hayáis apreciado
+      3s: haya apreciado
+      3p: hayan apreciado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have appreciated}
+      1s: hubiere apreciado
+      1p: hubiéremos apreciado
+      2s: hubieres apreciado
+      2p: hubiereis apreciado
+      3s: hubiere apreciado
+      3p: hubieren apreciado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had appreciated}
+      1s: hubiera apreciado
+      1p: hubiéramos apreciado
+      2s: hubieras apreciado
+      2p: hubierais apreciado
+      3s: hubiera apreciado
+      3p: hubieran apreciado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: appreciate! Don't appreciate!}
+      1s: ''
+      1p: ''
+      2s: aprecia
+      2p: aprecie
+      3s: apreciad
+      3p: aprecien
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: appreciate! Don't appreciate!}
+      1s: ''
+      1p: ''
+      2s: no aprecies
+      2p: no aprecie
+      3s: no apreciéis
+      3p: no aprecien

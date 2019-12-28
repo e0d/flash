@@ -1,0 +1,186 @@
+vivir:
+  infinitive: vivir
+  gerund: viviendo
+  pastparticiple: vivido
+  definitions: {en: to live}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I live, am living'}
+      1s: vivo
+      1p: vivimos
+      2s: vives
+      2p: vivís
+      3s: vive
+      3p: viven
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will live}
+      1s: viviré
+      1p: viviremos
+      2s: vivirás
+      2p: viviréis
+      3s: vivirá
+      3p: vivirán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was living, used to live, lived'}
+      1s: vivía
+      1p: vivíamos
+      2s: vivías
+      2p: vivíais
+      3s: vivía
+      3p: vivían
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I lived}
+      1s: viví
+      1p: vivimos
+      2s: viviste
+      2p: vivisteis
+      3s: vivió
+      3p: vivieron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would live}
+      1s: viviría
+      1p: viviríamos
+      2s: vivirías
+      2p: viviríais
+      3s: viviría
+      3p: vivirían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have lived}
+      1s: he vivido
+      1p: hemos vivido
+      2s: has vivido
+      2p: habéis vivido
+      3s: ha vivido
+      3p: han vivido
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have lived}
+      1s: habré vivido
+      1p: habremos vivido
+      2s: habrás vivido
+      2p: habréis vivido
+      3s: habrá vivido
+      3p: habrán vivido
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had lived}
+      1s: había vivido
+      1p: habíamos vivido
+      2s: habías vivido
+      2p: habíais vivido
+      3s: había vivido
+      3p: habían vivido
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had lived}
+      1s: hube vivido
+      1p: hubimos vivido
+      2s: hubiste vivido
+      2p: hubisteis vivido
+      3s: hubo vivido
+      3p: hubieron vivido
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have lived}
+      1s: habría vivido
+      1p: habríamos vivido
+      2s: habrías vivido
+      2p: habríais vivido
+      3s: habría vivido
+      3p: habrían vivido
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I live, am living'}
+      1s: viva
+      1p: vivamos
+      2s: vivas
+      2p: viváis
+      3s: viva
+      3p: vivan
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I lived, was living'}
+      1s: viviera
+      1p: viviéramos
+      2s: vivieras
+      2p: vivierais
+      3s: viviera
+      3p: vivieran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will live}
+      1s: viviere
+      1p: viviéremos
+      2s: vivieres
+      2p: viviereis
+      3s: viviere
+      3p: vivieren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have lived, lived'}
+      1s: haya vivido
+      1p: hayamos vivido
+      2s: hayas vivido
+      2p: hayáis vivido
+      3s: haya vivido
+      3p: hayan vivido
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have lived}
+      1s: hubiere vivido
+      1p: hubiéremos vivido
+      2s: hubieres vivido
+      2p: hubiereis vivido
+      3s: hubiere vivido
+      3p: hubieren vivido
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had lived}
+      1s: hubiera vivido
+      1p: hubiéramos vivido
+      2s: hubieras vivido
+      2p: hubierais vivido
+      3s: hubiera vivido
+      3p: hubieran vivido
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Live! Don't live!}
+      1s: ''
+      1p: ''
+      2s: vive
+      2p: viva
+      3s: vivid
+      3p: vivan
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Live! Don't live!}
+      1s: ''
+      1p: ''
+      2s: no vivas
+      2p: no viva
+      3s: no viváis
+      3p: no vivan

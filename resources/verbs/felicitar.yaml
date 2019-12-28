@@ -1,0 +1,186 @@
+felicitar:
+  infinitive: felicitar
+  gerund: felicitando
+  pastparticiple: felicitado
+  definitions: {en: to congratulate}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I congratulate, am congratulating'}
+      1s: felicito
+      1p: felicitamos
+      2s: felicitas
+      2p: felicitáis
+      3s: felicita
+      3p: felicitan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will congratulate}
+      1s: felicitaré
+      1p: felicitaremos
+      2s: felicitarás
+      2p: felicitaréis
+      3s: felicitará
+      3p: felicitarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was congratulating, used to congratulate, congratulated'}
+      1s: felicitaba
+      1p: felicitábamos
+      2s: felicitabas
+      2p: felicitabais
+      3s: felicitaba
+      3p: felicitaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I congratulated}
+      1s: felicité
+      1p: felicitamos
+      2s: felicitaste
+      2p: felicitasteis
+      3s: felicitó
+      3p: felicitaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would congratulate}
+      1s: felicitaría
+      1p: felicitaríamos
+      2s: felicitarías
+      2p: felicitaríais
+      3s: felicitaría
+      3p: felicitarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have congratulated}
+      1s: he felicitado
+      1p: hemos felicitado
+      2s: has felicitado
+      2p: habéis felicitado
+      3s: ha felicitado
+      3p: han felicitado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have congratulated}
+      1s: habré felicitado
+      1p: habremos felicitado
+      2s: habrás felicitado
+      2p: habréis felicitado
+      3s: habrá felicitado
+      3p: habrán felicitado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had congratulated}
+      1s: había felicitado
+      1p: habíamos felicitado
+      2s: habías felicitado
+      2p: habíais felicitado
+      3s: había felicitado
+      3p: habían felicitado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had congratulated}
+      1s: hube felicitado
+      1p: hubimos felicitado
+      2s: hubiste felicitado
+      2p: hubisteis felicitado
+      3s: hubo felicitado
+      3p: hubieron felicitado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have congratulated}
+      1s: habría felicitado
+      1p: habríamos felicitado
+      2s: habrías felicitado
+      2p: habríais felicitado
+      3s: habría felicitado
+      3p: habrían felicitado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I congratulate, am congratulating'}
+      1s: felicite
+      1p: felicitemos
+      2s: felicites
+      2p: felicitéis
+      3s: felicite
+      3p: feliciten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I congratulated, was congratulating'}
+      1s: felicitara
+      1p: felicitáramos
+      2s: felicitaras
+      2p: felicitarais
+      3s: felicitara
+      3p: felicitaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will congratulate}
+      1s: felicitare
+      1p: felicitáremos
+      2s: felicitares
+      2p: felicitareis
+      3s: felicitare
+      3p: felicitaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have congratulated, congratulated'}
+      1s: haya felicitado
+      1p: hayamos felicitado
+      2s: hayas felicitado
+      2p: hayáis felicitado
+      3s: haya felicitado
+      3p: hayan felicitado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have congratulated}
+      1s: hubiere felicitado
+      1p: hubiéremos felicitado
+      2s: hubieres felicitado
+      2p: hubiereis felicitado
+      3s: hubiere felicitado
+      3p: hubieren felicitado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had congratulated}
+      1s: hubiera felicitado
+      1p: hubiéramos felicitado
+      2s: hubieras felicitado
+      2p: hubierais felicitado
+      3s: hubiera felicitado
+      3p: hubieran felicitado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Congratulate! Don't congratulate!}
+      1s: ''
+      1p: ''
+      2s: felicita
+      2p: felicite
+      3s: felicitad
+      3p: feliciten
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Congratulate! Don't congratulate!}
+      1s: ''
+      1p: ''
+      2s: no felicites
+      2p: no felicite
+      3s: no felicitéis
+      3p: no feliciten

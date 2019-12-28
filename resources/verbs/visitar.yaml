@@ -1,0 +1,186 @@
+visitar:
+  infinitive: visitar
+  gerund: visitando
+  pastparticiple: visitado
+  definitions: {en: to visit}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I visit, am visiting'}
+      1s: visito
+      1p: visitamos
+      2s: visitas
+      2p: visitáis
+      3s: visita
+      3p: visitan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will visit}
+      1s: visitaré
+      1p: visitaremos
+      2s: visitarás
+      2p: visitaréis
+      3s: visitará
+      3p: visitarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was visiting, used to visit, visited'}
+      1s: visitaba
+      1p: visitábamos
+      2s: visitabas
+      2p: visitabais
+      3s: visitaba
+      3p: visitaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I visited}
+      1s: visité
+      1p: visitamos
+      2s: visitaste
+      2p: visitasteis
+      3s: visitó
+      3p: visitaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would visit}
+      1s: visitaría
+      1p: visitaríamos
+      2s: visitarías
+      2p: visitaríais
+      3s: visitaría
+      3p: visitarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have visited}
+      1s: he visitado
+      1p: hemos visitado
+      2s: has visitado
+      2p: habéis visitado
+      3s: ha visitado
+      3p: han visitado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have visited}
+      1s: habré visitado
+      1p: habremos visitado
+      2s: habrás visitado
+      2p: habréis visitado
+      3s: habrá visitado
+      3p: habrán visitado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had visited}
+      1s: había visitado
+      1p: habíamos visitado
+      2s: habías visitado
+      2p: habíais visitado
+      3s: había visitado
+      3p: habían visitado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had visited}
+      1s: hube visitado
+      1p: hubimos visitado
+      2s: hubiste visitado
+      2p: hubisteis visitado
+      3s: hubo visitado
+      3p: hubieron visitado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have visited}
+      1s: habría visitado
+      1p: habríamos visitado
+      2s: habrías visitado
+      2p: habríais visitado
+      3s: habría visitado
+      3p: habrían visitado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I visit, am visiting'}
+      1s: visite
+      1p: visitemos
+      2s: visites
+      2p: visitéis
+      3s: visite
+      3p: visiten
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I visited, was visiting'}
+      1s: visitara
+      1p: visitáramos
+      2s: visitaras
+      2p: visitarais
+      3s: visitara
+      3p: visitaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will visit}
+      1s: visitare
+      1p: visitáremos
+      2s: visitares
+      2p: visitareis
+      3s: visitare
+      3p: visitaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have visited, visited'}
+      1s: haya visitado
+      1p: hayamos visitado
+      2s: hayas visitado
+      2p: hayáis visitado
+      3s: haya visitado
+      3p: hayan visitado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have visited}
+      1s: hubiere visitado
+      1p: hubiéremos visitado
+      2s: hubieres visitado
+      2p: hubiereis visitado
+      3s: hubiere visitado
+      3p: hubieren visitado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had visited}
+      1s: hubiera visitado
+      1p: hubiéramos visitado
+      2s: hubieras visitado
+      2p: hubierais visitado
+      3s: hubiera visitado
+      3p: hubieran visitado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Visit! Don't visit!}
+      1s: ''
+      1p: ''
+      2s: visita
+      2p: visite
+      3s: visitad
+      3p: visiten
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Visit! Don't visit!}
+      1s: ''
+      1p: ''
+      2s: no visites
+      2p: no visite
+      3s: no visitéis
+      3p: no visiten

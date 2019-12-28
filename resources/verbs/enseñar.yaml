@@ -1,0 +1,186 @@
+enseñar:
+  infinitive: enseñar
+  gerund: enseñando
+  pastparticiple: enseñado
+  definitions: {en: 'to teach, instruct, train, educate'}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I teach, am teaching'}
+      1s: enseño
+      1p: enseñamos
+      2s: enseñas
+      2p: enseñáis
+      3s: enseña
+      3p: enseñan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will teach}
+      1s: enseñaré
+      1p: enseñaremos
+      2s: enseñarás
+      2p: enseñaréis
+      3s: enseñará
+      3p: enseñarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was teaching, used to teach, taught'}
+      1s: enseñaba
+      1p: enseñábamos
+      2s: enseñabas
+      2p: enseñabais
+      3s: enseñaba
+      3p: enseñaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I taught}
+      1s: enseñé
+      1p: enseñamos
+      2s: enseñaste
+      2p: enseñasteis
+      3s: enseñó
+      3p: enseñaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would teach}
+      1s: enseñaría
+      1p: enseñaríamos
+      2s: enseñarías
+      2p: enseñaríais
+      3s: enseñaría
+      3p: enseñarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have taught}
+      1s: he enseñado
+      1p: hemos enseñado
+      2s: has enseñado
+      2p: habéis enseñado
+      3s: ha enseñado
+      3p: han enseñado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have taught}
+      1s: habré enseñado
+      1p: habremos enseñado
+      2s: habrás enseñado
+      2p: habréis enseñado
+      3s: habrá enseñado
+      3p: habrán enseñado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had taught}
+      1s: había enseñado
+      1p: habíamos enseñado
+      2s: habías enseñado
+      2p: habíais enseñado
+      3s: había enseñado
+      3p: habían enseñado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had taught}
+      1s: hube enseñado
+      1p: hubimos enseñado
+      2s: hubiste enseñado
+      2p: hubisteis enseñado
+      3s: hubo enseñado
+      3p: hubieron enseñado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have taught}
+      1s: habría enseñado
+      1p: habríamos enseñado
+      2s: habrías enseñado
+      2p: habríais enseñado
+      3s: habría enseñado
+      3p: habrían enseñado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I teach, am teaching'}
+      1s: enseñe
+      1p: enseñemos
+      2s: enseñes
+      2p: enseñéis
+      3s: enseñe
+      3p: enseñen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I taught, was teaching'}
+      1s: enseñara
+      1p: enseñáramos
+      2s: enseñaras
+      2p: enseñarais
+      3s: enseñara
+      3p: enseñaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will teach}
+      1s: enseñare
+      1p: enseñáremos
+      2s: enseñares
+      2p: enseñareis
+      3s: enseñare
+      3p: enseñaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have taught, taught'}
+      1s: haya enseñado
+      1p: hayamos enseñado
+      2s: hayas enseñado
+      2p: hayáis enseñado
+      3s: haya enseñado
+      3p: hayan enseñado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have taught}
+      1s: hubiere enseñado
+      1p: hubiéremos enseñado
+      2s: hubieres enseñado
+      2p: hubiereis enseñado
+      3s: hubiere enseñado
+      3p: hubieren enseñado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had taught}
+      1s: hubiera enseñado
+      1p: hubiéramos enseñado
+      2s: hubieras enseñado
+      2p: hubierais enseñado
+      3s: hubiera enseñado
+      3p: hubieran enseñado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Teach! Don't teach!}
+      1s: ''
+      1p: ''
+      2s: enseña
+      2p: enseñe
+      3s: enseñad
+      3p: enseñen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Teach! Don't teach!}
+      1s: ''
+      1p: ''
+      2s: no enseñes
+      2p: no enseñe
+      3s: no enseñéis
+      3p: no enseñen

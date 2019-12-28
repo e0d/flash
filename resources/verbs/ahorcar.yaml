@@ -1,0 +1,186 @@
+ahorcar:
+  infinitive: ahorcar
+  gerund: ahorcando
+  pastparticiple: ahorcado
+  definitions: {en: to hang}
+  tenses:
+  - Presente Indicativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I hang, am hanging'}
+      1s: ahorco
+      1p: ahorcamos
+      2s: ahorcas
+      2p: ahorcáis
+      3s: ahorca
+      3p: ahorcan
+  - Futuro Indicativo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will hang}
+      1s: ahorcaré
+      1p: ahorcaremos
+      2s: ahorcarás
+      2p: ahorcaréis
+      3s: ahorcará
+      3p: ahorcarán
+  - Imperfecto Indicativo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was hanging, used to hang, hanged'}
+      1s: ahorcaba
+      1p: ahorcábamos
+      2s: ahorcabas
+      2p: ahorcabais
+      3s: ahorcaba
+      3p: ahorcaban
+  - Pretérito Indicativo:
+      names: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I hanged}
+      1s: ahorqué
+      1p: ahorcamos
+      2s: ahorcaste
+      2p: ahorcasteis
+      3s: ahorcó
+      3p: ahorcaron
+  - Condicional Indicativo:
+      names: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would hang}
+      1s: ahorcaría
+      1p: ahorcaríamos
+      2s: ahorcarías
+      2p: ahorcaríais
+      3s: ahorcaría
+      3p: ahorcarían
+  - Presente perfecto Indicativo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have hanged}
+      1s: he ahorcado
+      1p: hemos ahorcado
+      2s: has ahorcado
+      2p: habéis ahorcado
+      3s: ha ahorcado
+      3p: han ahorcado
+  - Futuro perfecto Indicativo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have hanged}
+      1s: habré ahorcado
+      1p: habremos ahorcado
+      2s: habrás ahorcado
+      2p: habréis ahorcado
+      3s: habrá ahorcado
+      3p: habrán ahorcado
+  - Pluscuamperfecto Indicativo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had hanged}
+      1s: había ahorcado
+      1p: habíamos ahorcado
+      2s: habías ahorcado
+      2p: habíais ahorcado
+      3s: había ahorcado
+      3p: habían ahorcado
+  - Pretérito anterior Indicativo:
+      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had hanged}
+      1s: hube ahorcado
+      1p: hubimos ahorcado
+      2s: hubiste ahorcado
+      2p: hubisteis ahorcado
+      3s: hubo ahorcado
+      3p: hubieron ahorcado
+  - Condicional perfecto Indicativo:
+      names: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have hanged}
+      1s: habría ahorcado
+      1p: habríamos ahorcado
+      2s: habrías ahorcado
+      2p: habríais ahorcado
+      3s: habría ahorcado
+      3p: habrían ahorcado
+  - Presente Subjuntivo:
+      names: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I hang, am hanging'}
+      1s: ahorque
+      1p: ahorquemos
+      2s: ahorques
+      2p: ahorquéis
+      3s: ahorque
+      3p: ahorquen
+  - Imperfecto Subjuntivo:
+      names: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I hanged, was hanging'}
+      1s: ahorcara
+      1p: ahorcáramos
+      2s: ahorcaras
+      2p: ahorcarais
+      3s: ahorcara
+      3p: ahorcaran
+  - Futuro Subjuntivo:
+      names: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will hang}
+      1s: ahorcare
+      1p: ahorcáremos
+      2s: ahorcares
+      2p: ahorcareis
+      3s: ahorcare
+      3p: ahorcaren
+  - Presente perfecto Subjuntivo:
+      names: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have hanged, hanged'}
+      1s: haya ahorcado
+      1p: hayamos ahorcado
+      2s: hayas ahorcado
+      2p: hayáis ahorcado
+      3s: haya ahorcado
+      3p: hayan ahorcado
+  - Futuro perfecto Subjuntivo:
+      names: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have hanged}
+      1s: hubiere ahorcado
+      1p: hubiéremos ahorcado
+      2s: hubieres ahorcado
+      2p: hubiereis ahorcado
+      3s: hubiere ahorcado
+      3p: hubieren ahorcado
+  - Pluscuamperfecto Subjuntivo:
+      names: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had hanged}
+      1s: hubiera ahorcado
+      1p: hubiéramos ahorcado
+      2s: hubieras ahorcado
+      2p: hubierais ahorcado
+      3s: hubiera ahorcado
+      3p: hubieran ahorcado
+  - Presente Imperativo Afirmativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Hang! Don't hang!}
+      1s: ''
+      1p: ''
+      2s: ahorca
+      2p: ahorque
+      3s: ahorcad
+      3p: ahorquen
+  - Presente Imperativo Negativo:
+      names: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Hang! Don't hang!}
+      1s: ''
+      1p: ''
+      2s: no ahorques
+      2p: no ahorque
+      3s: no ahorquéis
+      3p: no ahorquen
