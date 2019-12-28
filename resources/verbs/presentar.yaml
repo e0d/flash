@@ -5,7 +5,7 @@ presentar:
   definitions: {en: t o   i n t r o d u c e}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I introduce, am introducing'}
       1s: presento
@@ -15,7 +15,7 @@ presentar:
       3s: presenta
       3p: presentan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will introduce}
       1s: presentaré
@@ -25,7 +25,7 @@ presentar:
       3s: presentará
       3p: presentarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was introducing, used to introduce, introduced'}
       1s: presentaba
@@ -35,7 +35,7 @@ presentar:
       3s: presentaba
       3p: presentaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I introduced}
       1s: presenté
@@ -45,7 +45,7 @@ presentar:
       3s: presentó
       3p: presentaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would introduce}
       1s: presentaría
@@ -55,7 +55,7 @@ presentar:
       3s: presentaría
       3p: presentarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have introduced}
       1s: he presentado
@@ -65,7 +65,7 @@ presentar:
       3s: ha presentado
       3p: han presentado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have introduced}
       1s: habré presentado
@@ -75,7 +75,7 @@ presentar:
       3s: habrá presentado
       3p: habrán presentado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had introduced}
       1s: había presentado
@@ -85,7 +85,7 @@ presentar:
       3s: había presentado
       3p: habían presentado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had introduced}
       1s: hube presentado
@@ -95,7 +95,7 @@ presentar:
       3s: hubo presentado
       3p: hubieron presentado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have introduced}
       1s: habría presentado
@@ -105,7 +105,7 @@ presentar:
       3s: habría presentado
       3p: habrían presentado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I introduce, am introducing'}
       1s: presente
@@ -115,7 +115,7 @@ presentar:
       3s: presente
       3p: presenten
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I introduced, was introducing'}
       1s: presentara
@@ -125,7 +125,7 @@ presentar:
       3s: presentara
       3p: presentaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will introduce}
       1s: presentare
@@ -135,7 +135,7 @@ presentar:
       3s: presentare
       3p: presentaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have introduced, introduced'}
       1s: haya presentado
@@ -145,7 +145,7 @@ presentar:
       3s: haya presentado
       3p: hayan presentado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have introduced}
       1s: hubiere presentado
@@ -155,7 +155,7 @@ presentar:
       3s: hubiere presentado
       3p: hubieren presentado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had introduced}
       1s: hubiera presentado
@@ -165,7 +165,7 @@ presentar:
       3s: hubiera presentado
       3p: hubieran presentado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Introduce! Don't introduce!}
       1s: ''
@@ -175,7 +175,7 @@ presentar:
       3s: presentad
       3p: presenten
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Introduce! Don't introduce!}
       1s: ''

@@ -5,7 +5,7 @@ atender:
   definitions: {en: 'to attend to, pay attention to'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I attend to, am attending to'}
       1s: atiendo
@@ -15,7 +15,7 @@ atender:
       3s: atiende
       3p: atienden
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will attend to}
       1s: atenderé
@@ -25,7 +25,7 @@ atender:
       3s: atenderá
       3p: atenderán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was attending to, used to attend to, attended to'}
       1s: atendía
@@ -35,7 +35,7 @@ atender:
       3s: atendía
       3p: atendían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I attended to}
       1s: atendí
@@ -45,7 +45,7 @@ atender:
       3s: atendió
       3p: atendieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would attend to}
       1s: atendería
@@ -55,7 +55,7 @@ atender:
       3s: atendería
       3p: atenderían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have attended to}
       1s: he atendido
@@ -65,7 +65,7 @@ atender:
       3s: ha atendido
       3p: han atendido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have attended to}
       1s: habré atendido
@@ -75,7 +75,7 @@ atender:
       3s: habrá atendido
       3p: habrán atendido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had attended to}
       1s: había atendido
@@ -85,7 +85,7 @@ atender:
       3s: había atendido
       3p: habían atendido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had attended to}
       1s: hube atendido
@@ -95,7 +95,7 @@ atender:
       3s: hubo atendido
       3p: hubieron atendido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have attended to}
       1s: habría atendido
@@ -105,7 +105,7 @@ atender:
       3s: habría atendido
       3p: habrían atendido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I attend to, am attending to'}
       1s: atienda
@@ -115,7 +115,7 @@ atender:
       3s: atienda
       3p: atiendan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I attended to, was attending to'}
       1s: atendiera
@@ -125,7 +125,7 @@ atender:
       3s: atendiera
       3p: atendieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will attend to}
       1s: atendiere
@@ -135,7 +135,7 @@ atender:
       3s: atendiere
       3p: atendieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have attended to, attended to'}
       1s: haya atendido
@@ -145,7 +145,7 @@ atender:
       3s: haya atendido
       3p: hayan atendido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have attended to}
       1s: hubiere atendido
@@ -155,7 +155,7 @@ atender:
       3s: hubiere atendido
       3p: hubieren atendido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had attended to}
       1s: hubiera atendido
@@ -165,7 +165,7 @@ atender:
       3s: hubiera atendido
       3p: hubieran atendido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Attend to! Don't attend to!}
       1s: ''
@@ -175,7 +175,7 @@ atender:
       3s: atended
       3p: atiendan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Attend to! Don't attend to!}
       1s: ''

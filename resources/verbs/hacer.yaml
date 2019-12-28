@@ -5,7 +5,7 @@ hacer:
   definitions: {en: 'to do, make'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I do, am doing'}
       1s: hago
@@ -15,7 +15,7 @@ hacer:
       3s: hace
       3p: hacen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will do}
       1s: haré
@@ -25,7 +25,7 @@ hacer:
       3s: hará
       3p: harán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was doing, used to do, did'}
       1s: hacía
@@ -35,7 +35,7 @@ hacer:
       3s: hacía
       3p: hacían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I did}
       1s: hice
@@ -45,7 +45,7 @@ hacer:
       3s: hizo
       3p: hicieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would do}
       1s: haría
@@ -55,7 +55,7 @@ hacer:
       3s: haría
       3p: harían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have done}
       1s: he hecho
@@ -65,7 +65,7 @@ hacer:
       3s: ha hecho
       3p: han hecho
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have done}
       1s: habré hecho
@@ -75,7 +75,7 @@ hacer:
       3s: habrá hecho
       3p: habrán hecho
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had done}
       1s: había hecho
@@ -85,7 +85,7 @@ hacer:
       3s: había hecho
       3p: habían hecho
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had done}
       1s: hube hecho
@@ -95,7 +95,7 @@ hacer:
       3s: hubo hecho
       3p: hubieron hecho
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have done}
       1s: habría hecho
@@ -105,7 +105,7 @@ hacer:
       3s: habría hecho
       3p: habrían hecho
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I do, am doing'}
       1s: haga
@@ -115,7 +115,7 @@ hacer:
       3s: haga
       3p: hagan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I did, was doing'}
       1s: hiciera
@@ -125,7 +125,7 @@ hacer:
       3s: hiciera
       3p: hicieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will do}
       1s: hiciere
@@ -135,7 +135,7 @@ hacer:
       3s: hiciere
       3p: hicieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have done, did'}
       1s: haya hecho
@@ -145,7 +145,7 @@ hacer:
       3s: haya hecho
       3p: hayan hecho
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have done}
       1s: hubiere hecho
@@ -155,7 +155,7 @@ hacer:
       3s: hubiere hecho
       3p: hubieren hecho
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had done}
       1s: hubiera hecho
@@ -165,7 +165,7 @@ hacer:
       3s: hubiera hecho
       3p: hubieran hecho
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Do! Don't do!}
       1s: ''
@@ -175,7 +175,7 @@ hacer:
       3s: haced
       3p: hagan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Do! Don't do!}
       1s: ''

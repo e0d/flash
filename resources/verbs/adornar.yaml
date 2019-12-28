@@ -5,7 +5,7 @@ adornar:
   definitions: {en: 'to adorn; to decorate, embellish; to garnish [food]'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I adorn, am adorning'}
       1s: adorno
@@ -15,7 +15,7 @@ adornar:
       3s: adorna
       3p: adornan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will adorn}
       1s: adornaré
@@ -25,7 +25,7 @@ adornar:
       3s: adornará
       3p: adornarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was adorning, used to adorn, adorned'}
       1s: adornaba
@@ -35,7 +35,7 @@ adornar:
       3s: adornaba
       3p: adornaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I adorned}
       1s: adorné
@@ -45,7 +45,7 @@ adornar:
       3s: adornó
       3p: adornaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would adorn}
       1s: adornaría
@@ -55,7 +55,7 @@ adornar:
       3s: adornaría
       3p: adornarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have adorned}
       1s: he adornado
@@ -65,7 +65,7 @@ adornar:
       3s: ha adornado
       3p: han adornado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have adorned}
       1s: habré adornado
@@ -75,7 +75,7 @@ adornar:
       3s: habrá adornado
       3p: habrán adornado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had adorned}
       1s: había adornado
@@ -85,7 +85,7 @@ adornar:
       3s: había adornado
       3p: habían adornado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had adorned}
       1s: hube adornado
@@ -95,7 +95,7 @@ adornar:
       3s: hubo adornado
       3p: hubieron adornado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have adorned}
       1s: habría adornado
@@ -105,7 +105,7 @@ adornar:
       3s: habría adornado
       3p: habrían adornado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I adorn, am adorning'}
       1s: adorne
@@ -115,7 +115,7 @@ adornar:
       3s: adorne
       3p: adornen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I adorned, was adorning'}
       1s: adornara
@@ -125,7 +125,7 @@ adornar:
       3s: adornara
       3p: adornaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will adorn}
       1s: adornare
@@ -135,7 +135,7 @@ adornar:
       3s: adornare
       3p: adornaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have adorned, adorned'}
       1s: haya adornado
@@ -145,7 +145,7 @@ adornar:
       3s: haya adornado
       3p: hayan adornado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have adorned}
       1s: hubiere adornado
@@ -155,7 +155,7 @@ adornar:
       3s: hubiere adornado
       3p: hubieren adornado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had adorned}
       1s: hubiera adornado
@@ -165,7 +165,7 @@ adornar:
       3s: hubiera adornado
       3p: hubieran adornado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Adorn! Don't adorn!}
       1s: ''
@@ -175,7 +175,7 @@ adornar:
       3s: adornad
       3p: adornen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Adorn! Don't adorn!}
       1s: ''

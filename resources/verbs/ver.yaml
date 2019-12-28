@@ -5,7 +5,7 @@ ver:
   definitions: {en: to see}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I see, am seeing'}
       1s: veo
@@ -15,7 +15,7 @@ ver:
       3s: ve
       3p: ven
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will see}
       1s: veré
@@ -25,7 +25,7 @@ ver:
       3s: verá
       3p: verán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was seeing, used to see, saw'}
       1s: veía
@@ -35,7 +35,7 @@ ver:
       3s: veía
       3p: veían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I saw}
       1s: vi
@@ -45,7 +45,7 @@ ver:
       3s: vio
       3p: vieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would see}
       1s: vería
@@ -55,7 +55,7 @@ ver:
       3s: vería
       3p: verían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have seen}
       1s: he visto
@@ -65,7 +65,7 @@ ver:
       3s: ha visto
       3p: han visto
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have seen}
       1s: habré visto
@@ -75,7 +75,7 @@ ver:
       3s: habrá visto
       3p: habrán visto
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had seen}
       1s: había visto
@@ -85,7 +85,7 @@ ver:
       3s: había visto
       3p: habían visto
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had seen}
       1s: hube visto
@@ -95,7 +95,7 @@ ver:
       3s: hubo visto
       3p: hubieron visto
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have seen}
       1s: habría visto
@@ -105,7 +105,7 @@ ver:
       3s: habría visto
       3p: habrían visto
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I see, am seeing'}
       1s: vea
@@ -115,7 +115,7 @@ ver:
       3s: vea
       3p: vean
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I saw, was seeing'}
       1s: viera
@@ -125,7 +125,7 @@ ver:
       3s: viera
       3p: vieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will see}
       1s: viere
@@ -135,7 +135,7 @@ ver:
       3s: viere
       3p: vieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have seen, saw'}
       1s: haya visto
@@ -145,7 +145,7 @@ ver:
       3s: haya visto
       3p: hayan visto
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have seen}
       1s: hubiere visto
@@ -155,7 +155,7 @@ ver:
       3s: hubiere visto
       3p: hubieren visto
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had seen}
       1s: hubiera visto
@@ -165,7 +165,7 @@ ver:
       3s: hubiera visto
       3p: hubieran visto
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: See! Don't see!}
       1s: ''
@@ -175,7 +175,7 @@ ver:
       3s: ved
       3p: vean
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: See! Don't see!}
       1s: ''

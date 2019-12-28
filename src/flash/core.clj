@@ -54,10 +54,6 @@
 (defn all-forms [infinitive]
   (map prn-verb-forms (find-verb infinitive)))
 
--- Good for flowing into the online formatting tool
-(prn (yml/generate-string o :dumper-options {:flow-style :flow :scalar-style :plain}))
-
-
 (defn tense-name
   [tense mood]
   (str (clojure.string/lower-case tense)
@@ -73,7 +69,7 @@
 
 (defn row-to-ordered-map
   [row]
-  (ordered-map (keyword (tense-name (:tense row) (:mood row))) (ordered-map :names (ordered-map :en (:tense_english row)
+  (ordered-map (keyword (tense-name (:tense row) (:mood row))) (ordered-map :tenses (ordered-map :en (:tense_english row)
                                                                                                 :es (:tense row))
                                                                             :moods (ordered-map :en (:mood_english row)
                                                                                                 :es (:mood row))
@@ -109,22 +105,6 @@
        verb (get-structured-verb all-forms)
        infinitive (:infinitive (first all-forms))
        ]
-    (spit (str "/tmp/" infinitive ".yaml") (yml/generate-string verb))))
-
-(defn write-verb
-  [all-forms]
-  (let
-      [
-       verb (get-structured-verb all-forms)
-       infinitive (:infinitive (first all-forms))
-       ]
-    (str "resources/verbs/" infinitive ".yaml")))
+    (spit (str "resources/verbs/" infinitive ".yaml") (yml/generate-string verb))))
 
 (map write-verb (map find-verb (sort all-infinitives)))
-
-(write-verb ( find-verb (first all-infinitives)))
-
-(def verb (get-structured-verb (find-verb "echar")))
-
-(spit "/tmp/test.yaml" (yml/generate-string verb))
-

@@ -5,7 +5,7 @@ pertenecer:
   definitions: {en: 'to belong, pertain'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I belong, am belonging'}
       1s: pertenezco
@@ -15,7 +15,7 @@ pertenecer:
       3s: pertenece
       3p: pertenecen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will belong}
       1s: perteneceré
@@ -25,7 +25,7 @@ pertenecer:
       3s: pertenecerá
       3p: pertenecerán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was belonging, used to belong, belonged'}
       1s: pertenecía
@@ -35,7 +35,7 @@ pertenecer:
       3s: pertenecía
       3p: pertenecían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I belonged}
       1s: pertenecí
@@ -45,7 +45,7 @@ pertenecer:
       3s: perteneció
       3p: pertenecieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would belong}
       1s: pertenecería
@@ -55,7 +55,7 @@ pertenecer:
       3s: pertenecería
       3p: pertenecerían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have belonged}
       1s: he pertenecido
@@ -65,7 +65,7 @@ pertenecer:
       3s: ha pertenecido
       3p: han pertenecido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have belonged}
       1s: habré pertenecido
@@ -75,7 +75,7 @@ pertenecer:
       3s: habrá pertenecido
       3p: habrán pertenecido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had belonged}
       1s: había pertenecido
@@ -85,7 +85,7 @@ pertenecer:
       3s: había pertenecido
       3p: habían pertenecido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had belonged}
       1s: hube pertenecido
@@ -95,7 +95,7 @@ pertenecer:
       3s: hubo pertenecido
       3p: hubieron pertenecido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have belonged}
       1s: habría pertenecido
@@ -105,7 +105,7 @@ pertenecer:
       3s: habría pertenecido
       3p: habrían pertenecido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I belong, am belonging'}
       1s: pertenezca
@@ -115,7 +115,7 @@ pertenecer:
       3s: pertenezca
       3p: pertenezcan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I belonged, was belonging'}
       1s: perteneciera
@@ -125,7 +125,7 @@ pertenecer:
       3s: perteneciera
       3p: pertenecieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will belong}
       1s: perteneciere
@@ -135,7 +135,7 @@ pertenecer:
       3s: perteneciere
       3p: pertenecieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have belonged, belonged'}
       1s: haya pertenecido
@@ -145,7 +145,7 @@ pertenecer:
       3s: haya pertenecido
       3p: hayan pertenecido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have belonged}
       1s: hubiere pertenecido
@@ -155,7 +155,7 @@ pertenecer:
       3s: hubiere pertenecido
       3p: hubieren pertenecido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had belonged}
       1s: hubiera pertenecido
@@ -165,7 +165,7 @@ pertenecer:
       3s: hubiera pertenecido
       3p: hubieran pertenecido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Belong! Don't belong!}
       1s: ''
@@ -175,7 +175,7 @@ pertenecer:
       3s: perteneced
       3p: pertenezcan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Belong! Don't belong!}
       1s: ''

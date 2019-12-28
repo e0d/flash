@@ -5,7 +5,7 @@ combatir:
   definitions: {en: 'to combat, fight, oppose; to attack'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I combat, am combating'}
       1s: combato
@@ -15,7 +15,7 @@ combatir:
       3s: combate
       3p: combaten
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will combat}
       1s: combatiré
@@ -25,7 +25,7 @@ combatir:
       3s: combatirá
       3p: combatirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was combating, used to combat, combated'}
       1s: combatía
@@ -35,7 +35,7 @@ combatir:
       3s: combatía
       3p: combatían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I combated}
       1s: combatí
@@ -45,7 +45,7 @@ combatir:
       3s: combatió
       3p: combatieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would combat}
       1s: combatiría
@@ -55,7 +55,7 @@ combatir:
       3s: combatiría
       3p: combatirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have combated}
       1s: he combatido
@@ -65,7 +65,7 @@ combatir:
       3s: ha combatido
       3p: han combatido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have combated}
       1s: habré combatido
@@ -75,7 +75,7 @@ combatir:
       3s: habrá combatido
       3p: habrán combatido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had combated}
       1s: había combatido
@@ -85,7 +85,7 @@ combatir:
       3s: había combatido
       3p: habían combatido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had combated}
       1s: hube combatido
@@ -95,7 +95,7 @@ combatir:
       3s: hubo combatido
       3p: hubieron combatido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have combated}
       1s: habría combatido
@@ -105,7 +105,7 @@ combatir:
       3s: habría combatido
       3p: habrían combatido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I combat, am combating'}
       1s: combata
@@ -115,7 +115,7 @@ combatir:
       3s: combata
       3p: combatan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I combated, was combating'}
       1s: combatiera
@@ -125,7 +125,7 @@ combatir:
       3s: combatiera
       3p: combatieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will combat}
       1s: combatiere
@@ -135,7 +135,7 @@ combatir:
       3s: combatiere
       3p: combatieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have combated, combated'}
       1s: haya combatido
@@ -145,7 +145,7 @@ combatir:
       3s: haya combatido
       3p: hayan combatido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have combated}
       1s: hubiere combatido
@@ -155,7 +155,7 @@ combatir:
       3s: hubiere combatido
       3p: hubieren combatido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had combated}
       1s: hubiera combatido
@@ -165,7 +165,7 @@ combatir:
       3s: hubiera combatido
       3p: hubieran combatido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Combat! Don't combat!}
       1s: ''
@@ -175,7 +175,7 @@ combatir:
       3s: combatid
       3p: combatan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Combat! Don't combat!}
       1s: ''

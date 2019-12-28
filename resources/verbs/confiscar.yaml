@@ -5,7 +5,7 @@ confiscar:
   definitions: {en: to confiscate}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I confiscate, am confiscating'}
       1s: confisco
@@ -15,7 +15,7 @@ confiscar:
       3s: confisca
       3p: confiscan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will confiscate}
       1s: confiscaré
@@ -25,7 +25,7 @@ confiscar:
       3s: confiscará
       3p: confiscarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was confiscating, used to confiscate, confiscated'}
       1s: confiscaba
@@ -35,7 +35,7 @@ confiscar:
       3s: confiscaba
       3p: confiscaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I confiscated}
       1s: confisqué
@@ -45,7 +45,7 @@ confiscar:
       3s: confiscó
       3p: confiscaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would confiscate}
       1s: confiscaría
@@ -55,7 +55,7 @@ confiscar:
       3s: confiscaría
       3p: confiscarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have confiscated}
       1s: he confiscado
@@ -65,7 +65,7 @@ confiscar:
       3s: ha confiscado
       3p: han confiscado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have confiscated}
       1s: habré confiscado
@@ -75,7 +75,7 @@ confiscar:
       3s: habrá confiscado
       3p: habrán confiscado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had confiscated}
       1s: había confiscado
@@ -85,7 +85,7 @@ confiscar:
       3s: había confiscado
       3p: habían confiscado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had confiscated}
       1s: hube confiscado
@@ -95,7 +95,7 @@ confiscar:
       3s: hubo confiscado
       3p: hubieron confiscado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have confiscated}
       1s: habría confiscado
@@ -105,7 +105,7 @@ confiscar:
       3s: habría confiscado
       3p: habrían confiscado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I confiscate, am confiscating'}
       1s: confisque
@@ -115,7 +115,7 @@ confiscar:
       3s: confisque
       3p: confisquen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I confiscated, was confiscating'}
       1s: confiscara
@@ -125,7 +125,7 @@ confiscar:
       3s: confiscara
       3p: confiscaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will confiscate}
       1s: confiscare
@@ -135,7 +135,7 @@ confiscar:
       3s: confiscare
       3p: confiscaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have confiscated, confiscated'}
       1s: haya confiscado
@@ -145,7 +145,7 @@ confiscar:
       3s: haya confiscado
       3p: hayan confiscado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have confiscated}
       1s: hubiere confiscado
@@ -155,7 +155,7 @@ confiscar:
       3s: hubiere confiscado
       3p: hubieren confiscado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had confiscated}
       1s: hubiera confiscado
@@ -165,7 +165,7 @@ confiscar:
       3s: hubiera confiscado
       3p: hubieran confiscado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Confiscate! Don't confiscate!}
       1s: ''
@@ -175,7 +175,7 @@ confiscar:
       3s: confiscad
       3p: confisquen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Confiscate! Don't confiscate!}
       1s: ''

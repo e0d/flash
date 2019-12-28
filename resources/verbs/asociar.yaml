@@ -5,7 +5,7 @@ asociar:
   definitions: {en: 'to associate; to pool, put together'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I associate, am associating'}
       1s: asocio
@@ -15,7 +15,7 @@ asociar:
       3s: asocia
       3p: asocian
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will associate}
       1s: asociaré
@@ -25,7 +25,7 @@ asociar:
       3s: asociará
       3p: asociarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was associating, used to associate, associated'}
       1s: asociaba
@@ -35,7 +35,7 @@ asociar:
       3s: asociaba
       3p: asociaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I associated}
       1s: asocié
@@ -45,7 +45,7 @@ asociar:
       3s: asoció
       3p: asociaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would associate}
       1s: asociaría
@@ -55,7 +55,7 @@ asociar:
       3s: asociaría
       3p: asociarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have associated}
       1s: he asociado
@@ -65,7 +65,7 @@ asociar:
       3s: ha asociado
       3p: han asociado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have associated}
       1s: habré asociado
@@ -75,7 +75,7 @@ asociar:
       3s: habrá asociado
       3p: habrán asociado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had associated}
       1s: había asociado
@@ -85,7 +85,7 @@ asociar:
       3s: había asociado
       3p: habían asociado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had associated}
       1s: hube asociado
@@ -95,7 +95,7 @@ asociar:
       3s: hubo asociado
       3p: hubieron asociado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have associated}
       1s: habría asociado
@@ -105,7 +105,7 @@ asociar:
       3s: habría asociado
       3p: habrían asociado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I associate, am associating'}
       1s: asocie
@@ -115,7 +115,7 @@ asociar:
       3s: asocie
       3p: asocien
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I associated, was associating'}
       1s: asociara
@@ -125,7 +125,7 @@ asociar:
       3s: asociara
       3p: asociaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will associate}
       1s: asociare
@@ -135,7 +135,7 @@ asociar:
       3s: asociare
       3p: asociaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have associated, associated'}
       1s: haya asociado
@@ -145,7 +145,7 @@ asociar:
       3s: haya asociado
       3p: hayan asociado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have associated}
       1s: hubiere asociado
@@ -155,7 +155,7 @@ asociar:
       3s: hubiere asociado
       3p: hubieren asociado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had associated}
       1s: hubiera asociado
@@ -165,7 +165,7 @@ asociar:
       3s: hubiera asociado
       3p: hubieran asociado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Associate! Don't associate!}
       1s: ''
@@ -175,7 +175,7 @@ asociar:
       3s: asociad
       3p: asocien
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Associate! Don't associate!}
       1s: ''

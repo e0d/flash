@@ -5,7 +5,7 @@ controlar:
   definitions: {en: 'to control; to inspect, check'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I control, am controlling'}
       1s: controlo
@@ -15,7 +15,7 @@ controlar:
       3s: controla
       3p: controlan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will control}
       1s: controlaré
@@ -25,7 +25,7 @@ controlar:
       3s: controlará
       3p: controlarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was controlling, used to control, controlled'}
       1s: controlaba
@@ -35,7 +35,7 @@ controlar:
       3s: controlaba
       3p: controlaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I controlled}
       1s: controlé
@@ -45,7 +45,7 @@ controlar:
       3s: controló
       3p: controlaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would control}
       1s: controlaría
@@ -55,7 +55,7 @@ controlar:
       3s: controlaría
       3p: controlarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have controlled}
       1s: he controlado
@@ -65,7 +65,7 @@ controlar:
       3s: ha controlado
       3p: han controlado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have controlled}
       1s: habré controlado
@@ -75,7 +75,7 @@ controlar:
       3s: habrá controlado
       3p: habrán controlado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had controlled}
       1s: había controlado
@@ -85,7 +85,7 @@ controlar:
       3s: había controlado
       3p: habían controlado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had controlled}
       1s: hube controlado
@@ -95,7 +95,7 @@ controlar:
       3s: hubo controlado
       3p: hubieron controlado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have controlled}
       1s: habría controlado
@@ -105,7 +105,7 @@ controlar:
       3s: habría controlado
       3p: habrían controlado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I control, am controlling'}
       1s: controle
@@ -115,7 +115,7 @@ controlar:
       3s: controle
       3p: controlen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I controlled, was controlling'}
       1s: controlara
@@ -125,7 +125,7 @@ controlar:
       3s: controlara
       3p: controlaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will control}
       1s: controlare
@@ -135,7 +135,7 @@ controlar:
       3s: controlare
       3p: controlaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have controlled, controlled'}
       1s: haya controlado
@@ -145,7 +145,7 @@ controlar:
       3s: haya controlado
       3p: hayan controlado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have controlled}
       1s: hubiere controlado
@@ -155,7 +155,7 @@ controlar:
       3s: hubiere controlado
       3p: hubieren controlado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had controlled}
       1s: hubiera controlado
@@ -165,7 +165,7 @@ controlar:
       3s: hubiera controlado
       3p: hubieran controlado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Control! Don't control!}
       1s: ''
@@ -175,7 +175,7 @@ controlar:
       3s: controlad
       3p: controlen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Control! Don't control!}
       1s: ''

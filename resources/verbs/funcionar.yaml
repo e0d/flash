@@ -5,7 +5,7 @@ funcionar:
   definitions: {en: 'to function; to run, work'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I function, am functioning'}
       1s: funciono
@@ -15,7 +15,7 @@ funcionar:
       3s: funciona
       3p: funcionan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will function}
       1s: funcionaré
@@ -25,7 +25,7 @@ funcionar:
       3s: funcionará
       3p: funcionarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was functioning, used to function, functioned'}
       1s: funcionaba
@@ -35,7 +35,7 @@ funcionar:
       3s: funcionaba
       3p: funcionaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I functioned}
       1s: funcioné
@@ -45,7 +45,7 @@ funcionar:
       3s: funcionó
       3p: funcionaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would function}
       1s: funcionaría
@@ -55,7 +55,7 @@ funcionar:
       3s: funcionaría
       3p: funcionarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have functioned}
       1s: he funcionado
@@ -65,7 +65,7 @@ funcionar:
       3s: ha funcionado
       3p: han funcionado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have functioned}
       1s: habré funcionado
@@ -75,7 +75,7 @@ funcionar:
       3s: habrá funcionado
       3p: habrán funcionado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had functioned}
       1s: había funcionado
@@ -85,7 +85,7 @@ funcionar:
       3s: había funcionado
       3p: habían funcionado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had functioned}
       1s: hube funcionado
@@ -95,7 +95,7 @@ funcionar:
       3s: hubo funcionado
       3p: hubieron funcionado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have functioned}
       1s: habría funcionado
@@ -105,7 +105,7 @@ funcionar:
       3s: habría funcionado
       3p: habrían funcionado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I function, am functioning'}
       1s: funcione
@@ -115,7 +115,7 @@ funcionar:
       3s: funcione
       3p: funcionen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I functioned, was functioning'}
       1s: funcionara
@@ -125,7 +125,7 @@ funcionar:
       3s: funcionara
       3p: funcionaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will function}
       1s: funcionare
@@ -135,7 +135,7 @@ funcionar:
       3s: funcionare
       3p: funcionaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have functioned, functioned'}
       1s: haya funcionado
@@ -145,7 +145,7 @@ funcionar:
       3s: haya funcionado
       3p: hayan funcionado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have functioned}
       1s: hubiere funcionado
@@ -155,7 +155,7 @@ funcionar:
       3s: hubiere funcionado
       3p: hubieren funcionado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had functioned}
       1s: hubiera funcionado
@@ -165,7 +165,7 @@ funcionar:
       3s: hubiera funcionado
       3p: hubieran funcionado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Function! Don't function!}
       1s: ''
@@ -175,7 +175,7 @@ funcionar:
       3s: funcionad
       3p: funcionen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Function! Don't function!}
       1s: ''

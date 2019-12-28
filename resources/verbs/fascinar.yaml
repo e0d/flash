@@ -5,7 +5,7 @@ fascinar:
   definitions: {en: 'to fascinate, captivate'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I fascinate, am fascinating'}
       1s: fascino
@@ -15,7 +15,7 @@ fascinar:
       3s: fascina
       3p: fascinan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will fascinate}
       1s: fascinaré
@@ -25,7 +25,7 @@ fascinar:
       3s: fascinará
       3p: fascinarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was fascinating, used to fascinate, fascinated'}
       1s: fascinaba
@@ -35,7 +35,7 @@ fascinar:
       3s: fascinaba
       3p: fascinaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I fascinated}
       1s: fasciné
@@ -45,7 +45,7 @@ fascinar:
       3s: fascinó
       3p: fascinaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would fascinate}
       1s: fascinaría
@@ -55,7 +55,7 @@ fascinar:
       3s: fascinaría
       3p: fascinarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have fascinated}
       1s: he fascinado
@@ -65,7 +65,7 @@ fascinar:
       3s: ha fascinado
       3p: han fascinado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have fascinated}
       1s: habré fascinado
@@ -75,7 +75,7 @@ fascinar:
       3s: habrá fascinado
       3p: habrán fascinado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had fascinated}
       1s: había fascinado
@@ -85,7 +85,7 @@ fascinar:
       3s: había fascinado
       3p: habían fascinado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had fascinated}
       1s: hube fascinado
@@ -95,7 +95,7 @@ fascinar:
       3s: hubo fascinado
       3p: hubieron fascinado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have fascinated}
       1s: habría fascinado
@@ -105,7 +105,7 @@ fascinar:
       3s: habría fascinado
       3p: habrían fascinado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I fascinate, am fascinating'}
       1s: fascine
@@ -115,7 +115,7 @@ fascinar:
       3s: fascine
       3p: fascinen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I fascinated, was fascinating'}
       1s: fascinara
@@ -125,7 +125,7 @@ fascinar:
       3s: fascinara
       3p: fascinaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will fascinate}
       1s: fascinare
@@ -135,7 +135,7 @@ fascinar:
       3s: fascinare
       3p: fascinaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have fascinated, fascinated'}
       1s: haya fascinado
@@ -145,7 +145,7 @@ fascinar:
       3s: haya fascinado
       3p: hayan fascinado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have fascinated}
       1s: hubiere fascinado
@@ -155,7 +155,7 @@ fascinar:
       3s: hubiere fascinado
       3p: hubieren fascinado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had fascinated}
       1s: hubiera fascinado
@@ -165,7 +165,7 @@ fascinar:
       3s: hubiera fascinado
       3p: hubieran fascinado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Fascinate! Don't fascinate!}
       1s: ''
@@ -175,7 +175,7 @@ fascinar:
       3s: fascinad
       3p: fascinen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Fascinate! Don't fascinate!}
       1s: ''

@@ -5,7 +5,7 @@ tirar:
   definitions: {en: 'to throw, hurl; to shoot, fire; to throw away; to pull [out]'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I throw, am throwing'}
       1s: tiro
@@ -15,7 +15,7 @@ tirar:
       3s: tira
       3p: tiran
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will throw}
       1s: tiraré
@@ -25,7 +25,7 @@ tirar:
       3s: tirará
       3p: tirarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was throwing, used to throw, threw'}
       1s: tiraba
@@ -35,7 +35,7 @@ tirar:
       3s: tiraba
       3p: tiraban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I threw}
       1s: tiré
@@ -45,7 +45,7 @@ tirar:
       3s: tiró
       3p: tiraron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would throw}
       1s: tiraría
@@ -55,7 +55,7 @@ tirar:
       3s: tiraría
       3p: tirarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have thrown}
       1s: he tirado
@@ -65,7 +65,7 @@ tirar:
       3s: ha tirado
       3p: han tirado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have thrown}
       1s: habré tirado
@@ -75,7 +75,7 @@ tirar:
       3s: habrá tirado
       3p: habrán tirado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had thrown}
       1s: había tirado
@@ -85,7 +85,7 @@ tirar:
       3s: había tirado
       3p: habían tirado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had thrown}
       1s: hube tirado
@@ -95,7 +95,7 @@ tirar:
       3s: hubo tirado
       3p: hubieron tirado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have thrown}
       1s: habría tirado
@@ -105,7 +105,7 @@ tirar:
       3s: habría tirado
       3p: habrían tirado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I throw, am throwing'}
       1s: tire
@@ -115,7 +115,7 @@ tirar:
       3s: tire
       3p: tiren
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I threw, was throwing'}
       1s: tirara
@@ -125,7 +125,7 @@ tirar:
       3s: tirara
       3p: tiraran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will throw}
       1s: tirare
@@ -135,7 +135,7 @@ tirar:
       3s: tirare
       3p: tiraren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have thrown, threw'}
       1s: haya tirado
@@ -145,7 +145,7 @@ tirar:
       3s: haya tirado
       3p: hayan tirado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have thrown}
       1s: hubiere tirado
@@ -155,7 +155,7 @@ tirar:
       3s: hubiere tirado
       3p: hubieren tirado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had thrown}
       1s: hubiera tirado
@@ -165,7 +165,7 @@ tirar:
       3s: hubiera tirado
       3p: hubieran tirado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Throw! Don't throw!}
       1s: ''
@@ -175,7 +175,7 @@ tirar:
       3s: tirad
       3p: tiren
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Throw! Don't throw!}
       1s: ''

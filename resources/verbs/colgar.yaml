@@ -5,7 +5,7 @@ colgar:
   definitions: {en: 'to hang, hang up, be hanging, be suspended'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I hang, am hanging'}
       1s: cuelgo
@@ -15,7 +15,7 @@ colgar:
       3s: cuelga
       3p: cuelgan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will hang}
       1s: colgaré
@@ -25,7 +25,7 @@ colgar:
       3s: colgará
       3p: colgarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was hanging, used to hang, hung'}
       1s: colgaba
@@ -35,7 +35,7 @@ colgar:
       3s: colgaba
       3p: colgaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I hung}
       1s: colgué
@@ -45,7 +45,7 @@ colgar:
       3s: colgó
       3p: colgaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would hang}
       1s: colgaría
@@ -55,7 +55,7 @@ colgar:
       3s: colgaría
       3p: colgarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have hung}
       1s: he colgado
@@ -65,7 +65,7 @@ colgar:
       3s: ha colgado
       3p: han colgado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have hung}
       1s: habré colgado
@@ -75,7 +75,7 @@ colgar:
       3s: habrá colgado
       3p: habrán colgado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had hung}
       1s: había colgado
@@ -85,7 +85,7 @@ colgar:
       3s: había colgado
       3p: habían colgado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had hung}
       1s: hube colgado
@@ -95,7 +95,7 @@ colgar:
       3s: hubo colgado
       3p: hubieron colgado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have hung}
       1s: habría colgado
@@ -105,7 +105,7 @@ colgar:
       3s: habría colgado
       3p: habrían colgado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I hang, am hanging'}
       1s: cuelgue
@@ -115,7 +115,7 @@ colgar:
       3s: cuelgue
       3p: cuelguen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I hung, was hanging'}
       1s: colgara
@@ -125,7 +125,7 @@ colgar:
       3s: colgara
       3p: colgaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will hang}
       1s: colgare
@@ -135,7 +135,7 @@ colgar:
       3s: colgare
       3p: colgaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have hung, hung'}
       1s: haya colgado
@@ -145,7 +145,7 @@ colgar:
       3s: haya colgado
       3p: hayan colgado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have hung}
       1s: hubiere colgado
@@ -155,7 +155,7 @@ colgar:
       3s: hubiere colgado
       3p: hubieren colgado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had hung}
       1s: hubiera colgado
@@ -165,7 +165,7 @@ colgar:
       3s: hubiera colgado
       3p: hubieran colgado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: hang! Don't hang!}
       1s: ''
@@ -175,7 +175,7 @@ colgar:
       3s: colgad
       3p: cuelguen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: hang! Don't hang!}
       1s: ''

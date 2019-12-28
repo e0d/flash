@@ -5,7 +5,7 @@ suceder:
   definitions: {en: 'to happen; to succeed, follow'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I happen, am happening'}
       1s: sucedo
@@ -15,7 +15,7 @@ suceder:
       3s: sucede
       3p: suceden
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will happen}
       1s: sucederé
@@ -25,7 +25,7 @@ suceder:
       3s: sucederá
       3p: sucederán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was happening, used to happen, happened'}
       1s: sucedía
@@ -35,7 +35,7 @@ suceder:
       3s: sucedía
       3p: sucedían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I happened}
       1s: sucedí
@@ -45,7 +45,7 @@ suceder:
       3s: sucedió
       3p: sucedieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would happen}
       1s: sucedería
@@ -55,7 +55,7 @@ suceder:
       3s: sucedería
       3p: sucederían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have happened}
       1s: he sucedido
@@ -65,7 +65,7 @@ suceder:
       3s: ha sucedido
       3p: han sucedido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have happened}
       1s: habré sucedido
@@ -75,7 +75,7 @@ suceder:
       3s: habrá sucedido
       3p: habrán sucedido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had happened}
       1s: había sucedido
@@ -85,7 +85,7 @@ suceder:
       3s: había sucedido
       3p: habían sucedido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had happened}
       1s: hube sucedido
@@ -95,7 +95,7 @@ suceder:
       3s: hubo sucedido
       3p: hubieron sucedido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have happened}
       1s: habría sucedido
@@ -105,7 +105,7 @@ suceder:
       3s: habría sucedido
       3p: habrían sucedido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I happen, am happening'}
       1s: suceda
@@ -115,7 +115,7 @@ suceder:
       3s: suceda
       3p: sucedan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I happened, was happening'}
       1s: sucediera
@@ -125,7 +125,7 @@ suceder:
       3s: sucediera
       3p: sucedieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will happen}
       1s: sucediere
@@ -135,7 +135,7 @@ suceder:
       3s: sucediere
       3p: sucedieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have happened, happened'}
       1s: haya sucedido
@@ -145,7 +145,7 @@ suceder:
       3s: haya sucedido
       3p: hayan sucedido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have happened}
       1s: hubiere sucedido
@@ -155,7 +155,7 @@ suceder:
       3s: hubiere sucedido
       3p: hubieren sucedido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had happened}
       1s: hubiera sucedido
@@ -165,7 +165,7 @@ suceder:
       3s: hubiera sucedido
       3p: hubieran sucedido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Happen! Don't happen!}
       1s: ''
@@ -175,7 +175,7 @@ suceder:
       3s: suceded
       3p: sucedan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Happen! Don't happen!}
       1s: ''

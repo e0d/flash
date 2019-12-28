@@ -5,7 +5,7 @@ corregir:
   definitions: {en: to correct}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I correct, am correcting'}
       1s: corrijo
@@ -15,7 +15,7 @@ corregir:
       3s: corrige
       3p: corrigen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will correct}
       1s: corregiré
@@ -25,7 +25,7 @@ corregir:
       3s: corregirá
       3p: corregirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was correcting, used to correct, corrected'}
       1s: corregía
@@ -35,7 +35,7 @@ corregir:
       3s: corregía
       3p: corregían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I corrected}
       1s: corregí
@@ -45,7 +45,7 @@ corregir:
       3s: corrigió
       3p: corrigieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would correct}
       1s: corregiría
@@ -55,7 +55,7 @@ corregir:
       3s: corregiría
       3p: corregirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have corrected}
       1s: he corregido
@@ -65,7 +65,7 @@ corregir:
       3s: ha corregido
       3p: han corregido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have corrected}
       1s: habré corregido
@@ -75,7 +75,7 @@ corregir:
       3s: habrá corregido
       3p: habrán corregido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had corrected}
       1s: había corregido
@@ -85,7 +85,7 @@ corregir:
       3s: había corregido
       3p: habían corregido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had corrected}
       1s: hube corregido
@@ -95,7 +95,7 @@ corregir:
       3s: hubo corregido
       3p: hubieron corregido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have corrected}
       1s: habría corregido
@@ -105,7 +105,7 @@ corregir:
       3s: habría corregido
       3p: habrían corregido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I correct, am correcting'}
       1s: corrija
@@ -115,7 +115,7 @@ corregir:
       3s: corrija
       3p: corrijan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I corrected, was correcting'}
       1s: corrigiera
@@ -125,7 +125,7 @@ corregir:
       3s: corrigiera
       3p: corrigieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will correct}
       1s: corrigiere
@@ -135,7 +135,7 @@ corregir:
       3s: corrigiere
       3p: corrigieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have corrected, corrected'}
       1s: haya corregido
@@ -145,7 +145,7 @@ corregir:
       3s: haya corregido
       3p: hayan corregido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have corrected}
       1s: hubiere corregido
@@ -155,7 +155,7 @@ corregir:
       3s: hubiere corregido
       3p: hubieren corregido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had corrected}
       1s: hubiera corregido
@@ -165,7 +165,7 @@ corregir:
       3s: hubiera corregido
       3p: hubieran corregido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Correct! Don't correct!}
       1s: ''
@@ -175,7 +175,7 @@ corregir:
       3s: corregid
       3p: corrijan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Correct! Don't correct!}
       1s: ''

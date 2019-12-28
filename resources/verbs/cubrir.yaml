@@ -5,7 +5,7 @@ cubrir:
   definitions: {en: to cover}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I cover, am covering'}
       1s: cubro
@@ -15,7 +15,7 @@ cubrir:
       3s: cubre
       3p: cubren
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will cover}
       1s: cubriré
@@ -25,7 +25,7 @@ cubrir:
       3s: cubrirá
       3p: cubrirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was covering, used to cover, covered'}
       1s: cubría
@@ -35,7 +35,7 @@ cubrir:
       3s: cubría
       3p: cubrían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I covered}
       1s: cubrí
@@ -45,7 +45,7 @@ cubrir:
       3s: cubrió
       3p: cubrieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would cover}
       1s: cubriría
@@ -55,7 +55,7 @@ cubrir:
       3s: cubriría
       3p: cubrirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have covered}
       1s: he cubierto
@@ -65,7 +65,7 @@ cubrir:
       3s: ha cubierto
       3p: han cubierto
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have covered}
       1s: habré cubierto
@@ -75,7 +75,7 @@ cubrir:
       3s: habrá cubierto
       3p: habrán cubierto
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had covered}
       1s: había cubierto
@@ -85,7 +85,7 @@ cubrir:
       3s: había cubierto
       3p: habían cubierto
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had covered}
       1s: hube cubierto
@@ -95,7 +95,7 @@ cubrir:
       3s: hubo cubierto
       3p: hubieron cubierto
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have covered}
       1s: habría cubierto
@@ -105,7 +105,7 @@ cubrir:
       3s: habría cubierto
       3p: habrían cubierto
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I cover, am covering'}
       1s: cubra
@@ -115,7 +115,7 @@ cubrir:
       3s: cubra
       3p: cubran
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I covered, was covering'}
       1s: cubriera
@@ -125,7 +125,7 @@ cubrir:
       3s: cubriera
       3p: cubrieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will cover}
       1s: cubriere
@@ -135,7 +135,7 @@ cubrir:
       3s: cubriere
       3p: cubrieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have covered, covered'}
       1s: haya cubierto
@@ -145,7 +145,7 @@ cubrir:
       3s: haya cubierto
       3p: hayan cubierto
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have covered}
       1s: hubiere cubierto
@@ -155,7 +155,7 @@ cubrir:
       3s: hubiere cubierto
       3p: hubieren cubierto
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had covered}
       1s: hubiera cubierto
@@ -165,7 +165,7 @@ cubrir:
       3s: hubiera cubierto
       3p: hubieran cubierto
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Cover! Don't cover!}
       1s: ''
@@ -175,7 +175,7 @@ cubrir:
       3s: cubrid
       3p: cubran
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Cover! Don't cover!}
       1s: ''

@@ -5,7 +5,7 @@ conquistar:
   definitions: {en: 'to conquer, overcome, win'}
   tenses:
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will conquer}
       1s: conquistaré
@@ -15,7 +15,7 @@ conquistar:
       3s: conquistará
       3p: conquistarán
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I conquer, am conquering'}
       1s: conquisto
@@ -25,7 +25,7 @@ conquistar:
       3s: conquista
       3p: conquistan
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was conquering, used to conquer, conquered'}
       1s: conquistaba
@@ -35,7 +35,7 @@ conquistar:
       3s: conquistaba
       3p: conquistaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I conquered}
       1s: conquisté
@@ -45,7 +45,7 @@ conquistar:
       3s: conquistó
       3p: conquistaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would conquer}
       1s: conquistaría
@@ -55,7 +55,7 @@ conquistar:
       3s: conquistaría
       3p: conquistarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have conquered}
       1s: he conquistado
@@ -65,7 +65,7 @@ conquistar:
       3s: ha conquistado
       3p: han conquistado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have conquered}
       1s: habré conquistado
@@ -75,7 +75,7 @@ conquistar:
       3s: habrá conquistado
       3p: habrán conquistado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had conquered}
       1s: había conquistado
@@ -85,7 +85,7 @@ conquistar:
       3s: había conquistado
       3p: habían conquistado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had conquered}
       1s: hube conquistado
@@ -95,7 +95,7 @@ conquistar:
       3s: hubo conquistado
       3p: hubieron conquistado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have conquered}
       1s: habría conquistado
@@ -105,7 +105,7 @@ conquistar:
       3s: habría conquistado
       3p: habrían conquistado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I conquer, am conquering'}
       1s: conquiste
@@ -115,7 +115,7 @@ conquistar:
       3s: conquiste
       3p: conquisten
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I conquered, was conquering'}
       1s: conquistara
@@ -125,7 +125,7 @@ conquistar:
       3s: conquistara
       3p: conquistaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will conquer}
       1s: conquistare
@@ -135,7 +135,7 @@ conquistar:
       3s: conquistare
       3p: conquistaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have conquered, conquered'}
       1s: haya conquistado
@@ -145,7 +145,7 @@ conquistar:
       3s: haya conquistado
       3p: hayan conquistado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have conquered}
       1s: hubiere conquistado
@@ -155,7 +155,7 @@ conquistar:
       3s: hubiere conquistado
       3p: hubieren conquistado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had conquered}
       1s: hubiera conquistado
@@ -165,7 +165,7 @@ conquistar:
       3s: hubiera conquistado
       3p: hubieran conquistado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Conquer! Don't conquer!}
       1s: ''
@@ -175,7 +175,7 @@ conquistar:
       3s: conquistad
       3p: conquisten
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Conquer! Don't conquer!}
       1s: ''

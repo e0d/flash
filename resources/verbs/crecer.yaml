@@ -5,7 +5,7 @@ crecer:
   definitions: {en: 'to grow [up]'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I grow, am growing'}
       1s: crezco
@@ -15,7 +15,7 @@ crecer:
       3s: crece
       3p: crecen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will grow}
       1s: creceré
@@ -25,7 +25,7 @@ crecer:
       3s: crecerá
       3p: crecerán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was growing, used to grow, grew'}
       1s: crecía
@@ -35,7 +35,7 @@ crecer:
       3s: crecía
       3p: crecían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I grew}
       1s: crecí
@@ -45,7 +45,7 @@ crecer:
       3s: creció
       3p: crecieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would grow}
       1s: crecería
@@ -55,7 +55,7 @@ crecer:
       3s: crecería
       3p: crecerían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have grown}
       1s: he crecido
@@ -65,7 +65,7 @@ crecer:
       3s: ha crecido
       3p: han crecido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have grown}
       1s: habré crecido
@@ -75,7 +75,7 @@ crecer:
       3s: habrá crecido
       3p: habrán crecido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had grown}
       1s: había crecido
@@ -85,7 +85,7 @@ crecer:
       3s: había crecido
       3p: habían crecido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had grown}
       1s: hube crecido
@@ -95,7 +95,7 @@ crecer:
       3s: hubo crecido
       3p: hubieron crecido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have grown}
       1s: habría crecido
@@ -105,7 +105,7 @@ crecer:
       3s: habría crecido
       3p: habrían crecido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I grow, am growing'}
       1s: crezca
@@ -115,7 +115,7 @@ crecer:
       3s: crezca
       3p: crezcan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I grew, was growing'}
       1s: creciera
@@ -125,7 +125,7 @@ crecer:
       3s: creciera
       3p: crecieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will grow}
       1s: creciere
@@ -135,7 +135,7 @@ crecer:
       3s: creciere
       3p: crecieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have grown, grew'}
       1s: haya crecido
@@ -145,7 +145,7 @@ crecer:
       3s: haya crecido
       3p: hayan crecido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have grown}
       1s: hubiere crecido
@@ -155,7 +155,7 @@ crecer:
       3s: hubiere crecido
       3p: hubieren crecido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had grown}
       1s: hubiera crecido
@@ -165,7 +165,7 @@ crecer:
       3s: hubiera crecido
       3p: hubieran crecido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Grow! Don't grow!}
       1s: ''
@@ -175,7 +175,7 @@ crecer:
       3s: creced
       3p: crezcan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Grow! Don't grow!}
       1s: ''

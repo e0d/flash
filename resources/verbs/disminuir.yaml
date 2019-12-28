@@ -5,7 +5,7 @@ disminuir:
   definitions: {en: 'to diminish, decrease'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I diminish, am diminishing'}
       1s: disminuyo
@@ -15,7 +15,7 @@ disminuir:
       3s: disminuye
       3p: disminuyen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will diminish}
       1s: disminuiré
@@ -25,7 +25,7 @@ disminuir:
       3s: disminuirá
       3p: disminuirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was diminishing, used to diminish, diminished'}
       1s: disminuía
@@ -35,7 +35,7 @@ disminuir:
       3s: disminuía
       3p: disminuían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I diminished}
       1s: disminuí
@@ -45,7 +45,7 @@ disminuir:
       3s: disminuyó
       3p: disminuyeron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would diminish}
       1s: disminuiría
@@ -55,7 +55,7 @@ disminuir:
       3s: disminuiría
       3p: disminuirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have diminished}
       1s: he disminuido
@@ -65,7 +65,7 @@ disminuir:
       3s: ha disminuido
       3p: han disminuido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have diminished}
       1s: habré disminuido
@@ -75,7 +75,7 @@ disminuir:
       3s: habrá disminuido
       3p: habrán disminuido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had diminished}
       1s: había disminuido
@@ -85,7 +85,7 @@ disminuir:
       3s: había disminuido
       3p: habían disminuido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had diminished}
       1s: hube disminuido
@@ -95,7 +95,7 @@ disminuir:
       3s: hubo disminuido
       3p: hubieron disminuido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have diminished}
       1s: habría disminuido
@@ -105,7 +105,7 @@ disminuir:
       3s: habría disminuido
       3p: habrían disminuido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I diminish, am diminishing'}
       1s: disminuya
@@ -115,7 +115,7 @@ disminuir:
       3s: disminuya
       3p: disminuyan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I diminished, was diminishing'}
       1s: disminuyera
@@ -125,7 +125,7 @@ disminuir:
       3s: disminuyera
       3p: disminuyeran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will diminish}
       1s: disminuyere
@@ -135,7 +135,7 @@ disminuir:
       3s: disminuyere
       3p: disminuyeren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have diminished, diminished'}
       1s: haya disminuido
@@ -145,7 +145,7 @@ disminuir:
       3s: haya disminuido
       3p: hayan disminuido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have diminished}
       1s: hubiere disminuido
@@ -155,7 +155,7 @@ disminuir:
       3s: hubiere disminuido
       3p: hubieren disminuido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had diminished}
       1s: hubiera disminuido
@@ -165,7 +165,7 @@ disminuir:
       3s: hubiera disminuido
       3p: hubieran disminuido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Diminish! Don't diminish!}
       1s: ''
@@ -175,7 +175,7 @@ disminuir:
       3s: disminuid
       3p: disminuyan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Diminish! Don't diminish!}
       1s: ''

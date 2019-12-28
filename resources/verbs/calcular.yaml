@@ -5,7 +5,7 @@ calcular:
   definitions: {en: 'to calculate, compute, add up'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I calculate, am calculating'}
       1s: calculo
@@ -15,7 +15,7 @@ calcular:
       3s: calcula
       3p: calculan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will calculate}
       1s: calcularé
@@ -25,7 +25,7 @@ calcular:
       3s: calculará
       3p: calcularán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was calculating, used to calculate, calculated'}
       1s: calculaba
@@ -35,7 +35,7 @@ calcular:
       3s: calculaba
       3p: calculaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I calculated}
       1s: calculé
@@ -45,7 +45,7 @@ calcular:
       3s: calculó
       3p: calcularon
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would calculate}
       1s: calcularía
@@ -55,7 +55,7 @@ calcular:
       3s: calcularía
       3p: calcularían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have calculated}
       1s: he calculado
@@ -65,7 +65,7 @@ calcular:
       3s: ha calculado
       3p: han calculado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have calculated}
       1s: habré calculado
@@ -75,7 +75,7 @@ calcular:
       3s: habrá calculado
       3p: habrán calculado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had calculated}
       1s: había calculado
@@ -85,7 +85,7 @@ calcular:
       3s: había calculado
       3p: habían calculado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had calculated}
       1s: hube calculado
@@ -95,7 +95,7 @@ calcular:
       3s: hubo calculado
       3p: hubieron calculado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have calculated}
       1s: habría calculado
@@ -105,7 +105,7 @@ calcular:
       3s: habría calculado
       3p: habrían calculado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I calculate, am calculating'}
       1s: calcule
@@ -115,7 +115,7 @@ calcular:
       3s: calcule
       3p: calculen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I calculated, was calculating'}
       1s: calculara
@@ -125,7 +125,7 @@ calcular:
       3s: calculara
       3p: calcularan
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will calculate}
       1s: calculare
@@ -135,7 +135,7 @@ calcular:
       3s: calculare
       3p: calcularen
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have calculated, calculated'}
       1s: haya calculado
@@ -145,7 +145,7 @@ calcular:
       3s: haya calculado
       3p: hayan calculado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have calculated}
       1s: hubiere calculado
@@ -155,7 +155,7 @@ calcular:
       3s: hubiere calculado
       3p: hubieren calculado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had calculated}
       1s: hubiera calculado
@@ -165,7 +165,7 @@ calcular:
       3s: hubiera calculado
       3p: hubieran calculado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Calculate! Don't calculate!}
       1s: ''
@@ -175,7 +175,7 @@ calcular:
       3s: calculad
       3p: calculen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Calculate! Don't calculate!}
       1s: ''

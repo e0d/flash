@@ -5,7 +5,7 @@ emborrachar:
   definitions: {en: 'to make drunk, intoxicate; to get [someone] drunk'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I make drunk, am making drunk'}
       1s: emborracho
@@ -15,7 +15,7 @@ emborrachar:
       3s: emborracha
       3p: emborrachan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will make drunk}
       1s: emborracharé
@@ -25,7 +25,7 @@ emborrachar:
       3s: emborrachará
       3p: emborracharán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was making drunk, used to make drunk, made drunk'}
       1s: emborrachaba
@@ -35,7 +35,7 @@ emborrachar:
       3s: emborrachaba
       3p: emborrachaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I made drunk}
       1s: emborraché
@@ -45,7 +45,7 @@ emborrachar:
       3s: emborrachó
       3p: emborracharon
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would make drunk}
       1s: emborracharía
@@ -55,7 +55,7 @@ emborrachar:
       3s: emborracharía
       3p: emborracharían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have made drunk}
       1s: he emborrachado
@@ -65,7 +65,7 @@ emborrachar:
       3s: ha emborrachado
       3p: han emborrachado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have made drunk}
       1s: habré emborrachado
@@ -75,7 +75,7 @@ emborrachar:
       3s: habrá emborrachado
       3p: habrán emborrachado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had made drunk}
       1s: había emborrachado
@@ -85,7 +85,7 @@ emborrachar:
       3s: había emborrachado
       3p: habían emborrachado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had made drunk}
       1s: hube emborrachado
@@ -95,7 +95,7 @@ emborrachar:
       3s: hubo emborrachado
       3p: hubieron emborrachado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have made drunk}
       1s: habría emborrachado
@@ -105,7 +105,7 @@ emborrachar:
       3s: habría emborrachado
       3p: habrían emborrachado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I make drunk, am making drunk'}
       1s: emborrache
@@ -115,7 +115,7 @@ emborrachar:
       3s: emborrache
       3p: emborrachen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I made drunk, was making drunk'}
       1s: emborrachara
@@ -125,7 +125,7 @@ emborrachar:
       3s: emborrachara
       3p: emborracharan
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will make drunk}
       1s: emborrachare
@@ -135,7 +135,7 @@ emborrachar:
       3s: emborrachare
       3p: emborracharen
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have made drunk, made drunk'}
       1s: haya emborrachado
@@ -145,7 +145,7 @@ emborrachar:
       3s: haya emborrachado
       3p: hayan emborrachado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have made drunk}
       1s: hubiere emborrachado
@@ -155,7 +155,7 @@ emborrachar:
       3s: hubiere emborrachado
       3p: hubieren emborrachado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had made drunk}
       1s: hubiera emborrachado
@@ -165,7 +165,7 @@ emborrachar:
       3s: hubiera emborrachado
       3p: hubieran emborrachado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Make drunk! Don't make drunk!}
       1s: ''
@@ -175,7 +175,7 @@ emborrachar:
       3s: emborrachad
       3p: emborrachen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Make drunk! Don't make drunk!}
       1s: ''

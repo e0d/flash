@@ -5,7 +5,7 @@ entusiasmar:
   definitions: {en: 'to excite; to fill with excitement [or enthusiasm]'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I excite, am exciting'}
       1s: entusiasmo
@@ -15,7 +15,7 @@ entusiasmar:
       3s: entusiasma
       3p: entusiasman
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will excite}
       1s: entusiasmaré
@@ -25,7 +25,7 @@ entusiasmar:
       3s: entusiasmará
       3p: entusiasmarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was exciting, used to excite, excited'}
       1s: entusiasmaba
@@ -35,7 +35,7 @@ entusiasmar:
       3s: entusiasmaba
       3p: entusiasmaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I excited}
       1s: entusiasmé
@@ -45,7 +45,7 @@ entusiasmar:
       3s: entusiasmó
       3p: entusiasmaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would excite}
       1s: entusiasmaría
@@ -55,7 +55,7 @@ entusiasmar:
       3s: entusiasmaría
       3p: entusiasmarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have excited}
       1s: he entusiasmado
@@ -65,7 +65,7 @@ entusiasmar:
       3s: ha entusiasmado
       3p: han entusiasmado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have excited}
       1s: habré entusiasmado
@@ -75,7 +75,7 @@ entusiasmar:
       3s: habrá entusiasmado
       3p: habrán entusiasmado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had excited}
       1s: había entusiasmado
@@ -85,7 +85,7 @@ entusiasmar:
       3s: había entusiasmado
       3p: habían entusiasmado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had excited}
       1s: hube entusiasmado
@@ -95,7 +95,7 @@ entusiasmar:
       3s: hubo entusiasmado
       3p: hubieron entusiasmado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have excited}
       1s: habría entusiasmado
@@ -105,7 +105,7 @@ entusiasmar:
       3s: habría entusiasmado
       3p: habrían entusiasmado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I excite, am exciting'}
       1s: entusiasme
@@ -115,7 +115,7 @@ entusiasmar:
       3s: entusiasme
       3p: entusiasmen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I excited, was exciting'}
       1s: entusiasmara
@@ -125,7 +125,7 @@ entusiasmar:
       3s: entusiasmara
       3p: entusiasmaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will excite}
       1s: entusiasmare
@@ -135,7 +135,7 @@ entusiasmar:
       3s: entusiasmare
       3p: entusiasmaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have excited, excited'}
       1s: haya entusiasmado
@@ -145,7 +145,7 @@ entusiasmar:
       3s: haya entusiasmado
       3p: hayan entusiasmado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have excited}
       1s: hubiere entusiasmado
@@ -155,7 +155,7 @@ entusiasmar:
       3s: hubiere entusiasmado
       3p: hubieren entusiasmado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had excited}
       1s: hubiera entusiasmado
@@ -165,7 +165,7 @@ entusiasmar:
       3s: hubiera entusiasmado
       3p: hubieran entusiasmado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Excite! Don't excite!}
       1s: ''
@@ -175,7 +175,7 @@ entusiasmar:
       3s: entusiasmad
       3p: entusiasmen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Excite! Don't excite!}
       1s: ''

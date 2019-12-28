@@ -5,7 +5,7 @@ extender:
   definitions: {en: to extend}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I extend, am extending'}
       1s: extiendo
@@ -15,7 +15,7 @@ extender:
       3s: extiende
       3p: extienden
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will extend}
       1s: extenderé
@@ -25,7 +25,7 @@ extender:
       3s: extenderá
       3p: extenderán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was extending, used to extend, extended'}
       1s: extendía
@@ -35,7 +35,7 @@ extender:
       3s: extendía
       3p: extendían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I extended}
       1s: extendí
@@ -45,7 +45,7 @@ extender:
       3s: extendió
       3p: extendieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would extend}
       1s: extendería
@@ -55,7 +55,7 @@ extender:
       3s: extendería
       3p: extenderían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have extended}
       1s: he extendido
@@ -65,7 +65,7 @@ extender:
       3s: ha extendido
       3p: han extendido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have extended}
       1s: habré extendido
@@ -75,7 +75,7 @@ extender:
       3s: habrá extendido
       3p: habrán extendido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had extended}
       1s: había extendido
@@ -85,7 +85,7 @@ extender:
       3s: había extendido
       3p: habían extendido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had extended}
       1s: hube extendido
@@ -95,7 +95,7 @@ extender:
       3s: hubo extendido
       3p: hubieron extendido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have extended}
       1s: habría extendido
@@ -105,7 +105,7 @@ extender:
       3s: habría extendido
       3p: habrían extendido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I extend, am extending'}
       1s: extienda
@@ -115,7 +115,7 @@ extender:
       3s: extienda
       3p: extiendan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I extended, was extending'}
       1s: extendiera
@@ -125,7 +125,7 @@ extender:
       3s: extendiera
       3p: extendieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will extend}
       1s: extendiere
@@ -135,7 +135,7 @@ extender:
       3s: extendiere
       3p: extendieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have extended, extended'}
       1s: haya extendido
@@ -145,7 +145,7 @@ extender:
       3s: haya extendido
       3p: hayan extendido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have extended}
       1s: hubiere extendido
@@ -155,7 +155,7 @@ extender:
       3s: hubiere extendido
       3p: hubieren extendido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had extended}
       1s: hubiera extendido
@@ -165,7 +165,7 @@ extender:
       3s: hubiera extendido
       3p: hubieran extendido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Extend! Don't extend!}
       1s: ''
@@ -175,7 +175,7 @@ extender:
       3s: extended
       3p: extiendan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Extend! Don't extend!}
       1s: ''

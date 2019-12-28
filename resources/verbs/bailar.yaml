@@ -5,7 +5,7 @@ bailar:
   definitions: {en: d a n c e}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I dance, am dancing'}
       1s: bailo
@@ -15,7 +15,7 @@ bailar:
       3s: baila
       3p: bailan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will dance}
       1s: bailaré
@@ -25,7 +25,7 @@ bailar:
       3s: bailará
       3p: bailarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was dancing, used to dance, danced'}
       1s: bailaba
@@ -35,7 +35,7 @@ bailar:
       3s: bailaba
       3p: bailaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I danced}
       1s: bailé
@@ -45,7 +45,7 @@ bailar:
       3s: bailó
       3p: bailaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would dance}
       1s: bailaría
@@ -55,7 +55,7 @@ bailar:
       3s: bailaría
       3p: bailarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have danced}
       1s: he bailado
@@ -65,7 +65,7 @@ bailar:
       3s: ha bailado
       3p: han bailado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have danced}
       1s: habré bailado
@@ -75,7 +75,7 @@ bailar:
       3s: habrá bailado
       3p: habrán bailado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had danced}
       1s: había bailado
@@ -85,7 +85,7 @@ bailar:
       3s: había bailado
       3p: habían bailado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had danced}
       1s: hube bailado
@@ -95,7 +95,7 @@ bailar:
       3s: hubo bailado
       3p: hubieron bailado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have danced}
       1s: habría bailado
@@ -105,7 +105,7 @@ bailar:
       3s: habría bailado
       3p: habrían bailado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I dance, am dancing'}
       1s: baile
@@ -115,7 +115,7 @@ bailar:
       3s: baile
       3p: bailen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I danced, was dancing'}
       1s: bailara
@@ -125,7 +125,7 @@ bailar:
       3s: bailara
       3p: bailaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will dance}
       1s: bailare
@@ -135,7 +135,7 @@ bailar:
       3s: bailare
       3p: bailaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have danced, danced'}
       1s: haya bailado
@@ -145,7 +145,7 @@ bailar:
       3s: haya bailado
       3p: hayan bailado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have danced}
       1s: hubiere bailado
@@ -155,7 +155,7 @@ bailar:
       3s: hubiere bailado
       3p: hubieren bailado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had danced}
       1s: hubiera bailado
@@ -165,7 +165,7 @@ bailar:
       3s: hubiera bailado
       3p: hubieran bailado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Dance! Don't dance!}
       1s: ''
@@ -175,7 +175,7 @@ bailar:
       3s: bailad
       3p: bailen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Dance! Don't dance!}
       1s: ''

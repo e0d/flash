@@ -5,7 +5,7 @@ sacudir:
   definitions: {en: 'to shake, beat, flap'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I shake, am shaking'}
       1s: sacudo
@@ -15,7 +15,7 @@ sacudir:
       3s: sacude
       3p: sacuden
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will shake}
       1s: sacudiré
@@ -25,7 +25,7 @@ sacudir:
       3s: sacudirá
       3p: sacudirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was shaking, used to shake, shook'}
       1s: sacudía
@@ -35,7 +35,7 @@ sacudir:
       3s: sacudía
       3p: sacudían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I shook}
       1s: sacudí
@@ -45,7 +45,7 @@ sacudir:
       3s: sacudió
       3p: sacudieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would shake}
       1s: sacudiría
@@ -55,7 +55,7 @@ sacudir:
       3s: sacudiría
       3p: sacudirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have shaken}
       1s: he sacudido
@@ -65,7 +65,7 @@ sacudir:
       3s: ha sacudido
       3p: han sacudido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have shaken}
       1s: habré sacudido
@@ -75,7 +75,7 @@ sacudir:
       3s: habrá sacudido
       3p: habrán sacudido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had shaken}
       1s: había sacudido
@@ -85,7 +85,7 @@ sacudir:
       3s: había sacudido
       3p: habían sacudido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had shaken}
       1s: hube sacudido
@@ -95,7 +95,7 @@ sacudir:
       3s: hubo sacudido
       3p: hubieron sacudido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have shaken}
       1s: habría sacudido
@@ -105,7 +105,7 @@ sacudir:
       3s: habría sacudido
       3p: habrían sacudido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I shake, am shaking'}
       1s: sacuda
@@ -115,7 +115,7 @@ sacudir:
       3s: sacuda
       3p: sacudan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I shook, was shaking'}
       1s: sacudiera
@@ -125,7 +125,7 @@ sacudir:
       3s: sacudiera
       3p: sacudieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will shake}
       1s: sacudiere
@@ -135,7 +135,7 @@ sacudir:
       3s: sacudiere
       3p: sacudieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have shaken, shook'}
       1s: haya sacudido
@@ -145,7 +145,7 @@ sacudir:
       3s: haya sacudido
       3p: hayan sacudido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have shaken}
       1s: hubiere sacudido
@@ -155,7 +155,7 @@ sacudir:
       3s: hubiere sacudido
       3p: hubieren sacudido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had shaken}
       1s: hubiera sacudido
@@ -165,7 +165,7 @@ sacudir:
       3s: hubiera sacudido
       3p: hubieran sacudido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Shake! Don't shake!}
       1s: ''
@@ -175,7 +175,7 @@ sacudir:
       3s: sacudid
       3p: sacudan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Shake! Don't shake!}
       1s: ''

@@ -5,7 +5,7 @@ variar:
   definitions: {en: to vary}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I vary, am varying'}
       1s: varío
@@ -15,7 +15,7 @@ variar:
       3s: varía
       3p: varían
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will vary}
       1s: variaré
@@ -25,7 +25,7 @@ variar:
       3s: variará
       3p: variarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was varying, used to vary, varied'}
       1s: variaba
@@ -35,7 +35,7 @@ variar:
       3s: variaba
       3p: variaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I varied}
       1s: varié
@@ -45,7 +45,7 @@ variar:
       3s: varió
       3p: variaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would vary}
       1s: variaría
@@ -55,7 +55,7 @@ variar:
       3s: variaría
       3p: variarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have varied}
       1s: he variado
@@ -65,7 +65,7 @@ variar:
       3s: ha variado
       3p: han variado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have varied}
       1s: habré variado
@@ -75,7 +75,7 @@ variar:
       3s: habrá variado
       3p: habrán variado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had varied}
       1s: había variado
@@ -85,7 +85,7 @@ variar:
       3s: había variado
       3p: habían variado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had varied}
       1s: hube variado
@@ -95,7 +95,7 @@ variar:
       3s: hubo variado
       3p: hubieron variado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have varied}
       1s: habría variado
@@ -105,7 +105,7 @@ variar:
       3s: habría variado
       3p: habrían variado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I vary, am varying'}
       1s: varíe
@@ -115,7 +115,7 @@ variar:
       3s: varíe
       3p: varíen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I varied, was varying'}
       1s: variara
@@ -125,7 +125,7 @@ variar:
       3s: variara
       3p: variaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will vary}
       1s: variare
@@ -135,7 +135,7 @@ variar:
       3s: variare
       3p: variaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have varied, varied'}
       1s: haya variado
@@ -145,7 +145,7 @@ variar:
       3s: haya variado
       3p: hayan variado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have varied}
       1s: hubiere variado
@@ -155,7 +155,7 @@ variar:
       3s: hubiere variado
       3p: hubieren variado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had varied}
       1s: hubiera variado
@@ -165,7 +165,7 @@ variar:
       3s: hubiera variado
       3p: hubieran variado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Vary! Don't vary!}
       1s: ''
@@ -175,7 +175,7 @@ variar:
       3s: variad
       3p: varíen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Vary! Don't vary!}
       1s: ''

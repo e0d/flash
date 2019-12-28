@@ -5,7 +5,7 @@ elegir:
   definitions: {en: 'to elect, choose'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I elect, am electing'}
       1s: elijo
@@ -15,7 +15,7 @@ elegir:
       3s: elige
       3p: eligen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will elect}
       1s: elegiré
@@ -25,7 +25,7 @@ elegir:
       3s: elegirá
       3p: elegirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was electing, used to elect, elected'}
       1s: elegía
@@ -35,7 +35,7 @@ elegir:
       3s: elegía
       3p: elegían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I elected}
       1s: elegí
@@ -45,7 +45,7 @@ elegir:
       3s: eligió
       3p: eligieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would elect}
       1s: elegiría
@@ -55,7 +55,7 @@ elegir:
       3s: elegiría
       3p: elegirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have elected}
       1s: he elegido
@@ -65,7 +65,7 @@ elegir:
       3s: ha elegido
       3p: han elegido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have elected}
       1s: habré elegido
@@ -75,7 +75,7 @@ elegir:
       3s: habrá elegido
       3p: habrán elegido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had elected}
       1s: había elegido
@@ -85,7 +85,7 @@ elegir:
       3s: había elegido
       3p: habían elegido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had elected}
       1s: hube elegido
@@ -95,7 +95,7 @@ elegir:
       3s: hubo elegido
       3p: hubieron elegido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have elected}
       1s: habría elegido
@@ -105,7 +105,7 @@ elegir:
       3s: habría elegido
       3p: habrían elegido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I elect, am electing'}
       1s: elija
@@ -115,7 +115,7 @@ elegir:
       3s: elija
       3p: elijan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I elected, was electing'}
       1s: eligiera
@@ -125,7 +125,7 @@ elegir:
       3s: eligiera
       3p: eligieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will elect}
       1s: eligiere
@@ -135,7 +135,7 @@ elegir:
       3s: eligiere
       3p: eligieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have elected, elected'}
       1s: haya elegido
@@ -145,7 +145,7 @@ elegir:
       3s: haya elegido
       3p: hayan elegido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have elected}
       1s: hubiere elegido
@@ -155,7 +155,7 @@ elegir:
       3s: hubiere elegido
       3p: hubieren elegido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had elected}
       1s: hubiera elegido
@@ -165,7 +165,7 @@ elegir:
       3s: hubiera elegido
       3p: hubieran elegido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Elect! Don't elect!}
       1s: ''
@@ -175,7 +175,7 @@ elegir:
       3s: elegid
       3p: elijan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Elect! Don't elect!}
       1s: ''

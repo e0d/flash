@@ -5,7 +5,7 @@ acercar:
   definitions: {en: 'to bring near[er], move [something] nearer'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I bring near(er), am bringing near(er)'}
       1s: acerco
@@ -15,7 +15,7 @@ acercar:
       3s: acerca
       3p: acercan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will bring near(er)}
       1s: acercaré
@@ -25,7 +25,7 @@ acercar:
       3s: acercará
       3p: acercarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was bringing near(er), used to bring near(er), brought near(er)'}
       1s: acercaba
@@ -35,7 +35,7 @@ acercar:
       3s: acercaba
       3p: acercaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I brought near(er)}
       1s: acerqué
@@ -45,7 +45,7 @@ acercar:
       3s: acercó
       3p: acercaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would bring near(er)}
       1s: acercaría
@@ -55,7 +55,7 @@ acercar:
       3s: acercaría
       3p: acercarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have brought near(er)}
       1s: he acercado
@@ -65,7 +65,7 @@ acercar:
       3s: ha acercado
       3p: han acercado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have brought near(er)}
       1s: habré acercado
@@ -75,7 +75,7 @@ acercar:
       3s: habrá acercado
       3p: habrán acercado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had brought near(er)}
       1s: había acercado
@@ -85,7 +85,7 @@ acercar:
       3s: había acercado
       3p: habían acercado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had brought near(er)}
       1s: hube acercado
@@ -95,7 +95,7 @@ acercar:
       3s: hubo acercado
       3p: hubieron acercado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have brought near(er)}
       1s: habría acercado
@@ -105,7 +105,7 @@ acercar:
       3s: habría acercado
       3p: habrían acercado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I bring near(er), am bringing near(er)'}
       1s: acerque
@@ -115,7 +115,7 @@ acercar:
       3s: acerque
       3p: acerquen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I brought near(er), was bringing near(er)'}
       1s: acercara
@@ -125,7 +125,7 @@ acercar:
       3s: acercara
       3p: acercaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will bring near(er)}
       1s: acercare
@@ -135,7 +135,7 @@ acercar:
       3s: acercare
       3p: acercaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have brought near(er), brought near(er)'}
       1s: haya acercado
@@ -145,7 +145,7 @@ acercar:
       3s: haya acercado
       3p: hayan acercado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have brought near(er)}
       1s: hubiere acercado
@@ -155,7 +155,7 @@ acercar:
       3s: hubiere acercado
       3p: hubieren acercado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had brought near(er)}
       1s: hubiera acercado
@@ -165,7 +165,7 @@ acercar:
       3s: hubiera acercado
       3p: hubieran acercado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Bring near(er)! Don't bring near(er)!}
       1s: ''
@@ -175,7 +175,7 @@ acercar:
       3s: acercad
       3p: acerquen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Bring near(er)! Don't bring near(er)!}
       1s: ''

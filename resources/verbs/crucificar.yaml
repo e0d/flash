@@ -5,7 +5,7 @@ crucificar:
   definitions: {en: to crucify}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I crucify, am crucifying'}
       1s: crucifico
@@ -15,7 +15,7 @@ crucificar:
       3s: crucifica
       3p: crucifican
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will crucify}
       1s: crucificaré
@@ -25,7 +25,7 @@ crucificar:
       3s: crucificará
       3p: crucificarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was crucifying, used to crucify, crucified'}
       1s: crucificaba
@@ -35,7 +35,7 @@ crucificar:
       3s: crucificaba
       3p: crucificaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I crucified}
       1s: crucifiqué
@@ -45,7 +45,7 @@ crucificar:
       3s: crucificó
       3p: crucificaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would crucify}
       1s: crucificaría
@@ -55,7 +55,7 @@ crucificar:
       3s: crucificaría
       3p: crucificarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have crucified}
       1s: he crucificado
@@ -65,7 +65,7 @@ crucificar:
       3s: ha crucificado
       3p: han crucificado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have crucified}
       1s: habré crucificado
@@ -75,7 +75,7 @@ crucificar:
       3s: habrá crucificado
       3p: habrán crucificado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had crucified}
       1s: había crucificado
@@ -85,7 +85,7 @@ crucificar:
       3s: había crucificado
       3p: habían crucificado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had crucified}
       1s: hube crucificado
@@ -95,7 +95,7 @@ crucificar:
       3s: hubo crucificado
       3p: hubieron crucificado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have crucified}
       1s: habría crucificado
@@ -105,7 +105,7 @@ crucificar:
       3s: habría crucificado
       3p: habrían crucificado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I crucify, am crucifying'}
       1s: crucifique
@@ -115,7 +115,7 @@ crucificar:
       3s: crucifique
       3p: crucifiquen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I crucified, was crucifying'}
       1s: crucificara
@@ -125,7 +125,7 @@ crucificar:
       3s: crucificara
       3p: crucificaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will crucify}
       1s: crucificare
@@ -135,7 +135,7 @@ crucificar:
       3s: crucificare
       3p: crucificaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have crucified, crucified'}
       1s: haya crucificado
@@ -145,7 +145,7 @@ crucificar:
       3s: haya crucificado
       3p: hayan crucificado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have crucified}
       1s: hubiere crucificado
@@ -155,7 +155,7 @@ crucificar:
       3s: hubiere crucificado
       3p: hubieren crucificado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had crucified}
       1s: hubiera crucificado
@@ -165,7 +165,7 @@ crucificar:
       3s: hubiera crucificado
       3p: hubieran crucificado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Crucify! Don't crucify!}
       1s: ''
@@ -175,7 +175,7 @@ crucificar:
       3s: crucificad
       3p: crucifiquen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Crucify! Don't crucify!}
       1s: ''

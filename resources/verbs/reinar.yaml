@@ -5,7 +5,7 @@ reinar:
   definitions: {en: 'to reign, rule'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I reign, am reigning'}
       1s: reino
@@ -15,7 +15,7 @@ reinar:
       3s: reina
       3p: reinan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will reign}
       1s: reinaré
@@ -25,7 +25,7 @@ reinar:
       3s: reinará
       3p: reinarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was reigning, used to reign, reigned'}
       1s: reinaba
@@ -35,7 +35,7 @@ reinar:
       3s: reinaba
       3p: reinaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I reigned}
       1s: reiné
@@ -45,7 +45,7 @@ reinar:
       3s: reinó
       3p: reinaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would reign}
       1s: reinaría
@@ -55,7 +55,7 @@ reinar:
       3s: reinaría
       3p: reinarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have reigned}
       1s: he reinado
@@ -65,7 +65,7 @@ reinar:
       3s: ha reinado
       3p: han reinado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have reigned}
       1s: habré reinado
@@ -75,7 +75,7 @@ reinar:
       3s: habrá reinado
       3p: habrán reinado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had reigned}
       1s: había reinado
@@ -85,7 +85,7 @@ reinar:
       3s: había reinado
       3p: habían reinado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had reigned}
       1s: hube reinado
@@ -95,7 +95,7 @@ reinar:
       3s: hubo reinado
       3p: hubieron reinado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have reigned}
       1s: habría reinado
@@ -105,7 +105,7 @@ reinar:
       3s: habría reinado
       3p: habrían reinado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I reign, am reigning'}
       1s: reine
@@ -115,7 +115,7 @@ reinar:
       3s: reine
       3p: reinen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I reigned, was reigning'}
       1s: reinara
@@ -125,7 +125,7 @@ reinar:
       3s: reinara
       3p: reinaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will reign}
       1s: reinare
@@ -135,7 +135,7 @@ reinar:
       3s: reinare
       3p: reinaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have reigned, reigned'}
       1s: haya reinado
@@ -145,7 +145,7 @@ reinar:
       3s: haya reinado
       3p: hayan reinado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have reigned}
       1s: hubiere reinado
@@ -155,7 +155,7 @@ reinar:
       3s: hubiere reinado
       3p: hubieren reinado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had reigned}
       1s: hubiera reinado
@@ -165,7 +165,7 @@ reinar:
       3s: hubiera reinado
       3p: hubieran reinado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Reign! Don't reign!}
       1s: ''
@@ -175,7 +175,7 @@ reinar:
       3s: reinad
       3p: reinen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Reign! Don't reign!}
       1s: ''

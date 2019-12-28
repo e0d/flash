@@ -6,7 +6,7 @@ regalar:
       pamper'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I give, am giving'}
       1s: regalo
@@ -16,7 +16,7 @@ regalar:
       3s: regala
       3p: regalan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will give}
       1s: regalaré
@@ -26,7 +26,7 @@ regalar:
       3s: regalará
       3p: regalarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was giving, used to give, gave'}
       1s: regalaba
@@ -36,7 +36,7 @@ regalar:
       3s: regalaba
       3p: regalaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I gave}
       1s: regalé
@@ -46,7 +46,7 @@ regalar:
       3s: regaló
       3p: regalaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would give}
       1s: regalaría
@@ -56,7 +56,7 @@ regalar:
       3s: regalaría
       3p: regalarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have given}
       1s: he regalado
@@ -66,7 +66,7 @@ regalar:
       3s: ha regalado
       3p: han regalado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have given}
       1s: habré regalado
@@ -76,7 +76,7 @@ regalar:
       3s: habrá regalado
       3p: habrán regalado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had given}
       1s: había regalado
@@ -86,7 +86,7 @@ regalar:
       3s: había regalado
       3p: habían regalado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had given}
       1s: hube regalado
@@ -96,7 +96,7 @@ regalar:
       3s: hubo regalado
       3p: hubieron regalado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have given}
       1s: habría regalado
@@ -106,7 +106,7 @@ regalar:
       3s: habría regalado
       3p: habrían regalado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I give, am giving'}
       1s: regale
@@ -116,7 +116,7 @@ regalar:
       3s: regale
       3p: regalen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I gave, was giving'}
       1s: regalara
@@ -126,7 +126,7 @@ regalar:
       3s: regalara
       3p: regalaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will give}
       1s: regalare
@@ -136,7 +136,7 @@ regalar:
       3s: regalare
       3p: regalaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have given, gave'}
       1s: haya regalado
@@ -146,7 +146,7 @@ regalar:
       3s: haya regalado
       3p: hayan regalado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have given}
       1s: hubiere regalado
@@ -156,7 +156,7 @@ regalar:
       3s: hubiere regalado
       3p: hubieren regalado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had given}
       1s: hubiera regalado
@@ -166,7 +166,7 @@ regalar:
       3s: hubiera regalado
       3p: hubieran regalado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Give! Don't give!}
       1s: ''
@@ -176,7 +176,7 @@ regalar:
       3s: regalad
       3p: regalen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Give! Don't give!}
       1s: ''

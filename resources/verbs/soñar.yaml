@@ -5,7 +5,7 @@ soñar:
   definitions: {en: to dream}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I dream, am dreaming'}
       1s: sueño
@@ -15,7 +15,7 @@ soñar:
       3s: sueña
       3p: sueñan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will dream}
       1s: soñaré
@@ -25,7 +25,7 @@ soñar:
       3s: soñará
       3p: soñarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was dreaming, used to dream, dreamed'}
       1s: soñaba
@@ -35,7 +35,7 @@ soñar:
       3s: soñaba
       3p: soñaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I dreamed}
       1s: soñé
@@ -45,7 +45,7 @@ soñar:
       3s: soñó
       3p: soñaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would dream}
       1s: soñaría
@@ -55,7 +55,7 @@ soñar:
       3s: soñaría
       3p: soñarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have dreamed}
       1s: he soñado
@@ -65,7 +65,7 @@ soñar:
       3s: ha soñado
       3p: han soñado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have dreamed}
       1s: habré soñado
@@ -75,7 +75,7 @@ soñar:
       3s: habrá soñado
       3p: habrán soñado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had dreamed}
       1s: había soñado
@@ -85,7 +85,7 @@ soñar:
       3s: había soñado
       3p: habían soñado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had dreamed}
       1s: hube soñado
@@ -95,7 +95,7 @@ soñar:
       3s: hubo soñado
       3p: hubieron soñado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have dreamed}
       1s: habría soñado
@@ -105,7 +105,7 @@ soñar:
       3s: habría soñado
       3p: habrían soñado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I dream, am dreaming'}
       1s: sueñe
@@ -115,7 +115,7 @@ soñar:
       3s: sueñe
       3p: sueñen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I dreamed, was dreaming'}
       1s: soñara
@@ -125,7 +125,7 @@ soñar:
       3s: soñara
       3p: soñaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will dream}
       1s: soñare
@@ -135,7 +135,7 @@ soñar:
       3s: soñare
       3p: soñaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have dreamed, dreamed'}
       1s: haya soñado
@@ -145,7 +145,7 @@ soñar:
       3s: haya soñado
       3p: hayan soñado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have dreamed}
       1s: hubiere soñado
@@ -155,7 +155,7 @@ soñar:
       3s: hubiere soñado
       3p: hubieren soñado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had dreamed}
       1s: hubiera soñado
@@ -165,7 +165,7 @@ soñar:
       3s: hubiera soñado
       3p: hubieran soñado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Dream! Don't dream!}
       1s: ''
@@ -175,7 +175,7 @@ soñar:
       3s: soñad
       3p: sueñen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Dream! Don't dream!}
       1s: ''

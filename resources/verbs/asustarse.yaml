@@ -5,7 +5,7 @@ asustarse:
   definitions: {en: 'to be frightened [oneself]'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I am frightened, am being frightened'}
       1s: me asusto
@@ -15,7 +15,7 @@ asustarse:
       3s: se asusta
       3p: se asustan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will be frightened}
       1s: me asustaré
@@ -25,7 +25,7 @@ asustarse:
       3s: se asustará
       3p: se asustarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was being frightened, used to be frightened, was frightened'}
       1s: me asustaba
@@ -35,7 +35,7 @@ asustarse:
       3s: se asustaba
       3p: se asustaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I was frightened}
       1s: me asusté
@@ -45,7 +45,7 @@ asustarse:
       3s: se asustó
       3p: se asustaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would be frightened}
       1s: me asustaría
@@ -55,7 +55,7 @@ asustarse:
       3s: se asustaría
       3p: se asustarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have been frightened}
       1s: me he asustado
@@ -65,7 +65,7 @@ asustarse:
       3s: se ha asustado
       3p: se han asustado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have been frightened}
       1s: me habré asustado
@@ -75,7 +75,7 @@ asustarse:
       3s: se habrá asustado
       3p: se habrán asustado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had been frightened}
       1s: me había asustado
@@ -85,7 +85,7 @@ asustarse:
       3s: se había asustado
       3p: se habían asustado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had been frightened}
       1s: me hube asustado
@@ -95,7 +95,7 @@ asustarse:
       3s: se hubo asustado
       3p: se hubieron asustado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have been frightened}
       1s: me habría asustado
@@ -105,7 +105,7 @@ asustarse:
       3s: se habría asustado
       3p: se habrían asustado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I am frightened, am being frightened'}
       1s: me asuste
@@ -115,7 +115,7 @@ asustarse:
       3s: se asuste
       3p: se asusten
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I was frightened, was being frightened'}
       1s: me asustara
@@ -125,7 +125,7 @@ asustarse:
       3s: se asustara
       3p: se asustaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will be frightened}
       1s: me asustare
@@ -135,7 +135,7 @@ asustarse:
       3s: se asustare
       3p: se asustaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have been frightened, was frightened'}
       1s: me haya asustado
@@ -145,7 +145,7 @@ asustarse:
       3s: se haya asustado
       3p: se hayan asustado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have been frightened}
       1s: me hubiere asustado
@@ -155,7 +155,7 @@ asustarse:
       3s: se hubiere asustado
       3p: se hubieren asustado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had been frightened}
       1s: me hubiera asustado
@@ -165,7 +165,7 @@ asustarse:
       3s: se hubiera asustado
       3p: se hubieran asustado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Be frightened! Don't be frightened!}
       1s: ''
@@ -175,7 +175,7 @@ asustarse:
       3s: asustaos
       3p: asústense
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Be frightened! Don't be frightened!}
       1s: ''

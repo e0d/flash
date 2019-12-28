@@ -5,7 +5,7 @@ pensar:
   definitions: {en: to think}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I think, am thinking'}
       1s: pienso
@@ -15,7 +15,7 @@ pensar:
       3s: piensa
       3p: piensan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will think}
       1s: pensaré
@@ -25,7 +25,7 @@ pensar:
       3s: pensará
       3p: pensarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was thinking, used to think, thought'}
       1s: pensaba
@@ -35,7 +35,7 @@ pensar:
       3s: pensaba
       3p: pensaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I thought}
       1s: pensé
@@ -45,7 +45,7 @@ pensar:
       3s: pensó
       3p: pensaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would think}
       1s: pensaría
@@ -55,7 +55,7 @@ pensar:
       3s: pensaría
       3p: pensarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have thought}
       1s: he pensado
@@ -65,7 +65,7 @@ pensar:
       3s: ha pensado
       3p: han pensado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have thought}
       1s: habré pensado
@@ -75,7 +75,7 @@ pensar:
       3s: habrá pensado
       3p: habrán pensado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had thought}
       1s: había pensado
@@ -85,7 +85,7 @@ pensar:
       3s: había pensado
       3p: habían pensado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had thought}
       1s: hube pensado
@@ -95,7 +95,7 @@ pensar:
       3s: hubo pensado
       3p: hubieron pensado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have thought}
       1s: habría pensado
@@ -105,7 +105,7 @@ pensar:
       3s: habría pensado
       3p: habrían pensado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I think, am thinking'}
       1s: piense
@@ -115,7 +115,7 @@ pensar:
       3s: piense
       3p: piensen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I thought, was thinking'}
       1s: pensara
@@ -125,7 +125,7 @@ pensar:
       3s: pensara
       3p: pensaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will think}
       1s: pensare
@@ -135,7 +135,7 @@ pensar:
       3s: pensare
       3p: pensaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have thought, thought'}
       1s: haya pensado
@@ -145,7 +145,7 @@ pensar:
       3s: haya pensado
       3p: hayan pensado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have thought}
       1s: hubiere pensado
@@ -155,7 +155,7 @@ pensar:
       3s: hubiere pensado
       3p: hubieren pensado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had thought}
       1s: hubiera pensado
@@ -165,7 +165,7 @@ pensar:
       3s: hubiera pensado
       3p: hubieran pensado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Think! Don't think!}
       1s: ''
@@ -175,7 +175,7 @@ pensar:
       3s: pensad
       3p: piensen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Think! Don't think!}
       1s: ''

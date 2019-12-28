@@ -5,7 +5,7 @@ llegar:
   definitions: {en: 'to arrive, come, reach; to bring up, bring over; to gather together'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I arrive, am arriving'}
       1s: llego
@@ -15,7 +15,7 @@ llegar:
       3s: llega
       3p: llegan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will arrive}
       1s: llegaré
@@ -25,7 +25,7 @@ llegar:
       3s: llegará
       3p: llegarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was arriving, used to arrive, arrived'}
       1s: llegaba
@@ -35,7 +35,7 @@ llegar:
       3s: llegaba
       3p: llegaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I arrived}
       1s: llegué
@@ -45,7 +45,7 @@ llegar:
       3s: llegó
       3p: llegaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would arrive}
       1s: llegaría
@@ -55,7 +55,7 @@ llegar:
       3s: llegaría
       3p: llegarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have arrived}
       1s: he llegado
@@ -65,7 +65,7 @@ llegar:
       3s: ha llegado
       3p: han llegado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have arrived}
       1s: habré llegado
@@ -75,7 +75,7 @@ llegar:
       3s: habrá llegado
       3p: habrán llegado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had arrived}
       1s: había llegado
@@ -85,7 +85,7 @@ llegar:
       3s: había llegado
       3p: habían llegado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had arrived}
       1s: hube llegado
@@ -95,7 +95,7 @@ llegar:
       3s: hubo llegado
       3p: hubieron llegado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have arrived}
       1s: habría llegado
@@ -105,7 +105,7 @@ llegar:
       3s: habría llegado
       3p: habrían llegado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I arrive, am arriving'}
       1s: llegue
@@ -115,7 +115,7 @@ llegar:
       3s: llegue
       3p: lleguen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I arrived, was arriving'}
       1s: llegara
@@ -125,7 +125,7 @@ llegar:
       3s: llegara
       3p: llegaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will arrive}
       1s: llegare
@@ -135,7 +135,7 @@ llegar:
       3s: llegare
       3p: llegaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have arrived, arrived'}
       1s: haya llegado
@@ -145,7 +145,7 @@ llegar:
       3s: haya llegado
       3p: hayan llegado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have arrived}
       1s: hubiere llegado
@@ -155,7 +155,7 @@ llegar:
       3s: hubiere llegado
       3p: hubieren llegado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had arrived}
       1s: hubiera llegado
@@ -165,7 +165,7 @@ llegar:
       3s: hubiera llegado
       3p: hubieran llegado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Arrive! Don't arrive!}
       1s: ''
@@ -175,7 +175,7 @@ llegar:
       3s: llegad
       3p: lleguen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Arrive! Don't arrive!}
       1s: ''

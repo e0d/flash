@@ -5,7 +5,7 @@ ladrar:
   definitions: {en: to bark}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I bark, am barking'}
       1s: ladro
@@ -15,7 +15,7 @@ ladrar:
       3s: ladra
       3p: ladran
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will bark}
       1s: ladraré
@@ -25,7 +25,7 @@ ladrar:
       3s: ladrará
       3p: ladrarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was barking, used to bark, barked'}
       1s: ladraba
@@ -35,7 +35,7 @@ ladrar:
       3s: ladraba
       3p: ladraban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I barked}
       1s: ladré
@@ -45,7 +45,7 @@ ladrar:
       3s: ladró
       3p: ladraron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would bark}
       1s: ladraría
@@ -55,7 +55,7 @@ ladrar:
       3s: ladraría
       3p: ladrarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have barked}
       1s: he ladrado
@@ -65,7 +65,7 @@ ladrar:
       3s: ha ladrado
       3p: han ladrado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have barked}
       1s: habré ladrado
@@ -75,7 +75,7 @@ ladrar:
       3s: habrá ladrado
       3p: habrán ladrado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had barked}
       1s: había ladrado
@@ -85,7 +85,7 @@ ladrar:
       3s: había ladrado
       3p: habían ladrado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had barked}
       1s: hube ladrado
@@ -95,7 +95,7 @@ ladrar:
       3s: hubo ladrado
       3p: hubieron ladrado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have barked}
       1s: habría ladrado
@@ -105,7 +105,7 @@ ladrar:
       3s: habría ladrado
       3p: habrían ladrado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I bark, am barking'}
       1s: ladre
@@ -115,7 +115,7 @@ ladrar:
       3s: ladre
       3p: ladren
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I barked, was barking'}
       1s: ladrara
@@ -125,7 +125,7 @@ ladrar:
       3s: ladrara
       3p: ladraran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will bark}
       1s: ladrare
@@ -135,7 +135,7 @@ ladrar:
       3s: ladrare
       3p: ladraren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have barked, barked'}
       1s: haya ladrado
@@ -145,7 +145,7 @@ ladrar:
       3s: haya ladrado
       3p: hayan ladrado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have barked}
       1s: hubiere ladrado
@@ -155,7 +155,7 @@ ladrar:
       3s: hubiere ladrado
       3p: hubieren ladrado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had barked}
       1s: hubiera ladrado
@@ -165,7 +165,7 @@ ladrar:
       3s: hubiera ladrado
       3p: hubieran ladrado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Bark! Don't bark!}
       1s: ''
@@ -175,7 +175,7 @@ ladrar:
       3s: ladrad
       3p: ladren
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Bark! Don't bark!}
       1s: ''

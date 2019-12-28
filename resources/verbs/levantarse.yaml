@@ -5,7 +5,7 @@ levantarse:
   definitions: {en: to get up}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I get up, am getting up'}
       1s: me levanto
@@ -15,7 +15,7 @@ levantarse:
       3s: se levanta
       3p: se levantan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will get up}
       1s: me levantaré
@@ -25,7 +25,7 @@ levantarse:
       3s: se levantará
       3p: se levantarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was getting up, used to get up, got up'}
       1s: me levantaba
@@ -35,7 +35,7 @@ levantarse:
       3s: se levantaba
       3p: se levantaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I got up}
       1s: me levanté
@@ -45,7 +45,7 @@ levantarse:
       3s: se levantó
       3p: se levantaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would get up}
       1s: me levantaría
@@ -55,7 +55,7 @@ levantarse:
       3s: se levantaría
       3p: se levantarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have gotten up}
       1s: me he levantado
@@ -65,7 +65,7 @@ levantarse:
       3s: se ha levantado
       3p: se han levantado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have gotten up}
       1s: me habré levantado
@@ -75,7 +75,7 @@ levantarse:
       3s: se habrá levantado
       3p: se habrán levantado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had gotten up}
       1s: me había levantado
@@ -85,7 +85,7 @@ levantarse:
       3s: se había levantado
       3p: se habían levantado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had gotten up}
       1s: me hube levantado
@@ -95,7 +95,7 @@ levantarse:
       3s: se hubo levantado
       3p: se hubieron levantado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have gotten up}
       1s: me habría levantado
@@ -105,7 +105,7 @@ levantarse:
       3s: se habría levantado
       3p: se habrían levantado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I get up, am getting up'}
       1s: me levante
@@ -115,7 +115,7 @@ levantarse:
       3s: se levante
       3p: se levanten
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I got up, was getting up'}
       1s: me levantara
@@ -125,7 +125,7 @@ levantarse:
       3s: se levantara
       3p: se levantaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will get up}
       1s: me levantare
@@ -135,7 +135,7 @@ levantarse:
       3s: se levantare
       3p: se levantaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have gotten up, got up'}
       1s: me haya levantado
@@ -145,7 +145,7 @@ levantarse:
       3s: se haya levantado
       3p: se hayan levantado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have gotten up}
       1s: me hubiere levantado
@@ -155,7 +155,7 @@ levantarse:
       3s: se hubiere levantado
       3p: se hubieren levantado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had gotten up}
       1s: me hubiera levantado
@@ -165,7 +165,7 @@ levantarse:
       3s: se hubiera levantado
       3p: se hubieran levantado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Get up! Don't get up!}
       1s: ''
@@ -175,7 +175,7 @@ levantarse:
       3s: levantaos
       3p: levántense
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Get up! Don't get up!}
       1s: ''

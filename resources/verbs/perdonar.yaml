@@ -5,7 +5,7 @@ perdonar:
   definitions: {en: 'to forgive, pardon, excuse'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I forgive, am forgiving'}
       1s: perdono
@@ -15,7 +15,7 @@ perdonar:
       3s: perdona
       3p: perdonan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will forgive}
       1s: perdonaré
@@ -25,7 +25,7 @@ perdonar:
       3s: perdonará
       3p: perdonarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was forgiving, used to forgive, forgave'}
       1s: perdonaba
@@ -35,7 +35,7 @@ perdonar:
       3s: perdonaba
       3p: perdonaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I forgave}
       1s: perdoné
@@ -45,7 +45,7 @@ perdonar:
       3s: perdonó
       3p: perdonaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would forgive}
       1s: perdonaría
@@ -55,7 +55,7 @@ perdonar:
       3s: perdonaría
       3p: perdonarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have forgiven}
       1s: he perdonado
@@ -65,7 +65,7 @@ perdonar:
       3s: ha perdonado
       3p: han perdonado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have forgiven}
       1s: habré perdonado
@@ -75,7 +75,7 @@ perdonar:
       3s: habrá perdonado
       3p: habrán perdonado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had forgiven}
       1s: había perdonado
@@ -85,7 +85,7 @@ perdonar:
       3s: había perdonado
       3p: habían perdonado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had forgiven}
       1s: hube perdonado
@@ -95,7 +95,7 @@ perdonar:
       3s: hubo perdonado
       3p: hubieron perdonado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have forgiven}
       1s: habría perdonado
@@ -105,7 +105,7 @@ perdonar:
       3s: habría perdonado
       3p: habrían perdonado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I forgive, am forgiving'}
       1s: perdone
@@ -115,7 +115,7 @@ perdonar:
       3s: perdone
       3p: perdonen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I forgave, was forgiving'}
       1s: perdonara
@@ -125,7 +125,7 @@ perdonar:
       3s: perdonara
       3p: perdonaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will forgive}
       1s: perdonare
@@ -135,7 +135,7 @@ perdonar:
       3s: perdonare
       3p: perdonaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have forgiven, forgave'}
       1s: haya perdonado
@@ -145,7 +145,7 @@ perdonar:
       3s: haya perdonado
       3p: hayan perdonado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have forgiven}
       1s: hubiere perdonado
@@ -155,7 +155,7 @@ perdonar:
       3s: hubiere perdonado
       3p: hubieren perdonado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had forgiven}
       1s: hubiera perdonado
@@ -165,7 +165,7 @@ perdonar:
       3s: hubiera perdonado
       3p: hubieran perdonado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Forgive! Don't forgive!}
       1s: ''
@@ -175,7 +175,7 @@ perdonar:
       3s: perdonad
       3p: perdonen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Forgive! Don't forgive!}
       1s: ''

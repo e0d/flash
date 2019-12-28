@@ -5,7 +5,7 @@ matar:
   definitions: {en: 'to kill, slay, slaughter'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I kill, am killing'}
       1s: mato
@@ -15,7 +15,7 @@ matar:
       3s: mata
       3p: matan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will kill}
       1s: mataré
@@ -25,7 +25,7 @@ matar:
       3s: matará
       3p: matarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was killing, used to kill, killed'}
       1s: mataba
@@ -35,7 +35,7 @@ matar:
       3s: mataba
       3p: mataban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I killed}
       1s: maté
@@ -45,7 +45,7 @@ matar:
       3s: mató
       3p: mataron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would kill}
       1s: mataría
@@ -55,7 +55,7 @@ matar:
       3s: mataría
       3p: matarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have killed}
       1s: he matado
@@ -65,7 +65,7 @@ matar:
       3s: ha matado
       3p: han matado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have killed}
       1s: habré matado
@@ -75,7 +75,7 @@ matar:
       3s: habrá matado
       3p: habrán matado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had killed}
       1s: había matado
@@ -85,7 +85,7 @@ matar:
       3s: había matado
       3p: habían matado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had killed}
       1s: hube matado
@@ -95,7 +95,7 @@ matar:
       3s: hubo matado
       3p: hubieron matado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have killed}
       1s: habría matado
@@ -105,7 +105,7 @@ matar:
       3s: habría matado
       3p: habrían matado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I kill, am killing'}
       1s: mate
@@ -115,7 +115,7 @@ matar:
       3s: mate
       3p: maten
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I killed, was killing'}
       1s: matara
@@ -125,7 +125,7 @@ matar:
       3s: matara
       3p: mataran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will kill}
       1s: matare
@@ -135,7 +135,7 @@ matar:
       3s: matare
       3p: mataren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have killed, killed'}
       1s: haya matado
@@ -145,7 +145,7 @@ matar:
       3s: haya matado
       3p: hayan matado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have killed}
       1s: hubiere matado
@@ -155,7 +155,7 @@ matar:
       3s: hubiere matado
       3p: hubieren matado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had killed}
       1s: hubiera matado
@@ -165,7 +165,7 @@ matar:
       3s: hubiera matado
       3p: hubieran matado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Kill! Don't kill!}
       1s: ''
@@ -175,7 +175,7 @@ matar:
       3s: matad
       3p: maten
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Kill! Don't kill!}
       1s: ''

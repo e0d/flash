@@ -5,7 +5,7 @@ evacuar:
   definitions: {en: 'to evacuate, empty'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I evacuate, am evacuating'}
       1s: evacuo
@@ -15,7 +15,7 @@ evacuar:
       3s: evacua
       3p: evacuan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will evacuate}
       1s: evacuaré
@@ -25,7 +25,7 @@ evacuar:
       3s: evacuará
       3p: evacuarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was evacuating, used to evacuate, evacuated'}
       1s: evacuaba
@@ -35,7 +35,7 @@ evacuar:
       3s: evacuaba
       3p: evacuaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I evacuated}
       1s: evacué
@@ -45,7 +45,7 @@ evacuar:
       3s: evacuó
       3p: evacuaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would evacuate}
       1s: evacuaría
@@ -55,7 +55,7 @@ evacuar:
       3s: evacuaría
       3p: evacuarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have evacuated}
       1s: he evacuado
@@ -65,7 +65,7 @@ evacuar:
       3s: ha evacuado
       3p: han evacuado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have evacuated}
       1s: habré evacuado
@@ -75,7 +75,7 @@ evacuar:
       3s: habrá evacuado
       3p: habrán evacuado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had evacuated}
       1s: había evacuado
@@ -85,7 +85,7 @@ evacuar:
       3s: había evacuado
       3p: habían evacuado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had evacuated}
       1s: hube evacuado
@@ -95,7 +95,7 @@ evacuar:
       3s: hubo evacuado
       3p: hubieron evacuado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have evacuated}
       1s: habría evacuado
@@ -105,7 +105,7 @@ evacuar:
       3s: habría evacuado
       3p: habrían evacuado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I evacuate, am evacuating'}
       1s: evacue
@@ -115,7 +115,7 @@ evacuar:
       3s: evacue
       3p: evacuen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I evacuated, was evacuating'}
       1s: evacuara
@@ -125,7 +125,7 @@ evacuar:
       3s: evacuara
       3p: evacuaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will evacuate}
       1s: evacuare
@@ -135,7 +135,7 @@ evacuar:
       3s: evacuare
       3p: evacuaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have evacuated, evacuated'}
       1s: haya evacuado
@@ -145,7 +145,7 @@ evacuar:
       3s: haya evacuado
       3p: hayan evacuado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have evacuated}
       1s: hubiere evacuado
@@ -155,7 +155,7 @@ evacuar:
       3s: hubiere evacuado
       3p: hubieren evacuado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had evacuated}
       1s: hubiera evacuado
@@ -165,7 +165,7 @@ evacuar:
       3s: hubiera evacuado
       3p: hubieran evacuado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Evacuate! Don't evacuate!}
       1s: ''
@@ -175,7 +175,7 @@ evacuar:
       3s: evacuad
       3p: evacuen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Evacuate! Don't evacuate!}
       1s: ''

@@ -5,7 +5,7 @@ vender:
   definitions: {en: to sell}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I sell, am selling'}
       1s: vendo
@@ -15,7 +15,7 @@ vender:
       3s: vende
       3p: venden
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will sell}
       1s: venderé
@@ -25,7 +25,7 @@ vender:
       3s: venderá
       3p: venderán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was selling, used to sell, sold'}
       1s: vendía
@@ -35,7 +35,7 @@ vender:
       3s: vendía
       3p: vendían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I sold}
       1s: vendí
@@ -45,7 +45,7 @@ vender:
       3s: vendió
       3p: vendieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would sell}
       1s: vendería
@@ -55,7 +55,7 @@ vender:
       3s: vendería
       3p: venderían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have sold}
       1s: he vendido
@@ -65,7 +65,7 @@ vender:
       3s: ha vendido
       3p: han vendido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have sold}
       1s: habré vendido
@@ -75,7 +75,7 @@ vender:
       3s: habrá vendido
       3p: habrán vendido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had sold}
       1s: había vendido
@@ -85,7 +85,7 @@ vender:
       3s: había vendido
       3p: habían vendido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had sold}
       1s: hube vendido
@@ -95,7 +95,7 @@ vender:
       3s: hubo vendido
       3p: hubieron vendido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have sold}
       1s: habría vendido
@@ -105,7 +105,7 @@ vender:
       3s: habría vendido
       3p: habrían vendido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I sell, am selling'}
       1s: venda
@@ -115,7 +115,7 @@ vender:
       3s: venda
       3p: vendan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I sold, was selling'}
       1s: vendiera
@@ -125,7 +125,7 @@ vender:
       3s: vendiera
       3p: vendieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will sell}
       1s: vendiere
@@ -135,7 +135,7 @@ vender:
       3s: vendiere
       3p: vendieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have sold, sold'}
       1s: haya vendido
@@ -145,7 +145,7 @@ vender:
       3s: haya vendido
       3p: hayan vendido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have sold}
       1s: hubiere vendido
@@ -155,7 +155,7 @@ vender:
       3s: hubiere vendido
       3p: hubieren vendido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had sold}
       1s: hubiera vendido
@@ -165,7 +165,7 @@ vender:
       3s: hubiera vendido
       3p: hubieran vendido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Sell! Don't sell!}
       1s: ''
@@ -175,7 +175,7 @@ vender:
       3s: vended
       3p: vendan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Sell! Don't sell!}
       1s: ''

@@ -5,7 +5,7 @@ cortar:
   definitions: {en: to cut}
   tenses:
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will cut}
       1s: cortare
@@ -15,7 +15,7 @@ cortar:
       3s: cortare
       3p: cortaren
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I cut, am cutting'}
       1s: corte
@@ -25,7 +25,7 @@ cortar:
       3s: corte
       3p: corten
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I cut, was cutting'}
       1s: cortara
@@ -35,7 +35,7 @@ cortar:
       3s: cortara
       3p: cortaran
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I cut, am cutting'}
       1s: corto
@@ -45,7 +45,7 @@ cortar:
       3s: corta
       3p: cortan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will cut}
       1s: cortaré
@@ -55,7 +55,7 @@ cortar:
       3s: cortará
       3p: cortarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was cutting, used to cut, cut'}
       1s: cortaba
@@ -65,7 +65,7 @@ cortar:
       3s: cortaba
       3p: cortaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I cut}
       1s: corté
@@ -75,7 +75,7 @@ cortar:
       3s: cortó
       3p: cortaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would cut}
       1s: cortaría
@@ -85,7 +85,7 @@ cortar:
       3s: cortaría
       3p: cortarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have cut}
       1s: he cortado
@@ -95,7 +95,7 @@ cortar:
       3s: ha cortado
       3p: han cortado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have cut}
       1s: habré cortado
@@ -105,7 +105,7 @@ cortar:
       3s: habrá cortado
       3p: habrán cortado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had cut}
       1s: había cortado
@@ -115,7 +115,7 @@ cortar:
       3s: había cortado
       3p: habían cortado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had cut}
       1s: hube cortado
@@ -125,7 +125,7 @@ cortar:
       3s: hubo cortado
       3p: hubieron cortado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have cut}
       1s: habría cortado
@@ -135,7 +135,7 @@ cortar:
       3s: habría cortado
       3p: habrían cortado
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have cut, cut'}
       1s: haya cortado
@@ -145,7 +145,7 @@ cortar:
       3s: haya cortado
       3p: hayan cortado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have cut}
       1s: hubiere cortado
@@ -155,7 +155,7 @@ cortar:
       3s: hubiere cortado
       3p: hubieren cortado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had cut}
       1s: hubiera cortado
@@ -165,7 +165,7 @@ cortar:
       3s: hubiera cortado
       3p: hubieran cortado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Cut! Don't cut!}
       1s: ''
@@ -175,7 +175,7 @@ cortar:
       3s: cortad
       3p: corten
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Cut! Don't cut!}
       1s: ''

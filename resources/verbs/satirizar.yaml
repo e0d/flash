@@ -5,7 +5,7 @@ satirizar:
   definitions: {en: to satirize}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I satirize, am satirizing'}
       1s: satirizo
@@ -15,7 +15,7 @@ satirizar:
       3s: satiriza
       3p: satirizan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will satirize}
       1s: satirizaré
@@ -25,7 +25,7 @@ satirizar:
       3s: satirizará
       3p: satirizarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was satirizing, used to satirize, satirized'}
       1s: satirizaba
@@ -35,7 +35,7 @@ satirizar:
       3s: satirizaba
       3p: satirizaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I satirized}
       1s: satiricé
@@ -45,7 +45,7 @@ satirizar:
       3s: satirizó
       3p: satirizaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would satirize}
       1s: satirizaría
@@ -55,7 +55,7 @@ satirizar:
       3s: satirizaría
       3p: satirizarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I have satirized, satirized'}
       1s: he satirizado
@@ -65,7 +65,7 @@ satirizar:
       3s: ha satirizado
       3p: han satirizado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have satirized}
       1s: habré satirizado
@@ -75,7 +75,7 @@ satirizar:
       3s: habrá satirizado
       3p: habrán satirizado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had satirized}
       1s: había satirizado
@@ -85,7 +85,7 @@ satirizar:
       3s: había satirizado
       3p: habían satirizado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had satirized}
       1s: hube satirizado
@@ -95,7 +95,7 @@ satirizar:
       3s: hubo satirizado
       3p: hubieron satirizado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have satirized}
       1s: habría satirizado
@@ -105,7 +105,7 @@ satirizar:
       3s: habría satirizado
       3p: habrían satirizado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I satirize, am satirizing'}
       1s: satirice
@@ -115,7 +115,7 @@ satirizar:
       3s: satirice
       3p: satiricen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I satirized, was satirizing'}
       1s: satirizara
@@ -125,7 +125,7 @@ satirizar:
       3s: satirizara
       3p: satirizaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will satirize}
       1s: satirizare
@@ -135,7 +135,7 @@ satirizar:
       3s: satirizare
       3p: satirizaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have satirized, satirized'}
       1s: haya satirizado
@@ -145,7 +145,7 @@ satirizar:
       3s: haya satirizado
       3p: hayan satirizado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have satirized}
       1s: hubiere satirizado
@@ -155,7 +155,7 @@ satirizar:
       3s: hubiere satirizado
       3p: hubieren satirizado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had satirized}
       1s: hubiera satirizado
@@ -165,7 +165,7 @@ satirizar:
       3s: hubiera satirizado
       3p: hubieran satirizado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Satirize! Don't satirize!}
       1s: ''
@@ -175,7 +175,7 @@ satirizar:
       3s: satirizad
       3p: satiricen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Satirize! Don't satirize!}
       1s: ''

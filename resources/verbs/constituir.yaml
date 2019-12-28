@@ -5,7 +5,7 @@ constituir:
   definitions: {en: to constitute}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I constitute, am constituting'}
       1s: constituyo
@@ -15,7 +15,7 @@ constituir:
       3s: constituye
       3p: constituyen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will constitute}
       1s: constituiré
@@ -25,7 +25,7 @@ constituir:
       3s: constituirá
       3p: constituirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was constituting, used to constitute, constituted'}
       1s: constituía
@@ -35,7 +35,7 @@ constituir:
       3s: constituía
       3p: constituían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I constituted}
       1s: constituí
@@ -45,7 +45,7 @@ constituir:
       3s: constituyó
       3p: constituyeron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would constitute}
       1s: constituiría
@@ -55,7 +55,7 @@ constituir:
       3s: constituiría
       3p: constituirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have constituted}
       1s: he constituido
@@ -65,7 +65,7 @@ constituir:
       3s: ha constituido
       3p: han constituido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have constituted}
       1s: habré constituido
@@ -75,7 +75,7 @@ constituir:
       3s: habrá constituido
       3p: habrán constituido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had constituted}
       1s: había constituido
@@ -85,7 +85,7 @@ constituir:
       3s: había constituido
       3p: habían constituido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had constituted}
       1s: hube constituido
@@ -95,7 +95,7 @@ constituir:
       3s: hubo constituido
       3p: hubieron constituido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have constituted}
       1s: habría constituido
@@ -105,7 +105,7 @@ constituir:
       3s: habría constituido
       3p: habrían constituido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I constitute, am constituting'}
       1s: constituya
@@ -115,7 +115,7 @@ constituir:
       3s: constituya
       3p: constituyan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I constituted, was constituting'}
       1s: constituyera
@@ -125,7 +125,7 @@ constituir:
       3s: constituyera
       3p: constituyeran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will constitute}
       1s: constituyere
@@ -135,7 +135,7 @@ constituir:
       3s: constituyere
       3p: constituyeren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have constituted, constituted'}
       1s: haya constituido
@@ -145,7 +145,7 @@ constituir:
       3s: haya constituido
       3p: hayan constituido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have constituted}
       1s: hubiere constituido
@@ -155,7 +155,7 @@ constituir:
       3s: hubiere constituido
       3p: hubieren constituido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had constituted}
       1s: hubiera constituido
@@ -165,7 +165,7 @@ constituir:
       3s: hubiera constituido
       3p: hubieran constituido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Constitute! Don't constitute!}
       1s: ''
@@ -175,7 +175,7 @@ constituir:
       3s: constituid
       3p: constituyan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Constitute! Don't constitute!}
       1s: ''

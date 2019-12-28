@@ -5,7 +5,7 @@ significar:
   definitions: {en: 'to signify, mean'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I signify, am signifying'}
       1s: significo
@@ -15,7 +15,7 @@ significar:
       3s: significa
       3p: significan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will signify}
       1s: significaré
@@ -25,7 +25,7 @@ significar:
       3s: significará
       3p: significarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was signifying, used to signify, signified'}
       1s: significaba
@@ -35,7 +35,7 @@ significar:
       3s: significaba
       3p: significaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I signified}
       1s: signifiqué
@@ -45,7 +45,7 @@ significar:
       3s: significó
       3p: significaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would signify}
       1s: significaría
@@ -55,7 +55,7 @@ significar:
       3s: significaría
       3p: significarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have signified}
       1s: he significado
@@ -65,7 +65,7 @@ significar:
       3s: ha significado
       3p: han significado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have signified}
       1s: habré significado
@@ -75,7 +75,7 @@ significar:
       3s: habrá significado
       3p: habrán significado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had signified}
       1s: había significado
@@ -85,7 +85,7 @@ significar:
       3s: había significado
       3p: habían significado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had signified}
       1s: hube significado
@@ -95,7 +95,7 @@ significar:
       3s: hubo significado
       3p: hubieron significado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have signified}
       1s: habría significado
@@ -105,7 +105,7 @@ significar:
       3s: habría significado
       3p: habrían significado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I signify, am signifying'}
       1s: signifique
@@ -115,7 +115,7 @@ significar:
       3s: signifique
       3p: signifiquen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I signified, was signifying'}
       1s: significara
@@ -125,7 +125,7 @@ significar:
       3s: significara
       3p: significaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will signify}
       1s: significare
@@ -135,7 +135,7 @@ significar:
       3s: significare
       3p: significaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have signified, signified'}
       1s: haya significado
@@ -145,7 +145,7 @@ significar:
       3s: haya significado
       3p: hayan significado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have signified}
       1s: hubiere significado
@@ -155,7 +155,7 @@ significar:
       3s: hubiere significado
       3p: hubieren significado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had signified}
       1s: hubiera significado
@@ -165,7 +165,7 @@ significar:
       3s: hubiera significado
       3p: hubieran significado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Signify! Don't signify!}
       1s: ''
@@ -175,7 +175,7 @@ significar:
       3s: significad
       3p: signifiquen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Signify! Don't signify!}
       1s: ''

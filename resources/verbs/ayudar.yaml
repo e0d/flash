@@ -5,7 +5,7 @@ ayudar:
   definitions: {en: to help}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I help, am helping'}
       1s: ayudo
@@ -15,7 +15,7 @@ ayudar:
       3s: ayuda
       3p: ayudan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will help}
       1s: ayudaré
@@ -25,7 +25,7 @@ ayudar:
       3s: ayudará
       3p: ayudarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was helping, used to help, helped'}
       1s: ayudaba
@@ -35,7 +35,7 @@ ayudar:
       3s: ayudaba
       3p: ayudaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I helped}
       1s: ayudé
@@ -45,7 +45,7 @@ ayudar:
       3s: ayudó
       3p: ayudaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would help}
       1s: ayudaría
@@ -55,7 +55,7 @@ ayudar:
       3s: ayudaría
       3p: ayudarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have helped}
       1s: he ayudado
@@ -65,7 +65,7 @@ ayudar:
       3s: ha ayudado
       3p: han ayudado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have helped}
       1s: habré ayudado
@@ -75,7 +75,7 @@ ayudar:
       3s: habrá ayudado
       3p: habrán ayudado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had helped}
       1s: había ayudado
@@ -85,7 +85,7 @@ ayudar:
       3s: había ayudado
       3p: habían ayudado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had helped}
       1s: hube ayudado
@@ -95,7 +95,7 @@ ayudar:
       3s: hubo ayudado
       3p: hubieron ayudado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have helped}
       1s: habría ayudado
@@ -105,7 +105,7 @@ ayudar:
       3s: habría ayudado
       3p: habrían ayudado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I help, am helping'}
       1s: ayude
@@ -115,7 +115,7 @@ ayudar:
       3s: ayude
       3p: ayuden
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I helped, was helping'}
       1s: ayudara
@@ -125,7 +125,7 @@ ayudar:
       3s: ayudara
       3p: ayudaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will help}
       1s: ayudare
@@ -135,7 +135,7 @@ ayudar:
       3s: ayudare
       3p: ayudaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have helped, helped'}
       1s: haya ayudado
@@ -145,7 +145,7 @@ ayudar:
       3s: haya ayudado
       3p: hayan ayudado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have helped}
       1s: hubiere ayudado
@@ -155,7 +155,7 @@ ayudar:
       3s: hubiere ayudado
       3p: hubieren ayudado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had helped}
       1s: hubiera ayudado
@@ -165,7 +165,7 @@ ayudar:
       3s: hubiera ayudado
       3p: hubieran ayudado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Help! Don't help!}
       1s: ''
@@ -175,7 +175,7 @@ ayudar:
       3s: ayudad
       3p: ayuden
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Help! Don't help!}
       1s: ''

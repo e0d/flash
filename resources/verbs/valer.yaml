@@ -5,7 +5,7 @@ valer:
   definitions: {en: to be worth}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I am worth}
       1s: valgo
@@ -15,7 +15,7 @@ valer:
       3s: vale
       3p: valen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will be worth}
       1s: valdré
@@ -25,7 +25,7 @@ valer:
       3s: valdrá
       3p: valdrán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I used to be worth, was worth'}
       1s: valía
@@ -35,7 +35,7 @@ valer:
       3s: valía
       3p: valían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I was worth}
       1s: valí
@@ -45,7 +45,7 @@ valer:
       3s: valió
       3p: valieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would be worth}
       1s: valdría
@@ -55,7 +55,7 @@ valer:
       3s: valdría
       3p: valdrían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have been worth}
       1s: he valido
@@ -65,7 +65,7 @@ valer:
       3s: ha valido
       3p: han valido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have been worth}
       1s: habré valido
@@ -75,7 +75,7 @@ valer:
       3s: habrá valido
       3p: habrán valido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had been worth}
       1s: había valido
@@ -85,7 +85,7 @@ valer:
       3s: había valido
       3p: habían valido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had been worth}
       1s: hube valido
@@ -95,7 +95,7 @@ valer:
       3s: hubo valido
       3p: hubieron valido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have been worth}
       1s: habría valido
@@ -105,7 +105,7 @@ valer:
       3s: habría valido
       3p: habrían valido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I am worth}
       1s: valga
@@ -115,7 +115,7 @@ valer:
       3s: valga
       3p: valgan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I was worth}
       1s: valiera
@@ -125,7 +125,7 @@ valer:
       3s: valiera
       3p: valieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will be worth}
       1s: valiere
@@ -135,7 +135,7 @@ valer:
       3s: valiere
       3p: valieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have been worth, was worth'}
       1s: haya valido
@@ -145,7 +145,7 @@ valer:
       3s: haya valido
       3p: hayan valido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have been worth}
       1s: hubiere valido
@@ -155,7 +155,7 @@ valer:
       3s: hubiere valido
       3p: hubieren valido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had been worth}
       1s: hubiera valido
@@ -165,7 +165,7 @@ valer:
       3s: hubiera valido
       3p: hubieran valido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Be worth! Don't be worth!}
       1s: ''
@@ -175,7 +175,7 @@ valer:
       3s: valed
       3p: valgan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Be worth! Don't be worth!}
       1s: ''

@@ -6,7 +6,7 @@ cenar:
       to have for supper [or dinner]'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I eat supper, am eating supper'}
       1s: ceno
@@ -16,7 +16,7 @@ cenar:
       3s: cena
       3p: cenan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will eat supper}
       1s: cenaré
@@ -26,7 +26,7 @@ cenar:
       3s: cenará
       3p: cenarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was eating supper, used to eat supper, ate supper'}
       1s: cenaba
@@ -36,7 +36,7 @@ cenar:
       3s: cenaba
       3p: cenaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I ate supper}
       1s: cené
@@ -46,7 +46,7 @@ cenar:
       3s: cenó
       3p: cenaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would eat supper}
       1s: cenaría
@@ -56,7 +56,7 @@ cenar:
       3s: cenaría
       3p: cenarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have eaten supper}
       1s: he cenado
@@ -66,7 +66,7 @@ cenar:
       3s: ha cenado
       3p: han cenado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have eaten supper}
       1s: habré cenado
@@ -76,7 +76,7 @@ cenar:
       3s: habrá cenado
       3p: habrán cenado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had eaten supper}
       1s: había cenado
@@ -86,7 +86,7 @@ cenar:
       3s: había cenado
       3p: habían cenado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had eaten supper}
       1s: hube cenado
@@ -96,7 +96,7 @@ cenar:
       3s: hubo cenado
       3p: hubieron cenado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have eaten supper}
       1s: habría cenado
@@ -106,7 +106,7 @@ cenar:
       3s: habría cenado
       3p: habrían cenado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I eat supper, am eating supper'}
       1s: cene
@@ -116,7 +116,7 @@ cenar:
       3s: cene
       3p: cenen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I ate supper, was eating supper'}
       1s: cenara
@@ -126,7 +126,7 @@ cenar:
       3s: cenara
       3p: cenaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will eat supper}
       1s: cenare
@@ -136,7 +136,7 @@ cenar:
       3s: cenare
       3p: cenaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have eaten supper, ate supper'}
       1s: haya cenado
@@ -146,7 +146,7 @@ cenar:
       3s: haya cenado
       3p: hayan cenado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have eaten supper}
       1s: hubiere cenado
@@ -156,7 +156,7 @@ cenar:
       3s: hubiere cenado
       3p: hubieren cenado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had eaten supper}
       1s: hubiera cenado
@@ -166,7 +166,7 @@ cenar:
       3s: hubiera cenado
       3p: hubieran cenado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Eat supper! Don't eat supper!}
       1s: ''
@@ -176,7 +176,7 @@ cenar:
       3s: cenad
       3p: cenen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Eat supper! Don't eat supper!}
       1s: ''

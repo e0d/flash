@@ -5,7 +5,7 @@ sacar:
   definitions: {en: 'to take out, stick out'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I take out, am taking out'}
       1s: saco
@@ -15,7 +15,7 @@ sacar:
       3s: saca
       3p: sacan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will take out}
       1s: sacaré
@@ -25,7 +25,7 @@ sacar:
       3s: sacará
       3p: sacarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was taking out, used to take out, took out'}
       1s: sacaba
@@ -35,7 +35,7 @@ sacar:
       3s: sacaba
       3p: sacaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I took out}
       1s: saqué
@@ -45,7 +45,7 @@ sacar:
       3s: sacó
       3p: sacaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would take out}
       1s: sacaría
@@ -55,7 +55,7 @@ sacar:
       3s: sacaría
       3p: sacarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have taken out}
       1s: he sacado
@@ -65,7 +65,7 @@ sacar:
       3s: ha sacado
       3p: han sacado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have taken out}
       1s: habré sacado
@@ -75,7 +75,7 @@ sacar:
       3s: habrá sacado
       3p: habrán sacado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had taken out}
       1s: había sacado
@@ -85,7 +85,7 @@ sacar:
       3s: había sacado
       3p: habían sacado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had taken out}
       1s: hube sacado
@@ -95,7 +95,7 @@ sacar:
       3s: hubo sacado
       3p: hubieron sacado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have taken out}
       1s: habría sacado
@@ -105,7 +105,7 @@ sacar:
       3s: habría sacado
       3p: habrían sacado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I take out, am taking out'}
       1s: saque
@@ -115,7 +115,7 @@ sacar:
       3s: saque
       3p: saquen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I took out, was taking out'}
       1s: sacara
@@ -125,7 +125,7 @@ sacar:
       3s: sacara
       3p: sacaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will take out}
       1s: sacare
@@ -135,7 +135,7 @@ sacar:
       3s: sacare
       3p: sacaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have taken out, took out'}
       1s: haya sacado
@@ -145,7 +145,7 @@ sacar:
       3s: haya sacado
       3p: hayan sacado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have taken out}
       1s: hubiere sacado
@@ -155,7 +155,7 @@ sacar:
       3s: hubiere sacado
       3p: hubieren sacado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had taken out}
       1s: hubiera sacado
@@ -165,7 +165,7 @@ sacar:
       3s: hubiera sacado
       3p: hubieran sacado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Take out! Don't take out!}
       1s: ''
@@ -175,7 +175,7 @@ sacar:
       3s: sacad
       3p: saquen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Take out! Don't take out!}
       1s: ''

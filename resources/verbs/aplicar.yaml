@@ -5,7 +5,7 @@ aplicar:
   definitions: {en: to apply}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I apply, am applying'}
       1s: aplico
@@ -15,7 +15,7 @@ aplicar:
       3s: aplica
       3p: aplican
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will apply}
       1s: aplicaré
@@ -25,7 +25,7 @@ aplicar:
       3s: aplicará
       3p: aplicarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was applying, used to apply, applied'}
       1s: aplicaba
@@ -35,7 +35,7 @@ aplicar:
       3s: aplicaba
       3p: aplicaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I applied}
       1s: apliqué
@@ -45,7 +45,7 @@ aplicar:
       3s: aplicó
       3p: aplicaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would apply}
       1s: aplicaría
@@ -55,7 +55,7 @@ aplicar:
       3s: aplicaría
       3p: aplicarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have applied}
       1s: he aplicado
@@ -65,7 +65,7 @@ aplicar:
       3s: ha aplicado
       3p: han aplicado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have applied}
       1s: habré aplicado
@@ -75,7 +75,7 @@ aplicar:
       3s: habrá aplicado
       3p: habrán aplicado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had applied}
       1s: había aplicado
@@ -85,7 +85,7 @@ aplicar:
       3s: había aplicado
       3p: habían aplicado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had applied}
       1s: hube aplicado
@@ -95,7 +95,7 @@ aplicar:
       3s: hubo aplicado
       3p: hubieron aplicado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have applied}
       1s: habría aplicado
@@ -105,7 +105,7 @@ aplicar:
       3s: habría aplicado
       3p: habrían aplicado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I apply, am applying'}
       1s: aplique
@@ -115,7 +115,7 @@ aplicar:
       3s: aplique
       3p: apliquen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I applied, was applying'}
       1s: aplicara
@@ -125,7 +125,7 @@ aplicar:
       3s: aplicara
       3p: aplicaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will apply}
       1s: aplicare
@@ -135,7 +135,7 @@ aplicar:
       3s: aplicare
       3p: aplicaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have applied, applied'}
       1s: haya aplicado
@@ -145,7 +145,7 @@ aplicar:
       3s: haya aplicado
       3p: hayan aplicado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have applied}
       1s: hubiere aplicado
@@ -155,7 +155,7 @@ aplicar:
       3s: hubiere aplicado
       3p: hubieren aplicado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had applied}
       1s: hubiera aplicado
@@ -165,7 +165,7 @@ aplicar:
       3s: hubiera aplicado
       3p: hubieran aplicado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Apply! Don't apply!}
       1s: ''
@@ -175,7 +175,7 @@ aplicar:
       3s: aplicad
       3p: apliquen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Apply! Don't apply!}
       1s: ''

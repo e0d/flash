@@ -5,7 +5,7 @@ quemar:
   definitions: {en: 'to burn [up], set on fire, scald, scorch; to be burning hot'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I burn, am burning'}
       1s: quemo
@@ -15,7 +15,7 @@ quemar:
       3s: quema
       3p: queman
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will burn}
       1s: quemaré
@@ -25,7 +25,7 @@ quemar:
       3s: quemará
       3p: quemarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was burning, used to burn, burned'}
       1s: quemaba
@@ -35,7 +35,7 @@ quemar:
       3s: quemaba
       3p: quemaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I burned}
       1s: quemé
@@ -45,7 +45,7 @@ quemar:
       3s: quemó
       3p: quemaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would burn}
       1s: quemaría
@@ -55,7 +55,7 @@ quemar:
       3s: quemaría
       3p: quemarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have burned}
       1s: he quemado
@@ -65,7 +65,7 @@ quemar:
       3s: ha quemado
       3p: han quemado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have burned}
       1s: habré quemado
@@ -75,7 +75,7 @@ quemar:
       3s: habrá quemado
       3p: habrán quemado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had burned}
       1s: había quemado
@@ -85,7 +85,7 @@ quemar:
       3s: había quemado
       3p: habían quemado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had burned}
       1s: hube quemado
@@ -95,7 +95,7 @@ quemar:
       3s: hubo quemado
       3p: hubieron quemado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have burned}
       1s: habría quemado
@@ -105,7 +105,7 @@ quemar:
       3s: habría quemado
       3p: habrían quemado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I burn, am burning'}
       1s: queme
@@ -115,7 +115,7 @@ quemar:
       3s: queme
       3p: quemen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I burned, was burning'}
       1s: quemara
@@ -125,7 +125,7 @@ quemar:
       3s: quemara
       3p: quemaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will burn}
       1s: quemare
@@ -135,7 +135,7 @@ quemar:
       3s: quemare
       3p: quemaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have burned, burned'}
       1s: haya quemado
@@ -145,7 +145,7 @@ quemar:
       3s: haya quemado
       3p: hayan quemado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have burned}
       1s: hubiere quemado
@@ -155,7 +155,7 @@ quemar:
       3s: hubiere quemado
       3p: hubieren quemado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had burned}
       1s: hubiera quemado
@@ -165,7 +165,7 @@ quemar:
       3s: hubiera quemado
       3p: hubieran quemado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Burn! Don't burn!}
       1s: ''
@@ -175,7 +175,7 @@ quemar:
       3s: quemad
       3p: quemen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Burn! Don't burn!}
       1s: ''

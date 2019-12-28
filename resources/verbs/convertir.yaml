@@ -5,7 +5,7 @@ convertir:
   definitions: {en: to convert}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I convert, am converting'}
       1s: convierto
@@ -15,7 +15,7 @@ convertir:
       3s: convierte
       3p: convierten
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will convert}
       1s: convertiré
@@ -25,7 +25,7 @@ convertir:
       3s: convertirá
       3p: convertirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was converting, used to convert, converted'}
       1s: convertía
@@ -35,7 +35,7 @@ convertir:
       3s: convertía
       3p: convertían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I converted}
       1s: convertí
@@ -45,7 +45,7 @@ convertir:
       3s: convirtió
       3p: convirtieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would convert}
       1s: convertiría
@@ -55,7 +55,7 @@ convertir:
       3s: convertiría
       3p: convertirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have converted}
       1s: he convertido
@@ -65,7 +65,7 @@ convertir:
       3s: ha convertido
       3p: han convertido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have converted}
       1s: habré convertido
@@ -75,7 +75,7 @@ convertir:
       3s: habrá convertido
       3p: habrán convertido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had converted}
       1s: había convertido
@@ -85,7 +85,7 @@ convertir:
       3s: había convertido
       3p: habían convertido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had converted}
       1s: hube convertido
@@ -95,7 +95,7 @@ convertir:
       3s: hubo convertido
       3p: hubieron convertido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have converted}
       1s: habría convertido
@@ -105,7 +105,7 @@ convertir:
       3s: habría convertido
       3p: habrían convertido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I convert, am converting'}
       1s: convierta
@@ -115,7 +115,7 @@ convertir:
       3s: convierta
       3p: conviertan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I converted, was converting'}
       1s: convirtiera
@@ -125,7 +125,7 @@ convertir:
       3s: convirtiera
       3p: convirtieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will convert}
       1s: convirtiere
@@ -135,7 +135,7 @@ convertir:
       3s: convirtiere
       3p: convirtieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have converted, converted'}
       1s: haya convertido
@@ -145,7 +145,7 @@ convertir:
       3s: haya convertido
       3p: hayan convertido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have converted}
       1s: hubiere convertido
@@ -155,7 +155,7 @@ convertir:
       3s: hubiere convertido
       3p: hubieren convertido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had converted}
       1s: hubiera convertido
@@ -165,7 +165,7 @@ convertir:
       3s: hubiera convertido
       3p: hubieran convertido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Convert! Don't convert!}
       1s: ''
@@ -175,7 +175,7 @@ convertir:
       3s: convertid
       3p: conviertan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Convert! Don't convert!}
       1s: ''

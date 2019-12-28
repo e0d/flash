@@ -5,7 +5,7 @@ abrazar:
   definitions: {en: 'to hug, embrace'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I hug, am hugging'}
       1s: abrazo
@@ -15,7 +15,7 @@ abrazar:
       3s: abraza
       3p: abrazan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will hug}
       1s: abrazaré
@@ -25,7 +25,7 @@ abrazar:
       3s: abrazará
       3p: abrazarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was hugging, used to hug, hugged'}
       1s: abrazaba
@@ -35,7 +35,7 @@ abrazar:
       3s: abrazaba
       3p: abrazaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I hugged}
       1s: abracé
@@ -45,7 +45,7 @@ abrazar:
       3s: abrazó
       3p: abrazaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would hug}
       1s: abrazaría
@@ -55,7 +55,7 @@ abrazar:
       3s: abrazaría
       3p: abrazarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have hugged}
       1s: he abrazado
@@ -65,7 +65,7 @@ abrazar:
       3s: ha abrazado
       3p: han abrazado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have hugged}
       1s: habré abrazado
@@ -75,7 +75,7 @@ abrazar:
       3s: habrá abrazado
       3p: habrán abrazado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had hugged}
       1s: había abrazado
@@ -85,7 +85,7 @@ abrazar:
       3s: había abrazado
       3p: habían abrazado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had hugged}
       1s: hube abrazado
@@ -95,7 +95,7 @@ abrazar:
       3s: hubo abrazado
       3p: hubieron abrazado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have hugged}
       1s: habría abrazado
@@ -105,7 +105,7 @@ abrazar:
       3s: habría abrazado
       3p: habrían abrazado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I hug, am hugging'}
       1s: abrace
@@ -115,7 +115,7 @@ abrazar:
       3s: abrace
       3p: abracen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I hugged, was hugging'}
       1s: abrazara
@@ -125,7 +125,7 @@ abrazar:
       3s: abrazara
       3p: abrazaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will hug}
       1s: abrazare
@@ -135,7 +135,7 @@ abrazar:
       3s: abrazare
       3p: abrazaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have hugged, hugged'}
       1s: haya abrazado
@@ -145,7 +145,7 @@ abrazar:
       3s: haya abrazado
       3p: hayan abrazado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have hugged}
       1s: hubiere abrazado
@@ -155,7 +155,7 @@ abrazar:
       3s: hubiere abrazado
       3p: hubieren abrazado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had hugged}
       1s: hubiera abrazado
@@ -165,7 +165,7 @@ abrazar:
       3s: hubiera abrazado
       3p: hubieran abrazado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Hug! Don't hug!}
       1s: ''
@@ -175,7 +175,7 @@ abrazar:
       3s: abrazad
       3p: abracen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Hug! Don't hug!}
       1s: ''

@@ -5,7 +5,7 @@ fingir:
   definitions: {en: 'to fake, feign, pretend'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I fake, am faking'}
       1s: finjo
@@ -15,7 +15,7 @@ fingir:
       3s: finge
       3p: fingen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will fake}
       1s: fingiré
@@ -25,7 +25,7 @@ fingir:
       3s: fingirá
       3p: fingirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was faking, used to fake, faked'}
       1s: fingía
@@ -35,7 +35,7 @@ fingir:
       3s: fingía
       3p: fingían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I faked}
       1s: fingí
@@ -45,7 +45,7 @@ fingir:
       3s: fingió
       3p: fingieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would fake}
       1s: fingiría
@@ -55,7 +55,7 @@ fingir:
       3s: fingiría
       3p: fingirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have faked}
       1s: he fingido
@@ -65,7 +65,7 @@ fingir:
       3s: ha fingido
       3p: han fingido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have faked}
       1s: habré fingido
@@ -75,7 +75,7 @@ fingir:
       3s: habrá fingido
       3p: habrán fingido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had faked}
       1s: había fingido
@@ -85,7 +85,7 @@ fingir:
       3s: había fingido
       3p: habían fingido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had faked}
       1s: hube fingido
@@ -95,7 +95,7 @@ fingir:
       3s: hubo fingido
       3p: hubieron fingido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have faked}
       1s: habría fingido
@@ -105,7 +105,7 @@ fingir:
       3s: habría fingido
       3p: habrían fingido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I fake, am faking'}
       1s: finja
@@ -115,7 +115,7 @@ fingir:
       3s: finja
       3p: finjan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I faked, was faking'}
       1s: fingiera
@@ -125,7 +125,7 @@ fingir:
       3s: fingiera
       3p: fingieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will fake}
       1s: fingiere
@@ -135,7 +135,7 @@ fingir:
       3s: fingiere
       3p: fingieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have faked, faked'}
       1s: haya fingido
@@ -145,7 +145,7 @@ fingir:
       3s: haya fingido
       3p: hayan fingido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have faked}
       1s: hubiere fingido
@@ -155,7 +155,7 @@ fingir:
       3s: hubiere fingido
       3p: hubieren fingido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had faked}
       1s: hubiera fingido
@@ -165,7 +165,7 @@ fingir:
       3s: hubiera fingido
       3p: hubieran fingido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Fake! Don't fake!}
       1s: ''
@@ -175,7 +175,7 @@ fingir:
       3s: fingid
       3p: finjan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Fake! Don't fake!}
       1s: ''

@@ -1,0 +1,38 @@
+---
+
+echar:
+  infinitive: echar
+  past_participle: echado
+  gerund: echando
+  definition:
+    en: to throw, to cast
+    fr: jeter
+  tenses:
+    - present_indicative:
+        name:
+          en: present indicative
+          es: presente de indicativo
+        sample:
+          en: I throw
+          fr: Je jete
+        1s: echo
+        2s: echas
+        3s: echa
+        1p: echamos
+        2p: echáis
+        3p: echan
+    - preterit:
+        name:
+          en: preterit
+          es: pretérito de indicativo
+        sample:
+          en: I threw
+          fr: "j'ai jeté"
+        1s: eché
+        2s: echaste
+        3s: echó
+        1p: echamos
+        2p: echasteis
+        3p: echaron
+
+          

@@ -5,7 +5,7 @@ prohibir:
   definitions: {en: 'to prohibit, forbid'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I prohibit, am prohibiting'}
       1s: prohíbo
@@ -15,7 +15,7 @@ prohibir:
       3s: prohíbe
       3p: prohíben
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will prohibit}
       1s: prohibiré
@@ -25,7 +25,7 @@ prohibir:
       3s: prohibirá
       3p: prohibirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was prohibiting, used to prohibit, prohibited'}
       1s: prohibía
@@ -35,7 +35,7 @@ prohibir:
       3s: prohibía
       3p: prohibían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I prohibited}
       1s: prohibí
@@ -45,7 +45,7 @@ prohibir:
       3s: prohibió
       3p: prohibieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would prohibit}
       1s: prohibiría
@@ -55,7 +55,7 @@ prohibir:
       3s: prohibiría
       3p: prohibirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have prohibited}
       1s: he prohibido
@@ -65,7 +65,7 @@ prohibir:
       3s: ha prohibido
       3p: han prohibido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have prohibited}
       1s: habré prohibido
@@ -75,7 +75,7 @@ prohibir:
       3s: habrá prohibido
       3p: habrán prohibido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had prohibited}
       1s: había prohibido
@@ -85,7 +85,7 @@ prohibir:
       3s: había prohibido
       3p: habían prohibido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had prohibited}
       1s: hube prohibido
@@ -95,7 +95,7 @@ prohibir:
       3s: hubo prohibido
       3p: hubieron prohibido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have prohibited}
       1s: habría prohibido
@@ -105,7 +105,7 @@ prohibir:
       3s: habría prohibido
       3p: habrían prohibido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I prohibit, am prohibiting'}
       1s: prohíba
@@ -115,7 +115,7 @@ prohibir:
       3s: prohíba
       3p: prohíban
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I prohibited, was prohibiting'}
       1s: prohibiera
@@ -125,7 +125,7 @@ prohibir:
       3s: prohibiera
       3p: prohibieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will prohibit}
       1s: prohibiere
@@ -135,7 +135,7 @@ prohibir:
       3s: prohibiere
       3p: prohibieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have prohibited, prohibited'}
       1s: haya prohibido
@@ -145,7 +145,7 @@ prohibir:
       3s: haya prohibido
       3p: hayan prohibido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have prohibited}
       1s: hubiere prohibido
@@ -155,7 +155,7 @@ prohibir:
       3s: hubiere prohibido
       3p: hubieren prohibido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had prohibited}
       1s: hubiera prohibido
@@ -165,7 +165,7 @@ prohibir:
       3s: hubiera prohibido
       3p: hubieran prohibido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Prohibit! Don't prohibit!}
       1s: ''
@@ -175,7 +175,7 @@ prohibir:
       3s: prohibid
       3p: prohíban
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Prohibit! Don't prohibit!}
       1s: ''

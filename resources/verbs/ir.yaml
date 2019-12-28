@@ -5,7 +5,7 @@ ir:
   definitions: {en: to go}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I go, am going'}
       1s: voy
@@ -15,7 +15,7 @@ ir:
       3s: va
       3p: van
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will go}
       1s: iré
@@ -25,7 +25,7 @@ ir:
       3s: irá
       3p: irán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was going, used to go, went'}
       1s: iba
@@ -35,7 +35,7 @@ ir:
       3s: iba
       3p: iban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I went}
       1s: fui
@@ -45,7 +45,7 @@ ir:
       3s: fue
       3p: fueron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would go}
       1s: iría
@@ -55,7 +55,7 @@ ir:
       3s: iría
       3p: irían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have gone}
       1s: he ido
@@ -65,7 +65,7 @@ ir:
       3s: ha ido
       3p: han ido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have gone}
       1s: habré ido
@@ -75,7 +75,7 @@ ir:
       3s: habrá ido
       3p: habrán ido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had gone}
       1s: había ido
@@ -85,7 +85,7 @@ ir:
       3s: había ido
       3p: habían ido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had gone}
       1s: hube ido
@@ -95,7 +95,7 @@ ir:
       3s: hubo ido
       3p: hubieron ido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have gone}
       1s: habría ido
@@ -105,7 +105,7 @@ ir:
       3s: habría ido
       3p: habrían ido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I go, am going'}
       1s: vaya
@@ -115,7 +115,7 @@ ir:
       3s: vaya
       3p: vayan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I went, was going'}
       1s: fuera
@@ -125,7 +125,7 @@ ir:
       3s: fuera
       3p: fueran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will go}
       1s: fuere
@@ -135,7 +135,7 @@ ir:
       3s: fuere
       3p: fueren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have gone, went'}
       1s: haya ido
@@ -145,7 +145,7 @@ ir:
       3s: haya ido
       3p: hayan ido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have gone}
       1s: hubiere ido
@@ -155,7 +155,7 @@ ir:
       3s: hubiere ido
       3p: hubieren ido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had gone}
       1s: hubiera ido
@@ -165,7 +165,7 @@ ir:
       3s: hubiera ido
       3p: hubieran ido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Go! Don't go!}
       1s: ''
@@ -175,7 +175,7 @@ ir:
       3s: id
       3p: vayan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Go! Don't go!}
       1s: ''

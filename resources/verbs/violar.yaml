@@ -5,7 +5,7 @@ violar:
   definitions: {en: to violate; to rape}
   tenses:
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Violate! Don't violate!}
       1s: ''
@@ -15,7 +15,7 @@ violar:
       3s: violad
       3p: violen
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I violate, am violating'}
       1s: violo
@@ -25,7 +25,7 @@ violar:
       3s: viola
       3p: violan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will violate}
       1s: violaré
@@ -35,7 +35,7 @@ violar:
       3s: violará
       3p: violarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was violating, used to violate, violated'}
       1s: violaba
@@ -45,7 +45,7 @@ violar:
       3s: violaba
       3p: violaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I violated}
       1s: violé
@@ -55,7 +55,7 @@ violar:
       3s: violó
       3p: violaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would violate}
       1s: violaría
@@ -65,7 +65,7 @@ violar:
       3s: violaría
       3p: violarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have violated}
       1s: he violado
@@ -75,7 +75,7 @@ violar:
       3s: ha violado
       3p: han violado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have violated}
       1s: habré violado
@@ -85,7 +85,7 @@ violar:
       3s: habrá violado
       3p: habrán violado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had violated}
       1s: había violado
@@ -95,7 +95,7 @@ violar:
       3s: había violado
       3p: habían violado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had violated}
       1s: hube violado
@@ -105,7 +105,7 @@ violar:
       3s: hubo violado
       3p: hubieron violado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have violated}
       1s: habría violado
@@ -115,7 +115,7 @@ violar:
       3s: habría violado
       3p: habrían violado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I violate, am violating'}
       1s: viole
@@ -125,7 +125,7 @@ violar:
       3s: viole
       3p: violen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I violated, was violating'}
       1s: violara
@@ -135,7 +135,7 @@ violar:
       3s: violara
       3p: violaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will violate}
       1s: violare
@@ -145,7 +145,7 @@ violar:
       3s: violare
       3p: violaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have violated, violated'}
       1s: haya violado
@@ -155,7 +155,7 @@ violar:
       3s: haya violado
       3p: hayan violado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have violated}
       1s: hubiere violado
@@ -165,7 +165,7 @@ violar:
       3s: hubiere violado
       3p: hubieren violado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had violated}
       1s: hubiera violado
@@ -175,7 +175,7 @@ violar:
       3s: hubiera violado
       3p: hubieran violado
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Violate! Don't violate!}
       1s: ''

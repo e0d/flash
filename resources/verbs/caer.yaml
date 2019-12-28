@@ -5,7 +5,7 @@ caer:
   definitions: {en: to fall}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I fall, am falling'}
       1s: caigo
@@ -15,7 +15,7 @@ caer:
       3s: cae
       3p: caen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will fall}
       1s: caeré
@@ -25,7 +25,7 @@ caer:
       3s: caerá
       3p: caerán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was falling, used to fall, fell'}
       1s: caía
@@ -35,7 +35,7 @@ caer:
       3s: caía
       3p: caían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I fell}
       1s: caí
@@ -45,7 +45,7 @@ caer:
       3s: cayó
       3p: cayeron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would fall}
       1s: caería
@@ -55,7 +55,7 @@ caer:
       3s: caería
       3p: caerían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have fallen}
       1s: he caído
@@ -65,7 +65,7 @@ caer:
       3s: ha caído
       3p: han caído
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have fallen}
       1s: habré caído
@@ -75,7 +75,7 @@ caer:
       3s: habrá caído
       3p: habrán caído
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had fallen}
       1s: había caído
@@ -85,7 +85,7 @@ caer:
       3s: había caído
       3p: habían caído
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had fallen}
       1s: hube caído
@@ -95,7 +95,7 @@ caer:
       3s: hubo caído
       3p: hubieron caído
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have fallen}
       1s: habría caído
@@ -105,7 +105,7 @@ caer:
       3s: habría caído
       3p: habrían caído
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I fall, am falling'}
       1s: caiga
@@ -115,7 +115,7 @@ caer:
       3s: caiga
       3p: caigan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I fell, was falling'}
       1s: cayera
@@ -125,7 +125,7 @@ caer:
       3s: cayera
       3p: cayeran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will fall}
       1s: cayere
@@ -135,7 +135,7 @@ caer:
       3s: cayere
       3p: cayeren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have fallen, fell'}
       1s: haya caído
@@ -145,7 +145,7 @@ caer:
       3s: haya caído
       3p: hayan caído
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have fallen}
       1s: hubiere caído
@@ -155,7 +155,7 @@ caer:
       3s: hubiere caído
       3p: hubieren caído
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had fallen}
       1s: hubiera caído
@@ -165,7 +165,7 @@ caer:
       3s: hubiera caído
       3p: hubieran caído
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Fall! Don't fall!}
       1s: ''
@@ -175,7 +175,7 @@ caer:
       3s: caed
       3p: caigan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Fall! Don't fall!}
       1s: ''

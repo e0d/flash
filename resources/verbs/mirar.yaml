@@ -5,7 +5,7 @@ mirar:
   definitions: {en: 'to watch, look at'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I watch, am watching'}
       1s: miro
@@ -15,7 +15,7 @@ mirar:
       3s: mira
       3p: miran
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will watch}
       1s: miraré
@@ -25,7 +25,7 @@ mirar:
       3s: mirará
       3p: mirarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was watching, used to watch, watched'}
       1s: miraba
@@ -35,7 +35,7 @@ mirar:
       3s: miraba
       3p: miraban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I watched}
       1s: miré
@@ -45,7 +45,7 @@ mirar:
       3s: miró
       3p: miraron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would watch}
       1s: miraría
@@ -55,7 +55,7 @@ mirar:
       3s: miraría
       3p: mirarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have watched}
       1s: he mirado
@@ -65,7 +65,7 @@ mirar:
       3s: ha mirado
       3p: han mirado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have watched}
       1s: habré mirado
@@ -75,7 +75,7 @@ mirar:
       3s: habrá mirado
       3p: habrán mirado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had watched}
       1s: había mirado
@@ -85,7 +85,7 @@ mirar:
       3s: había mirado
       3p: habían mirado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had watched}
       1s: hube mirado
@@ -95,7 +95,7 @@ mirar:
       3s: hubo mirado
       3p: hubieron mirado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have watched}
       1s: habría mirado
@@ -105,7 +105,7 @@ mirar:
       3s: habría mirado
       3p: habrían mirado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I watch, am watching'}
       1s: mire
@@ -115,7 +115,7 @@ mirar:
       3s: mire
       3p: miren
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I watched, was watching'}
       1s: mirara
@@ -125,7 +125,7 @@ mirar:
       3s: mirara
       3p: miraran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will watch}
       1s: mirare
@@ -135,7 +135,7 @@ mirar:
       3s: mirare
       3p: miraren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have watched, watched'}
       1s: haya mirado
@@ -145,7 +145,7 @@ mirar:
       3s: haya mirado
       3p: hayan mirado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have watched}
       1s: hubiere mirado
@@ -155,7 +155,7 @@ mirar:
       3s: hubiere mirado
       3p: hubieren mirado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had watched}
       1s: hubiera mirado
@@ -165,7 +165,7 @@ mirar:
       3s: hubiera mirado
       3p: hubieran mirado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Watch! Don't watch!}
       1s: ''
@@ -175,7 +175,7 @@ mirar:
       3s: mirad
       3p: miren
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Watch! Don't watch!}
       1s: ''

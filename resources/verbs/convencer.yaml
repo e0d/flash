@@ -5,7 +5,7 @@ convencer:
   definitions: {en: to convince}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I convince, am convincing'}
       1s: convenzo
@@ -15,7 +15,7 @@ convencer:
       3s: convence
       3p: convencen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will convince}
       1s: convenceré
@@ -25,7 +25,7 @@ convencer:
       3s: convencerá
       3p: convencerán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was convincing, used to convince, convinced'}
       1s: convencía
@@ -35,7 +35,7 @@ convencer:
       3s: convencía
       3p: convencían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I convinced}
       1s: convencí
@@ -45,7 +45,7 @@ convencer:
       3s: convenció
       3p: convencieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would convince}
       1s: convencería
@@ -55,7 +55,7 @@ convencer:
       3s: convencería
       3p: convencerían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have convinced}
       1s: he convencido
@@ -65,7 +65,7 @@ convencer:
       3s: ha convencido
       3p: han convencido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have convinced}
       1s: habré convencido
@@ -75,7 +75,7 @@ convencer:
       3s: habrá convencido
       3p: habrán convencido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had convinced}
       1s: había convencido
@@ -85,7 +85,7 @@ convencer:
       3s: había convencido
       3p: habían convencido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had convinced}
       1s: hube convencido
@@ -95,7 +95,7 @@ convencer:
       3s: hubo convencido
       3p: hubieron convencido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have convinced}
       1s: habría convencido
@@ -105,7 +105,7 @@ convencer:
       3s: habría convencido
       3p: habrían convencido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I convince, am convincing'}
       1s: convenza
@@ -115,7 +115,7 @@ convencer:
       3s: convenza
       3p: convenzan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I convinced, was convincing'}
       1s: convenciera
@@ -125,7 +125,7 @@ convencer:
       3s: convenciera
       3p: convencieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will convince}
       1s: convenciere
@@ -135,7 +135,7 @@ convencer:
       3s: convenciere
       3p: convencieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have convinced, convinced'}
       1s: haya convencido
@@ -145,7 +145,7 @@ convencer:
       3s: haya convencido
       3p: hayan convencido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have convinced}
       1s: hubiere convencido
@@ -155,7 +155,7 @@ convencer:
       3s: hubiere convencido
       3p: hubieren convencido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had convinced}
       1s: hubiera convencido
@@ -165,7 +165,7 @@ convencer:
       3s: hubiera convencido
       3p: hubieran convencido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Convince! Don't convince!}
       1s: ''
@@ -175,7 +175,7 @@ convencer:
       3s: convenced
       3p: convenzan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Convince! Don't convince!}
       1s: ''

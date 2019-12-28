@@ -5,7 +5,7 @@ escuchar:
   definitions: {en: 'to listen to, hear'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I listen to, am listening to'}
       1s: escucho
@@ -15,7 +15,7 @@ escuchar:
       3s: escucha
       3p: escuchan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will listen to}
       1s: escucharé
@@ -25,7 +25,7 @@ escuchar:
       3s: escuchará
       3p: escucharán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was listening to, used to listen to, listened to'}
       1s: escuchaba
@@ -35,7 +35,7 @@ escuchar:
       3s: escuchaba
       3p: escuchaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I listened to}
       1s: escuché
@@ -45,7 +45,7 @@ escuchar:
       3s: escuchó
       3p: escucharon
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would listen to}
       1s: escucharía
@@ -55,7 +55,7 @@ escuchar:
       3s: escucharía
       3p: escucharían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have listened to}
       1s: he escuchado
@@ -65,7 +65,7 @@ escuchar:
       3s: ha escuchado
       3p: han escuchado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have listened to}
       1s: habré escuchado
@@ -75,7 +75,7 @@ escuchar:
       3s: habrá escuchado
       3p: habrán escuchado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had listened to}
       1s: había escuchado
@@ -85,7 +85,7 @@ escuchar:
       3s: había escuchado
       3p: habían escuchado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had listened to}
       1s: hube escuchado
@@ -95,7 +95,7 @@ escuchar:
       3s: hubo escuchado
       3p: hubieron escuchado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have listened to}
       1s: habría escuchado
@@ -105,7 +105,7 @@ escuchar:
       3s: habría escuchado
       3p: habrían escuchado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I listen to, am listening to'}
       1s: escuche
@@ -115,7 +115,7 @@ escuchar:
       3s: escuche
       3p: escuchen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I listened to, was listening to'}
       1s: escuchara
@@ -125,7 +125,7 @@ escuchar:
       3s: escuchara
       3p: escucharan
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will listen to}
       1s: escuchare
@@ -135,7 +135,7 @@ escuchar:
       3s: escuchare
       3p: escucharen
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have listened to, listened to'}
       1s: haya escuchado
@@ -145,7 +145,7 @@ escuchar:
       3s: haya escuchado
       3p: hayan escuchado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have listened to}
       1s: hubiere escuchado
@@ -155,7 +155,7 @@ escuchar:
       3s: hubiere escuchado
       3p: hubieren escuchado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had listened to}
       1s: hubiera escuchado
@@ -165,7 +165,7 @@ escuchar:
       3s: hubiera escuchado
       3p: hubieran escuchado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Listen to! Don't listen to!}
       1s: ''
@@ -175,7 +175,7 @@ escuchar:
       3s: escuchad
       3p: escuchen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Listen to! Don't listen to!}
       1s: ''

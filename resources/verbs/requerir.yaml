@@ -5,7 +5,7 @@ requerir:
   definitions: {en: 'to require, need; to request, ask; to send for, call for'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I require, am requiring'}
       1s: requiero
@@ -15,7 +15,7 @@ requerir:
       3s: requiere
       3p: requieren
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will require}
       1s: requeriré
@@ -25,7 +25,7 @@ requerir:
       3s: requerirá
       3p: requerirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was requiring, used to require, required'}
       1s: requería
@@ -35,7 +35,7 @@ requerir:
       3s: requería
       3p: requerían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I required}
       1s: requerí
@@ -45,7 +45,7 @@ requerir:
       3s: requirió
       3p: requirieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would require}
       1s: requeriría
@@ -55,7 +55,7 @@ requerir:
       3s: requeriría
       3p: requerirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have required}
       1s: he requerido
@@ -65,7 +65,7 @@ requerir:
       3s: ha requerido
       3p: han requerido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have required}
       1s: habré requerido
@@ -75,7 +75,7 @@ requerir:
       3s: habrá requerido
       3p: habrán requerido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had required}
       1s: había requerido
@@ -85,7 +85,7 @@ requerir:
       3s: había requerido
       3p: habían requerido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had required}
       1s: hube requerido
@@ -95,7 +95,7 @@ requerir:
       3s: hubo requerido
       3p: hubieron requerido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have required}
       1s: habría requerido
@@ -105,7 +105,7 @@ requerir:
       3s: habría requerido
       3p: habrían requerido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I require, am requiring'}
       1s: requiera
@@ -115,7 +115,7 @@ requerir:
       3s: requiera
       3p: requieran
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I required, was requiring'}
       1s: requiriera
@@ -125,7 +125,7 @@ requerir:
       3s: requiriera
       3p: requirieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will require}
       1s: requiriere
@@ -135,7 +135,7 @@ requerir:
       3s: requiriere
       3p: requirieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have required, required'}
       1s: haya requerido
@@ -145,7 +145,7 @@ requerir:
       3s: haya requerido
       3p: hayan requerido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have required}
       1s: hubiere requerido
@@ -155,7 +155,7 @@ requerir:
       3s: hubiere requerido
       3p: hubieren requerido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had required}
       1s: hubiera requerido
@@ -165,7 +165,7 @@ requerir:
       3s: hubiera requerido
       3p: hubieran requerido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Require! Don't require!}
       1s: ''
@@ -175,7 +175,7 @@ requerir:
       3s: requerid
       3p: requieran
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Require! Don't require!}
       1s: ''

@@ -5,7 +5,7 @@ necesitar:
   definitions: {en: 'to need, require'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I need, am needing'}
       1s: necesito
@@ -15,7 +15,7 @@ necesitar:
       3s: necesita
       3p: necesitan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will need}
       1s: necesitaré
@@ -25,7 +25,7 @@ necesitar:
       3s: necesitará
       3p: necesitarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was needing, used to need, needed'}
       1s: necesitaba
@@ -35,7 +35,7 @@ necesitar:
       3s: necesitaba
       3p: necesitaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I needed}
       1s: necesité
@@ -45,7 +45,7 @@ necesitar:
       3s: necesitó
       3p: necesitaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would need}
       1s: necesitaría
@@ -55,7 +55,7 @@ necesitar:
       3s: necesitaría
       3p: necesitarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have needed}
       1s: he necesitado
@@ -65,7 +65,7 @@ necesitar:
       3s: ha necesitado
       3p: han necesitado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have needed}
       1s: habré necesitado
@@ -75,7 +75,7 @@ necesitar:
       3s: habrá necesitado
       3p: habrán necesitado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had needed}
       1s: había necesitado
@@ -85,7 +85,7 @@ necesitar:
       3s: había necesitado
       3p: habían necesitado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had needed}
       1s: hube necesitado
@@ -95,7 +95,7 @@ necesitar:
       3s: hubo necesitado
       3p: hubieron necesitado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have needed}
       1s: habría necesitado
@@ -105,7 +105,7 @@ necesitar:
       3s: habría necesitado
       3p: habrían necesitado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I need, am needing'}
       1s: necesite
@@ -115,7 +115,7 @@ necesitar:
       3s: necesite
       3p: necesiten
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I needed, was needing'}
       1s: necesitara
@@ -125,7 +125,7 @@ necesitar:
       3s: necesitara
       3p: necesitaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will need}
       1s: necesitare
@@ -135,7 +135,7 @@ necesitar:
       3s: necesitare
       3p: necesitaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have needed, needed'}
       1s: haya necesitado
@@ -145,7 +145,7 @@ necesitar:
       3s: haya necesitado
       3p: hayan necesitado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have needed}
       1s: hubiere necesitado
@@ -155,7 +155,7 @@ necesitar:
       3s: hubiere necesitado
       3p: hubieren necesitado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had needed}
       1s: hubiera necesitado
@@ -165,7 +165,7 @@ necesitar:
       3s: hubiera necesitado
       3p: hubieran necesitado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Need! Don't need!}
       1s: ''
@@ -175,7 +175,7 @@ necesitar:
       3s: necesitad
       3p: necesiten
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Need! Don't need!}
       1s: ''

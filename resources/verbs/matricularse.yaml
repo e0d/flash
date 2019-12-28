@@ -5,7 +5,7 @@ matricularse:
   definitions: {en: 'to register, enroll, matriculate [oneself]'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I register, am registering'}
       1s: me matriculo
@@ -15,7 +15,7 @@ matricularse:
       3s: se matricula
       3p: se matriculan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will register}
       1s: me matricularé
@@ -25,7 +25,7 @@ matricularse:
       3s: se matriculará
       3p: se matricularán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was registering, used to register, registered'}
       1s: me matriculaba
@@ -35,7 +35,7 @@ matricularse:
       3s: se matriculaba
       3p: se matriculaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I registered}
       1s: me matriculé
@@ -45,7 +45,7 @@ matricularse:
       3s: se matriculó
       3p: se matricularon
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would register}
       1s: me matricularía
@@ -55,7 +55,7 @@ matricularse:
       3s: se matricularía
       3p: se matricularían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have registered}
       1s: me he matriculado
@@ -65,7 +65,7 @@ matricularse:
       3s: se ha matriculado
       3p: se han matriculado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have registered}
       1s: me habré matriculado
@@ -75,7 +75,7 @@ matricularse:
       3s: se habrá matriculado
       3p: se habrán matriculado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had registered}
       1s: me había matriculado
@@ -85,7 +85,7 @@ matricularse:
       3s: se había matriculado
       3p: se habían matriculado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had registered}
       1s: me hube matriculado
@@ -95,7 +95,7 @@ matricularse:
       3s: se hubo matriculado
       3p: se hubieron matriculado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have registered}
       1s: me habría matriculado
@@ -105,7 +105,7 @@ matricularse:
       3s: se habría matriculado
       3p: se habrían matriculado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I register, am registering'}
       1s: me matricule
@@ -115,7 +115,7 @@ matricularse:
       3s: se matricule
       3p: se matriculen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I registered, was registering'}
       1s: me matriculara
@@ -125,7 +125,7 @@ matricularse:
       3s: se matriculara
       3p: se matricularan
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will register}
       1s: me matriculare
@@ -135,7 +135,7 @@ matricularse:
       3s: se matriculare
       3p: se matricularen
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have registered, registered'}
       1s: me haya matriculado
@@ -145,7 +145,7 @@ matricularse:
       3s: se haya matriculado
       3p: se hayan matriculado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have registered}
       1s: me hubiere matriculado
@@ -155,7 +155,7 @@ matricularse:
       3s: se hubiere matriculado
       3p: se hubieren matriculado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had registered}
       1s: me hubiera matriculado
@@ -165,7 +165,7 @@ matricularse:
       3s: se hubiera matriculado
       3p: se hubieran matriculado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Register! Don't register!}
       1s: ''
@@ -175,7 +175,7 @@ matricularse:
       3s: matriculaos
       3p: matricúlense
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Register! Don't register!}
       1s: ''

@@ -5,7 +5,7 @@ helar:
   definitions: {en: 'to freeze, to congeal, to chill'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I freeze, am freezing'}
       1s: hielo
@@ -15,7 +15,7 @@ helar:
       3s: hiela
       3p: hielan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will freeze}
       1s: helaré
@@ -25,7 +25,7 @@ helar:
       3s: helará
       3p: helarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was freezing, used to freeze, froze'}
       1s: helaba
@@ -35,7 +35,7 @@ helar:
       3s: helaba
       3p: helaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I froze}
       1s: helé
@@ -45,7 +45,7 @@ helar:
       3s: heló
       3p: helaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would freeze}
       1s: helaría
@@ -55,7 +55,7 @@ helar:
       3s: helaría
       3p: helarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have frozen}
       1s: he helado
@@ -65,7 +65,7 @@ helar:
       3s: ha helado
       3p: han helado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have frozen}
       1s: habré helado
@@ -75,7 +75,7 @@ helar:
       3s: habrá helado
       3p: habrán helado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had frozen}
       1s: había helado
@@ -85,7 +85,7 @@ helar:
       3s: había helado
       3p: habían helado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had frozen}
       1s: hube helado
@@ -95,7 +95,7 @@ helar:
       3s: hubo helado
       3p: hubieron helado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have frozen}
       1s: habría helado
@@ -105,7 +105,7 @@ helar:
       3s: habría helado
       3p: habrían helado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I freeze, am freezing'}
       1s: hiele
@@ -115,7 +115,7 @@ helar:
       3s: hiele
       3p: hielen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I froze, was freezing'}
       1s: helara
@@ -125,7 +125,7 @@ helar:
       3s: helara
       3p: helaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will freeze}
       1s: helare
@@ -135,7 +135,7 @@ helar:
       3s: helare
       3p: helaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have frozen, froze'}
       1s: haya helado
@@ -145,7 +145,7 @@ helar:
       3s: haya helado
       3p: hayan helado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have frozen}
       1s: hubiere helado
@@ -155,7 +155,7 @@ helar:
       3s: hubiere helado
       3p: hubieren helado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had frozen}
       1s: hubiera helado
@@ -165,7 +165,7 @@ helar:
       3s: hubiera helado
       3p: hubieran helado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Freeze! Don't freeze!}
       1s: ''
@@ -175,7 +175,7 @@ helar:
       3s: helad
       3p: hielen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Freeze! Don't freeze!}
       1s: ''

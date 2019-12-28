@@ -5,7 +5,7 @@ besar:
   definitions: {en: k i s s}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I kiss, am kissing'}
       1s: beso
@@ -15,7 +15,7 @@ besar:
       3s: besa
       3p: besan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will kiss}
       1s: besaré
@@ -25,7 +25,7 @@ besar:
       3s: besará
       3p: besarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was kissing, used to kiss, kissed'}
       1s: besaba
@@ -35,7 +35,7 @@ besar:
       3s: besaba
       3p: besaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I kissed}
       1s: besé
@@ -45,7 +45,7 @@ besar:
       3s: besó
       3p: besaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would kiss}
       1s: besaría
@@ -55,7 +55,7 @@ besar:
       3s: besaría
       3p: besarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have kissed}
       1s: he besado
@@ -65,7 +65,7 @@ besar:
       3s: ha besado
       3p: han besado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have kissed}
       1s: habré besado
@@ -75,7 +75,7 @@ besar:
       3s: habrá besado
       3p: habrán besado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had kissed}
       1s: había besado
@@ -85,7 +85,7 @@ besar:
       3s: había besado
       3p: habían besado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had kissed}
       1s: hube besado
@@ -95,7 +95,7 @@ besar:
       3s: hubo besado
       3p: hubieron besado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have kissed}
       1s: habría besado
@@ -105,7 +105,7 @@ besar:
       3s: habría besado
       3p: habrían besado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I kiss, am kissing'}
       1s: bese
@@ -115,7 +115,7 @@ besar:
       3s: bese
       3p: besen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I kissed, was kissing'}
       1s: besara
@@ -125,7 +125,7 @@ besar:
       3s: besara
       3p: besaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will kiss}
       1s: besare
@@ -135,7 +135,7 @@ besar:
       3s: besare
       3p: besaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have kissed, kissed'}
       1s: haya besado
@@ -145,7 +145,7 @@ besar:
       3s: haya besado
       3p: hayan besado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have kissed}
       1s: hubiere besado
@@ -155,7 +155,7 @@ besar:
       3s: hubiere besado
       3p: hubieren besado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had kissed}
       1s: hubiera besado
@@ -165,7 +165,7 @@ besar:
       3s: hubiera besado
       3p: hubieran besado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Kiss! Don't kiss!}
       1s: ''
@@ -175,7 +175,7 @@ besar:
       3s: besad
       3p: besen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Kiss! Don't kiss!}
       1s: ''

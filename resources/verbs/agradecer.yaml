@@ -5,7 +5,7 @@ agradecer:
   definitions: {en: to be thankful for}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I am thankful for}
       1s: agradezco
@@ -15,7 +15,7 @@ agradecer:
       3s: agradece
       3p: agradecen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will be thankful for}
       1s: agradeceré
@@ -25,7 +25,7 @@ agradecer:
       3s: agradecerá
       3p: agradecerán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was being thankful for, used to be thankful for, was thankful
           for'}
@@ -36,7 +36,7 @@ agradecer:
       3s: agradecía
       3p: agradecían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I was thankful for}
       1s: agradecí
@@ -46,7 +46,7 @@ agradecer:
       3s: agradeció
       3p: agradecieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would be thankful for}
       1s: agradecería
@@ -56,7 +56,7 @@ agradecer:
       3s: agradecería
       3p: agradecerían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have been thankful for}
       1s: he agradecido
@@ -66,7 +66,7 @@ agradecer:
       3s: ha agradecido
       3p: han agradecido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have been thankful for}
       1s: habré agradecido
@@ -76,7 +76,7 @@ agradecer:
       3s: habrá agradecido
       3p: habrán agradecido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had been thankful for}
       1s: había agradecido
@@ -86,7 +86,7 @@ agradecer:
       3s: había agradecido
       3p: habían agradecido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had been thankful for}
       1s: hube agradecido
@@ -96,7 +96,7 @@ agradecer:
       3s: hubo agradecido
       3p: hubieron agradecido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have been thankful for}
       1s: habría agradecido
@@ -106,7 +106,7 @@ agradecer:
       3s: habría agradecido
       3p: habrían agradecido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I am thankful for}
       1s: agradezca
@@ -116,7 +116,7 @@ agradecer:
       3s: agradezca
       3p: agradezcan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I was thankful for, was being thankful for'}
       1s: agradeciera
@@ -126,7 +126,7 @@ agradecer:
       3s: agradeciera
       3p: agradecieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will be thankful for}
       1s: agradeciere
@@ -136,7 +136,7 @@ agradecer:
       3s: agradeciere
       3p: agradecieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have been thankful for, was thankful for'}
       1s: haya agradecido
@@ -146,7 +146,7 @@ agradecer:
       3s: haya agradecido
       3p: hayan agradecido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have been thankful for}
       1s: hubiere agradecido
@@ -156,7 +156,7 @@ agradecer:
       3s: hubiere agradecido
       3p: hubieren agradecido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had been thankful for}
       1s: hubiera agradecido
@@ -166,7 +166,7 @@ agradecer:
       3s: hubiera agradecido
       3p: hubieran agradecido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Be thankful for! Don't be thankful for!}
       1s: ''
@@ -176,7 +176,7 @@ agradecer:
       3s: agradeced
       3p: agradezcan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Be thankful for! Don't be thankful for!}
       1s: ''

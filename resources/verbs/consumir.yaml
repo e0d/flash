@@ -5,7 +5,7 @@ consumir:
   definitions: {en: 'to consume, eat, use upe'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I consume, am consuming'}
       1s: consumo
@@ -15,7 +15,7 @@ consumir:
       3s: consume
       3p: consumen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will consume}
       1s: consumiré
@@ -25,7 +25,7 @@ consumir:
       3s: consumirá
       3p: consumirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was consuming, used to consume, consumed'}
       1s: consumía
@@ -35,7 +35,7 @@ consumir:
       3s: consumía
       3p: consumían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I consumed}
       1s: consumí
@@ -45,7 +45,7 @@ consumir:
       3s: consumió
       3p: consumieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would consume}
       1s: consumiría
@@ -55,7 +55,7 @@ consumir:
       3s: consumiría
       3p: consumirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have consumed}
       1s: he consumido
@@ -65,7 +65,7 @@ consumir:
       3s: ha consumido
       3p: han consumido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have consumed}
       1s: habré consumido
@@ -75,7 +75,7 @@ consumir:
       3s: habrá consumido
       3p: habrán consumido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had consumed}
       1s: había consumido
@@ -85,7 +85,7 @@ consumir:
       3s: había consumido
       3p: habían consumido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had consumed}
       1s: hube consumido
@@ -95,7 +95,7 @@ consumir:
       3s: hubo consumido
       3p: hubieron consumido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have consumed}
       1s: habría consumido
@@ -105,7 +105,7 @@ consumir:
       3s: habría consumido
       3p: habrían consumido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I consume, am consuming'}
       1s: consuma
@@ -115,7 +115,7 @@ consumir:
       3s: consuma
       3p: consuman
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I consumed, was consuming'}
       1s: consumiera
@@ -125,7 +125,7 @@ consumir:
       3s: consumiera
       3p: consumieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will consume}
       1s: consumiere
@@ -135,7 +135,7 @@ consumir:
       3s: consumiere
       3p: consumieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have consumed, consumed'}
       1s: haya consumido
@@ -145,7 +145,7 @@ consumir:
       3s: haya consumido
       3p: hayan consumido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have consumed}
       1s: hubiere consumido
@@ -155,7 +155,7 @@ consumir:
       3s: hubiere consumido
       3p: hubieren consumido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had consumed}
       1s: hubiera consumido
@@ -165,7 +165,7 @@ consumir:
       3s: hubiera consumido
       3p: hubieran consumido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Consume! Don't consume!}
       1s: ''
@@ -175,7 +175,7 @@ consumir:
       3s: consumid
       3p: consuman
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Consume! Don't consume!}
       1s: ''

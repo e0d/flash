@@ -5,7 +5,7 @@ intentar:
   definitions: {en: 'to try, attempt'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I try, am trying'}
       1s: intento
@@ -15,7 +15,7 @@ intentar:
       3s: intenta
       3p: intentan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will try}
       1s: intentaré
@@ -25,7 +25,7 @@ intentar:
       3s: intentará
       3p: intentarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was trying, used to try, tried'}
       1s: intentaba
@@ -35,7 +35,7 @@ intentar:
       3s: intentaba
       3p: intentaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I tried}
       1s: intenté
@@ -45,7 +45,7 @@ intentar:
       3s: intentó
       3p: intentaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would try}
       1s: intentaría
@@ -55,7 +55,7 @@ intentar:
       3s: intentaría
       3p: intentarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have tried}
       1s: he intentado
@@ -65,7 +65,7 @@ intentar:
       3s: ha intentado
       3p: han intentado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have tried}
       1s: habré intentado
@@ -75,7 +75,7 @@ intentar:
       3s: habrá intentado
       3p: habrán intentado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had tried}
       1s: había intentado
@@ -85,7 +85,7 @@ intentar:
       3s: había intentado
       3p: habían intentado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had tried}
       1s: hube intentado
@@ -95,7 +95,7 @@ intentar:
       3s: hubo intentado
       3p: hubieron intentado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have tried}
       1s: habría intentado
@@ -105,7 +105,7 @@ intentar:
       3s: habría intentado
       3p: habrían intentado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I try, am trying'}
       1s: intente
@@ -115,7 +115,7 @@ intentar:
       3s: intente
       3p: intenten
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I tried, was trying'}
       1s: intentara
@@ -125,7 +125,7 @@ intentar:
       3s: intentara
       3p: intentaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will try}
       1s: intentare
@@ -135,7 +135,7 @@ intentar:
       3s: intentare
       3p: intentaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have tried, tried'}
       1s: haya intentado
@@ -145,7 +145,7 @@ intentar:
       3s: haya intentado
       3p: hayan intentado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have tried}
       1s: hubiere intentado
@@ -155,7 +155,7 @@ intentar:
       3s: hubiere intentado
       3p: hubieren intentado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had tried}
       1s: hubiera intentado
@@ -165,7 +165,7 @@ intentar:
       3s: hubiera intentado
       3p: hubieran intentado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Try! Don't try!}
       1s: ''
@@ -175,7 +175,7 @@ intentar:
       3s: intentad
       3p: intenten
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Try! Don't try!}
       1s: ''

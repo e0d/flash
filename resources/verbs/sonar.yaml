@@ -5,7 +5,7 @@ sonar:
   definitions: {en: to sound; to ring}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I sound, am sounding'}
       1s: sueno
@@ -15,7 +15,7 @@ sonar:
       3s: suena
       3p: suenan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will sound}
       1s: sonaré
@@ -25,7 +25,7 @@ sonar:
       3s: sonará
       3p: sonarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was sounding, used to sound, sounded'}
       1s: sonaba
@@ -35,7 +35,7 @@ sonar:
       3s: sonaba
       3p: sonaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I sounded}
       1s: soné
@@ -45,7 +45,7 @@ sonar:
       3s: sonó
       3p: sonaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would sound}
       1s: sonaría
@@ -55,7 +55,7 @@ sonar:
       3s: sonaría
       3p: sonarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have sounded}
       1s: he sonado
@@ -65,7 +65,7 @@ sonar:
       3s: ha sonado
       3p: han sonado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have sounded}
       1s: habré sonado
@@ -75,7 +75,7 @@ sonar:
       3s: habrá sonado
       3p: habrán sonado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had sounded}
       1s: había sonado
@@ -85,7 +85,7 @@ sonar:
       3s: había sonado
       3p: habían sonado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had sounded}
       1s: hube sonado
@@ -95,7 +95,7 @@ sonar:
       3s: hubo sonado
       3p: hubieron sonado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have sounded}
       1s: habría sonado
@@ -105,7 +105,7 @@ sonar:
       3s: habría sonado
       3p: habrían sonado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I sound, am sounding'}
       1s: suene
@@ -115,7 +115,7 @@ sonar:
       3s: suene
       3p: suenen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I sounded, was sounding'}
       1s: sonara
@@ -125,7 +125,7 @@ sonar:
       3s: sonara
       3p: sonaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will sound}
       1s: sonare
@@ -135,7 +135,7 @@ sonar:
       3s: sonare
       3p: sonaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have sounded, sounded'}
       1s: haya sonado
@@ -145,7 +145,7 @@ sonar:
       3s: haya sonado
       3p: hayan sonado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have sounded}
       1s: hubiere sonado
@@ -155,7 +155,7 @@ sonar:
       3s: hubiere sonado
       3p: hubieren sonado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had sounded}
       1s: hubiera sonado
@@ -165,7 +165,7 @@ sonar:
       3s: hubiera sonado
       3p: hubieran sonado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Sound! Don't sound!}
       1s: ''
@@ -175,7 +175,7 @@ sonar:
       3s: sonad
       3p: suenen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Sound! Don't sound!}
       1s: ''

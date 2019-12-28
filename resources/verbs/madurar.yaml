@@ -5,7 +5,7 @@ madurar:
   definitions: {en: to mature; to ripen}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I mature, am maturing'}
       1s: maduro
@@ -15,7 +15,7 @@ madurar:
       3s: madura
       3p: maduran
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will mature}
       1s: maduraré
@@ -25,7 +25,7 @@ madurar:
       3s: madurará
       3p: madurarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was maturing, used to mature, matured'}
       1s: maduraba
@@ -35,7 +35,7 @@ madurar:
       3s: maduraba
       3p: maduraban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I matured}
       1s: maduré
@@ -45,7 +45,7 @@ madurar:
       3s: maduró
       3p: maduraron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would mature}
       1s: maduraría
@@ -55,7 +55,7 @@ madurar:
       3s: maduraría
       3p: madurarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have matured}
       1s: he madurado
@@ -65,7 +65,7 @@ madurar:
       3s: ha madurado
       3p: han madurado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have matured}
       1s: habré madurado
@@ -75,7 +75,7 @@ madurar:
       3s: habrá madurado
       3p: habrán madurado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had matured}
       1s: había madurado
@@ -85,7 +85,7 @@ madurar:
       3s: había madurado
       3p: habían madurado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had matured}
       1s: hube madurado
@@ -95,7 +95,7 @@ madurar:
       3s: hubo madurado
       3p: hubieron madurado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have matured}
       1s: habría madurado
@@ -105,7 +105,7 @@ madurar:
       3s: habría madurado
       3p: habrían madurado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I mature, am maturing'}
       1s: madure
@@ -115,7 +115,7 @@ madurar:
       3s: madure
       3p: maduren
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I matured, was maturing'}
       1s: madurara
@@ -125,7 +125,7 @@ madurar:
       3s: madurara
       3p: maduraran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will mature}
       1s: madurare
@@ -135,7 +135,7 @@ madurar:
       3s: madurare
       3p: maduraren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have matured, matured'}
       1s: haya madurado
@@ -145,7 +145,7 @@ madurar:
       3s: haya madurado
       3p: hayan madurado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have matured}
       1s: hubiere madurado
@@ -155,7 +155,7 @@ madurar:
       3s: hubiere madurado
       3p: hubieren madurado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had matured}
       1s: hubiera madurado
@@ -165,7 +165,7 @@ madurar:
       3s: hubiera madurado
       3p: hubieran madurado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Mature! Don't mature!}
       1s: ''
@@ -175,7 +175,7 @@ madurar:
       3s: madurad
       3p: maduren
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Mature! Don't mature!}
       1s: ''

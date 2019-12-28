@@ -5,7 +5,7 @@ formar:
   definitions: {en: 'to form, shape, fashion, make'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I form, am forming'}
       1s: formo
@@ -15,7 +15,7 @@ formar:
       3s: forma
       3p: forman
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will form}
       1s: formaré
@@ -25,7 +25,7 @@ formar:
       3s: formará
       3p: formarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was forming, used to form, formed'}
       1s: formaba
@@ -35,7 +35,7 @@ formar:
       3s: formaba
       3p: formaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I formed}
       1s: formé
@@ -45,7 +45,7 @@ formar:
       3s: formó
       3p: formaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would form}
       1s: formaría
@@ -55,7 +55,7 @@ formar:
       3s: formaría
       3p: formarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have formed}
       1s: he formado
@@ -65,7 +65,7 @@ formar:
       3s: ha formado
       3p: han formado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have formed}
       1s: habré formado
@@ -75,7 +75,7 @@ formar:
       3s: habrá formado
       3p: habrán formado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had formed}
       1s: había formado
@@ -85,7 +85,7 @@ formar:
       3s: había formado
       3p: habían formado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had formed}
       1s: hube formado
@@ -95,7 +95,7 @@ formar:
       3s: hubo formado
       3p: hubieron formado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have formed}
       1s: habría formado
@@ -105,7 +105,7 @@ formar:
       3s: habría formado
       3p: habrían formado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I form, am forming'}
       1s: forme
@@ -115,7 +115,7 @@ formar:
       3s: forme
       3p: formen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I formed, was forming'}
       1s: formara
@@ -125,7 +125,7 @@ formar:
       3s: formara
       3p: formaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will form}
       1s: formare
@@ -135,7 +135,7 @@ formar:
       3s: formare
       3p: formaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have formed, formed'}
       1s: haya formado
@@ -145,7 +145,7 @@ formar:
       3s: haya formado
       3p: hayan formado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have formed}
       1s: hubiere formado
@@ -155,7 +155,7 @@ formar:
       3s: hubiere formado
       3p: hubieren formado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had formed}
       1s: hubiera formado
@@ -165,7 +165,7 @@ formar:
       3s: hubiera formado
       3p: hubieran formado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Form! Don't form!}
       1s: ''
@@ -175,7 +175,7 @@ formar:
       3s: formad
       3p: formen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Form! Don't form!}
       1s: ''

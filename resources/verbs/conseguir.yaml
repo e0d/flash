@@ -5,7 +5,7 @@ conseguir:
   definitions: {en: 'to get, obtain'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I get, am getting'}
       1s: consigo
@@ -15,7 +15,7 @@ conseguir:
       3s: consigue
       3p: consiguen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will get}
       1s: conseguiré
@@ -25,7 +25,7 @@ conseguir:
       3s: conseguirá
       3p: conseguirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was getting, used to get, got'}
       1s: conseguía
@@ -35,7 +35,7 @@ conseguir:
       3s: conseguía
       3p: conseguían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I got}
       1s: conseguí
@@ -45,7 +45,7 @@ conseguir:
       3s: consiguió
       3p: consiguieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would get}
       1s: conseguiría
@@ -55,7 +55,7 @@ conseguir:
       3s: conseguiría
       3p: conseguirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have gotten}
       1s: he conseguido
@@ -65,7 +65,7 @@ conseguir:
       3s: ha conseguido
       3p: han conseguido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have gotten}
       1s: habré conseguido
@@ -75,7 +75,7 @@ conseguir:
       3s: habrá conseguido
       3p: habrán conseguido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had gotten}
       1s: había conseguido
@@ -85,7 +85,7 @@ conseguir:
       3s: había conseguido
       3p: habían conseguido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had gotten}
       1s: hube conseguido
@@ -95,7 +95,7 @@ conseguir:
       3s: hubo conseguido
       3p: hubieron conseguido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have gotten}
       1s: habría conseguido
@@ -105,7 +105,7 @@ conseguir:
       3s: habría conseguido
       3p: habrían conseguido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I get, am getting'}
       1s: consiga
@@ -115,7 +115,7 @@ conseguir:
       3s: consiga
       3p: consigan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I got, was getting'}
       1s: consiguiera
@@ -125,7 +125,7 @@ conseguir:
       3s: consiguiera
       3p: consiguieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will get}
       1s: consiguiere
@@ -135,7 +135,7 @@ conseguir:
       3s: consiguiere
       3p: consiguieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have gotten, got'}
       1s: haya conseguido
@@ -145,7 +145,7 @@ conseguir:
       3s: haya conseguido
       3p: hayan conseguido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have gotten}
       1s: hubiere conseguido
@@ -155,7 +155,7 @@ conseguir:
       3s: hubiere conseguido
       3p: hubieren conseguido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had gotten}
       1s: hubiera conseguido
@@ -165,7 +165,7 @@ conseguir:
       3s: hubiera conseguido
       3p: hubieran conseguido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Get! Don't get!}
       1s: ''
@@ -175,7 +175,7 @@ conseguir:
       3s: conseguid
       3p: consigan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Get! Don't get!}
       1s: ''

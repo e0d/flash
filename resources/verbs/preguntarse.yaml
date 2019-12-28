@@ -5,7 +5,7 @@ preguntarse:
   definitions: {en: 'to wonder, ask oneself'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I wonder, am wondering'}
       1s: me pregunto
@@ -15,7 +15,7 @@ preguntarse:
       3s: se pregunta
       3p: se preguntan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will wonder}
       1s: me preguntaré
@@ -25,7 +25,7 @@ preguntarse:
       3s: se preguntará
       3p: se preguntarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was wondering, used to wonder, wondered'}
       1s: me preguntaba
@@ -35,7 +35,7 @@ preguntarse:
       3s: se preguntaba
       3p: se preguntaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I wondered}
       1s: me pregunté
@@ -45,7 +45,7 @@ preguntarse:
       3s: se preguntó
       3p: se preguntaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would wonder}
       1s: me preguntaría
@@ -55,7 +55,7 @@ preguntarse:
       3s: se preguntaría
       3p: se preguntarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have wondered}
       1s: me he preguntado
@@ -65,7 +65,7 @@ preguntarse:
       3s: se ha preguntado
       3p: se han preguntado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have wondered}
       1s: me habré preguntado
@@ -75,7 +75,7 @@ preguntarse:
       3s: se habrá preguntado
       3p: se habrán preguntado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had wondered}
       1s: me había preguntado
@@ -85,7 +85,7 @@ preguntarse:
       3s: se había preguntado
       3p: se habían preguntado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had wondered}
       1s: me hube preguntado
@@ -95,7 +95,7 @@ preguntarse:
       3s: se hubo preguntado
       3p: se hubieron preguntado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have wondered}
       1s: me habría preguntado
@@ -105,7 +105,7 @@ preguntarse:
       3s: se habría preguntado
       3p: se habrían preguntado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I wonder, am wondering'}
       1s: me pregunte
@@ -115,7 +115,7 @@ preguntarse:
       3s: se pregunte
       3p: se pregunten
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I wondered, was wondering'}
       1s: me preguntara
@@ -125,7 +125,7 @@ preguntarse:
       3s: se preguntara
       3p: se preguntaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will wonder}
       1s: me preguntare
@@ -135,7 +135,7 @@ preguntarse:
       3s: se preguntare
       3p: se preguntaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have wondered, wondered'}
       1s: me haya preguntado
@@ -145,7 +145,7 @@ preguntarse:
       3s: se haya preguntado
       3p: se hayan preguntado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have wondered}
       1s: me hubiere preguntado
@@ -155,7 +155,7 @@ preguntarse:
       3s: se hubiere preguntado
       3p: se hubieren preguntado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had wondered}
       1s: me hubiera preguntado
@@ -165,7 +165,7 @@ preguntarse:
       3s: se hubiera preguntado
       3p: se hubieran preguntado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Wonder! Don't wonder!}
       1s: ''
@@ -175,7 +175,7 @@ preguntarse:
       3s: preguntaos
       3p: pregúntense
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Wonder! Don't wonder!}
       1s: ''

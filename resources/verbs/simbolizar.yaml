@@ -5,7 +5,7 @@ simbolizar:
   definitions: {en: 'to symbolize, represent, stand for'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I symbolize, am symbolizing'}
       1s: simbolizo
@@ -15,7 +15,7 @@ simbolizar:
       3s: simboliza
       3p: simbolizan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will symbolize}
       1s: simbolizaré
@@ -25,7 +25,7 @@ simbolizar:
       3s: simbolizará
       3p: simbolizarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was symbolizing, used to symbolize, symbolized'}
       1s: simbolizaba
@@ -35,7 +35,7 @@ simbolizar:
       3s: simbolizaba
       3p: simbolizaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I symbolized}
       1s: simbolicé
@@ -45,7 +45,7 @@ simbolizar:
       3s: simbolizó
       3p: simbolizaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would symbolize}
       1s: simbolizaría
@@ -55,7 +55,7 @@ simbolizar:
       3s: simbolizaría
       3p: simbolizarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have symbolized}
       1s: he simbolizado
@@ -65,7 +65,7 @@ simbolizar:
       3s: ha simbolizado
       3p: han simbolizado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have symbolized}
       1s: habré simbolizado
@@ -75,7 +75,7 @@ simbolizar:
       3s: habrá simbolizado
       3p: habrán simbolizado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had symbolized}
       1s: había simbolizado
@@ -85,7 +85,7 @@ simbolizar:
       3s: había simbolizado
       3p: habían simbolizado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had symbolized}
       1s: hube simbolizado
@@ -95,7 +95,7 @@ simbolizar:
       3s: hubo simbolizado
       3p: hubieron simbolizado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have symbolized}
       1s: habría simbolizado
@@ -105,7 +105,7 @@ simbolizar:
       3s: habría simbolizado
       3p: habrían simbolizado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I symbolize, am symbolizing'}
       1s: simbolice
@@ -115,7 +115,7 @@ simbolizar:
       3s: simbolice
       3p: simbolicen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I symbolized, was symbolizing'}
       1s: simbolizara
@@ -125,7 +125,7 @@ simbolizar:
       3s: simbolizara
       3p: simbolizaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will symbolize}
       1s: simbolizare
@@ -135,7 +135,7 @@ simbolizar:
       3s: simbolizare
       3p: simbolizaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have symbolized, symbolized'}
       1s: haya simbolizado
@@ -145,7 +145,7 @@ simbolizar:
       3s: haya simbolizado
       3p: hayan simbolizado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have symbolized}
       1s: hubiere simbolizado
@@ -155,7 +155,7 @@ simbolizar:
       3s: hubiere simbolizado
       3p: hubieren simbolizado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had symbolized}
       1s: hubiera simbolizado
@@ -165,7 +165,7 @@ simbolizar:
       3s: hubiera simbolizado
       3p: hubieran simbolizado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Symbolize! Don't symbolize!}
       1s: ''
@@ -175,7 +175,7 @@ simbolizar:
       3s: simbolizad
       3p: simbolicen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Symbolize! Don't symbolize!}
       1s: ''

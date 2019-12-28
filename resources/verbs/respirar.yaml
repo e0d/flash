@@ -5,7 +5,7 @@ respirar:
   definitions: {en: 'to breathe, breathe in, inhale'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I breathe, am breathing'}
       1s: respiro
@@ -15,7 +15,7 @@ respirar:
       3s: respira
       3p: respiran
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will breathe}
       1s: respiraré
@@ -25,7 +25,7 @@ respirar:
       3s: respirará
       3p: respirarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was breathing, used to breathe, breathed'}
       1s: respiraba
@@ -35,7 +35,7 @@ respirar:
       3s: respiraba
       3p: respiraban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I breathed}
       1s: respiré
@@ -45,7 +45,7 @@ respirar:
       3s: respiró
       3p: respiraron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would breathe}
       1s: respiraría
@@ -55,7 +55,7 @@ respirar:
       3s: respiraría
       3p: respirarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have breathed}
       1s: he respirado
@@ -65,7 +65,7 @@ respirar:
       3s: ha respirado
       3p: han respirado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have breathed}
       1s: habré respirado
@@ -75,7 +75,7 @@ respirar:
       3s: habrá respirado
       3p: habrán respirado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had breathed}
       1s: había respirado
@@ -85,7 +85,7 @@ respirar:
       3s: había respirado
       3p: habían respirado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had breathed}
       1s: hube respirado
@@ -95,7 +95,7 @@ respirar:
       3s: hubo respirado
       3p: hubieron respirado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have breathed}
       1s: habría respirado
@@ -105,7 +105,7 @@ respirar:
       3s: habría respirado
       3p: habrían respirado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I breathe, am breathing'}
       1s: respire
@@ -115,7 +115,7 @@ respirar:
       3s: respire
       3p: respiren
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I breathed, was breathing'}
       1s: respirara
@@ -125,7 +125,7 @@ respirar:
       3s: respirara
       3p: respiraran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will breathe}
       1s: respirare
@@ -135,7 +135,7 @@ respirar:
       3s: respirare
       3p: respiraren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have breathed, breathed'}
       1s: haya respirado
@@ -145,7 +145,7 @@ respirar:
       3s: haya respirado
       3p: hayan respirado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have breathed}
       1s: hubiere respirado
@@ -155,7 +155,7 @@ respirar:
       3s: hubiere respirado
       3p: hubieren respirado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had breathed}
       1s: hubiera respirado
@@ -165,7 +165,7 @@ respirar:
       3s: hubiera respirado
       3p: hubieran respirado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Breathe! Don't breathe!}
       1s: ''
@@ -175,7 +175,7 @@ respirar:
       3s: respirad
       3p: respiren
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Breathe! Don't breathe!}
       1s: ''

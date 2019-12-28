@@ -5,7 +5,7 @@ disgustar:
   definitions: {en: 'to displease, be displeasing; to annoy, upset'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I displease, am displeasing'}
       1s: disgusto
@@ -15,7 +15,7 @@ disgustar:
       3s: disgusta
       3p: disgustan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will displease}
       1s: disgustaré
@@ -25,7 +25,7 @@ disgustar:
       3s: disgustará
       3p: disgustarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was displeasing, used to displease, displeased'}
       1s: disgustaba
@@ -35,7 +35,7 @@ disgustar:
       3s: disgustaba
       3p: disgustaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I displeased}
       1s: disgusté
@@ -45,7 +45,7 @@ disgustar:
       3s: disgustó
       3p: disgustaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would displease}
       1s: disgustaría
@@ -55,7 +55,7 @@ disgustar:
       3s: disgustaría
       3p: disgustarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have displeased}
       1s: he disgustado
@@ -65,7 +65,7 @@ disgustar:
       3s: ha disgustado
       3p: han disgustado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have displeased}
       1s: habré disgustado
@@ -75,7 +75,7 @@ disgustar:
       3s: habrá disgustado
       3p: habrán disgustado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had displeased}
       1s: había disgustado
@@ -85,7 +85,7 @@ disgustar:
       3s: había disgustado
       3p: habían disgustado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had displeased}
       1s: hube disgustado
@@ -95,7 +95,7 @@ disgustar:
       3s: hubo disgustado
       3p: hubieron disgustado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have displeased}
       1s: habría disgustado
@@ -105,7 +105,7 @@ disgustar:
       3s: habría disgustado
       3p: habrían disgustado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I displease, am displeasing'}
       1s: disguste
@@ -115,7 +115,7 @@ disgustar:
       3s: disguste
       3p: disgusten
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I displeased, was displeasing'}
       1s: disgustara
@@ -125,7 +125,7 @@ disgustar:
       3s: disgustara
       3p: disgustaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will displease}
       1s: disgustare
@@ -135,7 +135,7 @@ disgustar:
       3s: disgustare
       3p: disgustaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have displeased, displeased'}
       1s: haya disgustado
@@ -145,7 +145,7 @@ disgustar:
       3s: haya disgustado
       3p: hayan disgustado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have displeased}
       1s: hubiere disgustado
@@ -155,7 +155,7 @@ disgustar:
       3s: hubiere disgustado
       3p: hubieren disgustado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had displeased}
       1s: hubiera disgustado
@@ -165,7 +165,7 @@ disgustar:
       3s: hubiera disgustado
       3p: hubieran disgustado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Displease! Don't displease!}
       1s: ''
@@ -175,7 +175,7 @@ disgustar:
       3s: disgustad
       3p: disgusten
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Displease! Don't displease!}
       1s: ''

@@ -5,7 +5,7 @@ tañer:
   definitions: {en: to play}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I play, am playing'}
       1s: taño
@@ -15,7 +15,7 @@ tañer:
       3s: tañe
       3p: tañen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will play}
       1s: tañeré
@@ -25,7 +25,7 @@ tañer:
       3s: tañerá
       3p: tañerán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was playing, used to play, played'}
       1s: tañía
@@ -35,7 +35,7 @@ tañer:
       3s: tañía
       3p: tañían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I played}
       1s: tañí
@@ -45,7 +45,7 @@ tañer:
       3s: tañó
       3p: tañeron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would play}
       1s: tañería
@@ -55,7 +55,7 @@ tañer:
       3s: tañería
       3p: tañerían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have played}
       1s: he tañido
@@ -65,7 +65,7 @@ tañer:
       3s: ha tañido
       3p: han tañido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have played}
       1s: habré tañido
@@ -75,7 +75,7 @@ tañer:
       3s: habrá tañido
       3p: habrán tañido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had played}
       1s: había tañido
@@ -85,7 +85,7 @@ tañer:
       3s: había tañido
       3p: habían tañido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had played}
       1s: hube tañido
@@ -95,7 +95,7 @@ tañer:
       3s: hubo tañido
       3p: hubieron tañido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have played}
       1s: habría tañido
@@ -105,7 +105,7 @@ tañer:
       3s: habría tañido
       3p: habrían tañido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I play, am playing'}
       1s: taña
@@ -115,7 +115,7 @@ tañer:
       3s: taña
       3p: tañan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I played, was playing'}
       1s: tañera
@@ -125,7 +125,7 @@ tañer:
       3s: tañera
       3p: tañeran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will play}
       1s: tañere
@@ -135,7 +135,7 @@ tañer:
       3s: tañere
       3p: tañeren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have played, played'}
       1s: haya tañido
@@ -145,7 +145,7 @@ tañer:
       3s: haya tañido
       3p: hayan tañido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have played}
       1s: hubiere tañido
@@ -155,7 +155,7 @@ tañer:
       3s: hubiere tañido
       3p: hubieren tañido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had played}
       1s: hubiera tañido
@@ -165,7 +165,7 @@ tañer:
       3s: hubiera tañido
       3p: hubieran tañido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Play! Don't play!}
       1s: ''
@@ -175,7 +175,7 @@ tañer:
       3s: tañed
       3p: tañan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Play! Don't play!}
       1s: ''

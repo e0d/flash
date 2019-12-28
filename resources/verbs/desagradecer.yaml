@@ -5,7 +5,7 @@ desagradecer:
   definitions: {en: 'to be unthankful for, to be unappreciative of'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I am unthankful for}
       1s: desagradezco
@@ -15,7 +15,7 @@ desagradecer:
       3s: desagradece
       3p: desagradecen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will be unthankful for}
       1s: desagradeceré
@@ -25,7 +25,7 @@ desagradecer:
       3s: desagradecerá
       3p: desagradecerán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was being unthankful for, used to be unthankful for, was unthankful
           for'}
@@ -36,7 +36,7 @@ desagradecer:
       3s: desagradecía
       3p: desagradecían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I was unthankful for}
       1s: desagradecí
@@ -46,7 +46,7 @@ desagradecer:
       3s: desagradeció
       3p: desagradecieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would be unthankful for}
       1s: desagradecería
@@ -56,7 +56,7 @@ desagradecer:
       3s: desagradecería
       3p: desagradecerían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have been unthankful for}
       1s: he desagradecido
@@ -66,7 +66,7 @@ desagradecer:
       3s: ha desagradecido
       3p: han desagradecido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have been unthankful for}
       1s: habré desagradecido
@@ -76,7 +76,7 @@ desagradecer:
       3s: habrá desagradecido
       3p: habrán desagradecido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had been unthankful for}
       1s: había desagradecido
@@ -86,7 +86,7 @@ desagradecer:
       3s: había desagradecido
       3p: habían desagradecido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had been unthankful for}
       1s: hube desagradecido
@@ -96,7 +96,7 @@ desagradecer:
       3s: hubo desagradecido
       3p: hubieron desagradecido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have been unthankful for}
       1s: habría desagradecido
@@ -106,7 +106,7 @@ desagradecer:
       3s: habría desagradecido
       3p: habrían desagradecido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I am unthankful for}
       1s: desagradezca
@@ -116,7 +116,7 @@ desagradecer:
       3s: desagradezca
       3p: desagradezcan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I was unthankful for, was being unthankful for'}
       1s: desagradeciera
@@ -126,7 +126,7 @@ desagradecer:
       3s: desagradeciera
       3p: desagradecieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will be unthankful for}
       1s: desagradeciere
@@ -136,7 +136,7 @@ desagradecer:
       3s: desagradeciere
       3p: desagradecieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have been unthankful for, was unthankful for'}
       1s: haya desagradecido
@@ -146,7 +146,7 @@ desagradecer:
       3s: haya desagradecido
       3p: hayan desagradecido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have been unthankful for}
       1s: hubiere desagradecido
@@ -156,7 +156,7 @@ desagradecer:
       3s: hubiere desagradecido
       3p: hubieren desagradecido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had been unthankful for}
       1s: hubiera desagradecido
@@ -166,7 +166,7 @@ desagradecer:
       3s: hubiera desagradecido
       3p: hubieran desagradecido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Be unthankful for! Don't be unthankful for!}
       1s: ''
@@ -176,7 +176,7 @@ desagradecer:
       3s: desagradeced
       3p: desagradezcan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Be unthankful for! Don't be unthankful for!}
       1s: ''

@@ -5,7 +5,7 @@ envejecerse:
   definitions: {en: 'to get old, age'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I get old, am getting old'}
       1s: me envejezco
@@ -15,7 +15,7 @@ envejecerse:
       3s: se envejece
       3p: se envejecen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will get old}
       1s: me envejeceré
@@ -25,7 +25,7 @@ envejecerse:
       3s: se envejecerá
       3p: se envejecerán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was getting old, used to get old, got old'}
       1s: me envejecía
@@ -35,7 +35,7 @@ envejecerse:
       3s: se envejecía
       3p: se envejecían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I got old}
       1s: me envejecí
@@ -45,7 +45,7 @@ envejecerse:
       3s: se envejeció
       3p: se envejecieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would get old}
       1s: me envejecería
@@ -55,7 +55,7 @@ envejecerse:
       3s: se envejecería
       3p: se envejecerían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have gotten old}
       1s: me he envejecido
@@ -65,7 +65,7 @@ envejecerse:
       3s: se ha envejecido
       3p: se han envejecido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have gotten old}
       1s: me habré envejecido
@@ -75,7 +75,7 @@ envejecerse:
       3s: se habrá envejecido
       3p: se habrán envejecido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had gotten old}
       1s: me había envejecido
@@ -85,7 +85,7 @@ envejecerse:
       3s: se había envejecido
       3p: se habían envejecido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had gotten old}
       1s: me hube envejecido
@@ -95,7 +95,7 @@ envejecerse:
       3s: se hubo envejecido
       3p: se hubieron envejecido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have gotten old}
       1s: me habría envejecido
@@ -105,7 +105,7 @@ envejecerse:
       3s: se habría envejecido
       3p: se habrían envejecido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I get old, am getting old'}
       1s: me envejezca
@@ -115,7 +115,7 @@ envejecerse:
       3s: se envejezca
       3p: se envejezcan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I got old, was getting old'}
       1s: me envejeciera
@@ -125,7 +125,7 @@ envejecerse:
       3s: se envejeciera
       3p: se envejecieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will get old}
       1s: me envejeciere
@@ -135,7 +135,7 @@ envejecerse:
       3s: se envejeciere
       3p: se envejecieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have gotten old, gotten old'}
       1s: me haya envejecido
@@ -145,7 +145,7 @@ envejecerse:
       3s: se haya envejecido
       3p: se hayan envejecido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have gotten old}
       1s: me hubiere envejecido
@@ -155,7 +155,7 @@ envejecerse:
       3s: se hubiere envejecido
       3p: se hubieren envejecido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had gotten old}
       1s: me hubiera envejecido
@@ -165,7 +165,7 @@ envejecerse:
       3s: se hubiera envejecido
       3p: se hubieran envejecido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Get old! Don't get old!}
       1s: ''
@@ -175,7 +175,7 @@ envejecerse:
       3s: envejeceos
       3p: envejézcanse
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Get old! Don't get old!}
       1s: ''

@@ -5,7 +5,7 @@ influir:
   definitions: {en: to influence}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I influence, am influencing'}
       1s: influyo
@@ -15,7 +15,7 @@ influir:
       3s: influye
       3p: influyen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will influence}
       1s: influiré
@@ -25,7 +25,7 @@ influir:
       3s: influirá
       3p: influirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was influencing, used to influence, influenced'}
       1s: influía
@@ -35,7 +35,7 @@ influir:
       3s: influía
       3p: influían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I influenced}
       1s: influí
@@ -45,7 +45,7 @@ influir:
       3s: influyó
       3p: influyeron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would influence}
       1s: influiría
@@ -55,7 +55,7 @@ influir:
       3s: influiría
       3p: influirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have influenced}
       1s: he influido
@@ -65,7 +65,7 @@ influir:
       3s: ha influido
       3p: han influido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have influenced}
       1s: habré influido
@@ -75,7 +75,7 @@ influir:
       3s: habrá influido
       3p: habrán influido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had influenced}
       1s: había influido
@@ -85,7 +85,7 @@ influir:
       3s: había influido
       3p: habían influido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had influenced}
       1s: hube influido
@@ -95,7 +95,7 @@ influir:
       3s: hubo influido
       3p: hubieron influido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have influenced}
       1s: habría influido
@@ -105,7 +105,7 @@ influir:
       3s: habría influido
       3p: habrían influido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I influence, am influencing'}
       1s: influya
@@ -115,7 +115,7 @@ influir:
       3s: influya
       3p: influyan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I influenced, was influencing'}
       1s: influyera
@@ -125,7 +125,7 @@ influir:
       3s: influyera
       3p: influyeran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will influence}
       1s: influyere
@@ -135,7 +135,7 @@ influir:
       3s: influyere
       3p: influyeren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have influenced, influenced'}
       1s: haya influido
@@ -145,7 +145,7 @@ influir:
       3s: haya influido
       3p: hayan influido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have influenced}
       1s: hubiere influido
@@ -155,7 +155,7 @@ influir:
       3s: hubiere influido
       3p: hubieren influido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had influenced}
       1s: hubiera influido
@@ -165,7 +165,7 @@ influir:
       3s: hubiera influido
       3p: hubieran influido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Influence! Don't influence!}
       1s: ''
@@ -175,7 +175,7 @@ influir:
       3s: influid
       3p: influyan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Influence! Don't influence!}
       1s: ''

@@ -5,7 +5,7 @@ aprobar:
   definitions: {en: to pass}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I pass, am passing'}
       1s: apruebo
@@ -15,7 +15,7 @@ aprobar:
       3s: aprueba
       3p: aprueban
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will pass}
       1s: aprobaré
@@ -25,7 +25,7 @@ aprobar:
       3s: aprobará
       3p: aprobarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was passing, used to pass, passed'}
       1s: aprobaba
@@ -35,7 +35,7 @@ aprobar:
       3s: aprobaba
       3p: aprobaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I passed}
       1s: aprobé
@@ -45,7 +45,7 @@ aprobar:
       3s: aprobó
       3p: aprobaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would pass}
       1s: aprobaría
@@ -55,7 +55,7 @@ aprobar:
       3s: aprobaría
       3p: aprobarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have passed}
       1s: he aprobado
@@ -65,7 +65,7 @@ aprobar:
       3s: ha aprobado
       3p: han aprobado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have passed}
       1s: habré aprobado
@@ -75,7 +75,7 @@ aprobar:
       3s: habrá aprobado
       3p: habrán aprobado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had passed}
       1s: había aprobado
@@ -85,7 +85,7 @@ aprobar:
       3s: había aprobado
       3p: habían aprobado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had passed}
       1s: hube aprobado
@@ -95,7 +95,7 @@ aprobar:
       3s: hubo aprobado
       3p: hubieron aprobado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have passed}
       1s: habría aprobado
@@ -105,7 +105,7 @@ aprobar:
       3s: habría aprobado
       3p: habrían aprobado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I pass, am passing'}
       1s: apruebe
@@ -115,7 +115,7 @@ aprobar:
       3s: apruebe
       3p: aprueben
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I passed, was passing'}
       1s: aprobara
@@ -125,7 +125,7 @@ aprobar:
       3s: aprobara
       3p: aprobaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will pass}
       1s: aprobare
@@ -135,7 +135,7 @@ aprobar:
       3s: aprobare
       3p: aprobaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have passed, passed'}
       1s: haya aprobado
@@ -145,7 +145,7 @@ aprobar:
       3s: haya aprobado
       3p: hayan aprobado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have passed}
       1s: hubiere aprobado
@@ -155,7 +155,7 @@ aprobar:
       3s: hubiere aprobado
       3p: hubieren aprobado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had passed}
       1s: hubiera aprobado
@@ -165,7 +165,7 @@ aprobar:
       3s: hubiera aprobado
       3p: hubieran aprobado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Pass! Don't pass!}
       1s: ''
@@ -175,7 +175,7 @@ aprobar:
       3s: aprobad
       3p: aprueben
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Pass! Don't pass!}
       1s: ''

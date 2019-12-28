@@ -5,7 +5,7 @@ acordarse:
   definitions: {en: to remember}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I remember, am remembering'}
       1s: me acuerdo
@@ -15,7 +15,7 @@ acordarse:
       3s: se acuerda
       3p: se acuerdan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will remember}
       1s: me acordaré
@@ -25,7 +25,7 @@ acordarse:
       3s: se acordará
       3p: se acordarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was remembering, used to remember, remembered'}
       1s: me acordaba
@@ -35,7 +35,7 @@ acordarse:
       3s: se acordaba
       3p: se acordaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I remembered}
       1s: me acordé
@@ -45,7 +45,7 @@ acordarse:
       3s: se acordó
       3p: se acordaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would remember}
       1s: me acordaría
@@ -55,7 +55,7 @@ acordarse:
       3s: se acordaría
       3p: se acordarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have remembered}
       1s: me he acordado
@@ -65,7 +65,7 @@ acordarse:
       3s: se ha acordado
       3p: se han acordado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have remembered}
       1s: me habré acordado
@@ -75,7 +75,7 @@ acordarse:
       3s: se habrá acordado
       3p: se habrán acordado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had remembered}
       1s: me había acordado
@@ -85,7 +85,7 @@ acordarse:
       3s: se había acordado
       3p: se habían acordado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had remembered}
       1s: me hube acordado
@@ -95,7 +95,7 @@ acordarse:
       3s: se hubo acordado
       3p: se hubieron acordado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have remembered}
       1s: me habría acordado
@@ -105,7 +105,7 @@ acordarse:
       3s: se habría acordado
       3p: se habrían acordado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I remember, am remembering'}
       1s: me acuerde
@@ -115,7 +115,7 @@ acordarse:
       3s: se acuerde
       3p: se acuerden
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I remembered, was remembering'}
       1s: me acordara
@@ -125,7 +125,7 @@ acordarse:
       3s: se acordara
       3p: se acordaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will remember}
       1s: me acordare
@@ -135,7 +135,7 @@ acordarse:
       3s: se acordare
       3p: se acordaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have remembered, remembered'}
       1s: me haya acordado
@@ -145,7 +145,7 @@ acordarse:
       3s: se haya acordado
       3p: se hayan acordado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have remembered}
       1s: me hubiere acordado
@@ -155,7 +155,7 @@ acordarse:
       3s: se hubiere acordado
       3p: se hubieren acordado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had remembered}
       1s: me hubiera acordado
@@ -165,7 +165,7 @@ acordarse:
       3s: se hubiera acordado
       3p: se hubieran acordado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Remember! Don't remember!}
       1s: ''
@@ -175,7 +175,7 @@ acordarse:
       3s: acordaos
       3p: acuérdense
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Remember! Don't remember!}
       1s: ''

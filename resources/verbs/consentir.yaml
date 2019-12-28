@@ -6,7 +6,7 @@ consentir:
       admit; to agree, consent'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I consent to, am consenting to'}
       1s: consiento
@@ -16,7 +16,7 @@ consentir:
       3s: consiente
       3p: consienten
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will consent to}
       1s: consentiré
@@ -26,7 +26,7 @@ consentir:
       3s: consentirá
       3p: consentirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was consenting to, used to consent to, consented to'}
       1s: consentía
@@ -36,7 +36,7 @@ consentir:
       3s: consentía
       3p: consentían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I consented to}
       1s: consentí
@@ -46,7 +46,7 @@ consentir:
       3s: consintió
       3p: consintieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would consent to}
       1s: consentiría
@@ -56,7 +56,7 @@ consentir:
       3s: consentiría
       3p: consentirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have consented to}
       1s: he consentido
@@ -66,7 +66,7 @@ consentir:
       3s: ha consentido
       3p: han consentido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have consented to}
       1s: habré consentido
@@ -76,7 +76,7 @@ consentir:
       3s: habrá consentido
       3p: habrán consentido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had consented to}
       1s: había consentido
@@ -86,7 +86,7 @@ consentir:
       3s: había consentido
       3p: habían consentido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had consented to}
       1s: hube consentido
@@ -96,7 +96,7 @@ consentir:
       3s: hubo consentido
       3p: hubieron consentido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have consented to}
       1s: habría consentido
@@ -106,7 +106,7 @@ consentir:
       3s: habría consentido
       3p: habrían consentido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I consent to, am consenting to'}
       1s: consienta
@@ -116,7 +116,7 @@ consentir:
       3s: consienta
       3p: consientan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I consented to, was consenting to'}
       1s: consintiera
@@ -126,7 +126,7 @@ consentir:
       3s: consintiera
       3p: consintieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will consent to}
       1s: consintiere
@@ -136,7 +136,7 @@ consentir:
       3s: consintiere
       3p: consintieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have consented to, consented to'}
       1s: haya consentido
@@ -146,7 +146,7 @@ consentir:
       3s: haya consentido
       3p: hayan consentido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have consented to}
       1s: hubiere consentido
@@ -156,7 +156,7 @@ consentir:
       3s: hubiere consentido
       3p: hubieren consentido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had consented to}
       1s: hubiera consentido
@@ -166,7 +166,7 @@ consentir:
       3s: hubiera consentido
       3p: hubieran consentido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Consent to! Don't consent to!}
       1s: ''
@@ -176,7 +176,7 @@ consentir:
       3s: consentid
       3p: consientan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Consent to! Don't consent to!}
       1s: ''

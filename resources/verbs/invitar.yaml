@@ -5,7 +5,7 @@ invitar:
   definitions: {en: to invite}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I invite, am inviting'}
       1s: invito
@@ -15,7 +15,7 @@ invitar:
       3s: invita
       3p: invitan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will invite}
       1s: invitaré
@@ -25,7 +25,7 @@ invitar:
       3s: invitará
       3p: invitarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was inviting, used to invite, invited'}
       1s: invitaba
@@ -35,7 +35,7 @@ invitar:
       3s: invitaba
       3p: invitaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I invited}
       1s: invité
@@ -45,7 +45,7 @@ invitar:
       3s: invitó
       3p: invitaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would invite}
       1s: invitaría
@@ -55,7 +55,7 @@ invitar:
       3s: invitaría
       3p: invitarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have invited}
       1s: he invitado
@@ -65,7 +65,7 @@ invitar:
       3s: ha invitado
       3p: han invitado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have invited}
       1s: habré invitado
@@ -75,7 +75,7 @@ invitar:
       3s: habrá invitado
       3p: habrán invitado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had invited}
       1s: había invitado
@@ -85,7 +85,7 @@ invitar:
       3s: había invitado
       3p: habían invitado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had invited}
       1s: hube invitado
@@ -95,7 +95,7 @@ invitar:
       3s: hubo invitado
       3p: hubieron invitado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have invited}
       1s: habría invitado
@@ -105,7 +105,7 @@ invitar:
       3s: habría invitado
       3p: habrían invitado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I invite, am inviting'}
       1s: invite
@@ -115,7 +115,7 @@ invitar:
       3s: invite
       3p: inviten
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I invited, was inviting'}
       1s: invitara
@@ -125,7 +125,7 @@ invitar:
       3s: invitara
       3p: invitaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will invite}
       1s: invitare
@@ -135,7 +135,7 @@ invitar:
       3s: invitare
       3p: invitaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have invited, invited'}
       1s: haya invitado
@@ -145,7 +145,7 @@ invitar:
       3s: haya invitado
       3p: hayan invitado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have invited}
       1s: hubiere invitado
@@ -155,7 +155,7 @@ invitar:
       3s: hubiere invitado
       3p: hubieren invitado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had invited}
       1s: hubiera invitado
@@ -165,7 +165,7 @@ invitar:
       3s: hubiera invitado
       3p: hubieran invitado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Invite! Don't invite!}
       1s: ''
@@ -175,7 +175,7 @@ invitar:
       3s: invitad
       3p: inviten
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Invite! Don't invite!}
       1s: ''

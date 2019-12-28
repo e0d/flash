@@ -5,7 +5,7 @@ apoyar:
   definitions: {en: 'to support, hold up, prop up; to back'}
   tenses:
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I supported, was supporting'}
       1s: apoyara
@@ -15,7 +15,7 @@ apoyar:
       3s: apoyara
       3p: apoyaran
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I support, am supporting'}
       1s: apoyo
@@ -25,7 +25,7 @@ apoyar:
       3s: apoya
       3p: apoyan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will support}
       1s: apoyaré
@@ -35,7 +35,7 @@ apoyar:
       3s: apoyará
       3p: apoyarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was supporting, used to support, supported'}
       1s: apoyaba
@@ -45,7 +45,7 @@ apoyar:
       3s: apoyaba
       3p: apoyaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I supported}
       1s: apoyé
@@ -55,7 +55,7 @@ apoyar:
       3s: apoyó
       3p: apoyaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would support}
       1s: apoyaría
@@ -65,7 +65,7 @@ apoyar:
       3s: apoyaría
       3p: apoyarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have supported}
       1s: he apoyado
@@ -75,7 +75,7 @@ apoyar:
       3s: ha apoyado
       3p: han apoyado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have supported}
       1s: habré apoyado
@@ -85,7 +85,7 @@ apoyar:
       3s: habrá apoyado
       3p: habrán apoyado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had supported}
       1s: había apoyado
@@ -95,7 +95,7 @@ apoyar:
       3s: había apoyado
       3p: habían apoyado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had supported}
       1s: hube apoyado
@@ -105,7 +105,7 @@ apoyar:
       3s: hubo apoyado
       3p: hubieron apoyado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have supported}
       1s: habría apoyado
@@ -115,7 +115,7 @@ apoyar:
       3s: habría apoyado
       3p: habrían apoyado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I support, am supporting'}
       1s: apoye
@@ -125,7 +125,7 @@ apoyar:
       3s: apoye
       3p: apoyen
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will support}
       1s: apoyare
@@ -135,7 +135,7 @@ apoyar:
       3s: apoyare
       3p: apoyaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have supported, supported'}
       1s: haya apoyado
@@ -145,7 +145,7 @@ apoyar:
       3s: haya apoyado
       3p: hayan apoyado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have supported}
       1s: hubiere apoyado
@@ -155,7 +155,7 @@ apoyar:
       3s: hubiere apoyado
       3p: hubieren apoyado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had supported}
       1s: hubiera apoyado
@@ -165,7 +165,7 @@ apoyar:
       3s: hubiera apoyado
       3p: hubieran apoyado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Support! Don't support!}
       1s: ''
@@ -175,7 +175,7 @@ apoyar:
       3s: apoyad
       3p: apoyen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Support! Don't support!}
       1s: ''

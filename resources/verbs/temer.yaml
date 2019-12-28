@@ -5,7 +5,7 @@ temer:
   definitions: {en: to fear}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I fear, am fearing'}
       1s: temo
@@ -15,7 +15,7 @@ temer:
       3s: teme
       3p: temen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will fear}
       1s: temeré
@@ -25,7 +25,7 @@ temer:
       3s: temerá
       3p: temerán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was fearing, used to fear, feared'}
       1s: temía
@@ -35,7 +35,7 @@ temer:
       3s: temía
       3p: temían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I feared}
       1s: temí
@@ -45,7 +45,7 @@ temer:
       3s: temió
       3p: temieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would fear}
       1s: temería
@@ -55,7 +55,7 @@ temer:
       3s: temería
       3p: temerían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have feared}
       1s: he temido
@@ -65,7 +65,7 @@ temer:
       3s: ha temido
       3p: han temido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have feared}
       1s: habré temido
@@ -75,7 +75,7 @@ temer:
       3s: habrá temido
       3p: habrán temido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had feared}
       1s: había temido
@@ -85,7 +85,7 @@ temer:
       3s: había temido
       3p: habían temido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had feared}
       1s: hube temido
@@ -95,7 +95,7 @@ temer:
       3s: hubo temido
       3p: hubieron temido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have feared}
       1s: habría temido
@@ -105,7 +105,7 @@ temer:
       3s: habría temido
       3p: habrían temido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I fear, am fearing'}
       1s: tema
@@ -115,7 +115,7 @@ temer:
       3s: tema
       3p: teman
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I feared, was fearing'}
       1s: temiera
@@ -125,7 +125,7 @@ temer:
       3s: temiera
       3p: temieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will fear}
       1s: temiere
@@ -135,7 +135,7 @@ temer:
       3s: temiere
       3p: temieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have feared, feared'}
       1s: haya temido
@@ -145,7 +145,7 @@ temer:
       3s: haya temido
       3p: hayan temido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have feared}
       1s: hubiere temido
@@ -155,7 +155,7 @@ temer:
       3s: hubiere temido
       3p: hubieren temido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had feared}
       1s: hubiera temido
@@ -165,7 +165,7 @@ temer:
       3s: hubiera temido
       3p: hubieran temido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Fear! Don't fear!}
       1s: ''
@@ -175,7 +175,7 @@ temer:
       3s: temed
       3p: teman
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Fear! Don't fear!}
       1s: ''

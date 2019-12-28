@@ -5,7 +5,7 @@ rogar:
   definitions: {en: 'to plead, beg, ask for'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I plead, am pleading'}
       1s: ruego
@@ -15,7 +15,7 @@ rogar:
       3s: ruega
       3p: ruegan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will plead}
       1s: rogaré
@@ -25,7 +25,7 @@ rogar:
       3s: rogará
       3p: rogarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was pleading, used to plead, pleaded'}
       1s: rogaba
@@ -35,7 +35,7 @@ rogar:
       3s: rogaba
       3p: rogaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I pleaded}
       1s: rogué
@@ -45,7 +45,7 @@ rogar:
       3s: rogó
       3p: rogaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would plead}
       1s: rogaría
@@ -55,7 +55,7 @@ rogar:
       3s: rogaría
       3p: rogarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have pleaded}
       1s: he rogado
@@ -65,7 +65,7 @@ rogar:
       3s: ha rogado
       3p: han rogado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have pleaded}
       1s: habré rogado
@@ -75,7 +75,7 @@ rogar:
       3s: habrá rogado
       3p: habrán rogado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had pleaded}
       1s: había rogado
@@ -85,7 +85,7 @@ rogar:
       3s: había rogado
       3p: habían rogado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had pleaded}
       1s: hube rogado
@@ -95,7 +95,7 @@ rogar:
       3s: hubo rogado
       3p: hubieron rogado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have pleaded}
       1s: habría rogado
@@ -105,7 +105,7 @@ rogar:
       3s: habría rogado
       3p: habrían rogado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I plead, am pleading'}
       1s: ruegue
@@ -115,7 +115,7 @@ rogar:
       3s: ruegue
       3p: rueguen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I pleaded, was pleading'}
       1s: rogara
@@ -125,7 +125,7 @@ rogar:
       3s: rogara
       3p: rogaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will plead}
       1s: rogare
@@ -135,7 +135,7 @@ rogar:
       3s: rogare
       3p: rogaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have pleaded, pleaded'}
       1s: haya rogado
@@ -145,7 +145,7 @@ rogar:
       3s: haya rogado
       3p: hayan rogado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have pleaded}
       1s: hubiere rogado
@@ -155,7 +155,7 @@ rogar:
       3s: hubiere rogado
       3p: hubieren rogado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had pleaded}
       1s: hubiera rogado
@@ -165,7 +165,7 @@ rogar:
       3s: hubiera rogado
       3p: hubieran rogado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Plead! Don't plead!}
       1s: ''
@@ -175,7 +175,7 @@ rogar:
       3s: rogad
       3p: rueguen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Plead! Don't plead!}
       1s: ''

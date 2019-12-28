@@ -5,7 +5,7 @@ nacer:
   definitions: {en: to be born}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I am born, am being born'}
       1s: nazco
@@ -15,7 +15,7 @@ nacer:
       3s: nace
       3p: nacen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will be born}
       1s: naceré
@@ -25,7 +25,7 @@ nacer:
       3s: nacerá
       3p: nacerán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was being born, used to be born, was born'}
       1s: nacía
@@ -35,7 +35,7 @@ nacer:
       3s: nacía
       3p: nacían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I was born}
       1s: nací
@@ -45,7 +45,7 @@ nacer:
       3s: nació
       3p: nacieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would be born}
       1s: nacería
@@ -55,7 +55,7 @@ nacer:
       3s: nacería
       3p: nacerían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have been born}
       1s: he nacido
@@ -65,7 +65,7 @@ nacer:
       3s: ha nacido
       3p: han nacido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have been born}
       1s: habré nacido
@@ -75,7 +75,7 @@ nacer:
       3s: habrá nacido
       3p: habrán nacido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had been born}
       1s: había nacido
@@ -85,7 +85,7 @@ nacer:
       3s: había nacido
       3p: habían nacido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had been born}
       1s: hube nacido
@@ -95,7 +95,7 @@ nacer:
       3s: hubo nacido
       3p: hubieron nacido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have been born}
       1s: habría nacido
@@ -105,7 +105,7 @@ nacer:
       3s: habría nacido
       3p: habrían nacido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I am born, am being born'}
       1s: nazca
@@ -115,7 +115,7 @@ nacer:
       3s: nazca
       3p: nazcan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I was born, was being born'}
       1s: naciera
@@ -125,7 +125,7 @@ nacer:
       3s: naciera
       3p: nacieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will be born}
       1s: naciere
@@ -135,7 +135,7 @@ nacer:
       3s: naciere
       3p: nacieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have been born, was born'}
       1s: haya nacido
@@ -145,7 +145,7 @@ nacer:
       3s: haya nacido
       3p: hayan nacido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have been born}
       1s: hubiere nacido
@@ -155,7 +155,7 @@ nacer:
       3s: hubiere nacido
       3p: hubieren nacido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had been born}
       1s: hubiera nacido
@@ -165,7 +165,7 @@ nacer:
       3s: hubiera nacido
       3p: hubieran nacido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Be born! Don't be born!}
       1s: ''
@@ -175,7 +175,7 @@ nacer:
       3s: naced
       3p: nazcan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Be born! Don't be born!}
       1s: ''

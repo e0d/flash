@@ -5,7 +5,7 @@ responder:
   definitions: {en: 'to respond, answer, reply to'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I respond, am responding'}
       1s: respondo
@@ -15,7 +15,7 @@ responder:
       3s: responde
       3p: responden
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will respond}
       1s: responderé
@@ -25,7 +25,7 @@ responder:
       3s: responderá
       3p: responderán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was responding, used to respond, responded'}
       1s: respondía
@@ -35,7 +35,7 @@ responder:
       3s: respondía
       3p: respondían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I responded}
       1s: respondí
@@ -45,7 +45,7 @@ responder:
       3s: respondió
       3p: respondieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would respond}
       1s: respondería
@@ -55,7 +55,7 @@ responder:
       3s: respondería
       3p: responderían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have responded}
       1s: he respondido
@@ -65,7 +65,7 @@ responder:
       3s: ha respondido
       3p: han respondido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have responded}
       1s: habré respondido
@@ -75,7 +75,7 @@ responder:
       3s: habrá respondido
       3p: habrán respondido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had responded}
       1s: había respondido
@@ -85,7 +85,7 @@ responder:
       3s: había respondido
       3p: habían respondido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had responded}
       1s: hube respondido
@@ -95,7 +95,7 @@ responder:
       3s: hubo respondido
       3p: hubieron respondido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have responded}
       1s: habría respondido
@@ -105,7 +105,7 @@ responder:
       3s: habría respondido
       3p: habrían respondido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I respond, am responding'}
       1s: responda
@@ -115,7 +115,7 @@ responder:
       3s: responda
       3p: respondan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I responded, was responding'}
       1s: respondiera
@@ -125,7 +125,7 @@ responder:
       3s: respondiera
       3p: respondieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will respond}
       1s: respondiere
@@ -135,7 +135,7 @@ responder:
       3s: respondiere
       3p: respondieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have responded, responded'}
       1s: haya respondido
@@ -145,7 +145,7 @@ responder:
       3s: haya respondido
       3p: hayan respondido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have responded}
       1s: hubiere respondido
@@ -155,7 +155,7 @@ responder:
       3s: hubiere respondido
       3p: hubieren respondido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had responded}
       1s: hubiera respondido
@@ -165,7 +165,7 @@ responder:
       3s: hubiera respondido
       3p: hubieran respondido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Respond! Don't respond!}
       1s: ''
@@ -175,7 +175,7 @@ responder:
       3s: responded
       3p: respondan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Respond! Don't respond!}
       1s: ''

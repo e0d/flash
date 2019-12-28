@@ -5,7 +5,7 @@ quejarse:
   definitions: {en: to complain}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I complain, am complaining'}
       1s: me quejo
@@ -15,7 +15,7 @@ quejarse:
       3s: se queja
       3p: se quejan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will complain}
       1s: me quejaré
@@ -25,7 +25,7 @@ quejarse:
       3s: se quejará
       3p: se quejarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was complaining, used to complain, complained'}
       1s: me quejaba
@@ -35,7 +35,7 @@ quejarse:
       3s: se quejaba
       3p: se quejaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I complained}
       1s: me quejé
@@ -45,7 +45,7 @@ quejarse:
       3s: se quejó
       3p: se quejaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would complain}
       1s: me quejaría
@@ -55,7 +55,7 @@ quejarse:
       3s: se quejaría
       3p: se quejarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have complained}
       1s: me he quejado
@@ -65,7 +65,7 @@ quejarse:
       3s: se ha quejado
       3p: se han quejado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have complained}
       1s: me habré quejado
@@ -75,7 +75,7 @@ quejarse:
       3s: se habrá quejado
       3p: se habrán quejado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had complained}
       1s: me había quejado
@@ -85,7 +85,7 @@ quejarse:
       3s: se había quejado
       3p: se habían quejado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had complained}
       1s: me hube quejado
@@ -95,7 +95,7 @@ quejarse:
       3s: se hubo quejado
       3p: se hubieron quejado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have complained}
       1s: me habría quejado
@@ -105,7 +105,7 @@ quejarse:
       3s: se habría quejado
       3p: se habrían quejado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I complain, am complaining'}
       1s: me queje
@@ -115,7 +115,7 @@ quejarse:
       3s: se queje
       3p: se quejen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I complained, was complaining'}
       1s: me quejara
@@ -125,7 +125,7 @@ quejarse:
       3s: se quejara
       3p: se quejaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will complain}
       1s: me quejare
@@ -135,7 +135,7 @@ quejarse:
       3s: se quejare
       3p: se quejaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have complained, complained'}
       1s: me haya quejado
@@ -145,7 +145,7 @@ quejarse:
       3s: se haya quejado
       3p: se hayan quejado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have complained}
       1s: me hubiere quejado
@@ -155,7 +155,7 @@ quejarse:
       3s: se hubiere quejado
       3p: se hubieren quejado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had complained}
       1s: me hubiera quejado
@@ -165,7 +165,7 @@ quejarse:
       3s: se hubiera quejado
       3p: se hubieran quejado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Complain! Don't complain!}
       1s: ''
@@ -175,7 +175,7 @@ quejarse:
       3s: quejaos
       3p: quéjense
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Complain! Don't complain!}
       1s: ''

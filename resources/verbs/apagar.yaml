@@ -5,7 +5,7 @@ apagar:
   definitions: {en: 'to extinguish, put out, turn off'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I extinguish, am extinguishing'}
       1s: apago
@@ -15,7 +15,7 @@ apagar:
       3s: apaga
       3p: apagan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will extinguish}
       1s: apagaré
@@ -25,7 +25,7 @@ apagar:
       3s: apagará
       3p: apagarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was extinguishing, used to extinguish, extinguished'}
       1s: apagaba
@@ -35,7 +35,7 @@ apagar:
       3s: apagaba
       3p: apagaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I extinguished}
       1s: apagué
@@ -45,7 +45,7 @@ apagar:
       3s: apagó
       3p: apagaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would extinguish}
       1s: apagaría
@@ -55,7 +55,7 @@ apagar:
       3s: apagaría
       3p: apagarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have extinguished}
       1s: he apagado
@@ -65,7 +65,7 @@ apagar:
       3s: ha apagado
       3p: han apagado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have extinguished}
       1s: habré apagado
@@ -75,7 +75,7 @@ apagar:
       3s: habrá apagado
       3p: habrán apagado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had extinguished}
       1s: había apagado
@@ -85,7 +85,7 @@ apagar:
       3s: había apagado
       3p: habían apagado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had extinguished}
       1s: hube apagado
@@ -95,7 +95,7 @@ apagar:
       3s: hubo apagado
       3p: hubieron apagado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have extinguished}
       1s: habría apagado
@@ -105,7 +105,7 @@ apagar:
       3s: habría apagado
       3p: habrían apagado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I extinguish, am extinguishing'}
       1s: apague
@@ -115,7 +115,7 @@ apagar:
       3s: apague
       3p: apaguen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I extinguished, was extinguishing'}
       1s: apagara
@@ -125,7 +125,7 @@ apagar:
       3s: apagara
       3p: apagaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will extinguish}
       1s: apagare
@@ -135,7 +135,7 @@ apagar:
       3s: apagare
       3p: apagaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have extinguished, extinguished'}
       1s: haya apagado
@@ -145,7 +145,7 @@ apagar:
       3s: haya apagado
       3p: hayan apagado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have extinguished}
       1s: hubiere apagado
@@ -155,7 +155,7 @@ apagar:
       3s: hubiere apagado
       3p: hubieren apagado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had extinguished}
       1s: hubiera apagado
@@ -165,7 +165,7 @@ apagar:
       3s: hubiera apagado
       3p: hubieran apagado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Extinguish! Don't extinguish!}
       1s: ''
@@ -175,7 +175,7 @@ apagar:
       3s: apagad
       3p: apaguen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Extinguish! Don't extinguish!}
       1s: ''

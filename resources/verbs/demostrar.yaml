@@ -5,7 +5,7 @@ demostrar:
   definitions: {en: 'to demonstrate, show'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I demonstrate, am demonstrating'}
       1s: demuestro
@@ -15,7 +15,7 @@ demostrar:
       3s: demuestra
       3p: demuestran
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will demonstrate}
       1s: demostraré
@@ -25,7 +25,7 @@ demostrar:
       3s: demostrará
       3p: demostrarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was demonstrating, used to demonstrate, demonstrated'}
       1s: demostraba
@@ -35,7 +35,7 @@ demostrar:
       3s: demostraba
       3p: demostraban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I demonstrated}
       1s: demostré
@@ -45,7 +45,7 @@ demostrar:
       3s: demostró
       3p: demostraron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would demonstrate}
       1s: demostraría
@@ -55,7 +55,7 @@ demostrar:
       3s: demostraría
       3p: demostrarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have demonstrated}
       1s: he demostrado
@@ -65,7 +65,7 @@ demostrar:
       3s: ha demostrado
       3p: han demostrado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have demonstrated}
       1s: habré demostrado
@@ -75,7 +75,7 @@ demostrar:
       3s: habrá demostrado
       3p: habrán demostrado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had demonstrated}
       1s: había demostrado
@@ -85,7 +85,7 @@ demostrar:
       3s: había demostrado
       3p: habían demostrado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had demonstrated}
       1s: hube demostrado
@@ -95,7 +95,7 @@ demostrar:
       3s: hubo demostrado
       3p: hubieron demostrado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have demonstrated}
       1s: habría demostrado
@@ -105,7 +105,7 @@ demostrar:
       3s: habría demostrado
       3p: habrían demostrado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I demonstrate, am demonstrating'}
       1s: demuestre
@@ -115,7 +115,7 @@ demostrar:
       3s: demuestre
       3p: demuestren
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I demonstrated, was demonstrating'}
       1s: demostrara
@@ -125,7 +125,7 @@ demostrar:
       3s: demostrara
       3p: demostraran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will demonstrate}
       1s: demostrare
@@ -135,7 +135,7 @@ demostrar:
       3s: demostrare
       3p: demostraren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have demonstrated, demonstrated'}
       1s: haya demostrado
@@ -145,7 +145,7 @@ demostrar:
       3s: haya demostrado
       3p: hayan demostrado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have demonstrated}
       1s: hubiere demostrado
@@ -155,7 +155,7 @@ demostrar:
       3s: hubiere demostrado
       3p: hubieren demostrado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had demonstrated}
       1s: hubiera demostrado
@@ -165,7 +165,7 @@ demostrar:
       3s: hubiera demostrado
       3p: hubieran demostrado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Demonstrate! Don't demonstrate!}
       1s: ''
@@ -175,7 +175,7 @@ demostrar:
       3s: demostrad
       3p: demuestren
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Demonstrate! Don't demonstrate!}
       1s: ''

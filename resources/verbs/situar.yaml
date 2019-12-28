@@ -5,7 +5,7 @@ situar:
   definitions: {en: 'to place, put, situate'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I place, am placing'}
       1s: sitúo
@@ -15,7 +15,7 @@ situar:
       3s: sitúa
       3p: sitúan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will place}
       1s: situaré
@@ -25,7 +25,7 @@ situar:
       3s: situará
       3p: situarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was placing, used to place, placed'}
       1s: situaba
@@ -35,7 +35,7 @@ situar:
       3s: situaba
       3p: situaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I placed}
       1s: situé
@@ -45,7 +45,7 @@ situar:
       3s: situó
       3p: situaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would place}
       1s: situaría
@@ -55,7 +55,7 @@ situar:
       3s: situaría
       3p: situarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have placed}
       1s: he situado
@@ -65,7 +65,7 @@ situar:
       3s: ha situado
       3p: han situado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have placed}
       1s: habré situado
@@ -75,7 +75,7 @@ situar:
       3s: habrá situado
       3p: habrán situado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had placed}
       1s: había situado
@@ -85,7 +85,7 @@ situar:
       3s: había situado
       3p: habían situado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had placed}
       1s: hube situado
@@ -95,7 +95,7 @@ situar:
       3s: hubo situado
       3p: hubieron situado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have placed}
       1s: habría situado
@@ -105,7 +105,7 @@ situar:
       3s: habría situado
       3p: habrían situado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I place, am placing'}
       1s: sitúe
@@ -115,7 +115,7 @@ situar:
       3s: sitúe
       3p: sitúen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I placed, was placing'}
       1s: situara
@@ -125,7 +125,7 @@ situar:
       3s: situara
       3p: situaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will place}
       1s: situare
@@ -135,7 +135,7 @@ situar:
       3s: situare
       3p: situaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have placed, placed'}
       1s: haya situado
@@ -145,7 +145,7 @@ situar:
       3s: haya situado
       3p: hayan situado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have placed}
       1s: hubiere situado
@@ -155,7 +155,7 @@ situar:
       3s: hubiere situado
       3p: hubieren situado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had placed}
       1s: hubiera situado
@@ -165,7 +165,7 @@ situar:
       3s: hubiera situado
       3p: hubieran situado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Place! Don't place!}
       1s: ''
@@ -175,7 +175,7 @@ situar:
       3s: situad
       3p: sitúen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Place! Don't place!}
       1s: ''

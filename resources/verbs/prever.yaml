@@ -5,7 +5,7 @@ prever:
   definitions: {en: 'to foresee, anticipate, envisage, visualize'}
   tenses:
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have foreseen}
       1s: habré previsto
@@ -15,7 +15,7 @@ prever:
       3s: habrá previsto
       3p: habrán previsto
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I foresee, am foreseeing'}
       1s: preveo
@@ -25,7 +25,7 @@ prever:
       3s: prevé
       3p: prevén
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will foresee}
       1s: preveré
@@ -35,7 +35,7 @@ prever:
       3s: preverá
       3p: preverán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was foreseeing, used to foresee, foresaw'}
       1s: preveía
@@ -45,7 +45,7 @@ prever:
       3s: preveía
       3p: preveían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I foresaw}
       1s: preví
@@ -55,7 +55,7 @@ prever:
       3s: previó
       3p: previeron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would foresee}
       1s: prevería
@@ -65,7 +65,7 @@ prever:
       3s: prevería
       3p: preverían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have foreseen}
       1s: he previsto
@@ -75,7 +75,7 @@ prever:
       3s: ha previsto
       3p: han previsto
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had foreseen}
       1s: había previsto
@@ -85,7 +85,7 @@ prever:
       3s: había previsto
       3p: habían previsto
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had foreseen}
       1s: hube previsto
@@ -95,7 +95,7 @@ prever:
       3s: hubo previsto
       3p: hubieron previsto
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have foreseen}
       1s: habría previsto
@@ -105,7 +105,7 @@ prever:
       3s: habría previsto
       3p: habrían previsto
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I foresee, am foreseeing'}
       1s: prevea
@@ -115,7 +115,7 @@ prever:
       3s: prevea
       3p: prevean
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I foresaw, was foreseeing'}
       1s: previera
@@ -125,7 +125,7 @@ prever:
       3s: previera
       3p: previeran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will foresee}
       1s: previere
@@ -135,7 +135,7 @@ prever:
       3s: previere
       3p: previeren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have foreseen, foresaw'}
       1s: haya previsto
@@ -145,7 +145,7 @@ prever:
       3s: haya previsto
       3p: hayan previsto
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will hapreve foreseen}
       1s: hubiere previsto
@@ -155,7 +155,7 @@ prever:
       3s: hubiere previsto
       3p: hubieren previsto
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had foreseen}
       1s: hubiera previsto
@@ -165,7 +165,7 @@ prever:
       3s: hubiera previsto
       3p: hubieran previsto
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Foresee! Don't foresee!}
       1s: ''
@@ -175,7 +175,7 @@ prever:
       3s: preved
       3p: prevean
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Foresee! Don't foresee!}
       1s: ''

@@ -5,7 +5,7 @@ luchar:
   definitions: {en: 'to fight, struggle; to wrestle'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I fight, am fighting'}
       1s: lucho
@@ -15,7 +15,7 @@ luchar:
       3s: lucha
       3p: luchan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will fight}
       1s: lucharé
@@ -25,7 +25,7 @@ luchar:
       3s: luchará
       3p: lucharán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was fighting, used to fight, fought'}
       1s: luchaba
@@ -35,7 +35,7 @@ luchar:
       3s: luchaba
       3p: luchaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I fought}
       1s: luché
@@ -45,7 +45,7 @@ luchar:
       3s: luchó
       3p: lucharon
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would fight}
       1s: lucharía
@@ -55,7 +55,7 @@ luchar:
       3s: lucharía
       3p: lucharían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have fought}
       1s: he luchado
@@ -65,7 +65,7 @@ luchar:
       3s: ha luchado
       3p: han luchado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have fought}
       1s: habré luchado
@@ -75,7 +75,7 @@ luchar:
       3s: habrá luchado
       3p: habrán luchado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had fought}
       1s: había luchado
@@ -85,7 +85,7 @@ luchar:
       3s: había luchado
       3p: habían luchado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had fought}
       1s: hube luchado
@@ -95,7 +95,7 @@ luchar:
       3s: hubo luchado
       3p: hubieron luchado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have fought}
       1s: habría luchado
@@ -105,7 +105,7 @@ luchar:
       3s: habría luchado
       3p: habrían luchado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I fight, am fighting'}
       1s: luche
@@ -115,7 +115,7 @@ luchar:
       3s: luche
       3p: luchen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I fought, was fighting'}
       1s: luchara
@@ -125,7 +125,7 @@ luchar:
       3s: luchara
       3p: lucharan
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will fight}
       1s: luchare
@@ -135,7 +135,7 @@ luchar:
       3s: luchare
       3p: lucharen
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have fought, fought'}
       1s: haya luchado
@@ -145,7 +145,7 @@ luchar:
       3s: haya luchado
       3p: hayan luchado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have fought}
       1s: hubiere luchado
@@ -155,7 +155,7 @@ luchar:
       3s: hubiere luchado
       3p: hubieren luchado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had fought}
       1s: hubiera luchado
@@ -165,7 +165,7 @@ luchar:
       3s: hubiera luchado
       3p: hubieran luchado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Fight! Don't fight!}
       1s: ''
@@ -175,7 +175,7 @@ luchar:
       3s: luchad
       3p: luchen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Fight! Don't fight!}
       1s: ''

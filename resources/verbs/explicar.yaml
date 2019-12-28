@@ -5,7 +5,7 @@ explicar:
   definitions: {en: to explain}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I explain, am explaining'}
       1s: explico
@@ -15,7 +15,7 @@ explicar:
       3s: explica
       3p: explican
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will explain}
       1s: explicaré
@@ -25,7 +25,7 @@ explicar:
       3s: explicará
       3p: explicarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was explaining, used to explain, explained'}
       1s: explicaba
@@ -35,7 +35,7 @@ explicar:
       3s: explicaba
       3p: explicaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I explained}
       1s: expliqué
@@ -45,7 +45,7 @@ explicar:
       3s: explicó
       3p: explicaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would explain}
       1s: explicaría
@@ -55,7 +55,7 @@ explicar:
       3s: explicaría
       3p: explicarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have explained}
       1s: he explicado
@@ -65,7 +65,7 @@ explicar:
       3s: ha explicado
       3p: han explicado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have explained}
       1s: habré explicado
@@ -75,7 +75,7 @@ explicar:
       3s: habrá explicado
       3p: habrán explicado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had explained}
       1s: había explicado
@@ -85,7 +85,7 @@ explicar:
       3s: había explicado
       3p: habían explicado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had explained}
       1s: hube explicado
@@ -95,7 +95,7 @@ explicar:
       3s: hubo explicado
       3p: hubieron explicado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have explained}
       1s: habría explicado
@@ -105,7 +105,7 @@ explicar:
       3s: habría explicado
       3p: habrían explicado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I explain, am explaining'}
       1s: explique
@@ -115,7 +115,7 @@ explicar:
       3s: explique
       3p: expliquen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I explained, was explaining'}
       1s: explicara
@@ -125,7 +125,7 @@ explicar:
       3s: explicara
       3p: explicaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will explain}
       1s: explicare
@@ -135,7 +135,7 @@ explicar:
       3s: explicare
       3p: explicaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have explained, explained'}
       1s: haya explicado
@@ -145,7 +145,7 @@ explicar:
       3s: haya explicado
       3p: hayan explicado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have explained}
       1s: hubiere explicado
@@ -155,7 +155,7 @@ explicar:
       3s: hubiere explicado
       3p: hubieren explicado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had explained}
       1s: hubiera explicado
@@ -165,7 +165,7 @@ explicar:
       3s: hubiera explicado
       3p: hubieran explicado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: explain! Don't explain!}
       1s: ''
@@ -175,7 +175,7 @@ explicar:
       3s: explicad
       3p: expliquen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: explain! Don't explain!}
       1s: ''

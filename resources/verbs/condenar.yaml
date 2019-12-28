@@ -5,7 +5,7 @@ condenar:
   definitions: {en: 'to condemn, convict, sentence'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I condemn, am condemning'}
       1s: condeno
@@ -15,7 +15,7 @@ condenar:
       3s: condena
       3p: condenan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will condemn}
       1s: condenaré
@@ -25,7 +25,7 @@ condenar:
       3s: condenará
       3p: condenarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was condemning, used to condemn, condemned'}
       1s: condenaba
@@ -35,7 +35,7 @@ condenar:
       3s: condenaba
       3p: condenaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I condemned}
       1s: condené
@@ -45,7 +45,7 @@ condenar:
       3s: condenó
       3p: condenaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would condemn}
       1s: condenaría
@@ -55,7 +55,7 @@ condenar:
       3s: condenaría
       3p: condenarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have condemned}
       1s: he condenado
@@ -65,7 +65,7 @@ condenar:
       3s: ha condenado
       3p: han condenado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have condemned}
       1s: habré condenado
@@ -75,7 +75,7 @@ condenar:
       3s: habrá condenado
       3p: habrán condenado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had condemned}
       1s: había condenado
@@ -85,7 +85,7 @@ condenar:
       3s: había condenado
       3p: habían condenado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had condemned}
       1s: hube condenado
@@ -95,7 +95,7 @@ condenar:
       3s: hubo condenado
       3p: hubieron condenado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have condemned}
       1s: habría condenado
@@ -105,7 +105,7 @@ condenar:
       3s: habría condenado
       3p: habrían condenado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I condemn, am condemning'}
       1s: condene
@@ -115,7 +115,7 @@ condenar:
       3s: condene
       3p: condenen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I condemned, was condemning'}
       1s: condenara
@@ -125,7 +125,7 @@ condenar:
       3s: condenara
       3p: condenaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will condemn}
       1s: condenare
@@ -135,7 +135,7 @@ condenar:
       3s: condenare
       3p: condenaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have condemned, condemned'}
       1s: haya condenado
@@ -145,7 +145,7 @@ condenar:
       3s: haya condenado
       3p: hayan condenado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have condemned}
       1s: hubiere condenado
@@ -155,7 +155,7 @@ condenar:
       3s: hubiere condenado
       3p: hubieren condenado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had condemned}
       1s: hubiera condenado
@@ -165,7 +165,7 @@ condenar:
       3s: hubiera condenado
       3p: hubieran condenado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Condemn! Don't condemn!}
       1s: ''
@@ -175,7 +175,7 @@ condenar:
       3s: condenad
       3p: condenen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Condemn! Don't condemn!}
       1s: ''

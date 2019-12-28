@@ -5,7 +5,7 @@ clarificar:
   definitions: {en: 'to clarify, illuminate, light [up], brighten'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I clarify, am clarifying'}
       1s: clarifico
@@ -15,7 +15,7 @@ clarificar:
       3s: clarifica
       3p: clarifican
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will clarify}
       1s: clarificaré
@@ -25,7 +25,7 @@ clarificar:
       3s: clarificará
       3p: clarificarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was clarifying, used to clarify, clarified'}
       1s: clarificaba
@@ -35,7 +35,7 @@ clarificar:
       3s: clarificaba
       3p: clarificaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I clarified}
       1s: clarifiqué
@@ -45,7 +45,7 @@ clarificar:
       3s: clarificó
       3p: clarificaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would clarify}
       1s: clarificaría
@@ -55,7 +55,7 @@ clarificar:
       3s: clarificaría
       3p: clarificarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have clarified}
       1s: he clarificado
@@ -65,7 +65,7 @@ clarificar:
       3s: ha clarificado
       3p: han clarificado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have clarified}
       1s: habré clarificado
@@ -75,7 +75,7 @@ clarificar:
       3s: habrá clarificado
       3p: habrán clarificado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had clarified}
       1s: había clarificado
@@ -85,7 +85,7 @@ clarificar:
       3s: había clarificado
       3p: habían clarificado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had clarified}
       1s: hube clarificado
@@ -95,7 +95,7 @@ clarificar:
       3s: hubo clarificado
       3p: hubieron clarificado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have clarified}
       1s: habría clarificado
@@ -105,7 +105,7 @@ clarificar:
       3s: habría clarificado
       3p: habrían clarificado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I clarify, am clarifying'}
       1s: clarifique
@@ -115,7 +115,7 @@ clarificar:
       3s: clarifique
       3p: clarifiquen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I clarified, was clarifying'}
       1s: clarificara
@@ -125,7 +125,7 @@ clarificar:
       3s: clarificara
       3p: clarificaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will clarify}
       1s: clarificare
@@ -135,7 +135,7 @@ clarificar:
       3s: clarificare
       3p: clarificaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have clarified, clarified'}
       1s: haya clarificado
@@ -145,7 +145,7 @@ clarificar:
       3s: haya clarificado
       3p: hayan clarificado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have clarified}
       1s: hubiere clarificado
@@ -155,7 +155,7 @@ clarificar:
       3s: hubiere clarificado
       3p: hubieren clarificado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had clarified}
       1s: hubiera clarificado
@@ -165,7 +165,7 @@ clarificar:
       3s: hubiera clarificado
       3p: hubieran clarificado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Clarify! Don't clarify!}
       1s: ''
@@ -175,7 +175,7 @@ clarificar:
       3s: clarificad
       3p: clarifiquen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Clarify! Don't clarify!}
       1s: ''

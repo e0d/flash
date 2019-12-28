@@ -5,7 +5,7 @@ charlar:
   definitions: {en: 'to chat, talk'}
   tenses:
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I chat, am chatting'}
       1s: charle
@@ -15,7 +15,7 @@ charlar:
       3s: charle
       3p: charlen
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I chat, am chatting'}
       1s: charlo
@@ -25,7 +25,7 @@ charlar:
       3s: charla
       3p: charlan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will chat}
       1s: charlaré
@@ -35,7 +35,7 @@ charlar:
       3s: charlará
       3p: charlarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was chatting, used to chat, chatted'}
       1s: charlaba
@@ -45,7 +45,7 @@ charlar:
       3s: charlaba
       3p: charlaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I chatted}
       1s: charlé
@@ -55,7 +55,7 @@ charlar:
       3s: charló
       3p: charlaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would chat}
       1s: charlaría
@@ -65,7 +65,7 @@ charlar:
       3s: charlaría
       3p: charlarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have chatted}
       1s: he charlado
@@ -75,7 +75,7 @@ charlar:
       3s: ha charlado
       3p: han charlado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have chatted}
       1s: habré charlado
@@ -85,7 +85,7 @@ charlar:
       3s: habrá charlado
       3p: habrán charlado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had chatted}
       1s: había charlado
@@ -95,7 +95,7 @@ charlar:
       3s: había charlado
       3p: habían charlado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had chatted}
       1s: hube charlado
@@ -105,7 +105,7 @@ charlar:
       3s: hubo charlado
       3p: hubieron charlado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have chatted}
       1s: habría charlado
@@ -115,7 +115,7 @@ charlar:
       3s: habría charlado
       3p: habrían charlado
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I chatted, was chatting'}
       1s: charlara
@@ -125,7 +125,7 @@ charlar:
       3s: charlara
       3p: charlaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will chat}
       1s: charlare
@@ -135,7 +135,7 @@ charlar:
       3s: charlare
       3p: charlaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have chatted, chatted'}
       1s: haya charlado
@@ -145,7 +145,7 @@ charlar:
       3s: haya charlado
       3p: hayan charlado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have chatted}
       1s: hubiere charlado
@@ -155,7 +155,7 @@ charlar:
       3s: hubiere charlado
       3p: hubieren charlado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had chatted}
       1s: hubiera charlado
@@ -165,7 +165,7 @@ charlar:
       3s: hubiera charlado
       3p: hubieran charlado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Chat! Don't chat!}
       1s: ''
@@ -175,7 +175,7 @@ charlar:
       3s: charlad
       3p: charlen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Chat! Don't chat!}
       1s: ''

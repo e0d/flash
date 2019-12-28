@@ -5,7 +5,7 @@ permitir:
   definitions: {en: 'to permit, allow'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I permit, am permitting'}
       1s: permito
@@ -15,7 +15,7 @@ permitir:
       3s: permite
       3p: permiten
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will permit}
       1s: permitiré
@@ -25,7 +25,7 @@ permitir:
       3s: permitirá
       3p: permitirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was permitting, used to permit, permitted'}
       1s: permitía
@@ -35,7 +35,7 @@ permitir:
       3s: permitía
       3p: permitían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I permitted}
       1s: permití
@@ -45,7 +45,7 @@ permitir:
       3s: permitió
       3p: permitieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would permit}
       1s: permitiría
@@ -55,7 +55,7 @@ permitir:
       3s: permitiría
       3p: permitirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have permitted}
       1s: he permitido
@@ -65,7 +65,7 @@ permitir:
       3s: ha permitido
       3p: han permitido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have permitted}
       1s: habré permitido
@@ -75,7 +75,7 @@ permitir:
       3s: habrá permitido
       3p: habrán permitido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had permitted}
       1s: había permitido
@@ -85,7 +85,7 @@ permitir:
       3s: había permitido
       3p: habían permitido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had permitted}
       1s: hube permitido
@@ -95,7 +95,7 @@ permitir:
       3s: hubo permitido
       3p: hubieron permitido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have permitted}
       1s: habría permitido
@@ -105,7 +105,7 @@ permitir:
       3s: habría permitido
       3p: habrían permitido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I permit, am permitting'}
       1s: permita
@@ -115,7 +115,7 @@ permitir:
       3s: permita
       3p: permitan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I permitted, was permitting'}
       1s: permitiera
@@ -125,7 +125,7 @@ permitir:
       3s: permitiera
       3p: permitieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will permit}
       1s: permitiere
@@ -135,7 +135,7 @@ permitir:
       3s: permitiere
       3p: permitieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have permitted, permitted'}
       1s: haya permitido
@@ -145,7 +145,7 @@ permitir:
       3s: haya permitido
       3p: hayan permitido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have permitted}
       1s: hubiere permitido
@@ -155,7 +155,7 @@ permitir:
       3s: hubiere permitido
       3p: hubieren permitido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had permitted}
       1s: hubiera permitido
@@ -165,7 +165,7 @@ permitir:
       3s: hubiera permitido
       3p: hubieran permitido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Permit! Don't permit!}
       1s: ''
@@ -175,7 +175,7 @@ permitir:
       3s: permitid
       3p: permitan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Permit! Don't permit!}
       1s: ''

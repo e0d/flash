@@ -5,7 +5,7 @@ recordar:
   definitions: {en: 'to remember, remind'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I remember, am remembering'}
       1s: recuerdo
@@ -15,7 +15,7 @@ recordar:
       3s: recuerda
       3p: recuerdan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will remember}
       1s: recordaré
@@ -25,7 +25,7 @@ recordar:
       3s: recordará
       3p: recordarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was remembering, used to remember, remembered'}
       1s: recordaba
@@ -35,7 +35,7 @@ recordar:
       3s: recordaba
       3p: recordaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I remembered}
       1s: recordé
@@ -45,7 +45,7 @@ recordar:
       3s: recordó
       3p: recordaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would remember}
       1s: recordaría
@@ -55,7 +55,7 @@ recordar:
       3s: recordaría
       3p: recordarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have remembered}
       1s: he recordado
@@ -65,7 +65,7 @@ recordar:
       3s: ha recordado
       3p: han recordado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have remembered}
       1s: habré recordado
@@ -75,7 +75,7 @@ recordar:
       3s: habrá recordado
       3p: habrán recordado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had remembered}
       1s: había recordado
@@ -85,7 +85,7 @@ recordar:
       3s: había recordado
       3p: habían recordado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had remembered}
       1s: hube recordado
@@ -95,7 +95,7 @@ recordar:
       3s: hubo recordado
       3p: hubieron recordado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have remembered}
       1s: habría recordado
@@ -105,7 +105,7 @@ recordar:
       3s: habría recordado
       3p: habrían recordado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I remember, am remembering'}
       1s: recuerde
@@ -115,7 +115,7 @@ recordar:
       3s: recuerde
       3p: recuerden
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I remembered, was remembering'}
       1s: recordara
@@ -125,7 +125,7 @@ recordar:
       3s: recordara
       3p: recordaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will remember}
       1s: recordare
@@ -135,7 +135,7 @@ recordar:
       3s: recordare
       3p: recordaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have remembered, remembered'}
       1s: haya recordado
@@ -145,7 +145,7 @@ recordar:
       3s: haya recordado
       3p: hayan recordado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have remembered}
       1s: hubiere recordado
@@ -155,7 +155,7 @@ recordar:
       3s: hubiere recordado
       3p: hubieren recordado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had remembered}
       1s: hubiera recordado
@@ -165,7 +165,7 @@ recordar:
       3s: hubiera recordado
       3p: hubieran recordado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Remember! Don't remember!}
       1s: ''
@@ -175,7 +175,7 @@ recordar:
       3s: recordad
       3p: recuerden
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Remember! Don't remember!}
       1s: ''

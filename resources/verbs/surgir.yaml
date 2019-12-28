@@ -5,7 +5,7 @@ surgir:
   definitions: {en: 'to arise, emerge, spring up, come out, appear'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I arise, am arising'}
       1s: surjo
@@ -15,7 +15,7 @@ surgir:
       3s: surge
       3p: surgen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will arise}
       1s: surgiré
@@ -25,7 +25,7 @@ surgir:
       3s: surgirá
       3p: surgirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was arising, used to arise, arose'}
       1s: surgía
@@ -35,7 +35,7 @@ surgir:
       3s: surgía
       3p: surgían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I arose}
       1s: surgí
@@ -45,7 +45,7 @@ surgir:
       3s: surgió
       3p: surgieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would arise}
       1s: surgiría
@@ -55,7 +55,7 @@ surgir:
       3s: surgiría
       3p: surgirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have arisen}
       1s: he surgido
@@ -65,7 +65,7 @@ surgir:
       3s: ha surgido
       3p: han surgido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have arisen}
       1s: habré surgido
@@ -75,7 +75,7 @@ surgir:
       3s: habrá surgido
       3p: habrán surgido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had arisen}
       1s: había surgido
@@ -85,7 +85,7 @@ surgir:
       3s: había surgido
       3p: habían surgido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had arisen}
       1s: hube surgido
@@ -95,7 +95,7 @@ surgir:
       3s: hubo surgido
       3p: hubieron surgido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have arisen}
       1s: habría surgido
@@ -105,7 +105,7 @@ surgir:
       3s: habría surgido
       3p: habrían surgido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I arise, am arising'}
       1s: surja
@@ -115,7 +115,7 @@ surgir:
       3s: surja
       3p: surjan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I arose, was arising'}
       1s: surgiera
@@ -125,7 +125,7 @@ surgir:
       3s: surgiera
       3p: surgieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will arise}
       1s: surgiere
@@ -135,7 +135,7 @@ surgir:
       3s: surgiere
       3p: surgieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have arisen, arose'}
       1s: haya surgido
@@ -145,7 +145,7 @@ surgir:
       3s: haya surgido
       3p: hayan surgido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have arisen}
       1s: hubiere surgido
@@ -155,7 +155,7 @@ surgir:
       3s: hubiere surgido
       3p: hubieren surgido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had arisen}
       1s: hubiera surgido
@@ -165,7 +165,7 @@ surgir:
       3s: hubiera surgido
       3p: hubieran surgido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Arise! Don't arise!}
       1s: ''
@@ -175,7 +175,7 @@ surgir:
       3s: surgid
       3p: surjan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Arise! Don't arise!}
       1s: ''

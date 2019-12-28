@@ -5,7 +5,7 @@ afligir:
   definitions: {en: 'to afflict, to grieve, to pain, to distress'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I afflict, am afflicting'}
       1s: aflijo
@@ -15,7 +15,7 @@ afligir:
       3s: aflige
       3p: afligen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will afflict}
       1s: afligiré
@@ -25,7 +25,7 @@ afligir:
       3s: afligirá
       3p: afligirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was afflicting, used to afflict, afflicted'}
       1s: afligía
@@ -35,7 +35,7 @@ afligir:
       3s: afligía
       3p: afligían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I afflicted}
       1s: afligí
@@ -45,7 +45,7 @@ afligir:
       3s: afligió
       3p: afligieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would afflict}
       1s: afligiría
@@ -55,7 +55,7 @@ afligir:
       3s: afligiría
       3p: afligirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have aflficted}
       1s: he afligido
@@ -65,7 +65,7 @@ afligir:
       3s: ha afligido
       3p: han afligido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have afflicted}
       1s: habré afligido
@@ -75,7 +75,7 @@ afligir:
       3s: habrá afligido
       3p: habrán afligido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had afflicted}
       1s: había afligido
@@ -85,7 +85,7 @@ afligir:
       3s: había afligido
       3p: habían afligido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had afflicted}
       1s: hube afligido
@@ -95,7 +95,7 @@ afligir:
       3s: hubo afligido
       3p: hubieron afligido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have afflicted}
       1s: habría afligido
@@ -105,7 +105,7 @@ afligir:
       3s: habría afligido
       3p: habrían afligido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I afflict, am afflicting'}
       1s: aflija
@@ -115,7 +115,7 @@ afligir:
       3s: aflija
       3p: aflijan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I afflicted, was afflicting'}
       1s: afligiera
@@ -125,7 +125,7 @@ afligir:
       3s: afligiera
       3p: afligieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will afflict}
       1s: afligiere
@@ -135,7 +135,7 @@ afligir:
       3s: afligiere
       3p: afligieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have afflicted, afflicted'}
       1s: haya afligido
@@ -145,7 +145,7 @@ afligir:
       3s: haya afligido
       3p: hayan afligido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have afflicted}
       1s: hubiere afligido
@@ -155,7 +155,7 @@ afligir:
       3s: hubiere afligido
       3p: hubieren afligido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had afflicted}
       1s: hubiera afligido
@@ -165,7 +165,7 @@ afligir:
       3s: hubiera afligido
       3p: hubieran afligido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Afflict! Don't afflict!}
       1s: ''
@@ -175,7 +175,7 @@ afligir:
       3s: afligid
       3p: aflijan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Afflict! Don't afflict!}
       1s: ''

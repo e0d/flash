@@ -5,7 +5,7 @@ interesar:
   definitions: {en: 'to interest, be of interest [to]'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I interest, am interesting'}
       1s: intereso
@@ -15,7 +15,7 @@ interesar:
       3s: interesa
       3p: interesan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will interest}
       1s: interesaré
@@ -25,7 +25,7 @@ interesar:
       3s: interesará
       3p: interesarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was interesting, used to interest, interested'}
       1s: interesaba
@@ -35,7 +35,7 @@ interesar:
       3s: interesaba
       3p: interesaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I interested}
       1s: interesé
@@ -45,7 +45,7 @@ interesar:
       3s: interesó
       3p: interesaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would interest}
       1s: interesaría
@@ -55,7 +55,7 @@ interesar:
       3s: interesaría
       3p: interesarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have interested}
       1s: he interesado
@@ -65,7 +65,7 @@ interesar:
       3s: ha interesado
       3p: han interesado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have interested}
       1s: habré interesado
@@ -75,7 +75,7 @@ interesar:
       3s: habrá interesado
       3p: habrán interesado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had interested}
       1s: había interesado
@@ -85,7 +85,7 @@ interesar:
       3s: había interesado
       3p: habían interesado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had interested}
       1s: hube interesado
@@ -95,7 +95,7 @@ interesar:
       3s: hubo interesado
       3p: hubieron interesado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have interested}
       1s: habría interesado
@@ -105,7 +105,7 @@ interesar:
       3s: habría interesado
       3p: habrían interesado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I interest, am interesting'}
       1s: interese
@@ -115,7 +115,7 @@ interesar:
       3s: interese
       3p: interesen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I interested, was interesting'}
       1s: interesara
@@ -125,7 +125,7 @@ interesar:
       3s: interesara
       3p: interesaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will interest}
       1s: interesare
@@ -135,7 +135,7 @@ interesar:
       3s: interesare
       3p: interesaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have interested, interested'}
       1s: haya interesado
@@ -145,7 +145,7 @@ interesar:
       3s: haya interesado
       3p: hayan interesado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have interested}
       1s: hubiere interesado
@@ -155,7 +155,7 @@ interesar:
       3s: hubiere interesado
       3p: hubieren interesado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had interested}
       1s: hubiera interesado
@@ -165,7 +165,7 @@ interesar:
       3s: hubiera interesado
       3p: hubieran interesado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Interest! Don't interest!}
       1s: ''
@@ -175,7 +175,7 @@ interesar:
       3s: interesad
       3p: interesen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Interest! Don't interest!}
       1s: ''

@@ -5,7 +5,7 @@ decorar:
   definitions: {en: 'to decorate, adorn'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I decorate, am decorating'}
       1s: decoro
@@ -15,7 +15,7 @@ decorar:
       3s: decora
       3p: decoran
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will decorate}
       1s: decoraré
@@ -25,7 +25,7 @@ decorar:
       3s: decorará
       3p: decorarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was decorating, used to decorate, decorated'}
       1s: decoraba
@@ -35,7 +35,7 @@ decorar:
       3s: decoraba
       3p: decoraban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I decorated}
       1s: decoré
@@ -45,7 +45,7 @@ decorar:
       3s: decoró
       3p: decoraron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would decorate}
       1s: decoraría
@@ -55,7 +55,7 @@ decorar:
       3s: decoraría
       3p: decorarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have decorated}
       1s: he decorado
@@ -65,7 +65,7 @@ decorar:
       3s: ha decorado
       3p: han decorado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have decorated}
       1s: habré decorado
@@ -75,7 +75,7 @@ decorar:
       3s: habrá decorado
       3p: habrán decorado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had decorated}
       1s: había decorado
@@ -85,7 +85,7 @@ decorar:
       3s: había decorado
       3p: habían decorado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had decorated}
       1s: hube decorado
@@ -95,7 +95,7 @@ decorar:
       3s: hubo decorado
       3p: hubieron decorado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have decorated}
       1s: habría decorado
@@ -105,7 +105,7 @@ decorar:
       3s: habría decorado
       3p: habrían decorado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I decorate, am decorating'}
       1s: decore
@@ -115,7 +115,7 @@ decorar:
       3s: decore
       3p: decoren
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I decorated, was decorating'}
       1s: decorara
@@ -125,7 +125,7 @@ decorar:
       3s: decorara
       3p: decoraran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will decorate}
       1s: decorare
@@ -135,7 +135,7 @@ decorar:
       3s: decorare
       3p: decoraren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have decorated, decorated'}
       1s: haya decorado
@@ -145,7 +145,7 @@ decorar:
       3s: haya decorado
       3p: hayan decorado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have decorated}
       1s: hubiere decorado
@@ -155,7 +155,7 @@ decorar:
       3s: hubiere decorado
       3p: hubieren decorado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had decorated}
       1s: hubiera decorado
@@ -165,7 +165,7 @@ decorar:
       3s: hubiera decorado
       3p: hubieran decorado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Decorate! Don't decorate!}
       1s: ''
@@ -175,7 +175,7 @@ decorar:
       3s: decorad
       3p: decoren
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Decorate! Don't decorate!}
       1s: ''

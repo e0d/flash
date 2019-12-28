@@ -5,7 +5,7 @@ trabajar:
   definitions: {en: to work}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I work, am working'}
       1s: trabajo
@@ -15,7 +15,7 @@ trabajar:
       3s: trabaja
       3p: trabajan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will work}
       1s: trabajaré
@@ -25,7 +25,7 @@ trabajar:
       3s: trabajará
       3p: trabajarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was working, used to work, worked'}
       1s: trabajaba
@@ -35,7 +35,7 @@ trabajar:
       3s: trabajaba
       3p: trabajaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I worked}
       1s: trabajé
@@ -45,7 +45,7 @@ trabajar:
       3s: trabajó
       3p: trabajaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would work}
       1s: trabajaría
@@ -55,7 +55,7 @@ trabajar:
       3s: trabajaría
       3p: trabajarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have worked}
       1s: he trabajado
@@ -65,7 +65,7 @@ trabajar:
       3s: ha trabajado
       3p: han trabajado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have worked}
       1s: habré trabajado
@@ -75,7 +75,7 @@ trabajar:
       3s: habrá trabajado
       3p: habrán trabajado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had worked}
       1s: había trabajado
@@ -85,7 +85,7 @@ trabajar:
       3s: había trabajado
       3p: habían trabajado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had worked}
       1s: hube trabajado
@@ -95,7 +95,7 @@ trabajar:
       3s: hubo trabajado
       3p: hubieron trabajado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have worked}
       1s: habría trabajado
@@ -105,7 +105,7 @@ trabajar:
       3s: habría trabajado
       3p: habrían trabajado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I work, am working'}
       1s: trabaje
@@ -115,7 +115,7 @@ trabajar:
       3s: trabaje
       3p: trabajen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I worked, was working'}
       1s: trabajara
@@ -125,7 +125,7 @@ trabajar:
       3s: trabajara
       3p: trabajaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will work}
       1s: trabajare
@@ -135,7 +135,7 @@ trabajar:
       3s: trabajare
       3p: trabajaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have worked, worked'}
       1s: haya trabajado
@@ -145,7 +145,7 @@ trabajar:
       3s: haya trabajado
       3p: hayan trabajado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have worked}
       1s: hubiere trabajado
@@ -155,7 +155,7 @@ trabajar:
       3s: hubiere trabajado
       3p: hubieren trabajado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had worked}
       1s: hubiera trabajado
@@ -165,7 +165,7 @@ trabajar:
       3s: hubiera trabajado
       3p: hubieran trabajado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Work! Don't work!}
       1s: ''
@@ -175,7 +175,7 @@ trabajar:
       3s: trabajad
       3p: trabajen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Work! Don't work!}
       1s: ''

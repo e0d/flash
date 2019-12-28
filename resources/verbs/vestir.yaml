@@ -5,7 +5,7 @@ vestir:
   definitions: {en: to dress}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I dress, am dressing'}
       1s: visto
@@ -15,7 +15,7 @@ vestir:
       3s: viste
       3p: visten
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will dress}
       1s: vestiré
@@ -25,7 +25,7 @@ vestir:
       3s: vestirá
       3p: vestirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was dressing, used to dress, dressed'}
       1s: vestía
@@ -35,7 +35,7 @@ vestir:
       3s: vestía
       3p: vestían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I dressed}
       1s: vestí
@@ -45,7 +45,7 @@ vestir:
       3s: vistió
       3p: vistieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would dress}
       1s: vestiría
@@ -55,7 +55,7 @@ vestir:
       3s: vestiría
       3p: vestirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have dressed}
       1s: he vestido
@@ -65,7 +65,7 @@ vestir:
       3s: ha vestido
       3p: han vestido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have dressed}
       1s: habré vestido
@@ -75,7 +75,7 @@ vestir:
       3s: habrá vestido
       3p: habrán vestido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had dressed}
       1s: había vestido
@@ -85,7 +85,7 @@ vestir:
       3s: había vestido
       3p: habían vestido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had dressed}
       1s: hube vestido
@@ -95,7 +95,7 @@ vestir:
       3s: hubo vestido
       3p: hubieron vestido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have dressed}
       1s: habría vestido
@@ -105,7 +105,7 @@ vestir:
       3s: habría vestido
       3p: habrían vestido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I dress, am dressing'}
       1s: vista
@@ -115,7 +115,7 @@ vestir:
       3s: vista
       3p: vistan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I dressed, was dressing'}
       1s: vistiera
@@ -125,7 +125,7 @@ vestir:
       3s: vistiera
       3p: vistieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will dress}
       1s: vistiere
@@ -135,7 +135,7 @@ vestir:
       3s: vistiere
       3p: vistieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have dressed, dressed'}
       1s: haya vestido
@@ -145,7 +145,7 @@ vestir:
       3s: haya vestido
       3p: hayan vestido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have dressed}
       1s: hubiere vestido
@@ -155,7 +155,7 @@ vestir:
       3s: hubiere vestido
       3p: hubieren vestido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had dressed}
       1s: hubiera vestido
@@ -165,7 +165,7 @@ vestir:
       3s: hubiera vestido
       3p: hubieran vestido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Dress! Don't dress!}
       1s: ''
@@ -175,7 +175,7 @@ vestir:
       3s: vestid
       3p: vistan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Dress! Don't dress!}
       1s: ''

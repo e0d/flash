@@ -5,7 +5,7 @@ regular:
   definitions: {en: 'to regulate, adjust, control'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I regulate, am regulating'}
       1s: regulo
@@ -15,7 +15,7 @@ regular:
       3s: regula
       3p: regulan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will regulate}
       1s: regularé
@@ -25,7 +25,7 @@ regular:
       3s: regulará
       3p: regularán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was regulating, used to regulate, regulated'}
       1s: regulaba
@@ -35,7 +35,7 @@ regular:
       3s: regulaba
       3p: regulaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I regulated}
       1s: regulé
@@ -45,7 +45,7 @@ regular:
       3s: reguló
       3p: regularon
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would regulate}
       1s: regularía
@@ -55,7 +55,7 @@ regular:
       3s: regularía
       3p: regularían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have regulated}
       1s: he regulado
@@ -65,7 +65,7 @@ regular:
       3s: ha regulado
       3p: han regulado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have regulated}
       1s: habré regulado
@@ -75,7 +75,7 @@ regular:
       3s: habrá regulado
       3p: habrán regulado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had regulated}
       1s: había regulado
@@ -85,7 +85,7 @@ regular:
       3s: había regulado
       3p: habían regulado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had regulated}
       1s: hube regulado
@@ -95,7 +95,7 @@ regular:
       3s: hubo regulado
       3p: hubieron regulado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have regulated}
       1s: habría regulado
@@ -105,7 +105,7 @@ regular:
       3s: habría regulado
       3p: habrían regulado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I regulate, am regulating'}
       1s: regule
@@ -115,7 +115,7 @@ regular:
       3s: regule
       3p: regulen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I regulated, was regulating'}
       1s: regulara
@@ -125,7 +125,7 @@ regular:
       3s: regulara
       3p: regularan
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will regulate}
       1s: regulare
@@ -135,7 +135,7 @@ regular:
       3s: regulare
       3p: regularen
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have regulated, regulated'}
       1s: haya regulado
@@ -145,7 +145,7 @@ regular:
       3s: haya regulado
       3p: hayan regulado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have regulated}
       1s: hubiere regulado
@@ -155,7 +155,7 @@ regular:
       3s: hubiere regulado
       3p: hubieren regulado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had regulated}
       1s: hubiera regulado
@@ -165,7 +165,7 @@ regular:
       3s: hubiera regulado
       3p: hubieran regulado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Regulate! Don't regulate!}
       1s: ''
@@ -175,7 +175,7 @@ regular:
       3s: regulad
       3p: regulen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Regulate! Don't regulate!}
       1s: ''

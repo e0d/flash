@@ -5,7 +5,7 @@ adorar:
   definitions: {en: 'to adore, worship'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I adore, am adoring'}
       1s: adoro
@@ -15,7 +15,7 @@ adorar:
       3s: adora
       3p: adoran
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will adore}
       1s: adoraré
@@ -25,7 +25,7 @@ adorar:
       3s: adorará
       3p: adorarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was adoring, used to adore, adored'}
       1s: adoraba
@@ -35,7 +35,7 @@ adorar:
       3s: adoraba
       3p: adoraban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I adored}
       1s: adoré
@@ -45,7 +45,7 @@ adorar:
       3s: adoró
       3p: adoraron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would adore}
       1s: adoraría
@@ -55,7 +55,7 @@ adorar:
       3s: adoraría
       3p: adorarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have adored}
       1s: he adorado
@@ -65,7 +65,7 @@ adorar:
       3s: ha adorado
       3p: han adorado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have adored}
       1s: habré adorado
@@ -75,7 +75,7 @@ adorar:
       3s: habrá adorado
       3p: habrán adorado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had adored}
       1s: había adorado
@@ -85,7 +85,7 @@ adorar:
       3s: había adorado
       3p: habían adorado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had adored}
       1s: hube adorado
@@ -95,7 +95,7 @@ adorar:
       3s: hubo adorado
       3p: hubieron adorado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have adored}
       1s: habría adorado
@@ -105,7 +105,7 @@ adorar:
       3s: habría adorado
       3p: habrían adorado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I adore, am adoring'}
       1s: adore
@@ -115,7 +115,7 @@ adorar:
       3s: adore
       3p: adoren
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I adored, was adoring'}
       1s: adorara
@@ -125,7 +125,7 @@ adorar:
       3s: adorara
       3p: adoraran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will adore}
       1s: adorare
@@ -135,7 +135,7 @@ adorar:
       3s: adorare
       3p: adoraren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have adored, adored'}
       1s: haya adorado
@@ -145,7 +145,7 @@ adorar:
       3s: haya adorado
       3p: hayan adorado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have adored}
       1s: hubiere adorado
@@ -155,7 +155,7 @@ adorar:
       3s: hubiere adorado
       3p: hubieren adorado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had adored}
       1s: hubiera adorado
@@ -165,7 +165,7 @@ adorar:
       3s: hubiera adorado
       3p: hubieran adorado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Adore! Don't adore!}
       1s: ''
@@ -175,7 +175,7 @@ adorar:
       3s: adorad
       3p: adoren
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Adore! Don't adore!}
       1s: ''

@@ -5,7 +5,7 @@ reciclar:
   definitions: {en: 'to recycle; to retrain [a person]'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I recycle, am recycling'}
       1s: reciclo
@@ -15,7 +15,7 @@ reciclar:
       3s: recicla
       3p: reciclan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will recycle}
       1s: reciclaré
@@ -25,7 +25,7 @@ reciclar:
       3s: reciclará
       3p: reciclarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was recycling, used to recycle, recycled'}
       1s: reciclaba
@@ -35,7 +35,7 @@ reciclar:
       3s: reciclaba
       3p: reciclaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I recycled}
       1s: reciclé
@@ -45,7 +45,7 @@ reciclar:
       3s: recicló
       3p: reciclaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would recycle}
       1s: reciclaría
@@ -55,7 +55,7 @@ reciclar:
       3s: reciclaría
       3p: reciclarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have recycled}
       1s: he reciclado
@@ -65,7 +65,7 @@ reciclar:
       3s: ha reciclado
       3p: han reciclado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have recycled}
       1s: habré reciclado
@@ -75,7 +75,7 @@ reciclar:
       3s: habrá reciclado
       3p: habrán reciclado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had recycled}
       1s: había reciclado
@@ -85,7 +85,7 @@ reciclar:
       3s: había reciclado
       3p: habían reciclado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had recycled}
       1s: hube reciclado
@@ -95,7 +95,7 @@ reciclar:
       3s: hubo reciclado
       3p: hubieron reciclado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have recycled}
       1s: habría reciclado
@@ -105,7 +105,7 @@ reciclar:
       3s: habría reciclado
       3p: habrían reciclado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I recycle, am recycling'}
       1s: recicle
@@ -115,7 +115,7 @@ reciclar:
       3s: recicle
       3p: reciclen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I recycled, was recycling'}
       1s: reciclara
@@ -125,7 +125,7 @@ reciclar:
       3s: reciclara
       3p: reciclaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will recycle}
       1s: reciclare
@@ -135,7 +135,7 @@ reciclar:
       3s: reciclare
       3p: reciclaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have recycled, recycled'}
       1s: haya reciclado
@@ -145,7 +145,7 @@ reciclar:
       3s: haya reciclado
       3p: hayan reciclado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have recycled}
       1s: hubiere reciclado
@@ -155,7 +155,7 @@ reciclar:
       3s: hubiere reciclado
       3p: hubieren reciclado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had recycled}
       1s: hubiera reciclado
@@ -165,7 +165,7 @@ reciclar:
       3s: hubiera reciclado
       3p: hubieran reciclado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Recycle! Don't recycle!}
       1s: ''
@@ -175,7 +175,7 @@ reciclar:
       3s: reciclad
       3p: reciclen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Recycle! Don't recycle!}
       1s: ''

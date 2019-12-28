@@ -5,7 +5,7 @@ repetir:
   definitions: {en: to repeat}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I repeat, am repeating'}
       1s: repito
@@ -15,7 +15,7 @@ repetir:
       3s: repite
       3p: repiten
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will repeat}
       1s: repetiré
@@ -25,7 +25,7 @@ repetir:
       3s: repetirá
       3p: repetirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was repeating, used to repeat, repeated'}
       1s: repetía
@@ -35,7 +35,7 @@ repetir:
       3s: repetía
       3p: repetían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I repeated}
       1s: repetí
@@ -45,7 +45,7 @@ repetir:
       3s: repitió
       3p: repitieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would repeat}
       1s: repetiría
@@ -55,7 +55,7 @@ repetir:
       3s: repetiría
       3p: repetirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have repeated}
       1s: he repetido
@@ -65,7 +65,7 @@ repetir:
       3s: ha repetido
       3p: han repetido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have repeated}
       1s: habré repetido
@@ -75,7 +75,7 @@ repetir:
       3s: habrá repetido
       3p: habrán repetido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had repeated}
       1s: había repetido
@@ -85,7 +85,7 @@ repetir:
       3s: había repetido
       3p: habían repetido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had repeated}
       1s: hube repetido
@@ -95,7 +95,7 @@ repetir:
       3s: hubo repetido
       3p: hubieron repetido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have repeated}
       1s: habría repetido
@@ -105,7 +105,7 @@ repetir:
       3s: habría repetido
       3p: habrían repetido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I repeat, am repeating'}
       1s: repita
@@ -115,7 +115,7 @@ repetir:
       3s: repita
       3p: repitan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I repeated, was repeating'}
       1s: repitiera
@@ -125,7 +125,7 @@ repetir:
       3s: repitiera
       3p: repitieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will repeat}
       1s: repitiere
@@ -135,7 +135,7 @@ repetir:
       3s: repitiere
       3p: repitieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have repeated, repeated'}
       1s: haya repetido
@@ -145,7 +145,7 @@ repetir:
       3s: haya repetido
       3p: hayan repetido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have repeated}
       1s: hubiere repetido
@@ -155,7 +155,7 @@ repetir:
       3s: hubiere repetido
       3p: hubieren repetido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had repeated}
       1s: hubiera repetido
@@ -165,7 +165,7 @@ repetir:
       3s: hubiera repetido
       3p: hubieran repetido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Repeat! Don't repeat!}
       1s: ''
@@ -175,7 +175,7 @@ repetir:
       3s: repetid
       3p: repitan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Repeat! Don't repeat!}
       1s: ''

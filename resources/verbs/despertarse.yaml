@@ -5,7 +5,7 @@ despertarse:
   definitions: {en: 'to wake up, lie down'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I wake up, am waking up'}
       1s: me despierto
@@ -15,7 +15,7 @@ despertarse:
       3s: se despierta
       3p: se despiertan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will wake up}
       1s: me despertaré
@@ -25,7 +25,7 @@ despertarse:
       3s: se despertará
       3p: se despertarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was waking up, used to wake up, woke up'}
       1s: me despertaba
@@ -35,7 +35,7 @@ despertarse:
       3s: se despertaba
       3p: se despertaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I woke up}
       1s: me desperté
@@ -45,7 +45,7 @@ despertarse:
       3s: se despertó
       3p: se despertaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would wake up}
       1s: me despertaría
@@ -55,7 +55,7 @@ despertarse:
       3s: se despertaría
       3p: se despertarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have waken up}
       1s: me he despertado
@@ -65,7 +65,7 @@ despertarse:
       3s: se ha despertado
       3p: se han despertado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have waken up}
       1s: me habré despertado
@@ -75,7 +75,7 @@ despertarse:
       3s: se habrá despertado
       3p: se habrán despertado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had waken up}
       1s: me había despertado
@@ -85,7 +85,7 @@ despertarse:
       3s: se había despertado
       3p: se habían despertado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had waken up}
       1s: me hube despertado
@@ -95,7 +95,7 @@ despertarse:
       3s: se hubo despertado
       3p: se hubieron despertado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have waken up}
       1s: me habría despertado
@@ -105,7 +105,7 @@ despertarse:
       3s: se habría despertado
       3p: se habrían despertado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I wake up, am waking up'}
       1s: me despierte
@@ -115,7 +115,7 @@ despertarse:
       3s: se despierte
       3p: se despierten
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I woke up, was waking up'}
       1s: me despertara
@@ -125,7 +125,7 @@ despertarse:
       3s: se despertara
       3p: se despertaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will wake up}
       1s: me despertare
@@ -135,7 +135,7 @@ despertarse:
       3s: se despertare
       3p: se despertaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have waken up, woke up'}
       1s: me haya despertado
@@ -145,7 +145,7 @@ despertarse:
       3s: se haya despertado
       3p: se hayan despertado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have waken up}
       1s: me hubiere despertado
@@ -155,7 +155,7 @@ despertarse:
       3s: se hubiere despertado
       3p: se hubieren despertado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had waken up}
       1s: me hubiera despertado
@@ -165,7 +165,7 @@ despertarse:
       3s: se hubiera despertado
       3p: se hubieran despertado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Wake up! Don't wake up!}
       1s: ''
@@ -175,7 +175,7 @@ despertarse:
       3s: despertaos
       3p: despiértense
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Wake up! Don't wake up!}
       1s: ''

@@ -5,7 +5,7 @@ emigrar:
   definitions: {en: to emigrate; to migrate}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I emigrate, am emigrating'}
       1s: emigro
@@ -15,7 +15,7 @@ emigrar:
       3s: emigra
       3p: emigran
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will emigrate}
       1s: emigraré
@@ -25,7 +25,7 @@ emigrar:
       3s: emigrará
       3p: emigrarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was emigrating, used to emigrate, emigrated'}
       1s: emigraba
@@ -35,7 +35,7 @@ emigrar:
       3s: emigraba
       3p: emigraban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I emigrated}
       1s: emigré
@@ -45,7 +45,7 @@ emigrar:
       3s: emigró
       3p: emigraron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would emigrate}
       1s: emigraría
@@ -55,7 +55,7 @@ emigrar:
       3s: emigraría
       3p: emigrarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have emigrated}
       1s: he emigrado
@@ -65,7 +65,7 @@ emigrar:
       3s: ha emigrado
       3p: han emigrado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have emigrated}
       1s: habré emigrado
@@ -75,7 +75,7 @@ emigrar:
       3s: habrá emigrado
       3p: habrán emigrado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had emigrated}
       1s: había emigrado
@@ -85,7 +85,7 @@ emigrar:
       3s: había emigrado
       3p: habían emigrado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had emigrated}
       1s: hube emigrado
@@ -95,7 +95,7 @@ emigrar:
       3s: hubo emigrado
       3p: hubieron emigrado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have emigrated}
       1s: habría emigrado
@@ -105,7 +105,7 @@ emigrar:
       3s: habría emigrado
       3p: habrían emigrado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I emigrate, am emigrating'}
       1s: emigre
@@ -115,7 +115,7 @@ emigrar:
       3s: emigre
       3p: emigren
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I emigrated, was emigrating'}
       1s: emigrara
@@ -125,7 +125,7 @@ emigrar:
       3s: emigrara
       3p: emigraran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will emigrate}
       1s: emigrare
@@ -135,7 +135,7 @@ emigrar:
       3s: emigrare
       3p: emigraren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have emigrated, emigrated'}
       1s: haya emigrado
@@ -145,7 +145,7 @@ emigrar:
       3s: haya emigrado
       3p: hayan emigrado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have emigrated}
       1s: hubiere emigrado
@@ -155,7 +155,7 @@ emigrar:
       3s: hubiere emigrado
       3p: hubieren emigrado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had emigrated}
       1s: hubiera emigrado
@@ -165,7 +165,7 @@ emigrar:
       3s: hubiera emigrado
       3p: hubieran emigrado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Emigrate! Don't emigrate!}
       1s: ''
@@ -175,7 +175,7 @@ emigrar:
       3s: emigrad
       3p: emigren
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Emigrate! Don't emigrate!}
       1s: ''

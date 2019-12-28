@@ -5,7 +5,7 @@ parar:
   definitions: {en: 'to stop, halt'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I stop, am stopping'}
       1s: paro
@@ -15,7 +15,7 @@ parar:
       3s: para
       3p: paran
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will stop}
       1s: pararé
@@ -25,7 +25,7 @@ parar:
       3s: parará
       3p: pararán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was stopping, used to stop, stopped'}
       1s: paraba
@@ -35,7 +35,7 @@ parar:
       3s: paraba
       3p: paraban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I stopped}
       1s: paré
@@ -45,7 +45,7 @@ parar:
       3s: paró
       3p: pararon
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would stop}
       1s: pararía
@@ -55,7 +55,7 @@ parar:
       3s: pararía
       3p: pararían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have stopped}
       1s: he parado
@@ -65,7 +65,7 @@ parar:
       3s: ha parado
       3p: han parado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have stopped}
       1s: habré parado
@@ -75,7 +75,7 @@ parar:
       3s: habrá parado
       3p: habrán parado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had stopped}
       1s: había parado
@@ -85,7 +85,7 @@ parar:
       3s: había parado
       3p: habían parado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had stopped}
       1s: hube parado
@@ -95,7 +95,7 @@ parar:
       3s: hubo parado
       3p: hubieron parado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have stopped}
       1s: habría parado
@@ -105,7 +105,7 @@ parar:
       3s: habría parado
       3p: habrían parado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I stop, am stopping'}
       1s: pare
@@ -115,7 +115,7 @@ parar:
       3s: pare
       3p: paren
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I stopped, was stopping'}
       1s: parara
@@ -125,7 +125,7 @@ parar:
       3s: parara
       3p: pararan
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will stop}
       1s: parare
@@ -135,7 +135,7 @@ parar:
       3s: parare
       3p: pararen
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have stopped, stopped'}
       1s: haya parado
@@ -145,7 +145,7 @@ parar:
       3s: haya parado
       3p: hayan parado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have stopped}
       1s: hubiere parado
@@ -155,7 +155,7 @@ parar:
       3s: hubiere parado
       3p: hubieren parado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had stopped}
       1s: hubiera parado
@@ -165,7 +165,7 @@ parar:
       3s: hubiera parado
       3p: hubieran parado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Stop! Don't stop!}
       1s: ''
@@ -175,7 +175,7 @@ parar:
       3s: parad
       3p: paren
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Stop! Don't stop!}
       1s: ''

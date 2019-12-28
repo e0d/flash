@@ -5,7 +5,7 @@ establecer:
   definitions: {en: to establish}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I establish, am establishing'}
       1s: establezco
@@ -15,7 +15,7 @@ establecer:
       3s: establece
       3p: establecen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will establish}
       1s: estableceré
@@ -25,7 +25,7 @@ establecer:
       3s: establecerá
       3p: establecerán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was establishing, used to establish, established'}
       1s: establecía
@@ -35,7 +35,7 @@ establecer:
       3s: establecía
       3p: establecían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I established}
       1s: establecí
@@ -45,7 +45,7 @@ establecer:
       3s: estableció
       3p: establecieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would establish}
       1s: establecería
@@ -55,7 +55,7 @@ establecer:
       3s: establecería
       3p: establecerían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have established}
       1s: he establecido
@@ -65,7 +65,7 @@ establecer:
       3s: ha establecido
       3p: han establecido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have established}
       1s: habré establecido
@@ -75,7 +75,7 @@ establecer:
       3s: habrá establecido
       3p: habrán establecido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had established}
       1s: había establecido
@@ -85,7 +85,7 @@ establecer:
       3s: había establecido
       3p: habían establecido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had established}
       1s: hube establecido
@@ -95,7 +95,7 @@ establecer:
       3s: hubo establecido
       3p: hubieron establecido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have established}
       1s: habría establecido
@@ -105,7 +105,7 @@ establecer:
       3s: habría establecido
       3p: habrían establecido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I establish, am establishing'}
       1s: establezca
@@ -115,7 +115,7 @@ establecer:
       3s: establezca
       3p: establezcan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I established, was establishing'}
       1s: estableciera
@@ -125,7 +125,7 @@ establecer:
       3s: estableciera
       3p: establecieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will establish}
       1s: estableciere
@@ -135,7 +135,7 @@ establecer:
       3s: estableciere
       3p: establecieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have established, established'}
       1s: haya establecido
@@ -145,7 +145,7 @@ establecer:
       3s: haya establecido
       3p: hayan establecido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have established}
       1s: hubiere establecido
@@ -155,7 +155,7 @@ establecer:
       3s: hubiere establecido
       3p: hubieren establecido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had established}
       1s: hubiera establecido
@@ -165,7 +165,7 @@ establecer:
       3s: hubiera establecido
       3p: hubieran establecido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Establish! Don't establish!}
       1s: ''
@@ -175,7 +175,7 @@ establecer:
       3s: estableced
       3p: establezcan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Establish! Don't establish!}
       1s: ''

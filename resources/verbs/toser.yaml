@@ -5,7 +5,7 @@ toser:
   definitions: {en: to cough}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I cough, am coughing'}
       1s: toso
@@ -15,7 +15,7 @@ toser:
       3s: tose
       3p: tosen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will cough}
       1s: toseré
@@ -25,7 +25,7 @@ toser:
       3s: toserá
       3p: toserán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was coughing, used to cough, coughed'}
       1s: tosía
@@ -35,7 +35,7 @@ toser:
       3s: tosía
       3p: tosían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I coughed}
       1s: tosí
@@ -45,7 +45,7 @@ toser:
       3s: tosió
       3p: tosieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would cough}
       1s: tosería
@@ -55,7 +55,7 @@ toser:
       3s: tosería
       3p: toserían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have coughed}
       1s: he tosido
@@ -65,7 +65,7 @@ toser:
       3s: ha tosido
       3p: han tosido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have coughed}
       1s: habré tosido
@@ -75,7 +75,7 @@ toser:
       3s: habrá tosido
       3p: habrán tosido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had coughed}
       1s: había tosido
@@ -85,7 +85,7 @@ toser:
       3s: había tosido
       3p: habían tosido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had coughed}
       1s: hube tosido
@@ -95,7 +95,7 @@ toser:
       3s: hubo tosido
       3p: hubieron tosido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have coughed}
       1s: habría tosido
@@ -105,7 +105,7 @@ toser:
       3s: habría tosido
       3p: habrían tosido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I cough, am coughing'}
       1s: tosa
@@ -115,7 +115,7 @@ toser:
       3s: tosa
       3p: tosan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I coughed, was coughing'}
       1s: tosiera
@@ -125,7 +125,7 @@ toser:
       3s: tosiera
       3p: tosieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will cough}
       1s: tosiere
@@ -135,7 +135,7 @@ toser:
       3s: tosiere
       3p: tosieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have coughed, coughed'}
       1s: haya tosido
@@ -145,7 +145,7 @@ toser:
       3s: haya tosido
       3p: hayan tosido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have coughed}
       1s: hubiere tosido
@@ -155,7 +155,7 @@ toser:
       3s: hubiere tosido
       3p: hubieren tosido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had coughed}
       1s: hubiera tosido
@@ -165,7 +165,7 @@ toser:
       3s: hubiera tosido
       3p: hubieran tosido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Cough! Don't cough!}
       1s: ''
@@ -175,7 +175,7 @@ toser:
       3s: tosed
       3p: tosan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Cough! Don't cough!}
       1s: ''

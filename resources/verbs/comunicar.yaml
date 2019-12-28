@@ -5,7 +5,7 @@ comunicar:
   definitions: {en: 'to communicate, transmit, tell, pass on'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I communicate, am communicating'}
       1s: comunico
@@ -15,7 +15,7 @@ comunicar:
       3s: comunica
       3p: comunican
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will communicate}
       1s: comunicaré
@@ -25,7 +25,7 @@ comunicar:
       3s: comunicará
       3p: comunicarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was communicating, used to communicate, communicated'}
       1s: comunicaba
@@ -35,7 +35,7 @@ comunicar:
       3s: comunicaba
       3p: comunicaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I communicated}
       1s: comuniqué
@@ -45,7 +45,7 @@ comunicar:
       3s: comunicó
       3p: comunicaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would communicate}
       1s: comunicaría
@@ -55,7 +55,7 @@ comunicar:
       3s: comunicaría
       3p: comunicarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have communicated}
       1s: he comunicado
@@ -65,7 +65,7 @@ comunicar:
       3s: ha comunicado
       3p: han comunicado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have communicated}
       1s: habré comunicado
@@ -75,7 +75,7 @@ comunicar:
       3s: habrá comunicado
       3p: habrán comunicado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had communicated}
       1s: había comunicado
@@ -85,7 +85,7 @@ comunicar:
       3s: había comunicado
       3p: habían comunicado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had communicated}
       1s: hube comunicado
@@ -95,7 +95,7 @@ comunicar:
       3s: hubo comunicado
       3p: hubieron comunicado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have communicated}
       1s: habría comunicado
@@ -105,7 +105,7 @@ comunicar:
       3s: habría comunicado
       3p: habrían comunicado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I communicate, am communicating'}
       1s: comunique
@@ -115,7 +115,7 @@ comunicar:
       3s: comunique
       3p: comuniquen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I communicated, was communicating'}
       1s: comunicara
@@ -125,7 +125,7 @@ comunicar:
       3s: comunicara
       3p: comunicaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will communicate}
       1s: comunicare
@@ -135,7 +135,7 @@ comunicar:
       3s: comunicare
       3p: comunicaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have communicated, communicated'}
       1s: haya comunicado
@@ -145,7 +145,7 @@ comunicar:
       3s: haya comunicado
       3p: hayan comunicado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have communicated}
       1s: hubiere comunicado
@@ -155,7 +155,7 @@ comunicar:
       3s: hubiere comunicado
       3p: hubieren comunicado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had communicated}
       1s: hubiera comunicado
@@ -165,7 +165,7 @@ comunicar:
       3s: hubiera comunicado
       3p: hubieran comunicado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: communicate! Don't communicate!}
       1s: ''
@@ -175,7 +175,7 @@ comunicar:
       3s: comunicad
       3p: comuniquen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: communicate! Don't communicate!}
       1s: ''

@@ -5,7 +5,7 @@ desaparecer:
   definitions: {en: to disappear}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I disappear, am disappearing'}
       1s: desaparezco
@@ -15,7 +15,7 @@ desaparecer:
       3s: desaparece
       3p: desaparecen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will disappear}
       1s: desapareceré
@@ -25,7 +25,7 @@ desaparecer:
       3s: desaparecerá
       3p: desaparecerán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was disappearing, used to disappear, disappeared'}
       1s: desaparecía
@@ -35,7 +35,7 @@ desaparecer:
       3s: desaparecía
       3p: desaparecían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I disappeared}
       1s: desaparecí
@@ -45,7 +45,7 @@ desaparecer:
       3s: desapareció
       3p: desaparecieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would disappear}
       1s: desaparecería
@@ -55,7 +55,7 @@ desaparecer:
       3s: desaparecería
       3p: desaparecerían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have disappeared}
       1s: he desaparecido
@@ -65,7 +65,7 @@ desaparecer:
       3s: ha desaparecido
       3p: han desaparecido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have disappeared}
       1s: habré desaparecido
@@ -75,7 +75,7 @@ desaparecer:
       3s: habrá desaparecido
       3p: habrán desaparecido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had disappeared}
       1s: había desaparecido
@@ -85,7 +85,7 @@ desaparecer:
       3s: había desaparecido
       3p: habían desaparecido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had disappeared}
       1s: hube desaparecido
@@ -95,7 +95,7 @@ desaparecer:
       3s: hubo desaparecido
       3p: hubieron desaparecido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have disappeared}
       1s: habría desaparecido
@@ -105,7 +105,7 @@ desaparecer:
       3s: habría desaparecido
       3p: habrían desaparecido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I disappear, am disappearing'}
       1s: desaparezca
@@ -115,7 +115,7 @@ desaparecer:
       3s: desaparezca
       3p: desaparezcan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I disappeared, was disappearing'}
       1s: desapareciera
@@ -125,7 +125,7 @@ desaparecer:
       3s: desapareciera
       3p: desaparecieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will disappear}
       1s: desapareciere
@@ -135,7 +135,7 @@ desaparecer:
       3s: desapareciere
       3p: desaparecieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have disappeared, disappeared'}
       1s: haya desaparecido
@@ -145,7 +145,7 @@ desaparecer:
       3s: haya desaparecido
       3p: hayan desaparecido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have disappeared}
       1s: hubiere desaparecido
@@ -155,7 +155,7 @@ desaparecer:
       3s: hubiere desaparecido
       3p: hubieren desaparecido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had disappeared}
       1s: hubiera desaparecido
@@ -165,7 +165,7 @@ desaparecer:
       3s: hubiera desaparecido
       3p: hubieran desaparecido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Disappear! Don't disappear!}
       1s: ''
@@ -175,7 +175,7 @@ desaparecer:
       3s: desapareced
       3p: desaparezcan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Disappear! Don't disappear!}
       1s: ''

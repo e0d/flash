@@ -5,7 +5,7 @@ exigir:
   definitions: {en: 'to demand, require'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I demand, am demanding'}
       1s: exijo
@@ -15,7 +15,7 @@ exigir:
       3s: exige
       3p: exigen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will demand}
       1s: exigiré
@@ -25,7 +25,7 @@ exigir:
       3s: exigirá
       3p: exigirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was demanding, used to demand, demanded'}
       1s: exigía
@@ -35,7 +35,7 @@ exigir:
       3s: exigía
       3p: exigían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I demanded}
       1s: exigí
@@ -45,7 +45,7 @@ exigir:
       3s: exigió
       3p: exigieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would demand}
       1s: exigiría
@@ -55,7 +55,7 @@ exigir:
       3s: exigiría
       3p: exigirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have demanded}
       1s: he exigido
@@ -65,7 +65,7 @@ exigir:
       3s: ha exigido
       3p: han exigido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have demanded}
       1s: habré exigido
@@ -75,7 +75,7 @@ exigir:
       3s: habrá exigido
       3p: habrán exigido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had demanded}
       1s: había exigido
@@ -85,7 +85,7 @@ exigir:
       3s: había exigido
       3p: habían exigido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had demanded}
       1s: hube exigido
@@ -95,7 +95,7 @@ exigir:
       3s: hubo exigido
       3p: hubieron exigido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have demanded}
       1s: habría exigido
@@ -105,7 +105,7 @@ exigir:
       3s: habría exigido
       3p: habrían exigido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I demand, am demanding'}
       1s: exija
@@ -115,7 +115,7 @@ exigir:
       3s: exija
       3p: exijan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I demanded, was demanding'}
       1s: exigiera
@@ -125,7 +125,7 @@ exigir:
       3s: exigiera
       3p: exigieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will demand}
       1s: exigiere
@@ -135,7 +135,7 @@ exigir:
       3s: exigiere
       3p: exigieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have demanded, demanded'}
       1s: haya exigido
@@ -145,7 +145,7 @@ exigir:
       3s: haya exigido
       3p: hayan exigido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have demanded}
       1s: hubiere exigido
@@ -155,7 +155,7 @@ exigir:
       3s: hubiere exigido
       3p: hubieren exigido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had demanded}
       1s: hubiera exigido
@@ -165,7 +165,7 @@ exigir:
       3s: hubiera exigido
       3p: hubieran exigido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Demand! Don't demand!}
       1s: ''
@@ -175,7 +175,7 @@ exigir:
       3s: exigid
       3p: exijan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Demand! Don't demand!}
       1s: ''

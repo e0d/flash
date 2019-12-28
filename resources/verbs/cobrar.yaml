@@ -6,7 +6,7 @@ cobrar:
       amount]'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I charge, am charging'}
       1s: cobro
@@ -16,7 +16,7 @@ cobrar:
       3s: cobra
       3p: cobran
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will charge}
       1s: cobraré
@@ -26,7 +26,7 @@ cobrar:
       3s: cobrará
       3p: cobrarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was charging, used to charge, charged'}
       1s: cobraba
@@ -36,7 +36,7 @@ cobrar:
       3s: cobraba
       3p: cobraban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I charged}
       1s: cobré
@@ -46,7 +46,7 @@ cobrar:
       3s: cobró
       3p: cobraron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would charge}
       1s: cobraría
@@ -56,7 +56,7 @@ cobrar:
       3s: cobraría
       3p: cobrarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have charged}
       1s: he cobrado
@@ -66,7 +66,7 @@ cobrar:
       3s: ha cobrado
       3p: han cobrado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have charged}
       1s: habré cobrado
@@ -76,7 +76,7 @@ cobrar:
       3s: habrá cobrado
       3p: habrán cobrado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had charged}
       1s: había cobrado
@@ -86,7 +86,7 @@ cobrar:
       3s: había cobrado
       3p: habían cobrado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had charged}
       1s: hube cobrado
@@ -96,7 +96,7 @@ cobrar:
       3s: hubo cobrado
       3p: hubieron cobrado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have charged}
       1s: habría cobrado
@@ -106,7 +106,7 @@ cobrar:
       3s: habría cobrado
       3p: habrían cobrado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I charge, am charging'}
       1s: cobre
@@ -116,7 +116,7 @@ cobrar:
       3s: cobre
       3p: cobren
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I charged, was charging'}
       1s: cobrara
@@ -126,7 +126,7 @@ cobrar:
       3s: cobrara
       3p: cobraran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will charge}
       1s: cobrare
@@ -136,7 +136,7 @@ cobrar:
       3s: cobrare
       3p: cobraren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have charged, charged'}
       1s: haya cobrado
@@ -146,7 +146,7 @@ cobrar:
       3s: haya cobrado
       3p: hayan cobrado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have charged}
       1s: hubiere cobrado
@@ -156,7 +156,7 @@ cobrar:
       3s: hubiere cobrado
       3p: hubieren cobrado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had charged}
       1s: hubiera cobrado
@@ -166,7 +166,7 @@ cobrar:
       3s: hubiera cobrado
       3p: hubieran cobrado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Charge! Don't charge!}
       1s: ''
@@ -176,7 +176,7 @@ cobrar:
       3s: cobrad
       3p: cobren
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Charge! Don't charge!}
       1s: ''

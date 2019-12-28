@@ -5,7 +5,7 @@ caminar:
   definitions: {en: 'to walk, go'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I walk, am walking'}
       1s: camino
@@ -15,7 +15,7 @@ caminar:
       3s: camina
       3p: caminan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will walk}
       1s: caminaré
@@ -25,7 +25,7 @@ caminar:
       3s: caminará
       3p: caminarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was walking, used to walk, walked'}
       1s: caminaba
@@ -35,7 +35,7 @@ caminar:
       3s: caminaba
       3p: caminaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I walked}
       1s: caminé
@@ -45,7 +45,7 @@ caminar:
       3s: caminó
       3p: caminaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would walk}
       1s: caminaría
@@ -55,7 +55,7 @@ caminar:
       3s: caminaría
       3p: caminarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have walked}
       1s: he caminado
@@ -65,7 +65,7 @@ caminar:
       3s: ha caminado
       3p: han caminado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have walked}
       1s: habré caminado
@@ -75,7 +75,7 @@ caminar:
       3s: habrá caminado
       3p: habrán caminado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had walked}
       1s: había caminado
@@ -85,7 +85,7 @@ caminar:
       3s: había caminado
       3p: habían caminado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had walked}
       1s: hube caminado
@@ -95,7 +95,7 @@ caminar:
       3s: hubo caminado
       3p: hubieron caminado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have walked}
       1s: habría caminado
@@ -105,7 +105,7 @@ caminar:
       3s: habría caminado
       3p: habrían caminado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I walk, am walking'}
       1s: camine
@@ -115,7 +115,7 @@ caminar:
       3s: camine
       3p: caminen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I walked, was walking'}
       1s: caminara
@@ -125,7 +125,7 @@ caminar:
       3s: caminara
       3p: caminaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will walk}
       1s: caminare
@@ -135,7 +135,7 @@ caminar:
       3s: caminare
       3p: caminaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have walked, walked'}
       1s: haya caminado
@@ -145,7 +145,7 @@ caminar:
       3s: haya caminado
       3p: hayan caminado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have walked}
       1s: hubiere caminado
@@ -155,7 +155,7 @@ caminar:
       3s: hubiere caminado
       3p: hubieren caminado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had walked}
       1s: hubiera caminado
@@ -165,7 +165,7 @@ caminar:
       3s: hubiera caminado
       3p: hubieran caminado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Walk! Don't walk!}
       1s: ''
@@ -175,7 +175,7 @@ caminar:
       3s: caminad
       3p: caminen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Walk! Don't walk!}
       1s: ''

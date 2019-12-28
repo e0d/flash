@@ -5,7 +5,7 @@ felicitar:
   definitions: {en: to congratulate}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I congratulate, am congratulating'}
       1s: felicito
@@ -15,7 +15,7 @@ felicitar:
       3s: felicita
       3p: felicitan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will congratulate}
       1s: felicitaré
@@ -25,7 +25,7 @@ felicitar:
       3s: felicitará
       3p: felicitarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was congratulating, used to congratulate, congratulated'}
       1s: felicitaba
@@ -35,7 +35,7 @@ felicitar:
       3s: felicitaba
       3p: felicitaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I congratulated}
       1s: felicité
@@ -45,7 +45,7 @@ felicitar:
       3s: felicitó
       3p: felicitaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would congratulate}
       1s: felicitaría
@@ -55,7 +55,7 @@ felicitar:
       3s: felicitaría
       3p: felicitarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have congratulated}
       1s: he felicitado
@@ -65,7 +65,7 @@ felicitar:
       3s: ha felicitado
       3p: han felicitado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have congratulated}
       1s: habré felicitado
@@ -75,7 +75,7 @@ felicitar:
       3s: habrá felicitado
       3p: habrán felicitado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had congratulated}
       1s: había felicitado
@@ -85,7 +85,7 @@ felicitar:
       3s: había felicitado
       3p: habían felicitado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had congratulated}
       1s: hube felicitado
@@ -95,7 +95,7 @@ felicitar:
       3s: hubo felicitado
       3p: hubieron felicitado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have congratulated}
       1s: habría felicitado
@@ -105,7 +105,7 @@ felicitar:
       3s: habría felicitado
       3p: habrían felicitado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I congratulate, am congratulating'}
       1s: felicite
@@ -115,7 +115,7 @@ felicitar:
       3s: felicite
       3p: feliciten
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I congratulated, was congratulating'}
       1s: felicitara
@@ -125,7 +125,7 @@ felicitar:
       3s: felicitara
       3p: felicitaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will congratulate}
       1s: felicitare
@@ -135,7 +135,7 @@ felicitar:
       3s: felicitare
       3p: felicitaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have congratulated, congratulated'}
       1s: haya felicitado
@@ -145,7 +145,7 @@ felicitar:
       3s: haya felicitado
       3p: hayan felicitado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have congratulated}
       1s: hubiere felicitado
@@ -155,7 +155,7 @@ felicitar:
       3s: hubiere felicitado
       3p: hubieren felicitado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had congratulated}
       1s: hubiera felicitado
@@ -165,7 +165,7 @@ felicitar:
       3s: hubiera felicitado
       3p: hubieran felicitado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Congratulate! Don't congratulate!}
       1s: ''
@@ -175,7 +175,7 @@ felicitar:
       3s: felicitad
       3p: feliciten
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Congratulate! Don't congratulate!}
       1s: ''

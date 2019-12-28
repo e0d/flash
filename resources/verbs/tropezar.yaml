@@ -5,7 +5,7 @@ tropezar:
   definitions: {en: 'to trip, stumble, slip up'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I trip, am tripping'}
       1s: tropiezo
@@ -15,7 +15,7 @@ tropezar:
       3s: tropieza
       3p: tropiezan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will trip}
       1s: tropezaré
@@ -25,7 +25,7 @@ tropezar:
       3s: tropezará
       3p: tropezarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was tripping, used to trip, tripped'}
       1s: tropezaba
@@ -35,7 +35,7 @@ tropezar:
       3s: tropezaba
       3p: tropezaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I tripped}
       1s: tropecé
@@ -45,7 +45,7 @@ tropezar:
       3s: tropezó
       3p: tropezaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would trip}
       1s: tropezaría
@@ -55,7 +55,7 @@ tropezar:
       3s: tropezaría
       3p: tropezarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have tripped}
       1s: he tropezado
@@ -65,7 +65,7 @@ tropezar:
       3s: ha tropezado
       3p: han tropezado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have tripped}
       1s: habré tropezado
@@ -75,7 +75,7 @@ tropezar:
       3s: habrá tropezado
       3p: habrán tropezado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had tripped}
       1s: había tropezado
@@ -85,7 +85,7 @@ tropezar:
       3s: había tropezado
       3p: habían tropezado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had tripped}
       1s: hube tropezado
@@ -95,7 +95,7 @@ tropezar:
       3s: hubo tropezado
       3p: hubieron tropezado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have tripped}
       1s: habría tropezado
@@ -105,7 +105,7 @@ tropezar:
       3s: habría tropezado
       3p: habrían tropezado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I trip, am tripping'}
       1s: tropiece
@@ -115,7 +115,7 @@ tropezar:
       3s: tropiece
       3p: tropiecen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I tripped, was tripping'}
       1s: tropezara
@@ -125,7 +125,7 @@ tropezar:
       3s: tropezara
       3p: tropezaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will trip}
       1s: tropezare
@@ -135,7 +135,7 @@ tropezar:
       3s: tropezare
       3p: tropezaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have tripped, tripped'}
       1s: haya tropezado
@@ -145,7 +145,7 @@ tropezar:
       3s: haya tropezado
       3p: hayan tropezado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have tripped}
       1s: hubiere tropezado
@@ -155,7 +155,7 @@ tropezar:
       3s: hubiere tropezado
       3p: hubieren tropezado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had tripped}
       1s: hubiera tropezado
@@ -165,7 +165,7 @@ tropezar:
       3s: hubiera tropezado
       3p: hubieran tropezado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Trip! Don't trip!}
       1s: ''
@@ -175,7 +175,7 @@ tropezar:
       3s: tropezad
       3p: tropiecen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Trip! Don't trip!}
       1s: ''

@@ -5,7 +5,7 @@ bucear:
   definitions: {en: to skin-dive; to dive under water; to dive}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I skin-dive, am skin-diving'}
       1s: buceo
@@ -15,7 +15,7 @@ bucear:
       3s: bucea
       3p: bucean
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will skin-dive}
       1s: bucearé
@@ -25,7 +25,7 @@ bucear:
       3s: buceará
       3p: bucearán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was skin-diving, used to skin-dive, skin-dived'}
       1s: buceaba
@@ -35,7 +35,7 @@ bucear:
       3s: buceaba
       3p: buceaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I skin-dived}
       1s: buceé
@@ -45,7 +45,7 @@ bucear:
       3s: buceó
       3p: bucearon
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would skin-dive}
       1s: bucearía
@@ -55,7 +55,7 @@ bucear:
       3s: bucearía
       3p: bucearían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have skin-dived}
       1s: he buceado
@@ -65,7 +65,7 @@ bucear:
       3s: ha buceado
       3p: han buceado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have skin-dived}
       1s: habré buceado
@@ -75,7 +75,7 @@ bucear:
       3s: habrá buceado
       3p: habrán buceado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had skin-dived}
       1s: había buceado
@@ -85,7 +85,7 @@ bucear:
       3s: había buceado
       3p: habían buceado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had skin-dived}
       1s: hube buceado
@@ -95,7 +95,7 @@ bucear:
       3s: hubo buceado
       3p: hubieron buceado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have skin-dived}
       1s: habría buceado
@@ -105,7 +105,7 @@ bucear:
       3s: habría buceado
       3p: habrían buceado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I skin-dive, am skin-diving'}
       1s: bucee
@@ -115,7 +115,7 @@ bucear:
       3s: bucee
       3p: buceen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I skin-dived, was skin-diving'}
       1s: buceara
@@ -125,7 +125,7 @@ bucear:
       3s: buceara
       3p: bucearan
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will skin-dive}
       1s: buceare
@@ -135,7 +135,7 @@ bucear:
       3s: buceare
       3p: bucearen
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have skin-dived, skin-dived'}
       1s: haya buceado
@@ -145,7 +145,7 @@ bucear:
       3s: haya buceado
       3p: hayan buceado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have skin-dived}
       1s: hubiere buceado
@@ -155,7 +155,7 @@ bucear:
       3s: hubiere buceado
       3p: hubieren buceado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had skin-dived}
       1s: hubiera buceado
@@ -165,7 +165,7 @@ bucear:
       3s: hubiera buceado
       3p: hubieran buceado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Skin-dive! Don't skin-dive!}
       1s: ''
@@ -175,7 +175,7 @@ bucear:
       3s: bucead
       3p: buceen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Skin-dive! Don't skin-dive!}
       1s: ''

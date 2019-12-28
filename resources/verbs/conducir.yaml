@@ -5,7 +5,7 @@ conducir:
   definitions: {en: 'to drive, conduct'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I drive, am driving'}
       1s: conduzco
@@ -15,7 +15,7 @@ conducir:
       3s: conduce
       3p: conducen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will drive}
       1s: conduciré
@@ -25,7 +25,7 @@ conducir:
       3s: conducirá
       3p: conducirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was driving, used to drive, drove'}
       1s: conducía
@@ -35,7 +35,7 @@ conducir:
       3s: conducía
       3p: conducían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I drove}
       1s: conduje
@@ -45,7 +45,7 @@ conducir:
       3s: condujo
       3p: condujeron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would drive}
       1s: conduciría
@@ -55,7 +55,7 @@ conducir:
       3s: conduciría
       3p: conducirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have driven}
       1s: he conducido
@@ -65,7 +65,7 @@ conducir:
       3s: ha conducido
       3p: han conducido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have driven}
       1s: habré conducido
@@ -75,7 +75,7 @@ conducir:
       3s: habrá conducido
       3p: habrán conducido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had driven}
       1s: había conducido
@@ -85,7 +85,7 @@ conducir:
       3s: había conducido
       3p: habían conducido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had driven}
       1s: hube conducido
@@ -95,7 +95,7 @@ conducir:
       3s: hubo conducido
       3p: hubieron conducido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have driven}
       1s: habría conducido
@@ -105,7 +105,7 @@ conducir:
       3s: habría conducido
       3p: habrían conducido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I drive, am driving'}
       1s: conduzca
@@ -115,7 +115,7 @@ conducir:
       3s: conduzca
       3p: conduzcan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I drove, was driving'}
       1s: condujera
@@ -125,7 +125,7 @@ conducir:
       3s: condujera
       3p: condujeran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will drive}
       1s: condujere
@@ -135,7 +135,7 @@ conducir:
       3s: condujere
       3p: condujeren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have driven, drove'}
       1s: haya conducido
@@ -145,7 +145,7 @@ conducir:
       3s: haya conducido
       3p: hayan conducido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have driven}
       1s: hubiere conducido
@@ -155,7 +155,7 @@ conducir:
       3s: hubiere conducido
       3p: hubieren conducido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had driven}
       1s: hubiera conducido
@@ -165,7 +165,7 @@ conducir:
       3s: hubiera conducido
       3p: hubieran conducido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Drive! Don't drive!}
       1s: ''
@@ -175,7 +175,7 @@ conducir:
       3s: conducid
       3p: conduzcan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Drive! Don't drive!}
       1s: ''

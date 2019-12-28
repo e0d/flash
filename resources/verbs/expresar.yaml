@@ -5,7 +5,7 @@ expresar:
   definitions: {en: 'to express, voice, state'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I express, am expressing'}
       1s: expreso
@@ -15,7 +15,7 @@ expresar:
       3s: expresa
       3p: expresan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will express}
       1s: expresaré
@@ -25,7 +25,7 @@ expresar:
       3s: expresará
       3p: expresarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was expressing, used to express, expressed'}
       1s: expresaba
@@ -35,7 +35,7 @@ expresar:
       3s: expresaba
       3p: expresaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I expressed}
       1s: expresé
@@ -45,7 +45,7 @@ expresar:
       3s: expresó
       3p: expresaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would express}
       1s: expresaría
@@ -55,7 +55,7 @@ expresar:
       3s: expresaría
       3p: expresarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have expressed}
       1s: he expresado
@@ -65,7 +65,7 @@ expresar:
       3s: ha expresado
       3p: han expresado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have expressed}
       1s: habré expresado
@@ -75,7 +75,7 @@ expresar:
       3s: habrá expresado
       3p: habrán expresado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had expressed}
       1s: había expresado
@@ -85,7 +85,7 @@ expresar:
       3s: había expresado
       3p: habían expresado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had expressed}
       1s: hube expresado
@@ -95,7 +95,7 @@ expresar:
       3s: hubo expresado
       3p: hubieron expresado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have expressed}
       1s: habría expresado
@@ -105,7 +105,7 @@ expresar:
       3s: habría expresado
       3p: habrían expresado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I express, am expressing'}
       1s: exprese
@@ -115,7 +115,7 @@ expresar:
       3s: exprese
       3p: expresen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I expressed, was expressing'}
       1s: expresara
@@ -125,7 +125,7 @@ expresar:
       3s: expresara
       3p: expresaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will express}
       1s: expresare
@@ -135,7 +135,7 @@ expresar:
       3s: expresare
       3p: expresaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have expressed, expressed'}
       1s: haya expresado
@@ -145,7 +145,7 @@ expresar:
       3s: haya expresado
       3p: hayan expresado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have expressed}
       1s: hubiere expresado
@@ -155,7 +155,7 @@ expresar:
       3s: hubiere expresado
       3p: hubieren expresado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had expressed}
       1s: hubiera expresado
@@ -165,7 +165,7 @@ expresar:
       3s: hubiera expresado
       3p: hubieran expresado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Express! Don't express!}
       1s: ''
@@ -175,7 +175,7 @@ expresar:
       3s: expresad
       3p: expresen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Express! Don't express!}
       1s: ''

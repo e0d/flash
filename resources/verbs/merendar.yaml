@@ -5,7 +5,7 @@ merendar:
   definitions: {en: 'to have a[n afternoon] snack, have as a snack'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I have a snack, am having a snack'}
       1s: meriendo
@@ -15,7 +15,7 @@ merendar:
       3s: merienda
       3p: meriendan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have a snack}
       1s: merendaré
@@ -25,7 +25,7 @@ merendar:
       3s: merendará
       3p: merendarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was having a snack, used to have a snack, had a snack'}
       1s: merendaba
@@ -35,7 +35,7 @@ merendar:
       3s: merendaba
       3p: merendaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had a snack}
       1s: merendé
@@ -45,7 +45,7 @@ merendar:
       3s: merendó
       3p: merendaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have a snack}
       1s: merendaría
@@ -55,7 +55,7 @@ merendar:
       3s: merendaría
       3p: merendarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have had a snack}
       1s: he merendado
@@ -65,7 +65,7 @@ merendar:
       3s: ha merendado
       3p: han merendado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have had a snack}
       1s: habré merendado
@@ -75,7 +75,7 @@ merendar:
       3s: habrá merendado
       3p: habrán merendado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had had a snack}
       1s: había merendado
@@ -85,7 +85,7 @@ merendar:
       3s: había merendado
       3p: habían merendado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had had a snack}
       1s: hube merendado
@@ -95,7 +95,7 @@ merendar:
       3s: hubo merendado
       3p: hubieron merendado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have had a snack}
       1s: habría merendado
@@ -105,7 +105,7 @@ merendar:
       3s: habría merendado
       3p: habrían merendado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have a snack, am having a snack'}
       1s: meriende
@@ -115,7 +115,7 @@ merendar:
       3s: meriende
       3p: merienden
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I had a snack, was having a snack'}
       1s: merendara
@@ -125,7 +125,7 @@ merendar:
       3s: merendara
       3p: merendaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have a snack}
       1s: merendare
@@ -135,7 +135,7 @@ merendar:
       3s: merendare
       3p: merendaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have had a snack, had a snack'}
       1s: haya merendado
@@ -145,7 +145,7 @@ merendar:
       3s: haya merendado
       3p: hayan merendado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have had a snack}
       1s: hubiere merendado
@@ -155,7 +155,7 @@ merendar:
       3s: hubiere merendado
       3p: hubieren merendado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had had a snack}
       1s: hubiera merendado
@@ -165,7 +165,7 @@ merendar:
       3s: hubiera merendado
       3p: hubieran merendado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Have a snack! Don't have a snack!}
       1s: ''
@@ -175,7 +175,7 @@ merendar:
       3s: merendad
       3p: merienden
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Have a snack! Don't have a snack!}
       1s: ''

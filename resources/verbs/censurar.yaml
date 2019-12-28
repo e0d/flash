@@ -5,7 +5,7 @@ censurar:
   definitions: {en: 'to censor; to censure, criticize, blame'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I censor, am censoring'}
       1s: censuro
@@ -15,7 +15,7 @@ censurar:
       3s: censura
       3p: censuran
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will censor}
       1s: censuraré
@@ -25,7 +25,7 @@ censurar:
       3s: censurará
       3p: censurarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was censoring, used to censor, censored'}
       1s: censuraba
@@ -35,7 +35,7 @@ censurar:
       3s: censuraba
       3p: censuraban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I censored}
       1s: censuré
@@ -45,7 +45,7 @@ censurar:
       3s: censuró
       3p: censuraron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would censor}
       1s: censuraría
@@ -55,7 +55,7 @@ censurar:
       3s: censuraría
       3p: censurarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have censored}
       1s: he censurado
@@ -65,7 +65,7 @@ censurar:
       3s: ha censurado
       3p: han censurado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have censored}
       1s: habré censurado
@@ -75,7 +75,7 @@ censurar:
       3s: habrá censurado
       3p: habrán censurado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had censored}
       1s: había censurado
@@ -85,7 +85,7 @@ censurar:
       3s: había censurado
       3p: habían censurado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had censored}
       1s: hube censurado
@@ -95,7 +95,7 @@ censurar:
       3s: hubo censurado
       3p: hubieron censurado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have censored}
       1s: habría censurado
@@ -105,7 +105,7 @@ censurar:
       3s: habría censurado
       3p: habrían censurado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I censor, am censoring'}
       1s: censure
@@ -115,7 +115,7 @@ censurar:
       3s: censure
       3p: censuren
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I censored, was censoring'}
       1s: censurara
@@ -125,7 +125,7 @@ censurar:
       3s: censurara
       3p: censuraran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will censor}
       1s: censurare
@@ -135,7 +135,7 @@ censurar:
       3s: censurare
       3p: censuraren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have censored, censored'}
       1s: haya censurado
@@ -145,7 +145,7 @@ censurar:
       3s: haya censurado
       3p: hayan censurado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have censored}
       1s: hubiere censurado
@@ -155,7 +155,7 @@ censurar:
       3s: hubiere censurado
       3p: hubieren censurado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had censored}
       1s: hubiera censurado
@@ -165,7 +165,7 @@ censurar:
       3s: hubiera censurado
       3p: hubieran censurado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Censor! Don't censor!}
       1s: ''
@@ -175,7 +175,7 @@ censurar:
       3s: censurad
       3p: censuren
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Censor! Don't censor!}
       1s: ''

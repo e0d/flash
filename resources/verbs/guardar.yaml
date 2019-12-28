@@ -6,7 +6,7 @@ guardar:
       to; to put away, store away'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I guard, am guarding'}
       1s: guardo
@@ -16,7 +16,7 @@ guardar:
       3s: guarda
       3p: guardan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will guard}
       1s: guardaré
@@ -26,7 +26,7 @@ guardar:
       3s: guardará
       3p: guardarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was guarding, used to guard, guarded'}
       1s: guardaba
@@ -36,7 +36,7 @@ guardar:
       3s: guardaba
       3p: guardaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I guarded}
       1s: guardé
@@ -46,7 +46,7 @@ guardar:
       3s: guardó
       3p: guardaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would guard}
       1s: guardaría
@@ -56,7 +56,7 @@ guardar:
       3s: guardaría
       3p: guardarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have guarded}
       1s: he guardado
@@ -66,7 +66,7 @@ guardar:
       3s: ha guardado
       3p: han guardado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have guarded}
       1s: habré guardado
@@ -76,7 +76,7 @@ guardar:
       3s: habrá guardado
       3p: habrán guardado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had guarded}
       1s: había guardado
@@ -86,7 +86,7 @@ guardar:
       3s: había guardado
       3p: habían guardado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had guarded}
       1s: hube guardado
@@ -96,7 +96,7 @@ guardar:
       3s: hubo guardado
       3p: hubieron guardado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have guarded}
       1s: habría guardado
@@ -106,7 +106,7 @@ guardar:
       3s: habría guardado
       3p: habrían guardado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I guard, am guarding'}
       1s: guarde
@@ -116,7 +116,7 @@ guardar:
       3s: guarde
       3p: guarden
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I guarded, was guarding'}
       1s: guardara
@@ -126,7 +126,7 @@ guardar:
       3s: guardara
       3p: guardaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will guard}
       1s: guardare
@@ -136,7 +136,7 @@ guardar:
       3s: guardare
       3p: guardaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have guarded, guarded'}
       1s: haya guardado
@@ -146,7 +146,7 @@ guardar:
       3s: haya guardado
       3p: hayan guardado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have guarded}
       1s: hubiere guardado
@@ -156,7 +156,7 @@ guardar:
       3s: hubiere guardado
       3p: hubieren guardado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had guarded}
       1s: hubiera guardado
@@ -166,7 +166,7 @@ guardar:
       3s: hubiera guardado
       3p: hubieran guardado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Guard! Don't guard!}
       1s: ''
@@ -176,7 +176,7 @@ guardar:
       3s: guardad
       3p: guarden
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Guard! Don't guard!}
       1s: ''

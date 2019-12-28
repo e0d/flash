@@ -5,7 +5,7 @@ enfermarse:
   definitions: {en: 'to get sick, become ill, fall ill. become sick'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I get sick, am getting sick'}
       1s: me enfermo
@@ -15,7 +15,7 @@ enfermarse:
       3s: se enferma
       3p: se enferman
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will get sick}
       1s: me enfermaré
@@ -25,7 +25,7 @@ enfermarse:
       3s: se enfermará
       3p: se enfermarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was getting sick, used to get sick, got sick'}
       1s: me enfermaba
@@ -35,7 +35,7 @@ enfermarse:
       3s: se enfermaba
       3p: se enfermaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I got sick}
       1s: me enfermé
@@ -45,7 +45,7 @@ enfermarse:
       3s: se enfermó
       3p: se enfermaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would get sick}
       1s: me enfermaría
@@ -55,7 +55,7 @@ enfermarse:
       3s: se enfermaría
       3p: se enfermarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have gotten sick}
       1s: me he enfermado
@@ -65,7 +65,7 @@ enfermarse:
       3s: se ha enfermado
       3p: se han enfermado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have gotten sick}
       1s: me habré enfermado
@@ -75,7 +75,7 @@ enfermarse:
       3s: se habrá enfermado
       3p: se habrán enfermado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had gotten sick}
       1s: me había enfermado
@@ -85,7 +85,7 @@ enfermarse:
       3s: se había enfermado
       3p: se habían enfermado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had gotten sick}
       1s: me hube enfermado
@@ -95,7 +95,7 @@ enfermarse:
       3s: se hubo enfermado
       3p: se hubieron enfermado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have gotten sick}
       1s: me habría enfermado
@@ -105,7 +105,7 @@ enfermarse:
       3s: se habría enfermado
       3p: se habrían enfermado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I get sick, am getting sick'}
       1s: me enferme
@@ -115,7 +115,7 @@ enfermarse:
       3s: se enferme
       3p: se enfermen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I got sick, was getting sick'}
       1s: me enfermara
@@ -125,7 +125,7 @@ enfermarse:
       3s: se enfermara
       3p: se enfermaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will get sick}
       1s: me enfermare
@@ -135,7 +135,7 @@ enfermarse:
       3s: se enfermare
       3p: se enfermaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have gotten sick, got sick'}
       1s: me haya enfermado
@@ -145,7 +145,7 @@ enfermarse:
       3s: se haya enfermado
       3p: se hayan enfermado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have gotten sick}
       1s: me hubiere enfermado
@@ -155,7 +155,7 @@ enfermarse:
       3s: se hubiere enfermado
       3p: se hubieren enfermado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had gotten sick}
       1s: me hubiera enfermado
@@ -165,7 +165,7 @@ enfermarse:
       3s: se hubiera enfermado
       3p: se hubieran enfermado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Get sick! Don't get sick!}
       1s: ''
@@ -175,7 +175,7 @@ enfermarse:
       3s: enfermaos
       3p: enférmense
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Get sick! Don't get sick!}
       1s: ''

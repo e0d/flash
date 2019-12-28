@@ -5,7 +5,7 @@ ahorrar:
   definitions: {en: to save}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I save, am saving'}
       1s: ahorro
@@ -15,7 +15,7 @@ ahorrar:
       3s: ahorra
       3p: ahorran
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will save}
       1s: ahorraré
@@ -25,7 +25,7 @@ ahorrar:
       3s: ahorrará
       3p: ahorrarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was saving, used to save, saved'}
       1s: ahorraba
@@ -35,7 +35,7 @@ ahorrar:
       3s: ahorraba
       3p: ahorraban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I saved}
       1s: ahorré
@@ -45,7 +45,7 @@ ahorrar:
       3s: ahorró
       3p: ahorraron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would save}
       1s: ahorraría
@@ -55,7 +55,7 @@ ahorrar:
       3s: ahorraría
       3p: ahorrarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have saved}
       1s: he ahorrado
@@ -65,7 +65,7 @@ ahorrar:
       3s: ha ahorrado
       3p: han ahorrado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have saved}
       1s: habré ahorrado
@@ -75,7 +75,7 @@ ahorrar:
       3s: habrá ahorrado
       3p: habrán ahorrado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had saved}
       1s: había ahorrado
@@ -85,7 +85,7 @@ ahorrar:
       3s: había ahorrado
       3p: habían ahorrado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had saved}
       1s: hube ahorrado
@@ -95,7 +95,7 @@ ahorrar:
       3s: hubo ahorrado
       3p: hubieron ahorrado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have saved}
       1s: habría ahorrado
@@ -105,7 +105,7 @@ ahorrar:
       3s: habría ahorrado
       3p: habrían ahorrado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I save, am saving'}
       1s: ahorre
@@ -115,7 +115,7 @@ ahorrar:
       3s: ahorre
       3p: ahorren
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I saved, was saving'}
       1s: ahorrara
@@ -125,7 +125,7 @@ ahorrar:
       3s: ahorrara
       3p: ahorraran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will save}
       1s: ahorrare
@@ -135,7 +135,7 @@ ahorrar:
       3s: ahorrare
       3p: ahorraren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have saved, saved'}
       1s: haya ahorrado
@@ -145,7 +145,7 @@ ahorrar:
       3s: haya ahorrado
       3p: hayan ahorrado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have saved}
       1s: hubiere ahorrado
@@ -155,7 +155,7 @@ ahorrar:
       3s: hubiere ahorrado
       3p: hubieren ahorrado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had saved}
       1s: hubiera ahorrado
@@ -165,7 +165,7 @@ ahorrar:
       3s: hubiera ahorrado
       3p: hubieran ahorrado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Save! Don't save!}
       1s: ''
@@ -175,7 +175,7 @@ ahorrar:
       3s: ahorrad
       3p: ahorren
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Save! Don't save!}
       1s: ''

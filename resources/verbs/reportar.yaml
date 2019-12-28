@@ -5,7 +5,7 @@ reportar:
   definitions: {en: 'to bring, carry; to obtain; to report, inform; to denounce, accuse'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I bring, am bringing'}
       1s: reporto
@@ -15,7 +15,7 @@ reportar:
       3s: reporta
       3p: reportan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will bring}
       1s: reportaré
@@ -25,7 +25,7 @@ reportar:
       3s: reportará
       3p: reportarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was bringing, used to bring, brought'}
       1s: reportaba
@@ -35,7 +35,7 @@ reportar:
       3s: reportaba
       3p: reportaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I brought}
       1s: reporté
@@ -45,7 +45,7 @@ reportar:
       3s: reportó
       3p: reportaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would bring}
       1s: reportaría
@@ -55,7 +55,7 @@ reportar:
       3s: reportaría
       3p: reportarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have brought}
       1s: he reportado
@@ -65,7 +65,7 @@ reportar:
       3s: ha reportado
       3p: han reportado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have brought}
       1s: habré reportado
@@ -75,7 +75,7 @@ reportar:
       3s: habrá reportado
       3p: habrán reportado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had brought}
       1s: había reportado
@@ -85,7 +85,7 @@ reportar:
       3s: había reportado
       3p: habían reportado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had brought}
       1s: hube reportado
@@ -95,7 +95,7 @@ reportar:
       3s: hubo reportado
       3p: hubieron reportado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have brought}
       1s: habría reportado
@@ -105,7 +105,7 @@ reportar:
       3s: habría reportado
       3p: habrían reportado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I bring, am bringing'}
       1s: reporte
@@ -115,7 +115,7 @@ reportar:
       3s: reporte
       3p: reporten
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I brought, was bringing'}
       1s: reportara
@@ -125,7 +125,7 @@ reportar:
       3s: reportara
       3p: reportaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will bring}
       1s: reportare
@@ -135,7 +135,7 @@ reportar:
       3s: reportare
       3p: reportaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have brought, brought'}
       1s: haya reportado
@@ -145,7 +145,7 @@ reportar:
       3s: haya reportado
       3p: hayan reportado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have brought}
       1s: hubiere reportado
@@ -155,7 +155,7 @@ reportar:
       3s: hubiere reportado
       3p: hubieren reportado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had brought}
       1s: hubiera reportado
@@ -165,7 +165,7 @@ reportar:
       3s: hubiera reportado
       3p: hubieran reportado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Bring! Don't bring!}
       1s: ''
@@ -175,7 +175,7 @@ reportar:
       3s: reportad
       3p: reporten
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Bring! Don't bring!}
       1s: ''

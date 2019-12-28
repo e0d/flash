@@ -5,7 +5,7 @@ aparecer:
   definitions: {en: to appear}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I appear, am appearing'}
       1s: aparezco
@@ -15,7 +15,7 @@ aparecer:
       3s: aparece
       3p: aparecen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will appear}
       1s: apareceré
@@ -25,7 +25,7 @@ aparecer:
       3s: aparecerá
       3p: aparecerán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was appearing, used to appear, appeared'}
       1s: aparecía
@@ -35,7 +35,7 @@ aparecer:
       3s: aparecía
       3p: aparecían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I appeared}
       1s: aparecí
@@ -45,7 +45,7 @@ aparecer:
       3s: apareció
       3p: aparecieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would appear}
       1s: aparecería
@@ -55,7 +55,7 @@ aparecer:
       3s: aparecería
       3p: aparecerían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have appeared}
       1s: he aparecido
@@ -65,7 +65,7 @@ aparecer:
       3s: ha aparecido
       3p: han aparecido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have appeared}
       1s: habré aparecido
@@ -75,7 +75,7 @@ aparecer:
       3s: habrá aparecido
       3p: habrán aparecido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had appeared}
       1s: había aparecido
@@ -85,7 +85,7 @@ aparecer:
       3s: había aparecido
       3p: habían aparecido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had appeared}
       1s: hube aparecido
@@ -95,7 +95,7 @@ aparecer:
       3s: hubo aparecido
       3p: hubieron aparecido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have appeared}
       1s: habría aparecido
@@ -105,7 +105,7 @@ aparecer:
       3s: habría aparecido
       3p: habrían aparecido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I appear, am appearing'}
       1s: aparezca
@@ -115,7 +115,7 @@ aparecer:
       3s: aparezca
       3p: aparezcan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I appeared, was appearing'}
       1s: apareciera
@@ -125,7 +125,7 @@ aparecer:
       3s: apareciera
       3p: aparecieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will appear}
       1s: apareciere
@@ -135,7 +135,7 @@ aparecer:
       3s: apareciere
       3p: aparecieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have appeared, appeared'}
       1s: haya aparecido
@@ -145,7 +145,7 @@ aparecer:
       3s: haya aparecido
       3p: hayan aparecido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have appeared}
       1s: hubiere aparecido
@@ -155,7 +155,7 @@ aparecer:
       3s: hubiere aparecido
       3p: hubieren aparecido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had appeared}
       1s: hubiera aparecido
@@ -165,7 +165,7 @@ aparecer:
       3s: hubiera aparecido
       3p: hubieran aparecido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Appear! Don't appear!}
       1s: ''
@@ -175,7 +175,7 @@ aparecer:
       3s: apareced
       3p: aparezcan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Appear! Don't appear!}
       1s: ''

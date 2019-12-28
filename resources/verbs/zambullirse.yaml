@@ -5,7 +5,7 @@ zambullirse:
   definitions: {en: 'to dive, plunge'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I dive, am diving'}
       1s: me zambullo
@@ -15,7 +15,7 @@ zambullirse:
       3s: se zambulle
       3p: se zambullen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will dive}
       1s: me zambulliré
@@ -25,7 +25,7 @@ zambullirse:
       3s: se zambullirá
       3p: se zambullirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was diving, used to dive, dove'}
       1s: me zambullía
@@ -35,7 +35,7 @@ zambullirse:
       3s: se zambullía
       3p: se zambullían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I dove}
       1s: me zambullí
@@ -45,7 +45,7 @@ zambullirse:
       3s: se zambulló
       3p: se zambulleron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would dive}
       1s: me zambulliría
@@ -55,7 +55,7 @@ zambullirse:
       3s: se zambulliría
       3p: se zambullirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have dived}
       1s: me he zambullido
@@ -65,7 +65,7 @@ zambullirse:
       3s: se ha zambullido
       3p: se han zambullido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have dived}
       1s: me habré zambullido
@@ -75,7 +75,7 @@ zambullirse:
       3s: se habrá zambullido
       3p: se habrán zambullido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had dived}
       1s: me había zambullido
@@ -85,7 +85,7 @@ zambullirse:
       3s: se había zambullido
       3p: se habían zambullido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had dived}
       1s: me hube zambullido
@@ -95,7 +95,7 @@ zambullirse:
       3s: se hubo zambullido
       3p: se hubieron zambullido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have dived}
       1s: me habría zambullido
@@ -105,7 +105,7 @@ zambullirse:
       3s: se habría zambullido
       3p: se habrían zambullido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I dive, am diving'}
       1s: me zambulla
@@ -115,7 +115,7 @@ zambullirse:
       3s: se zambulla
       3p: se zambullan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I dove, was diving'}
       1s: me zambullera
@@ -125,7 +125,7 @@ zambullirse:
       3s: se zambullera
       3p: se zambulleran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will dive}
       1s: me zambullere
@@ -135,7 +135,7 @@ zambullirse:
       3s: se zambullere
       3p: se zambulleren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have dived, dove'}
       1s: me haya zambullido
@@ -145,7 +145,7 @@ zambullirse:
       3s: se haya zambullido
       3p: se hayan zambullido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have dived}
       1s: me hubiere zambullido
@@ -155,7 +155,7 @@ zambullirse:
       3s: se hubiere zambullido
       3p: se hubieren zambullido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had dived}
       1s: me hubiera zambullido
@@ -165,7 +165,7 @@ zambullirse:
       3s: se hubiera zambullido
       3p: se hubieran zambullido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Dive! Don't dive!}
       1s: ''
@@ -175,7 +175,7 @@ zambullirse:
       3s: zambullíos
       3p: zambúllanse
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Dive! Don't dive!}
       1s: ''

@@ -5,7 +5,7 @@ comprender:
   definitions: {en: 'to understand, comprehend'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I understand, am understanding'}
       1s: comprendo
@@ -15,7 +15,7 @@ comprender:
       3s: comprende
       3p: comprenden
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will understand}
       1s: comprenderé
@@ -25,7 +25,7 @@ comprender:
       3s: comprenderá
       3p: comprenderán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was understanding, used to understand, understood'}
       1s: comprendía
@@ -35,7 +35,7 @@ comprender:
       3s: comprendía
       3p: comprendían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I understood}
       1s: comprendí
@@ -45,7 +45,7 @@ comprender:
       3s: comprendió
       3p: comprendieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would understand}
       1s: comprendería
@@ -55,7 +55,7 @@ comprender:
       3s: comprendería
       3p: comprenderían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have understood}
       1s: he comprendido
@@ -65,7 +65,7 @@ comprender:
       3s: ha comprendido
       3p: han comprendido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have understood}
       1s: habré comprendido
@@ -75,7 +75,7 @@ comprender:
       3s: habrá comprendido
       3p: habrán comprendido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had understood}
       1s: había comprendido
@@ -85,7 +85,7 @@ comprender:
       3s: había comprendido
       3p: habían comprendido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had understood}
       1s: hube comprendido
@@ -95,7 +95,7 @@ comprender:
       3s: hubo comprendido
       3p: hubieron comprendido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have understood}
       1s: habría comprendido
@@ -105,7 +105,7 @@ comprender:
       3s: habría comprendido
       3p: habrían comprendido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I understand, am understanding'}
       1s: comprenda
@@ -115,7 +115,7 @@ comprender:
       3s: comprenda
       3p: comprendan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I understood, was understanding'}
       1s: comprendiera
@@ -125,7 +125,7 @@ comprender:
       3s: comprendiera
       3p: comprendieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will understand}
       1s: comprendiere
@@ -135,7 +135,7 @@ comprender:
       3s: comprendiere
       3p: comprendieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have understood, understood'}
       1s: haya comprendido
@@ -145,7 +145,7 @@ comprender:
       3s: haya comprendido
       3p: hayan comprendido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have understood}
       1s: hubiere comprendido
@@ -155,7 +155,7 @@ comprender:
       3s: hubiere comprendido
       3p: hubieren comprendido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had understood}
       1s: hubiera comprendido
@@ -165,7 +165,7 @@ comprender:
       3s: hubiera comprendido
       3p: hubieran comprendido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Understand! Don't understand!}
       1s: ''
@@ -175,7 +175,7 @@ comprender:
       3s: comprended
       3p: comprendan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Understand! Don't understand!}
       1s: ''

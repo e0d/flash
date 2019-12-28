@@ -5,7 +5,7 @@ manejar:
   definitions: {en: to drive}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I drive, am driving'}
       1s: manejo
@@ -15,7 +15,7 @@ manejar:
       3s: maneja
       3p: manejan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will drive}
       1s: manejaré
@@ -25,7 +25,7 @@ manejar:
       3s: manejará
       3p: manejarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was driving, used to drive, drove'}
       1s: manejaba
@@ -35,7 +35,7 @@ manejar:
       3s: manejaba
       3p: manejaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I drove}
       1s: manejé
@@ -45,7 +45,7 @@ manejar:
       3s: manejó
       3p: manejaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would drive}
       1s: manejaría
@@ -55,7 +55,7 @@ manejar:
       3s: manejaría
       3p: manejarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have driven}
       1s: he manejado
@@ -65,7 +65,7 @@ manejar:
       3s: ha manejado
       3p: han manejado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have driven}
       1s: habré manejado
@@ -75,7 +75,7 @@ manejar:
       3s: habrá manejado
       3p: habrán manejado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had driven}
       1s: había manejado
@@ -85,7 +85,7 @@ manejar:
       3s: había manejado
       3p: habían manejado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had driven}
       1s: hube manejado
@@ -95,7 +95,7 @@ manejar:
       3s: hubo manejado
       3p: hubieron manejado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have driven}
       1s: habría manejado
@@ -105,7 +105,7 @@ manejar:
       3s: habría manejado
       3p: habrían manejado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I drive, am driving'}
       1s: maneje
@@ -115,7 +115,7 @@ manejar:
       3s: maneje
       3p: manejen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I drove, was driving'}
       1s: manejara
@@ -125,7 +125,7 @@ manejar:
       3s: manejara
       3p: manejaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will drive}
       1s: manejare
@@ -135,7 +135,7 @@ manejar:
       3s: manejare
       3p: manejaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have driven, drove'}
       1s: haya manejado
@@ -145,7 +145,7 @@ manejar:
       3s: haya manejado
       3p: hayan manejado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have driven}
       1s: hubiere manejado
@@ -155,7 +155,7 @@ manejar:
       3s: hubiere manejado
       3p: hubieren manejado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had driven}
       1s: hubiera manejado
@@ -165,7 +165,7 @@ manejar:
       3s: hubiera manejado
       3p: hubieran manejado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Drive! Don't drive!}
       1s: ''
@@ -175,7 +175,7 @@ manejar:
       3s: manejad
       3p: manejen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Drive! Don't drive!}
       1s: ''

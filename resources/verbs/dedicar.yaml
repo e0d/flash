@@ -5,7 +5,7 @@ dedicar:
   definitions: {en: to dedicate}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I dedicate, am dedicating'}
       1s: dedico
@@ -15,7 +15,7 @@ dedicar:
       3s: dedica
       3p: dedican
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will dedicate}
       1s: dedicaré
@@ -25,7 +25,7 @@ dedicar:
       3s: dedicará
       3p: dedicarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was dedicating, used to dedicate, dedicated'}
       1s: dedicaba
@@ -35,7 +35,7 @@ dedicar:
       3s: dedicaba
       3p: dedicaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I dedicated}
       1s: dediqué
@@ -45,7 +45,7 @@ dedicar:
       3s: dedicó
       3p: dedicaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would dedicate}
       1s: dedicaría
@@ -55,7 +55,7 @@ dedicar:
       3s: dedicaría
       3p: dedicarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have dedicated}
       1s: he dedicado
@@ -65,7 +65,7 @@ dedicar:
       3s: ha dedicado
       3p: han dedicado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have dedicated}
       1s: habré dedicado
@@ -75,7 +75,7 @@ dedicar:
       3s: habrá dedicado
       3p: habrán dedicado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had dedicated}
       1s: había dedicado
@@ -85,7 +85,7 @@ dedicar:
       3s: había dedicado
       3p: habían dedicado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had dedicated}
       1s: hube dedicado
@@ -95,7 +95,7 @@ dedicar:
       3s: hubo dedicado
       3p: hubieron dedicado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have dedicated}
       1s: habría dedicado
@@ -105,7 +105,7 @@ dedicar:
       3s: habría dedicado
       3p: habrían dedicado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I dedicate, am dedicating'}
       1s: dedique
@@ -115,7 +115,7 @@ dedicar:
       3s: dedique
       3p: dediquen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I dedicated, was dedicating'}
       1s: dedicara
@@ -125,7 +125,7 @@ dedicar:
       3s: dedicara
       3p: dedicaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will dedicate}
       1s: dedicare
@@ -135,7 +135,7 @@ dedicar:
       3s: dedicare
       3p: dedicaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have dedicated, dedicated'}
       1s: haya dedicado
@@ -145,7 +145,7 @@ dedicar:
       3s: haya dedicado
       3p: hayan dedicado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have dedicated}
       1s: hubiere dedicado
@@ -155,7 +155,7 @@ dedicar:
       3s: hubiere dedicado
       3p: hubieren dedicado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had dedicated}
       1s: hubiera dedicado
@@ -165,7 +165,7 @@ dedicar:
       3s: hubiera dedicado
       3p: hubieran dedicado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Dedicate! Don't dedicate!}
       1s: ''
@@ -175,7 +175,7 @@ dedicar:
       3s: dedicad
       3p: dediquen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Dedicate! Don't dedicate!}
       1s: ''

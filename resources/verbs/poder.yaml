@@ -5,7 +5,7 @@ poder:
   definitions: {en: 'to be able, can'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I am able, can'}
       1s: puedo
@@ -15,7 +15,7 @@ poder:
       3s: puede
       3p: pueden
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will be able}
       1s: podré
@@ -25,7 +25,7 @@ poder:
       3s: podrá
       3p: podrán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I used to be able, was able, could'}
       1s: podía
@@ -35,7 +35,7 @@ poder:
       3s: podía
       3p: podían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was able, could'}
       1s: pude
@@ -45,7 +45,7 @@ poder:
       3s: pudo
       3p: pudieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would be able}
       1s: podría
@@ -55,7 +55,7 @@ poder:
       3s: podría
       3p: podrían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have been able}
       1s: he podido
@@ -65,7 +65,7 @@ poder:
       3s: ha podido
       3p: han podido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have been able}
       1s: habré podido
@@ -75,7 +75,7 @@ poder:
       3s: habrá podido
       3p: habrán podido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had been able}
       1s: había podido
@@ -85,7 +85,7 @@ poder:
       3s: había podido
       3p: habían podido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had been able}
       1s: hube podido
@@ -95,7 +95,7 @@ poder:
       3s: hubo podido
       3p: hubieron podido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have been able}
       1s: habría podido
@@ -105,7 +105,7 @@ poder:
       3s: habría podido
       3p: habrían podido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I am able, can'}
       1s: pueda
@@ -115,7 +115,7 @@ poder:
       3s: pueda
       3p: puedan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I was able, could'}
       1s: pudiera
@@ -125,7 +125,7 @@ poder:
       3s: pudiera
       3p: pudieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will be able}
       1s: pudiere
@@ -135,7 +135,7 @@ poder:
       3s: pudiere
       3p: pudieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have been able, was able'}
       1s: haya podido
@@ -145,7 +145,7 @@ poder:
       3s: haya podido
       3p: hayan podido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have been able}
       1s: hubiere podido
@@ -155,7 +155,7 @@ poder:
       3s: hubiere podido
       3p: hubieren podido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had been able}
       1s: hubiera podido
@@ -165,7 +165,7 @@ poder:
       3s: hubiera podido
       3p: hubieran podido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Be able! Don't be able!}
       1s: ''
@@ -175,7 +175,7 @@ poder:
       3s: poded
       3p: puedan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Be able! Don't be able!}
       1s: ''

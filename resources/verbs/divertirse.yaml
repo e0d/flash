@@ -5,7 +5,7 @@ divertirse:
   definitions: {en: 'to have fun, have a good time, enjoy oneself'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I have fun, am having fun'}
       1s: me divierto
@@ -15,7 +15,7 @@ divertirse:
       3s: se divierte
       3p: se divierten
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have fun}
       1s: me divertiré
@@ -25,7 +25,7 @@ divertirse:
       3s: se divertirá
       3p: se divertirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was having fun, used to have fun, had fun'}
       1s: me divertía
@@ -35,7 +35,7 @@ divertirse:
       3s: se divertía
       3p: se divertían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had fun}
       1s: me divertí
@@ -45,7 +45,7 @@ divertirse:
       3s: se divirtió
       3p: se divirtieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have fun}
       1s: me divertiría
@@ -55,7 +55,7 @@ divertirse:
       3s: se divertiría
       3p: se divertirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have had fun}
       1s: me he divertido
@@ -65,7 +65,7 @@ divertirse:
       3s: se ha divertido
       3p: se han divertido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have had fun}
       1s: me habré divertido
@@ -75,7 +75,7 @@ divertirse:
       3s: se habrá divertido
       3p: se habrán divertido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had had fun}
       1s: me había divertido
@@ -85,7 +85,7 @@ divertirse:
       3s: se había divertido
       3p: se habían divertido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had had fun}
       1s: me hube divertido
@@ -95,7 +95,7 @@ divertirse:
       3s: se hubo divertido
       3p: se hubieron divertido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have had fun}
       1s: me habría divertido
@@ -105,7 +105,7 @@ divertirse:
       3s: se habría divertido
       3p: se habrían divertido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have fun, am having fun'}
       1s: me divierta
@@ -115,7 +115,7 @@ divertirse:
       3s: se divierta
       3p: se diviertan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I had fun, was having fun'}
       1s: me divirtiera
@@ -125,7 +125,7 @@ divertirse:
       3s: se divirtiera
       3p: se divirtieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have fun}
       1s: me divirtiere
@@ -135,7 +135,7 @@ divertirse:
       3s: se divirtiere
       3p: se divirtieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have had fun, had fun'}
       1s: me haya divertido
@@ -145,7 +145,7 @@ divertirse:
       3s: se haya divertido
       3p: se hayan divertido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have had fun}
       1s: me hubiere divertido
@@ -155,7 +155,7 @@ divertirse:
       3s: se hubiere divertido
       3p: se hubieren divertido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had had fun}
       1s: me hubiera divertido
@@ -165,7 +165,7 @@ divertirse:
       3s: se hubiera divertido
       3p: se hubieran divertido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Have fun! Don't have fun!}
       1s: ''
@@ -175,7 +175,7 @@ divertirse:
       3s: divertíos
       3p: diviértanse
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Have fun! Don't have fun!}
       1s: ''

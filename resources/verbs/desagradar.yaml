@@ -5,7 +5,7 @@ desagradar:
   definitions: {en: 'to displease, be displeasing'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I displease, am displeasing'}
       1s: desagrado
@@ -15,7 +15,7 @@ desagradar:
       3s: desagrada
       3p: desagradan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will displease}
       1s: desagradaré
@@ -25,7 +25,7 @@ desagradar:
       3s: desagradará
       3p: desagradarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was displeasing, used to displease, displeased'}
       1s: desagradaba
@@ -35,7 +35,7 @@ desagradar:
       3s: desagradaba
       3p: desagradaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I displeased}
       1s: desagradé
@@ -45,7 +45,7 @@ desagradar:
       3s: desagradó
       3p: desagradaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would displease}
       1s: desagradaría
@@ -55,7 +55,7 @@ desagradar:
       3s: desagradaría
       3p: desagradarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have displeased}
       1s: he desagradado
@@ -65,7 +65,7 @@ desagradar:
       3s: ha desagradado
       3p: han desagradado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have displeased}
       1s: habré desagradado
@@ -75,7 +75,7 @@ desagradar:
       3s: habrá desagradado
       3p: habrán desagradado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had displeased}
       1s: había desagradado
@@ -85,7 +85,7 @@ desagradar:
       3s: había desagradado
       3p: habían desagradado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had displeased}
       1s: hube desagradado
@@ -95,7 +95,7 @@ desagradar:
       3s: hubo desagradado
       3p: hubieron desagradado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have displeased}
       1s: habría desagradado
@@ -105,7 +105,7 @@ desagradar:
       3s: habría desagradado
       3p: habrían desagradado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I displease, am displeasing'}
       1s: desagrade
@@ -115,7 +115,7 @@ desagradar:
       3s: desagrade
       3p: desagraden
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I displeased, was displeasing'}
       1s: desagradara
@@ -125,7 +125,7 @@ desagradar:
       3s: desagradara
       3p: desagradaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will displease}
       1s: desagradare
@@ -135,7 +135,7 @@ desagradar:
       3s: desagradare
       3p: desagradaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have displeased, displeased'}
       1s: haya desagradado
@@ -145,7 +145,7 @@ desagradar:
       3s: haya desagradado
       3p: hayan desagradado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have displeased}
       1s: hubiere desagradado
@@ -155,7 +155,7 @@ desagradar:
       3s: hubiere desagradado
       3p: hubieren desagradado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had displeased}
       1s: hubiera desagradado
@@ -165,7 +165,7 @@ desagradar:
       3s: hubiera desagradado
       3p: hubieran desagradado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Displease! Don't displease!}
       1s: ''
@@ -175,7 +175,7 @@ desagradar:
       3s: desagradad
       3p: desagraden
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Displease! Don't displease!}
       1s: ''

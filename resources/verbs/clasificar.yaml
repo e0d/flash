@@ -5,7 +5,7 @@ clasificar:
   definitions: {en: 'to classify, grade, rate, sort'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I classify, am classifying'}
       1s: clasifico
@@ -15,7 +15,7 @@ clasificar:
       3s: clasifica
       3p: clasifican
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will classify}
       1s: clasificaré
@@ -25,7 +25,7 @@ clasificar:
       3s: clasificará
       3p: clasificarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was classifying, used to classify, classified'}
       1s: clasificaba
@@ -35,7 +35,7 @@ clasificar:
       3s: clasificaba
       3p: clasificaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I classified}
       1s: clasifiqué
@@ -45,7 +45,7 @@ clasificar:
       3s: clasificó
       3p: clasificaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would classify}
       1s: clasificaría
@@ -55,7 +55,7 @@ clasificar:
       3s: clasificaría
       3p: clasificarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have classified}
       1s: he clasificado
@@ -65,7 +65,7 @@ clasificar:
       3s: ha clasificado
       3p: han clasificado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have classified}
       1s: habré clasificado
@@ -75,7 +75,7 @@ clasificar:
       3s: habrá clasificado
       3p: habrán clasificado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had classified}
       1s: había clasificado
@@ -85,7 +85,7 @@ clasificar:
       3s: había clasificado
       3p: habían clasificado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had classified}
       1s: hube clasificado
@@ -95,7 +95,7 @@ clasificar:
       3s: hubo clasificado
       3p: hubieron clasificado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have classified}
       1s: habría clasificado
@@ -105,7 +105,7 @@ clasificar:
       3s: habría clasificado
       3p: habrían clasificado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I classify, am classifying'}
       1s: clasifique
@@ -115,7 +115,7 @@ clasificar:
       3s: clasifique
       3p: clasifiquen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I classified, was classifying'}
       1s: clasificara
@@ -125,7 +125,7 @@ clasificar:
       3s: clasificara
       3p: clasificaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will classify}
       1s: clasificare
@@ -135,7 +135,7 @@ clasificar:
       3s: clasificare
       3p: clasificaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have classified, classified'}
       1s: haya clasificado
@@ -145,7 +145,7 @@ clasificar:
       3s: haya clasificado
       3p: hayan clasificado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have classified}
       1s: hubiere clasificado
@@ -155,7 +155,7 @@ clasificar:
       3s: hubiere clasificado
       3p: hubieren clasificado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had classified}
       1s: hubiera clasificado
@@ -165,7 +165,7 @@ clasificar:
       3s: hubiera clasificado
       3p: hubieran clasificado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Classify! Don't classify!}
       1s: ''
@@ -175,7 +175,7 @@ clasificar:
       3s: clasificad
       3p: clasifiquen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Classify! Don't classify!}
       1s: ''

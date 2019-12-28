@@ -5,7 +5,7 @@ estimar:
   definitions: {en: 'to estimate; to appraise; to esteem, respect'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I estimate, am estimating'}
       1s: estimo
@@ -15,7 +15,7 @@ estimar:
       3s: estima
       3p: estiman
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will estimate}
       1s: estimaré
@@ -25,7 +25,7 @@ estimar:
       3s: estimará
       3p: estimarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was estimating, used to estimate, estimated'}
       1s: estimaba
@@ -35,7 +35,7 @@ estimar:
       3s: estimaba
       3p: estimaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I estimated}
       1s: estimé
@@ -45,7 +45,7 @@ estimar:
       3s: estimó
       3p: estimaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would estimate}
       1s: estimaría
@@ -55,7 +55,7 @@ estimar:
       3s: estimaría
       3p: estimarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have estimated}
       1s: he estimado
@@ -65,7 +65,7 @@ estimar:
       3s: ha estimado
       3p: han estimado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have estimated}
       1s: habré estimado
@@ -75,7 +75,7 @@ estimar:
       3s: habrá estimado
       3p: habrán estimado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had estimated}
       1s: había estimado
@@ -85,7 +85,7 @@ estimar:
       3s: había estimado
       3p: habían estimado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had estimated}
       1s: hube estimado
@@ -95,7 +95,7 @@ estimar:
       3s: hubo estimado
       3p: hubieron estimado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have estimated}
       1s: habría estimado
@@ -105,7 +105,7 @@ estimar:
       3s: habría estimado
       3p: habrían estimado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I estimate, am estimating'}
       1s: estime
@@ -115,7 +115,7 @@ estimar:
       3s: estime
       3p: estimen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I estimated, was estimating'}
       1s: estimara
@@ -125,7 +125,7 @@ estimar:
       3s: estimara
       3p: estimaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will estimate}
       1s: estimare
@@ -135,7 +135,7 @@ estimar:
       3s: estimare
       3p: estimaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have estimated, estimated'}
       1s: haya estimado
@@ -145,7 +145,7 @@ estimar:
       3s: haya estimado
       3p: hayan estimado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have estimated}
       1s: hubiere estimado
@@ -155,7 +155,7 @@ estimar:
       3s: hubiere estimado
       3p: hubieren estimado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had estimated}
       1s: hubiera estimado
@@ -165,7 +165,7 @@ estimar:
       3s: hubiera estimado
       3p: hubieran estimado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Estimate! Don't estimate!}
       1s: ''
@@ -175,7 +175,7 @@ estimar:
       3s: estimad
       3p: estimen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Estimate! Don't estimate!}
       1s: ''

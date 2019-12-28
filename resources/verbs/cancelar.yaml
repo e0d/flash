@@ -5,7 +5,7 @@ cancelar:
   definitions: {en: 'to cancel; to wipe out, write off [debt]'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I cancel, am cancelling'}
       1s: cancelo
@@ -15,7 +15,7 @@ cancelar:
       3s: cancela
       3p: cancelan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will cancel}
       1s: cancelaré
@@ -25,7 +25,7 @@ cancelar:
       3s: cancelará
       3p: cancelarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was cancelling, used to cancel, cancelled'}
       1s: cancelaba
@@ -35,7 +35,7 @@ cancelar:
       3s: cancelaba
       3p: cancelaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I cancelled}
       1s: cancelé
@@ -45,7 +45,7 @@ cancelar:
       3s: canceló
       3p: cancelaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would cancel}
       1s: cancelaría
@@ -55,7 +55,7 @@ cancelar:
       3s: cancelaría
       3p: cancelarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have cancelled}
       1s: he cancelado
@@ -65,7 +65,7 @@ cancelar:
       3s: ha cancelado
       3p: han cancelado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have cancelled}
       1s: habré cancelado
@@ -75,7 +75,7 @@ cancelar:
       3s: habrá cancelado
       3p: habrán cancelado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had cancelled}
       1s: había cancelado
@@ -85,7 +85,7 @@ cancelar:
       3s: había cancelado
       3p: habían cancelado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had cancelled}
       1s: hube cancelado
@@ -95,7 +95,7 @@ cancelar:
       3s: hubo cancelado
       3p: hubieron cancelado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have cancelled}
       1s: habría cancelado
@@ -105,7 +105,7 @@ cancelar:
       3s: habría cancelado
       3p: habrían cancelado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I cancel, am cancelling'}
       1s: cancele
@@ -115,7 +115,7 @@ cancelar:
       3s: cancele
       3p: cancelen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I cancelled, was cancelling'}
       1s: cancelara
@@ -125,7 +125,7 @@ cancelar:
       3s: cancelara
       3p: cancelaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will cancel}
       1s: cancelare
@@ -135,7 +135,7 @@ cancelar:
       3s: cancelare
       3p: cancelaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have cancelled, cancelled'}
       1s: haya cancelado
@@ -145,7 +145,7 @@ cancelar:
       3s: haya cancelado
       3p: hayan cancelado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have cancelled}
       1s: hubiere cancelado
@@ -155,7 +155,7 @@ cancelar:
       3s: hubiere cancelado
       3p: hubieren cancelado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had cancelled}
       1s: hubiera cancelado
@@ -165,7 +165,7 @@ cancelar:
       3s: hubiera cancelado
       3p: hubieran cancelado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Cancel! Don't cancel!}
       1s: ''
@@ -175,7 +175,7 @@ cancelar:
       3s: cancelad
       3p: cancelen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Cancel! Don't cancel!}
       1s: ''

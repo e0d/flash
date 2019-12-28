@@ -5,7 +5,7 @@ organizar:
   definitions: {en: to organize}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I organize, am organizing'}
       1s: organizo
@@ -15,7 +15,7 @@ organizar:
       3s: organiza
       3p: organizan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will organize}
       1s: organizaré
@@ -25,7 +25,7 @@ organizar:
       3s: organizará
       3p: organizarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was organizing, used to organize, organized'}
       1s: organizaba
@@ -35,7 +35,7 @@ organizar:
       3s: organizaba
       3p: organizaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I organized}
       1s: organicé
@@ -45,7 +45,7 @@ organizar:
       3s: organizó
       3p: organizaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would organize}
       1s: organizaría
@@ -55,7 +55,7 @@ organizar:
       3s: organizaría
       3p: organizarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have organized}
       1s: he organizado
@@ -65,7 +65,7 @@ organizar:
       3s: ha organizado
       3p: han organizado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have organized}
       1s: habré organizado
@@ -75,7 +75,7 @@ organizar:
       3s: habrá organizado
       3p: habrán organizado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had organized}
       1s: había organizado
@@ -85,7 +85,7 @@ organizar:
       3s: había organizado
       3p: habían organizado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had organized}
       1s: hube organizado
@@ -95,7 +95,7 @@ organizar:
       3s: hubo organizado
       3p: hubieron organizado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have organized}
       1s: habría organizado
@@ -105,7 +105,7 @@ organizar:
       3s: habría organizado
       3p: habrían organizado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I organize, am organizing'}
       1s: organice
@@ -115,7 +115,7 @@ organizar:
       3s: organice
       3p: organicen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I organized, was organizing'}
       1s: organizara
@@ -125,7 +125,7 @@ organizar:
       3s: organizara
       3p: organizaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will organize}
       1s: organizare
@@ -135,7 +135,7 @@ organizar:
       3s: organizare
       3p: organizaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have organized, organized'}
       1s: haya organizado
@@ -145,7 +145,7 @@ organizar:
       3s: haya organizado
       3p: hayan organizado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have organized}
       1s: hubiere organizado
@@ -155,7 +155,7 @@ organizar:
       3s: hubiere organizado
       3p: hubieren organizado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had organized}
       1s: hubiera organizado
@@ -165,7 +165,7 @@ organizar:
       3s: hubiera organizado
       3p: hubieran organizado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Organize! Don't organize!}
       1s: ''
@@ -175,7 +175,7 @@ organizar:
       3s: organizad
       3p: organicen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Organize! Don't organize!}
       1s: ''

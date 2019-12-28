@@ -5,7 +5,7 @@ cocinar:
   definitions: {en: to cook; to do the cooking}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I cook, am cooking'}
       1s: cocino
@@ -15,7 +15,7 @@ cocinar:
       3s: cocina
       3p: cocinan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will cook}
       1s: cocinaré
@@ -25,7 +25,7 @@ cocinar:
       3s: cocinará
       3p: cocinarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was cooking, used to cook, cooked'}
       1s: cocinaba
@@ -35,7 +35,7 @@ cocinar:
       3s: cocinaba
       3p: cocinaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I cooked}
       1s: cociné
@@ -45,7 +45,7 @@ cocinar:
       3s: cocinó
       3p: cocinaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would cook}
       1s: cocinaría
@@ -55,7 +55,7 @@ cocinar:
       3s: cocinaría
       3p: cocinarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have cooked}
       1s: he cocinado
@@ -65,7 +65,7 @@ cocinar:
       3s: ha cocinado
       3p: han cocinado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have cooked}
       1s: habré cocinado
@@ -75,7 +75,7 @@ cocinar:
       3s: habrá cocinado
       3p: habrán cocinado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had cooked}
       1s: había cocinado
@@ -85,7 +85,7 @@ cocinar:
       3s: había cocinado
       3p: habían cocinado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had cooked}
       1s: hube cocinado
@@ -95,7 +95,7 @@ cocinar:
       3s: hubo cocinado
       3p: hubieron cocinado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have cooked}
       1s: habría cocinado
@@ -105,7 +105,7 @@ cocinar:
       3s: habría cocinado
       3p: habrían cocinado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I cook, am cooking'}
       1s: cocine
@@ -115,7 +115,7 @@ cocinar:
       3s: cocine
       3p: cocinen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I cooked, was cooking'}
       1s: cocinara
@@ -125,7 +125,7 @@ cocinar:
       3s: cocinara
       3p: cocinaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will cook}
       1s: cocinare
@@ -135,7 +135,7 @@ cocinar:
       3s: cocinare
       3p: cocinaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have cooked, cooked'}
       1s: haya cocinado
@@ -145,7 +145,7 @@ cocinar:
       3s: haya cocinado
       3p: hayan cocinado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have cooked}
       1s: hubiere cocinado
@@ -155,7 +155,7 @@ cocinar:
       3s: hubiere cocinado
       3p: hubieren cocinado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had cooked}
       1s: hubiera cocinado
@@ -165,7 +165,7 @@ cocinar:
       3s: hubiera cocinado
       3p: hubieran cocinado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Cook! Don't cook!}
       1s: ''
@@ -175,7 +175,7 @@ cocinar:
       3s: cocinad
       3p: cocinen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Cook! Don't cook!}
       1s: ''

@@ -5,7 +5,7 @@ respetar:
   definitions: {en: to respect}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I respect, am respecting'}
       1s: respeto
@@ -15,7 +15,7 @@ respetar:
       3s: respeta
       3p: respetan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will respect}
       1s: respetaré
@@ -25,7 +25,7 @@ respetar:
       3s: respetará
       3p: respetarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was respecting, used to respect, respected'}
       1s: respetaba
@@ -35,7 +35,7 @@ respetar:
       3s: respetaba
       3p: respetaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I respected}
       1s: respeté
@@ -45,7 +45,7 @@ respetar:
       3s: respetó
       3p: respetaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would respect}
       1s: respetaría
@@ -55,7 +55,7 @@ respetar:
       3s: respetaría
       3p: respetarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have respected}
       1s: he respetado
@@ -65,7 +65,7 @@ respetar:
       3s: ha respetado
       3p: han respetado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have respected}
       1s: habré respetado
@@ -75,7 +75,7 @@ respetar:
       3s: habrá respetado
       3p: habrán respetado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had respected}
       1s: había respetado
@@ -85,7 +85,7 @@ respetar:
       3s: había respetado
       3p: habían respetado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had respected}
       1s: hube respetado
@@ -95,7 +95,7 @@ respetar:
       3s: hubo respetado
       3p: hubieron respetado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have respected}
       1s: habría respetado
@@ -105,7 +105,7 @@ respetar:
       3s: habría respetado
       3p: habrían respetado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I respect, am respecting'}
       1s: respete
@@ -115,7 +115,7 @@ respetar:
       3s: respete
       3p: respeten
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I respected, was respecting'}
       1s: respetara
@@ -125,7 +125,7 @@ respetar:
       3s: respetara
       3p: respetaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will respect}
       1s: respetare
@@ -135,7 +135,7 @@ respetar:
       3s: respetare
       3p: respetaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have respected, respected'}
       1s: haya respetado
@@ -145,7 +145,7 @@ respetar:
       3s: haya respetado
       3p: hayan respetado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have respected}
       1s: hubiere respetado
@@ -155,7 +155,7 @@ respetar:
       3s: hubiere respetado
       3p: hubieren respetado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had respected}
       1s: hubiera respetado
@@ -165,7 +165,7 @@ respetar:
       3s: hubiera respetado
       3p: hubieran respetado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Respect! Don't respect!}
       1s: ''
@@ -175,7 +175,7 @@ respetar:
       3s: respetad
       3p: respeten
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Respect! Don't respect!}
       1s: ''

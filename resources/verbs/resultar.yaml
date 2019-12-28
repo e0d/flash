@@ -5,7 +5,7 @@ resultar:
   definitions: {en: 'to turn out (to be), prove [to be], ensue'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I turn out, am turning out'}
       1s: resulto
@@ -15,7 +15,7 @@ resultar:
       3s: resulta
       3p: resultan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will turn out}
       1s: resultaré
@@ -25,7 +25,7 @@ resultar:
       3s: resultará
       3p: resultarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was turning out, used to turn out, turned out'}
       1s: resultaba
@@ -35,7 +35,7 @@ resultar:
       3s: resultaba
       3p: resultaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I turned out}
       1s: resulté
@@ -45,7 +45,7 @@ resultar:
       3s: resultó
       3p: resultaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would turn out}
       1s: resultaría
@@ -55,7 +55,7 @@ resultar:
       3s: resultaría
       3p: resultarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have turned out}
       1s: he resultado
@@ -65,7 +65,7 @@ resultar:
       3s: ha resultado
       3p: han resultado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have turned out}
       1s: habré resultado
@@ -75,7 +75,7 @@ resultar:
       3s: habrá resultado
       3p: habrán resultado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had turned out}
       1s: había resultado
@@ -85,7 +85,7 @@ resultar:
       3s: había resultado
       3p: habían resultado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had turned out}
       1s: hube resultado
@@ -95,7 +95,7 @@ resultar:
       3s: hubo resultado
       3p: hubieron resultado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have turned out}
       1s: habría resultado
@@ -105,7 +105,7 @@ resultar:
       3s: habría resultado
       3p: habrían resultado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I turn out, am turning out'}
       1s: resulte
@@ -115,7 +115,7 @@ resultar:
       3s: resulte
       3p: resulten
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I turned out, was turning out'}
       1s: resultara
@@ -125,7 +125,7 @@ resultar:
       3s: resultara
       3p: resultaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will turn out}
       1s: resultare
@@ -135,7 +135,7 @@ resultar:
       3s: resultare
       3p: resultaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have turned out, turned out'}
       1s: haya resultado
@@ -145,7 +145,7 @@ resultar:
       3s: haya resultado
       3p: hayan resultado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have turned out}
       1s: hubiere resultado
@@ -155,7 +155,7 @@ resultar:
       3s: hubiere resultado
       3p: hubieren resultado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had turned out}
       1s: hubiera resultado
@@ -165,7 +165,7 @@ resultar:
       3s: hubiera resultado
       3p: hubieran resultado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Yurn out! Don't turn out!}
       1s: ''
@@ -175,7 +175,7 @@ resultar:
       3s: resultad
       3p: resulten
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Yurn out! Don't turn out!}
       1s: ''

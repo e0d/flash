@@ -5,7 +5,7 @@ pesar:
   definitions: {en: 'to weigh; to weigh down, weigh heavily;'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I weigh, am weighing'}
       1s: peso
@@ -15,7 +15,7 @@ pesar:
       3s: pesa
       3p: pesan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will weigh}
       1s: pesaré
@@ -25,7 +25,7 @@ pesar:
       3s: pesará
       3p: pesarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was weighing, used to weigh, weighed'}
       1s: pesaba
@@ -35,7 +35,7 @@ pesar:
       3s: pesaba
       3p: pesaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I weighed}
       1s: pesé
@@ -45,7 +45,7 @@ pesar:
       3s: pesó
       3p: pesaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would weigh}
       1s: pesaría
@@ -55,7 +55,7 @@ pesar:
       3s: pesaría
       3p: pesarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have weighed}
       1s: he pesado
@@ -65,7 +65,7 @@ pesar:
       3s: ha pesado
       3p: han pesado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have weighed}
       1s: habré pesado
@@ -75,7 +75,7 @@ pesar:
       3s: habrá pesado
       3p: habrán pesado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had weighed}
       1s: había pesado
@@ -85,7 +85,7 @@ pesar:
       3s: había pesado
       3p: habían pesado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had weighed}
       1s: hube pesado
@@ -95,7 +95,7 @@ pesar:
       3s: hubo pesado
       3p: hubieron pesado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have weighed}
       1s: habría pesado
@@ -105,7 +105,7 @@ pesar:
       3s: habría pesado
       3p: habrían pesado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I weigh, am weighing'}
       1s: pese
@@ -115,7 +115,7 @@ pesar:
       3s: pese
       3p: pesen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I weighed, was weighing'}
       1s: pesara
@@ -125,7 +125,7 @@ pesar:
       3s: pesara
       3p: pesaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will weigh}
       1s: pesare
@@ -135,7 +135,7 @@ pesar:
       3s: pesare
       3p: pesaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have weighed, weighed'}
       1s: haya pesado
@@ -145,7 +145,7 @@ pesar:
       3s: haya pesado
       3p: hayan pesado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have weighed}
       1s: hubiere pesado
@@ -155,7 +155,7 @@ pesar:
       3s: hubiere pesado
       3p: hubieren pesado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had weighed}
       1s: hubiera pesado
@@ -165,7 +165,7 @@ pesar:
       3s: hubiera pesado
       3p: hubieran pesado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Weigh! Don't weigh!}
       1s: ''
@@ -175,7 +175,7 @@ pesar:
       3s: pesad
       3p: pesen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Weigh! Don't weigh!}
       1s: ''

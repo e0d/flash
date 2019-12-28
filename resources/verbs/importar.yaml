@@ -5,7 +5,7 @@ importar:
   definitions: {en: to import}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I import, am importing'}
       1s: importo
@@ -15,7 +15,7 @@ importar:
       3s: importa
       3p: importan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will import}
       1s: importaré
@@ -25,7 +25,7 @@ importar:
       3s: importará
       3p: importarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was importing, used to import, imported'}
       1s: importaba
@@ -35,7 +35,7 @@ importar:
       3s: importaba
       3p: importaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I imported}
       1s: importé
@@ -45,7 +45,7 @@ importar:
       3s: importó
       3p: importaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would import}
       1s: importaría
@@ -55,7 +55,7 @@ importar:
       3s: importaría
       3p: importarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have imported}
       1s: he importado
@@ -65,7 +65,7 @@ importar:
       3s: ha importado
       3p: han importado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have imported}
       1s: habré importado
@@ -75,7 +75,7 @@ importar:
       3s: habrá importado
       3p: habrán importado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had imported}
       1s: había importado
@@ -85,7 +85,7 @@ importar:
       3s: había importado
       3p: habían importado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had imported}
       1s: hube importado
@@ -95,7 +95,7 @@ importar:
       3s: hubo importado
       3p: hubieron importado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have imported}
       1s: habría importado
@@ -105,7 +105,7 @@ importar:
       3s: habría importado
       3p: habrían importado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I import, am importing'}
       1s: importe
@@ -115,7 +115,7 @@ importar:
       3s: importe
       3p: importen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I imported, was importing'}
       1s: importara
@@ -125,7 +125,7 @@ importar:
       3s: importara
       3p: importaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will import}
       1s: importare
@@ -135,7 +135,7 @@ importar:
       3s: importare
       3p: importaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have imported, imported'}
       1s: haya importado
@@ -145,7 +145,7 @@ importar:
       3s: haya importado
       3p: hayan importado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have imported}
       1s: hubiere importado
@@ -155,7 +155,7 @@ importar:
       3s: hubiere importado
       3p: hubieren importado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had imported}
       1s: hubiera importado
@@ -165,7 +165,7 @@ importar:
       3s: hubiera importado
       3p: hubieran importado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Import! Don't import!}
       1s: ''
@@ -175,7 +175,7 @@ importar:
       3s: importad
       3p: importen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Import! Don't import!}
       1s: ''

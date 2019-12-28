@@ -5,7 +5,7 @@ glorificar:
   definitions: {en: 'to glorify, praise'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I glorify, am glorifying'}
       1s: glorifico
@@ -15,7 +15,7 @@ glorificar:
       3s: glorifica
       3p: glorifican
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will glorify}
       1s: glorificaré
@@ -25,7 +25,7 @@ glorificar:
       3s: glorificará
       3p: glorificarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was glorifying, used to glorify, glorified'}
       1s: glorificaba
@@ -35,7 +35,7 @@ glorificar:
       3s: glorificaba
       3p: glorificaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I glorified}
       1s: glorifiqué
@@ -45,7 +45,7 @@ glorificar:
       3s: glorificó
       3p: glorificaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would glorify}
       1s: glorificaría
@@ -55,7 +55,7 @@ glorificar:
       3s: glorificaría
       3p: glorificarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have glorified}
       1s: he glorificado
@@ -65,7 +65,7 @@ glorificar:
       3s: ha glorificado
       3p: han glorificado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have glorified}
       1s: habré glorificado
@@ -75,7 +75,7 @@ glorificar:
       3s: habrá glorificado
       3p: habrán glorificado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had glorified}
       1s: había glorificado
@@ -85,7 +85,7 @@ glorificar:
       3s: había glorificado
       3p: habían glorificado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had glorified}
       1s: hube glorificado
@@ -95,7 +95,7 @@ glorificar:
       3s: hubo glorificado
       3p: hubieron glorificado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have glorified}
       1s: habría glorificado
@@ -105,7 +105,7 @@ glorificar:
       3s: habría glorificado
       3p: habrían glorificado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I glorify, am glorifying'}
       1s: glorifique
@@ -115,7 +115,7 @@ glorificar:
       3s: glorifique
       3p: glorifiquen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I glorified, was glorifying'}
       1s: glorificara
@@ -125,7 +125,7 @@ glorificar:
       3s: glorificara
       3p: glorificaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will glorify}
       1s: glorificare
@@ -135,7 +135,7 @@ glorificar:
       3s: glorificare
       3p: glorificaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have glorified, glorified'}
       1s: haya glorificado
@@ -145,7 +145,7 @@ glorificar:
       3s: haya glorificado
       3p: hayan glorificado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have glorified}
       1s: hubiere glorificado
@@ -155,7 +155,7 @@ glorificar:
       3s: hubiere glorificado
       3p: hubieren glorificado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had glorified}
       1s: hubiera glorificado
@@ -165,7 +165,7 @@ glorificar:
       3s: hubiera glorificado
       3p: hubieran glorificado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Glorify! Don't glorify!}
       1s: ''
@@ -175,7 +175,7 @@ glorificar:
       3s: glorificad
       3p: glorifiquen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Glorify! Don't glorify!}
       1s: ''

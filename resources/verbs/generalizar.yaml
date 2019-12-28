@@ -5,7 +5,7 @@ generalizar:
   definitions: {en: to generalize}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I generalize, am generalizing'}
       1s: generalizo
@@ -15,7 +15,7 @@ generalizar:
       3s: generaliza
       3p: generalizan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will generalize}
       1s: generalizaré
@@ -25,7 +25,7 @@ generalizar:
       3s: generalizará
       3p: generalizarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was generalizing, used to generalize, generalized'}
       1s: generalizaba
@@ -35,7 +35,7 @@ generalizar:
       3s: generalizaba
       3p: generalizaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I generalized}
       1s: generalicé
@@ -45,7 +45,7 @@ generalizar:
       3s: generalizó
       3p: generalizaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would generalize}
       1s: generalizaría
@@ -55,7 +55,7 @@ generalizar:
       3s: generalizaría
       3p: generalizarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have generalized}
       1s: he generalizado
@@ -65,7 +65,7 @@ generalizar:
       3s: ha generalizado
       3p: han generalizado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have generalized}
       1s: habré generalizado
@@ -75,7 +75,7 @@ generalizar:
       3s: habrá generalizado
       3p: habrán generalizado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had generalized}
       1s: había generalizado
@@ -85,7 +85,7 @@ generalizar:
       3s: había generalizado
       3p: habían generalizado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had generalized}
       1s: hube generalizado
@@ -95,7 +95,7 @@ generalizar:
       3s: hubo generalizado
       3p: hubieron generalizado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have generalized}
       1s: habría generalizado
@@ -105,7 +105,7 @@ generalizar:
       3s: habría generalizado
       3p: habrían generalizado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I generalize, am generalizing'}
       1s: generalice
@@ -115,7 +115,7 @@ generalizar:
       3s: generalice
       3p: generalicen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I generalized, was generalizing'}
       1s: generalizara
@@ -125,7 +125,7 @@ generalizar:
       3s: generalizara
       3p: generalizaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will generalize}
       1s: generalizare
@@ -135,7 +135,7 @@ generalizar:
       3s: generalizare
       3p: generalizaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have generalized, generalized'}
       1s: haya generalizado
@@ -145,7 +145,7 @@ generalizar:
       3s: haya generalizado
       3p: hayan generalizado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have generalized}
       1s: hubiere generalizado
@@ -155,7 +155,7 @@ generalizar:
       3s: hubiere generalizado
       3p: hubieren generalizado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had generalized}
       1s: hubiera generalizado
@@ -165,7 +165,7 @@ generalizar:
       3s: hubiera generalizado
       3p: hubieran generalizado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Generalize! Don't generalize!}
       1s: ''
@@ -175,7 +175,7 @@ generalizar:
       3s: generalizad
       3p: generalicen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Generalize! Don't generalize!}
       1s: ''

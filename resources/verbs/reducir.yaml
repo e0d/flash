@@ -5,7 +5,7 @@ reducir:
   definitions: {en: to reduce}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I reduce, am reducing'}
       1s: reduzco
@@ -15,7 +15,7 @@ reducir:
       3s: reduce
       3p: reducen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will reduce}
       1s: reduciré
@@ -25,7 +25,7 @@ reducir:
       3s: reducirá
       3p: reducirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was reducing, used to reduce, reduced'}
       1s: reducía
@@ -35,7 +35,7 @@ reducir:
       3s: reducía
       3p: reducían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I reduced}
       1s: reduje
@@ -45,7 +45,7 @@ reducir:
       3s: redujo
       3p: redujeron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would reduce}
       1s: reduciría
@@ -55,7 +55,7 @@ reducir:
       3s: reduciría
       3p: reducirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have reduced}
       1s: he reducido
@@ -65,7 +65,7 @@ reducir:
       3s: ha reducido
       3p: han reducido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have reduced}
       1s: habré reducido
@@ -75,7 +75,7 @@ reducir:
       3s: habrá reducido
       3p: habrán reducido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had reduced}
       1s: había reducido
@@ -85,7 +85,7 @@ reducir:
       3s: había reducido
       3p: habían reducido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had reduced}
       1s: hube reducido
@@ -95,7 +95,7 @@ reducir:
       3s: hubo reducido
       3p: hubieron reducido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have reduced}
       1s: habría reducido
@@ -105,7 +105,7 @@ reducir:
       3s: habría reducido
       3p: habrían reducido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I reduce, am reducing'}
       1s: reduzca
@@ -115,7 +115,7 @@ reducir:
       3s: reduzca
       3p: reduzcan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I reduced, was reducing'}
       1s: redujera
@@ -125,7 +125,7 @@ reducir:
       3s: redujera
       3p: redujeran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will reduce}
       1s: redujere
@@ -135,7 +135,7 @@ reducir:
       3s: redujere
       3p: redujeren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have reduced, reduced'}
       1s: haya reducido
@@ -145,7 +145,7 @@ reducir:
       3s: haya reducido
       3p: hayan reducido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have reduced}
       1s: hubiere reducido
@@ -155,7 +155,7 @@ reducir:
       3s: hubiere reducido
       3p: hubieren reducido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had reduced}
       1s: hubiera reducido
@@ -165,7 +165,7 @@ reducir:
       3s: hubiera reducido
       3p: hubieran reducido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Reduce! Don't reduce!}
       1s: ''
@@ -175,7 +175,7 @@ reducir:
       3s: reducid
       3p: reduzcan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Reduce! Don't reduce!}
       1s: ''

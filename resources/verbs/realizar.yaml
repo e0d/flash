@@ -5,7 +5,7 @@ realizar:
   definitions: {en: 'to achieve, attain, accomplish, realize'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I achieve, am achieving'}
       1s: realizo
@@ -15,7 +15,7 @@ realizar:
       3s: realiza
       3p: realizan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will achieve}
       1s: realizaré
@@ -25,7 +25,7 @@ realizar:
       3s: realizará
       3p: realizarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was achieving, used to achieve, achieved'}
       1s: realizaba
@@ -35,7 +35,7 @@ realizar:
       3s: realizaba
       3p: realizaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I achieved}
       1s: realicé
@@ -45,7 +45,7 @@ realizar:
       3s: realizó
       3p: realizaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would achieve}
       1s: realizaría
@@ -55,7 +55,7 @@ realizar:
       3s: realizaría
       3p: realizarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have achieved}
       1s: he realizado
@@ -65,7 +65,7 @@ realizar:
       3s: ha realizado
       3p: han realizado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have achieved}
       1s: habré realizado
@@ -75,7 +75,7 @@ realizar:
       3s: habrá realizado
       3p: habrán realizado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had achieved}
       1s: había realizado
@@ -85,7 +85,7 @@ realizar:
       3s: había realizado
       3p: habían realizado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had achieved}
       1s: hube realizado
@@ -95,7 +95,7 @@ realizar:
       3s: hubo realizado
       3p: hubieron realizado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have achieved}
       1s: habría realizado
@@ -105,7 +105,7 @@ realizar:
       3s: habría realizado
       3p: habrían realizado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I achieve, am achieving'}
       1s: realice
@@ -115,7 +115,7 @@ realizar:
       3s: realice
       3p: realicen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I achieved, was achieving'}
       1s: realizara
@@ -125,7 +125,7 @@ realizar:
       3s: realizara
       3p: realizaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will achieve}
       1s: realizare
@@ -135,7 +135,7 @@ realizar:
       3s: realizare
       3p: realizaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have achieved, achieved'}
       1s: haya realizado
@@ -145,7 +145,7 @@ realizar:
       3s: haya realizado
       3p: hayan realizado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have achieved}
       1s: hubiere realizado
@@ -155,7 +155,7 @@ realizar:
       3s: hubiere realizado
       3p: hubieren realizado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had achieved}
       1s: hubiera realizado
@@ -165,7 +165,7 @@ realizar:
       3s: hubiera realizado
       3p: hubieran realizado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Achieve! Don't achieve!}
       1s: ''
@@ -175,7 +175,7 @@ realizar:
       3s: realizad
       3p: realicen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Achieve! Don't achieve!}
       1s: ''

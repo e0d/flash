@@ -5,7 +5,7 @@ ponerse:
   definitions: {en: 'to put on [clothing]; to put/place [oneself]; to turn/get/become'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I put on, am putting on'}
       1s: me pongo
@@ -15,7 +15,7 @@ ponerse:
       3s: se pone
       3p: se ponen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will put on}
       1s: me pondré
@@ -25,7 +25,7 @@ ponerse:
       3s: se pondrá
       3p: se pondrán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was putting on, used to put on, put on'}
       1s: me ponía
@@ -35,7 +35,7 @@ ponerse:
       3s: se ponía
       3p: se ponían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I put on}
       1s: me puse
@@ -45,7 +45,7 @@ ponerse:
       3s: se puso
       3p: se pusieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would put on}
       1s: me pondría
@@ -55,7 +55,7 @@ ponerse:
       3s: se pondría
       3p: se pondrían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have put on}
       1s: me he puesto
@@ -65,7 +65,7 @@ ponerse:
       3s: se ha puesto
       3p: se han puesto
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have put on}
       1s: me habré puesto
@@ -75,7 +75,7 @@ ponerse:
       3s: se habrá puesto
       3p: se habrán puesto
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had put on}
       1s: me había puesto
@@ -85,7 +85,7 @@ ponerse:
       3s: se había puesto
       3p: se habían puesto
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had put on}
       1s: me hube puesto
@@ -95,7 +95,7 @@ ponerse:
       3s: se hubo puesto
       3p: se hubieron puesto
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have put on}
       1s: me habría puesto
@@ -105,7 +105,7 @@ ponerse:
       3s: se habría puesto
       3p: se habrían puesto
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I put on, am putting on'}
       1s: me ponga
@@ -115,7 +115,7 @@ ponerse:
       3s: se ponga
       3p: se pongan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I put on, was putting on'}
       1s: me pusiera
@@ -125,7 +125,7 @@ ponerse:
       3s: se pusiera
       3p: se pusieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will put on}
       1s: me pusiere
@@ -135,7 +135,7 @@ ponerse:
       3s: se pusiere
       3p: se pusieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have put on, put on'}
       1s: me haya puesto
@@ -145,7 +145,7 @@ ponerse:
       3s: se haya puesto
       3p: se hayan puesto
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have put on}
       1s: me hubiere puesto
@@ -155,7 +155,7 @@ ponerse:
       3s: se hubiere puesto
       3p: se hubieren puesto
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had put on}
       1s: me hubiera puesto
@@ -165,7 +165,7 @@ ponerse:
       3s: se hubiera puesto
       3p: se hubieran puesto
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Put on! Don't put on!}
       1s: ''
@@ -175,7 +175,7 @@ ponerse:
       3s: poneos
       3p: pónganse
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Put on! Don't put on!}
       1s: ''

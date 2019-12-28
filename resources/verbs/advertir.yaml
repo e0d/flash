@@ -5,7 +5,7 @@ advertir:
   definitions: {en: 'to notice, observe, advise, warn'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I notice, am noticing'}
       1s: advierto
@@ -15,7 +15,7 @@ advertir:
       3s: advierte
       3p: advierten
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will notice}
       1s: advertiré
@@ -25,7 +25,7 @@ advertir:
       3s: advertirá
       3p: advertirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was noticing, used to notice, noticed'}
       1s: advertía
@@ -35,7 +35,7 @@ advertir:
       3s: advertía
       3p: advertían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I noticed}
       1s: advertí
@@ -45,7 +45,7 @@ advertir:
       3s: advirtió
       3p: advirtieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would notice}
       1s: advertiría
@@ -55,7 +55,7 @@ advertir:
       3s: advertiría
       3p: advertirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have noticed}
       1s: he advertido
@@ -65,7 +65,7 @@ advertir:
       3s: ha advertido
       3p: han advertido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have noticed}
       1s: habré advertido
@@ -75,7 +75,7 @@ advertir:
       3s: habrá advertido
       3p: habrán advertido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had noticed}
       1s: había advertido
@@ -85,7 +85,7 @@ advertir:
       3s: había advertido
       3p: habían advertido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had noticed}
       1s: hube advertido
@@ -95,7 +95,7 @@ advertir:
       3s: hubo advertido
       3p: hubieron advertido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have noticed}
       1s: habría advertido
@@ -105,7 +105,7 @@ advertir:
       3s: habría advertido
       3p: habrían advertido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I notice, am noticing'}
       1s: advierta
@@ -115,7 +115,7 @@ advertir:
       3s: advierta
       3p: adviertan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I noticed, was noticing'}
       1s: advirtiera
@@ -125,7 +125,7 @@ advertir:
       3s: advirtiera
       3p: advirtieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will notice}
       1s: advirtiere
@@ -135,7 +135,7 @@ advertir:
       3s: advirtiere
       3p: advirtieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have noticed, noticed'}
       1s: haya advertido
@@ -145,7 +145,7 @@ advertir:
       3s: haya advertido
       3p: hayan advertido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have noticed}
       1s: hubiere advertido
@@ -155,7 +155,7 @@ advertir:
       3s: hubiere advertido
       3p: hubieren advertido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had noticed}
       1s: hubiera advertido
@@ -165,7 +165,7 @@ advertir:
       3s: hubiera advertido
       3p: hubieran advertido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Notice! Don't notice!}
       1s: ''
@@ -175,7 +175,7 @@ advertir:
       3s: advertid
       3p: adviertan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Notice! Don't notice!}
       1s: ''

@@ -5,7 +5,7 @@ contar:
   definitions: {en: 'to count, relate, tell'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I count, am counting'}
       1s: cuento
@@ -15,7 +15,7 @@ contar:
       3s: cuenta
       3p: cuentan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will count}
       1s: contaré
@@ -25,7 +25,7 @@ contar:
       3s: contará
       3p: contarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was counting, used to count, counted'}
       1s: contaba
@@ -35,7 +35,7 @@ contar:
       3s: contaba
       3p: contaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I counted}
       1s: conté
@@ -45,7 +45,7 @@ contar:
       3s: contó
       3p: contaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would count}
       1s: contaría
@@ -55,7 +55,7 @@ contar:
       3s: contaría
       3p: contarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have counted}
       1s: he contado
@@ -65,7 +65,7 @@ contar:
       3s: ha contado
       3p: han contado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have counted}
       1s: habré contado
@@ -75,7 +75,7 @@ contar:
       3s: habrá contado
       3p: habrán contado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had counted}
       1s: había contado
@@ -85,7 +85,7 @@ contar:
       3s: había contado
       3p: habían contado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had counted}
       1s: hube contado
@@ -95,7 +95,7 @@ contar:
       3s: hubo contado
       3p: hubieron contado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have counted}
       1s: habría contado
@@ -105,7 +105,7 @@ contar:
       3s: habría contado
       3p: habrían contado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I count, am counting'}
       1s: cuente
@@ -115,7 +115,7 @@ contar:
       3s: cuente
       3p: cuenten
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I counted, was counting'}
       1s: contara
@@ -125,7 +125,7 @@ contar:
       3s: contara
       3p: contaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will count}
       1s: contare
@@ -135,7 +135,7 @@ contar:
       3s: contare
       3p: contaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have counted, counted'}
       1s: haya contado
@@ -145,7 +145,7 @@ contar:
       3s: haya contado
       3p: hayan contado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have counted}
       1s: hubiere contado
@@ -155,7 +155,7 @@ contar:
       3s: hubiere contado
       3p: hubieren contado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had counted}
       1s: hubiera contado
@@ -165,7 +165,7 @@ contar:
       3s: hubiera contado
       3p: hubieran contado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Count! Don't count!}
       1s: ''
@@ -175,7 +175,7 @@ contar:
       3s: contad
       3p: cuenten
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Count! Don't count!}
       1s: ''

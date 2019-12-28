@@ -5,7 +5,7 @@ amanecer:
   definitions: {en: to dawn}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I dawn, am dawning'}
       1s: amanezco
@@ -15,7 +15,7 @@ amanecer:
       3s: amanece
       3p: amanecen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will dawn}
       1s: amaneceré
@@ -25,7 +25,7 @@ amanecer:
       3s: amanecerá
       3p: amanecerán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was dawning, used to dawn, dawned'}
       1s: amanecía
@@ -35,7 +35,7 @@ amanecer:
       3s: amanecía
       3p: amanecían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I dawned}
       1s: amanecí
@@ -45,7 +45,7 @@ amanecer:
       3s: amaneció
       3p: amanecieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would dawn}
       1s: amanecería
@@ -55,7 +55,7 @@ amanecer:
       3s: amanecería
       3p: amanecerían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have dawned}
       1s: he amanecido
@@ -65,7 +65,7 @@ amanecer:
       3s: ha amanecido
       3p: han amanecido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have dawned}
       1s: habré amanecido
@@ -75,7 +75,7 @@ amanecer:
       3s: habrá amanecido
       3p: habrán amanecido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had dawned}
       1s: había amanecido
@@ -85,7 +85,7 @@ amanecer:
       3s: había amanecido
       3p: habían amanecido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had dawned}
       1s: hube amanecido
@@ -95,7 +95,7 @@ amanecer:
       3s: hubo amanecido
       3p: hubieron amanecido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have dawned}
       1s: habría amanecido
@@ -105,7 +105,7 @@ amanecer:
       3s: habría amanecido
       3p: habrían amanecido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I dawn, am dawning'}
       1s: amanezca
@@ -115,7 +115,7 @@ amanecer:
       3s: amanezca
       3p: amanezcan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I dawned, was dawning'}
       1s: amaneciera
@@ -125,7 +125,7 @@ amanecer:
       3s: amaneciera
       3p: amanecieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will dawn}
       1s: amaneciere
@@ -135,7 +135,7 @@ amanecer:
       3s: amaneciere
       3p: amanecieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have dawned, dawned'}
       1s: haya amanecido
@@ -145,7 +145,7 @@ amanecer:
       3s: haya amanecido
       3p: hayan amanecido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have dawned}
       1s: hubiere amanecido
@@ -155,7 +155,7 @@ amanecer:
       3s: hubiere amanecido
       3p: hubieren amanecido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had dawned}
       1s: hubiera amanecido
@@ -165,7 +165,7 @@ amanecer:
       3s: hubiera amanecido
       3p: hubieran amanecido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Dawn! Don't dawn!}
       1s: ''
@@ -175,7 +175,7 @@ amanecer:
       3s: amaneced
       3p: amanezcan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Dawn! Don't dawn!}
       1s: ''

@@ -5,7 +5,7 @@ aguantar:
   definitions: {en: 'to put up with, endure, bear, stand'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I put up with, am putting up with'}
       1s: aguanto
@@ -15,7 +15,7 @@ aguantar:
       3s: aguanta
       3p: aguantan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will put up with}
       1s: aguantaré
@@ -25,7 +25,7 @@ aguantar:
       3s: aguantará
       3p: aguantarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was putting up with, used to put up with, put up with'}
       1s: aguantaba
@@ -35,7 +35,7 @@ aguantar:
       3s: aguantaba
       3p: aguantaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I put up with}
       1s: aguanté
@@ -45,7 +45,7 @@ aguantar:
       3s: aguantó
       3p: aguantaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would put up with}
       1s: aguantaría
@@ -55,7 +55,7 @@ aguantar:
       3s: aguantaría
       3p: aguantarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have put up with}
       1s: he aguantado
@@ -65,7 +65,7 @@ aguantar:
       3s: ha aguantado
       3p: han aguantado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have put up with}
       1s: habré aguantado
@@ -75,7 +75,7 @@ aguantar:
       3s: habrá aguantado
       3p: habrán aguantado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had put up with}
       1s: había aguantado
@@ -85,7 +85,7 @@ aguantar:
       3s: había aguantado
       3p: habían aguantado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had put up with}
       1s: hube aguantado
@@ -95,7 +95,7 @@ aguantar:
       3s: hubo aguantado
       3p: hubieron aguantado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have put up with}
       1s: habría aguantado
@@ -105,7 +105,7 @@ aguantar:
       3s: habría aguantado
       3p: habrían aguantado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I put up with, am putting up with'}
       1s: aguante
@@ -115,7 +115,7 @@ aguantar:
       3s: aguante
       3p: aguanten
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I put up with, was putting up with'}
       1s: aguantara
@@ -125,7 +125,7 @@ aguantar:
       3s: aguantara
       3p: aguantaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will put up with}
       1s: aguantare
@@ -135,7 +135,7 @@ aguantar:
       3s: aguantare
       3p: aguantaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have put up with, put up with'}
       1s: haya aguantado
@@ -145,7 +145,7 @@ aguantar:
       3s: haya aguantado
       3p: hayan aguantado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have put up with}
       1s: hubiere aguantado
@@ -155,7 +155,7 @@ aguantar:
       3s: hubiere aguantado
       3p: hubieren aguantado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had put up with}
       1s: hubiera aguantado
@@ -165,7 +165,7 @@ aguantar:
       3s: hubiera aguantado
       3p: hubieran aguantado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Put up with! Don't put up with!}
       1s: ''
@@ -175,7 +175,7 @@ aguantar:
       3s: aguantad
       3p: aguanten
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Put up with! Don't put up with!}
       1s: ''

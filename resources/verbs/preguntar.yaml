@@ -5,7 +5,7 @@ preguntar:
   definitions: {en: 'to ask, inquire'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I ask, am asking'}
       1s: pregunto
@@ -15,7 +15,7 @@ preguntar:
       3s: pregunta
       3p: preguntan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will ask}
       1s: preguntaré
@@ -25,7 +25,7 @@ preguntar:
       3s: preguntará
       3p: preguntarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was asking, used to ask, asked'}
       1s: preguntaba
@@ -35,7 +35,7 @@ preguntar:
       3s: preguntaba
       3p: preguntaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I asked}
       1s: pregunté
@@ -45,7 +45,7 @@ preguntar:
       3s: preguntó
       3p: preguntaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would ask}
       1s: preguntaría
@@ -55,7 +55,7 @@ preguntar:
       3s: preguntaría
       3p: preguntarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have asked}
       1s: he preguntado
@@ -65,7 +65,7 @@ preguntar:
       3s: ha preguntado
       3p: han preguntado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have asked}
       1s: habré preguntado
@@ -75,7 +75,7 @@ preguntar:
       3s: habrá preguntado
       3p: habrán preguntado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had asked}
       1s: había preguntado
@@ -85,7 +85,7 @@ preguntar:
       3s: había preguntado
       3p: habían preguntado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had asked}
       1s: hube preguntado
@@ -95,7 +95,7 @@ preguntar:
       3s: hubo preguntado
       3p: hubieron preguntado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have asked}
       1s: habría preguntado
@@ -105,7 +105,7 @@ preguntar:
       3s: habría preguntado
       3p: habrían preguntado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I ask, am asking'}
       1s: pregunte
@@ -115,7 +115,7 @@ preguntar:
       3s: pregunte
       3p: pregunten
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I asked, was asking'}
       1s: preguntara
@@ -125,7 +125,7 @@ preguntar:
       3s: preguntara
       3p: preguntaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will ask}
       1s: preguntare
@@ -135,7 +135,7 @@ preguntar:
       3s: preguntare
       3p: preguntaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have asked, asked'}
       1s: haya preguntado
@@ -145,7 +145,7 @@ preguntar:
       3s: haya preguntado
       3p: hayan preguntado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have asked}
       1s: hubiere preguntado
@@ -155,7 +155,7 @@ preguntar:
       3s: hubiere preguntado
       3p: hubieren preguntado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had asked}
       1s: hubiera preguntado
@@ -165,7 +165,7 @@ preguntar:
       3s: hubiera preguntado
       3p: hubieran preguntado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Ask! Don't ask!}
       1s: ''
@@ -175,7 +175,7 @@ preguntar:
       3s: preguntad
       3p: pregunten
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Ask! Don't ask!}
       1s: ''

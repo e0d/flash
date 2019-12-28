@@ -5,7 +5,7 @@ vaciar:
   definitions: {en: to empty}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I empty, am emptying'}
       1s: vacío
@@ -15,7 +15,7 @@ vaciar:
       3s: vacía
       3p: vacían
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will empty}
       1s: vaciaré
@@ -25,7 +25,7 @@ vaciar:
       3s: vaciará
       3p: vaciarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was emptying, used to empty, emptied'}
       1s: vaciaba
@@ -35,7 +35,7 @@ vaciar:
       3s: vaciaba
       3p: vaciaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I emptied}
       1s: vacié
@@ -45,7 +45,7 @@ vaciar:
       3s: vació
       3p: vaciaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would empty}
       1s: vaciaría
@@ -55,7 +55,7 @@ vaciar:
       3s: vaciaría
       3p: vaciarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have emptied}
       1s: he vaciado
@@ -65,7 +65,7 @@ vaciar:
       3s: ha vaciado
       3p: han vaciado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have emptied}
       1s: habré vaciado
@@ -75,7 +75,7 @@ vaciar:
       3s: habrá vaciado
       3p: habrán vaciado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had emptied}
       1s: había vaciado
@@ -85,7 +85,7 @@ vaciar:
       3s: había vaciado
       3p: habían vaciado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had emptied}
       1s: hube vaciado
@@ -95,7 +95,7 @@ vaciar:
       3s: hubo vaciado
       3p: hubieron vaciado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have emptied}
       1s: habría vaciado
@@ -105,7 +105,7 @@ vaciar:
       3s: habría vaciado
       3p: habrían vaciado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I empty, am emptying'}
       1s: vacíe
@@ -115,7 +115,7 @@ vaciar:
       3s: vacíe
       3p: vacíen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I emptied, was emptying'}
       1s: vaciara
@@ -125,7 +125,7 @@ vaciar:
       3s: vaciara
       3p: vaciaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will empty}
       1s: vaciare
@@ -135,7 +135,7 @@ vaciar:
       3s: vaciare
       3p: vaciaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have emptied, emptied'}
       1s: haya vaciado
@@ -145,7 +145,7 @@ vaciar:
       3s: haya vaciado
       3p: hayan vaciado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have emptied}
       1s: hubiere vaciado
@@ -155,7 +155,7 @@ vaciar:
       3s: hubiere vaciado
       3p: hubieren vaciado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had emptied}
       1s: hubiera vaciado
@@ -165,7 +165,7 @@ vaciar:
       3s: hubiera vaciado
       3p: hubieran vaciado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Empty! Don't empty!}
       1s: ''
@@ -175,7 +175,7 @@ vaciar:
       3s: vaciad
       3p: vacíen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Empty! Don't empty!}
       1s: ''

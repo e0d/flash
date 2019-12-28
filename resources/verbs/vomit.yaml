@@ -5,7 +5,7 @@ vomit:
   definitions: {en: 'to vomit, throw up, bring up'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I vomit, am vomiting'}
       1s: vomito
@@ -15,7 +15,7 @@ vomit:
       3s: vomita
       3p: vomitan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will vomit}
       1s: vomitaré
@@ -25,7 +25,7 @@ vomit:
       3s: vomitará
       3p: vomitarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was vomiting, used to vomit, vomited'}
       1s: vomitaba
@@ -35,7 +35,7 @@ vomit:
       3s: vomitaba
       3p: vomitaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I vomited}
       1s: vomité
@@ -45,7 +45,7 @@ vomit:
       3s: vomitó
       3p: vomitaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would vomit}
       1s: vomitaría
@@ -55,7 +55,7 @@ vomit:
       3s: vomitaría
       3p: vomitarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have vomited}
       1s: he vomitado
@@ -65,7 +65,7 @@ vomit:
       3s: ha vomitado
       3p: han vomitado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have vomited}
       1s: habré vomitado
@@ -75,7 +75,7 @@ vomit:
       3s: habrá vomitado
       3p: habrán vomitado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had vomited}
       1s: había vomitado
@@ -85,7 +85,7 @@ vomit:
       3s: había vomitado
       3p: habían vomitado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had vomited}
       1s: hube vomitado
@@ -95,7 +95,7 @@ vomit:
       3s: hubo vomitado
       3p: hubieron vomitado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have vomited}
       1s: habría vomitado
@@ -105,7 +105,7 @@ vomit:
       3s: habría vomitado
       3p: habrían vomitado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I vomit, am vomiting'}
       1s: vomite
@@ -115,7 +115,7 @@ vomit:
       3s: vomite
       3p: vomiten
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I vomited, was vomiting'}
       1s: vomitara
@@ -125,7 +125,7 @@ vomit:
       3s: vomitara
       3p: vomitaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will vomit}
       1s: vomitare
@@ -135,7 +135,7 @@ vomit:
       3s: vomitare
       3p: vomitaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have vomited, vomited'}
       1s: haya vomitado
@@ -145,7 +145,7 @@ vomit:
       3s: haya vomitado
       3p: hayan vomitado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have vomited}
       1s: hubiere vomitado
@@ -155,7 +155,7 @@ vomit:
       3s: hubiere vomitado
       3p: hubieren vomitado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had vomited}
       1s: hubiera vomitado
@@ -165,7 +165,7 @@ vomit:
       3s: hubiera vomitado
       3p: hubieran vomitado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Vomit! Don't vomit!}
       1s: ''
@@ -175,7 +175,7 @@ vomit:
       3s: vomitad
       3p: vomiten
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Vomit! Don't vomit!}
       1s: ''

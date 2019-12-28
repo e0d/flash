@@ -5,7 +5,7 @@ averiguar:
   definitions: {en: 'to find out, discover'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I find out, am finding out'}
       1s: averiguo
@@ -15,7 +15,7 @@ averiguar:
       3s: averigua
       3p: averiguan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will find out}
       1s: averiguaré
@@ -25,7 +25,7 @@ averiguar:
       3s: averiguará
       3p: averiguarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was finding out, used to find out, found out'}
       1s: averiguaba
@@ -35,7 +35,7 @@ averiguar:
       3s: averiguaba
       3p: averiguaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I found out}
       1s: averigüé
@@ -45,7 +45,7 @@ averiguar:
       3s: averiguó
       3p: averiguaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would find out}
       1s: averiguaría
@@ -55,7 +55,7 @@ averiguar:
       3s: averiguaría
       3p: averiguarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have found out}
       1s: he averiguado
@@ -65,7 +65,7 @@ averiguar:
       3s: ha averiguado
       3p: han averiguado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have found out}
       1s: habré averiguado
@@ -75,7 +75,7 @@ averiguar:
       3s: habrá averiguado
       3p: habrán averiguado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had found out}
       1s: había averiguado
@@ -85,7 +85,7 @@ averiguar:
       3s: había averiguado
       3p: habían averiguado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had found out}
       1s: hube averiguado
@@ -95,7 +95,7 @@ averiguar:
       3s: hubo averiguado
       3p: hubieron averiguado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have found out}
       1s: habría averiguado
@@ -105,7 +105,7 @@ averiguar:
       3s: habría averiguado
       3p: habrían averiguado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I find out, am finding out'}
       1s: averigüe
@@ -115,7 +115,7 @@ averiguar:
       3s: averigüe
       3p: averigüen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I found out, was finding out'}
       1s: averiguara
@@ -125,7 +125,7 @@ averiguar:
       3s: averiguara
       3p: averiguaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will find out}
       1s: averiguare
@@ -135,7 +135,7 @@ averiguar:
       3s: averiguare
       3p: averiguaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have found out, found out'}
       1s: haya averiguado
@@ -145,7 +145,7 @@ averiguar:
       3s: haya averiguado
       3p: hayan averiguado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have found out}
       1s: hubiere averiguado
@@ -155,7 +155,7 @@ averiguar:
       3s: hubiere averiguado
       3p: hubieren averiguado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had found out}
       1s: hubiera averiguado
@@ -165,7 +165,7 @@ averiguar:
       3s: hubiera averiguado
       3p: hubieran averiguado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Find out! Don't find out!}
       1s: ''
@@ -175,7 +175,7 @@ averiguar:
       3s: averiguad
       3p: averigüen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Find out! Don't find out!}
       1s: ''

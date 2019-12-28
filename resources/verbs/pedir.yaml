@@ -5,7 +5,7 @@ pedir:
   definitions: {en: 'to request, ask for'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I request, am requesting'}
       1s: pido
@@ -15,7 +15,7 @@ pedir:
       3s: pide
       3p: piden
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will request}
       1s: pediré
@@ -25,7 +25,7 @@ pedir:
       3s: pedirá
       3p: pedirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was requesting, used to request, requested'}
       1s: pedía
@@ -35,7 +35,7 @@ pedir:
       3s: pedía
       3p: pedían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I requested}
       1s: pedí
@@ -45,7 +45,7 @@ pedir:
       3s: pidió
       3p: pidieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would request}
       1s: pediría
@@ -55,7 +55,7 @@ pedir:
       3s: pediría
       3p: pedirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have requested}
       1s: he pedido
@@ -65,7 +65,7 @@ pedir:
       3s: ha pedido
       3p: han pedido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have requested}
       1s: habré pedido
@@ -75,7 +75,7 @@ pedir:
       3s: habrá pedido
       3p: habrán pedido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had requested}
       1s: había pedido
@@ -85,7 +85,7 @@ pedir:
       3s: había pedido
       3p: habían pedido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had requested}
       1s: hube pedido
@@ -95,7 +95,7 @@ pedir:
       3s: hubo pedido
       3p: hubieron pedido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have requested}
       1s: habría pedido
@@ -105,7 +105,7 @@ pedir:
       3s: habría pedido
       3p: habrían pedido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I request, am requesting'}
       1s: pida
@@ -115,7 +115,7 @@ pedir:
       3s: pida
       3p: pidan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I requested, was requesting'}
       1s: pidiera
@@ -125,7 +125,7 @@ pedir:
       3s: pidiera
       3p: pidieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will request}
       1s: pidiere
@@ -135,7 +135,7 @@ pedir:
       3s: pidiere
       3p: pidieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have requested, requested'}
       1s: haya pedido
@@ -145,7 +145,7 @@ pedir:
       3s: haya pedido
       3p: hayan pedido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have requested}
       1s: hubiere pedido
@@ -155,7 +155,7 @@ pedir:
       3s: hubiere pedido
       3p: hubieren pedido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had requested}
       1s: hubiera pedido
@@ -165,7 +165,7 @@ pedir:
       3s: hubiera pedido
       3p: hubieran pedido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Request! Don't request!}
       1s: ''
@@ -175,7 +175,7 @@ pedir:
       3s: pedid
       3p: pidan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Request! Don't request!}
       1s: ''

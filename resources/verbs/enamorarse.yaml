@@ -5,7 +5,7 @@ enamorarse:
   definitions: {en: to fall in love}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I fall in love, am falling in love'}
       1s: me enamoro
@@ -15,7 +15,7 @@ enamorarse:
       3s: se enamora
       3p: se enamoran
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will fall in love}
       1s: me enamoraré
@@ -25,7 +25,7 @@ enamorarse:
       3s: se enamorará
       3p: se enamorarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was falling in love, used to fall in love, fell in love'}
       1s: me enamoraba
@@ -35,7 +35,7 @@ enamorarse:
       3s: se enamoraba
       3p: se enamoraban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I fell in love}
       1s: me enamoré
@@ -45,7 +45,7 @@ enamorarse:
       3s: se enamoró
       3p: se enamoraron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would fall in love}
       1s: me enamoraría
@@ -55,7 +55,7 @@ enamorarse:
       3s: se enamoraría
       3p: se enamorarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have fallen in love}
       1s: me he enamorado
@@ -65,7 +65,7 @@ enamorarse:
       3s: se ha enamorado
       3p: se han enamorado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have fallen in love}
       1s: me habré enamorado
@@ -75,7 +75,7 @@ enamorarse:
       3s: se habrá enamorado
       3p: se habrán enamorado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had fallen in love}
       1s: me había enamorado
@@ -85,7 +85,7 @@ enamorarse:
       3s: se había enamorado
       3p: se habían enamorado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had fallen in love}
       1s: me hube enamorado
@@ -95,7 +95,7 @@ enamorarse:
       3s: se hubo enamorado
       3p: se hubieron enamorado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have fallen in love}
       1s: me habría enamorado
@@ -105,7 +105,7 @@ enamorarse:
       3s: se habría enamorado
       3p: se habrían enamorado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I fall in love, am falling in love'}
       1s: me enamore
@@ -115,7 +115,7 @@ enamorarse:
       3s: se enamore
       3p: se enamoren
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I fell in love, was falling in love'}
       1s: me enamorara
@@ -125,7 +125,7 @@ enamorarse:
       3s: se enamorara
       3p: se enamoraran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will fall in love}
       1s: me enamorare
@@ -135,7 +135,7 @@ enamorarse:
       3s: se enamorare
       3p: se enamoraren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have fallen in love, fell in love'}
       1s: me haya enamorado
@@ -145,7 +145,7 @@ enamorarse:
       3s: se haya enamorado
       3p: se hayan enamorado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have fallen in love}
       1s: me hubiere enamorado
@@ -155,7 +155,7 @@ enamorarse:
       3s: se hubiere enamorado
       3p: se hubieren enamorado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had fallen in love}
       1s: me hubiera enamorado
@@ -165,7 +165,7 @@ enamorarse:
       3s: se hubiera enamorado
       3p: se hubieran enamorado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Fall in love! Don't fall in love!}
       1s: ''
@@ -175,7 +175,7 @@ enamorarse:
       3s: enamoraos
       3p: enamórense
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Fall in love! Don't fall in love!}
       1s: ''

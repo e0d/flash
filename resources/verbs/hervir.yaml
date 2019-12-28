@@ -5,7 +5,7 @@ hervir:
   definitions: {en: 'to boil, entertain'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I boil, am boiling'}
       1s: hiervo
@@ -15,7 +15,7 @@ hervir:
       3s: hierve
       3p: hierven
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will boil}
       1s: herviré
@@ -25,7 +25,7 @@ hervir:
       3s: hervirá
       3p: hervirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was boiling, used to boil, boiled'}
       1s: hervía
@@ -35,7 +35,7 @@ hervir:
       3s: hervía
       3p: hervían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I boiled}
       1s: herví
@@ -45,7 +45,7 @@ hervir:
       3s: hirvió
       3p: hirvieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would boil}
       1s: herviría
@@ -55,7 +55,7 @@ hervir:
       3s: herviría
       3p: hervirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have boiled}
       1s: he hervido
@@ -65,7 +65,7 @@ hervir:
       3s: ha hervido
       3p: han hervido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have boiled}
       1s: habré hervido
@@ -75,7 +75,7 @@ hervir:
       3s: habrá hervido
       3p: habrán hervido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had boiled}
       1s: había hervido
@@ -85,7 +85,7 @@ hervir:
       3s: había hervido
       3p: habían hervido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had boiled}
       1s: hube hervido
@@ -95,7 +95,7 @@ hervir:
       3s: hubo hervido
       3p: hubieron hervido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have boiled}
       1s: habría hervido
@@ -105,7 +105,7 @@ hervir:
       3s: habría hervido
       3p: habrían hervido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I boil, am boiling'}
       1s: hierva
@@ -115,7 +115,7 @@ hervir:
       3s: hierva
       3p: hiervan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I boiled, was boiling'}
       1s: hirviera
@@ -125,7 +125,7 @@ hervir:
       3s: hirviera
       3p: hirvieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will boil}
       1s: hirviere
@@ -135,7 +135,7 @@ hervir:
       3s: hirviere
       3p: hirvieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have boiled, boiled'}
       1s: haya hervido
@@ -145,7 +145,7 @@ hervir:
       3s: haya hervido
       3p: hayan hervido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have boiled}
       1s: hubiere hervido
@@ -155,7 +155,7 @@ hervir:
       3s: hubiere hervido
       3p: hubieren hervido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had boiled}
       1s: hubiera hervido
@@ -165,7 +165,7 @@ hervir:
       3s: hubiera hervido
       3p: hubieran hervido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Boil! Don't boil!}
       1s: ''
@@ -175,7 +175,7 @@ hervir:
       3s: hervid
       3p: hiervan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Boil! Don't boil!}
       1s: ''

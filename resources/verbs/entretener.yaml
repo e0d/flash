@@ -5,7 +5,7 @@ entretener:
   definitions: {en: 'to entertain, amuse'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I entertain, am entertaining'}
       1s: entretengo
@@ -15,7 +15,7 @@ entretener:
       3s: entretiene
       3p: entretienen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will entertain}
       1s: entretendré
@@ -25,7 +25,7 @@ entretener:
       3s: entretendrá
       3p: entretendrán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was entertaining, used to entertain, entertained'}
       1s: entretenía
@@ -35,7 +35,7 @@ entretener:
       3s: entretenía
       3p: entretenían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I entertained}
       1s: entretuve
@@ -45,7 +45,7 @@ entretener:
       3s: entretuvo
       3p: entretuvieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would entertain}
       1s: entretendría
@@ -55,7 +55,7 @@ entretener:
       3s: entretendría
       3p: entretendrían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have entertained}
       1s: he entretenido
@@ -65,7 +65,7 @@ entretener:
       3s: ha entretenido
       3p: han entretenido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have entertained}
       1s: habré entretenido
@@ -75,7 +75,7 @@ entretener:
       3s: habrá entretenido
       3p: habrán entretenido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had entertained}
       1s: había entretenido
@@ -85,7 +85,7 @@ entretener:
       3s: había entretenido
       3p: habían entretenido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had entertained}
       1s: hube entretenido
@@ -95,7 +95,7 @@ entretener:
       3s: hubo entretenido
       3p: hubieron entretenido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have entertained}
       1s: habría entretenido
@@ -105,7 +105,7 @@ entretener:
       3s: habría entretenido
       3p: habrían entretenido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I entertain, am entertaining'}
       1s: entretenga
@@ -115,7 +115,7 @@ entretener:
       3s: entretenga
       3p: entretengan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I entertained, was entertaining'}
       1s: entretuviera
@@ -125,7 +125,7 @@ entretener:
       3s: entretuviera
       3p: entretuvieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will entertain}
       1s: entretuviere
@@ -135,7 +135,7 @@ entretener:
       3s: entretuviere
       3p: entretuvieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have entertained, entertained'}
       1s: haya entretenido
@@ -145,7 +145,7 @@ entretener:
       3s: haya entretenido
       3p: hayan entretenido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have entertained}
       1s: hubiere entretenido
@@ -155,7 +155,7 @@ entretener:
       3s: hubiere entretenido
       3p: hubieren entretenido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had entertained}
       1s: hubiera entretenido
@@ -165,7 +165,7 @@ entretener:
       3s: hubiera entretenido
       3p: hubieran entretenido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Entertain! Don't entertain!}
       1s: ''
@@ -175,7 +175,7 @@ entretener:
       3s: entretened
       3p: entretengan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Entertain! Don't entertain!}
       1s: ''

@@ -5,7 +5,7 @@ tomar:
   definitions: {en: 'to take, drink'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I take, am taking'}
       1s: tomo
@@ -15,7 +15,7 @@ tomar:
       3s: toma
       3p: toman
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will take}
       1s: tomaré
@@ -25,7 +25,7 @@ tomar:
       3s: tomará
       3p: tomarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was taking, used to take, took'}
       1s: tomaba
@@ -35,7 +35,7 @@ tomar:
       3s: tomaba
       3p: tomaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I took}
       1s: tomé
@@ -45,7 +45,7 @@ tomar:
       3s: tomó
       3p: tomaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would take}
       1s: tomaría
@@ -55,7 +55,7 @@ tomar:
       3s: tomaría
       3p: tomarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have taken}
       1s: he tomado
@@ -65,7 +65,7 @@ tomar:
       3s: ha tomado
       3p: han tomado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have taken}
       1s: habré tomado
@@ -75,7 +75,7 @@ tomar:
       3s: habrá tomado
       3p: habrán tomado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had taken}
       1s: había tomado
@@ -85,7 +85,7 @@ tomar:
       3s: había tomado
       3p: habían tomado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had taken}
       1s: hube tomado
@@ -95,7 +95,7 @@ tomar:
       3s: hubo tomado
       3p: hubieron tomado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have taken}
       1s: habría tomado
@@ -105,7 +105,7 @@ tomar:
       3s: habría tomado
       3p: habrían tomado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I take, am taking'}
       1s: tome
@@ -115,7 +115,7 @@ tomar:
       3s: tome
       3p: tomen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I took, was taking'}
       1s: tomara
@@ -125,7 +125,7 @@ tomar:
       3s: tomara
       3p: tomaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will take}
       1s: tomare
@@ -135,7 +135,7 @@ tomar:
       3s: tomare
       3p: tomaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have taken, took'}
       1s: haya tomado
@@ -145,7 +145,7 @@ tomar:
       3s: haya tomado
       3p: hayan tomado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have taken}
       1s: hubiere tomado
@@ -155,7 +155,7 @@ tomar:
       3s: hubiere tomado
       3p: hubieren tomado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had taken}
       1s: hubiera tomado
@@ -165,7 +165,7 @@ tomar:
       3s: hubiera tomado
       3p: hubieran tomado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Take! Don't take!}
       1s: ''
@@ -175,7 +175,7 @@ tomar:
       3s: tomad
       3p: tomen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Take! Don't take!}
       1s: ''

@@ -5,7 +5,7 @@ lograr:
   definitions: {en: 'to get, obtain; to achieve, attain'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I get, am getting'}
       1s: logro
@@ -15,7 +15,7 @@ lograr:
       3s: logra
       3p: logran
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will get}
       1s: lograré
@@ -25,7 +25,7 @@ lograr:
       3s: logrará
       3p: lograrán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was getting, used to get, got'}
       1s: lograba
@@ -35,7 +35,7 @@ lograr:
       3s: lograba
       3p: lograban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I got}
       1s: logré
@@ -45,7 +45,7 @@ lograr:
       3s: logró
       3p: lograron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would get}
       1s: lograría
@@ -55,7 +55,7 @@ lograr:
       3s: lograría
       3p: lograrían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have got}
       1s: he logrado
@@ -65,7 +65,7 @@ lograr:
       3s: ha logrado
       3p: han logrado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have got}
       1s: habré logrado
@@ -75,7 +75,7 @@ lograr:
       3s: habrá logrado
       3p: habrán logrado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had got}
       1s: había logrado
@@ -85,7 +85,7 @@ lograr:
       3s: había logrado
       3p: habían logrado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had got}
       1s: hube logrado
@@ -95,7 +95,7 @@ lograr:
       3s: hubo logrado
       3p: hubieron logrado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have got}
       1s: habría logrado
@@ -105,7 +105,7 @@ lograr:
       3s: habría logrado
       3p: habrían logrado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I get, am getting'}
       1s: logre
@@ -115,7 +115,7 @@ lograr:
       3s: logre
       3p: logren
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I got, was getting'}
       1s: lograra
@@ -125,7 +125,7 @@ lograr:
       3s: lograra
       3p: lograran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will get}
       1s: lograre
@@ -135,7 +135,7 @@ lograr:
       3s: lograre
       3p: lograren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have got, got'}
       1s: haya logrado
@@ -145,7 +145,7 @@ lograr:
       3s: haya logrado
       3p: hayan logrado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have got}
       1s: hubiere logrado
@@ -155,7 +155,7 @@ lograr:
       3s: hubiere logrado
       3p: hubieren logrado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had got}
       1s: hubiera logrado
@@ -165,7 +165,7 @@ lograr:
       3s: hubiera logrado
       3p: hubieran logrado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Get! Don't get!}
       1s: ''
@@ -175,7 +175,7 @@ lograr:
       3s: lograd
       3p: logren
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Get! Don't get!}
       1s: ''

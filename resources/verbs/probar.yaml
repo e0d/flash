@@ -5,7 +5,7 @@ probar:
   definitions: {en: 'to taste, try, test'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I taste, am tasting'}
       1s: pruebo
@@ -15,7 +15,7 @@ probar:
       3s: prueba
       3p: prueban
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will taste}
       1s: probaré
@@ -25,7 +25,7 @@ probar:
       3s: probará
       3p: probarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was tasting, used to taste, tasted'}
       1s: probaba
@@ -35,7 +35,7 @@ probar:
       3s: probaba
       3p: probaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I tasted}
       1s: probé
@@ -45,7 +45,7 @@ probar:
       3s: probó
       3p: probaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would taste}
       1s: probaría
@@ -55,7 +55,7 @@ probar:
       3s: probaría
       3p: probarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have tasted}
       1s: he probado
@@ -65,7 +65,7 @@ probar:
       3s: ha probado
       3p: han probado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have tasted}
       1s: habré probado
@@ -75,7 +75,7 @@ probar:
       3s: habrá probado
       3p: habrán probado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had tasted}
       1s: había probado
@@ -85,7 +85,7 @@ probar:
       3s: había probado
       3p: habían probado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had tasted}
       1s: hube probado
@@ -95,7 +95,7 @@ probar:
       3s: hubo probado
       3p: hubieron probado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have tasted}
       1s: habría probado
@@ -105,7 +105,7 @@ probar:
       3s: habría probado
       3p: habrían probado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I taste, am tasting'}
       1s: pruebe
@@ -115,7 +115,7 @@ probar:
       3s: pruebe
       3p: prueben
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I tasted, was tasting'}
       1s: probara
@@ -125,7 +125,7 @@ probar:
       3s: probara
       3p: probaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will taste}
       1s: probare
@@ -135,7 +135,7 @@ probar:
       3s: probare
       3p: probaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have tasted, tasted'}
       1s: haya probado
@@ -145,7 +145,7 @@ probar:
       3s: haya probado
       3p: hayan probado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have tasted}
       1s: hubiere probado
@@ -155,7 +155,7 @@ probar:
       3s: hubiere probado
       3p: hubieren probado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had tasted}
       1s: hubiera probado
@@ -165,7 +165,7 @@ probar:
       3s: hubiera probado
       3p: hubieran probado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Taste! Don't taste!}
       1s: ''
@@ -175,7 +175,7 @@ probar:
       3s: probad
       3p: prueben
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Taste! Don't taste!}
       1s: ''

@@ -5,7 +5,7 @@ fortalecer:
   definitions: {en: 'to fortify, strenthen'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I fortify}
       1s: fortalezco
@@ -15,7 +15,7 @@ fortalecer:
       3s: fortalece
       3p: fortalecen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will fortify}
       1s: fortaleceré
@@ -25,7 +25,7 @@ fortalecer:
       3s: fortalecerá
       3p: fortalecerán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I used to fortify, fortified'}
       1s: fortalecía
@@ -35,7 +35,7 @@ fortalecer:
       3s: fortalecía
       3p: fortalecían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I fortified}
       1s: fortalecí
@@ -45,7 +45,7 @@ fortalecer:
       3s: fortaleció
       3p: fortalecieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would fortify}
       1s: fortalecería
@@ -55,7 +55,7 @@ fortalecer:
       3s: fortalecería
       3p: fortalecerían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have fortified}
       1s: he fortalecido
@@ -65,7 +65,7 @@ fortalecer:
       3s: ha fortalecido
       3p: han fortalecido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have fortified}
       1s: habré fortalecido
@@ -75,7 +75,7 @@ fortalecer:
       3s: habrá fortalecido
       3p: habrán fortalecido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had fortified}
       1s: había fortalecido
@@ -85,7 +85,7 @@ fortalecer:
       3s: había fortalecido
       3p: habían fortalecido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had fortified}
       1s: hube fortalecido
@@ -95,7 +95,7 @@ fortalecer:
       3s: hubo fortalecido
       3p: hubieron fortalecido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have fortified}
       1s: habría fortalecido
@@ -105,7 +105,7 @@ fortalecer:
       3s: habría fortalecido
       3p: habrían fortalecido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I fortify}
       1s: fortalezca
@@ -115,7 +115,7 @@ fortalecer:
       3s: fortalezca
       3p: fortalezcan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I fortified, was fortifying'}
       1s: fortaleciera
@@ -125,7 +125,7 @@ fortalecer:
       3s: fortaleciera
       3p: fortalecieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will fortify}
       1s: fortaleciere
@@ -135,7 +135,7 @@ fortalecer:
       3s: fortaleciere
       3p: fortalecieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have fortified, fortified'}
       1s: haya fortalecido
@@ -145,7 +145,7 @@ fortalecer:
       3s: haya fortalecido
       3p: hayan fortalecido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have fortified}
       1s: hubiere fortalecido
@@ -155,7 +155,7 @@ fortalecer:
       3s: hubiere fortalecido
       3p: hubieren fortalecido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had fortified}
       1s: hubiera fortalecido
@@ -165,7 +165,7 @@ fortalecer:
       3s: hubiera fortalecido
       3p: hubieran fortalecido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Fortify! Don't fortify!}
       1s: ''
@@ -175,7 +175,7 @@ fortalecer:
       3s: fortaleced
       3p: fortalezcan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Fortify! Don't fortify!}
       1s: ''

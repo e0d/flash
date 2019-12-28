@@ -5,7 +5,7 @@ atacar:
   definitions: {en: to attack}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I attack, am attacking'}
       1s: ataco
@@ -15,7 +15,7 @@ atacar:
       3s: ataca
       3p: atacan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will attack}
       1s: atacaré
@@ -25,7 +25,7 @@ atacar:
       3s: atacará
       3p: atacarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was attacking, used to attack, attacked'}
       1s: atacaba
@@ -35,7 +35,7 @@ atacar:
       3s: atacaba
       3p: atacaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I attacked}
       1s: ataqué
@@ -45,7 +45,7 @@ atacar:
       3s: atacó
       3p: atacaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would attack}
       1s: atacaría
@@ -55,7 +55,7 @@ atacar:
       3s: atacaría
       3p: atacarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have attacked}
       1s: he atacado
@@ -65,7 +65,7 @@ atacar:
       3s: ha atacado
       3p: han atacado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have attacked}
       1s: habré atacado
@@ -75,7 +75,7 @@ atacar:
       3s: habrá atacado
       3p: habrán atacado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had attacked}
       1s: había atacado
@@ -85,7 +85,7 @@ atacar:
       3s: había atacado
       3p: habían atacado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had attacked}
       1s: hube atacado
@@ -95,7 +95,7 @@ atacar:
       3s: hubo atacado
       3p: hubieron atacado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have attacked}
       1s: habría atacado
@@ -105,7 +105,7 @@ atacar:
       3s: habría atacado
       3p: habrían atacado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I attack, am attacking'}
       1s: ataque
@@ -115,7 +115,7 @@ atacar:
       3s: ataque
       3p: ataquen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I attacked, was attacking'}
       1s: atacara
@@ -125,7 +125,7 @@ atacar:
       3s: atacara
       3p: atacaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will attack}
       1s: atacare
@@ -135,7 +135,7 @@ atacar:
       3s: atacare
       3p: atacaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have attacked, attacked'}
       1s: haya atacado
@@ -145,7 +145,7 @@ atacar:
       3s: haya atacado
       3p: hayan atacado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have attacked}
       1s: hubiere atacado
@@ -155,7 +155,7 @@ atacar:
       3s: hubiere atacado
       3p: hubieren atacado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had attacked}
       1s: hubiera atacado
@@ -165,7 +165,7 @@ atacar:
       3s: hubiera atacado
       3p: hubieran atacado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Attack! Don't attack!}
       1s: ''
@@ -175,7 +175,7 @@ atacar:
       3s: atacad
       3p: ataquen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Attack! Don't attack!}
       1s: ''

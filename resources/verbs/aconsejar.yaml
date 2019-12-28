@@ -5,7 +5,7 @@ aconsejar:
   definitions: {en: to advise}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I advise, am advising'}
       1s: aconsejo
@@ -15,7 +15,7 @@ aconsejar:
       3s: aconseja
       3p: aconsejan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will advise}
       1s: aconsejaré
@@ -25,7 +25,7 @@ aconsejar:
       3s: aconsejará
       3p: aconsejarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was advising, used to advise, advised'}
       1s: aconsejaba
@@ -35,7 +35,7 @@ aconsejar:
       3s: aconsejaba
       3p: aconsejaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I advised}
       1s: aconsejé
@@ -45,7 +45,7 @@ aconsejar:
       3s: aconsejó
       3p: aconsejaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would advise}
       1s: aconsejaría
@@ -55,7 +55,7 @@ aconsejar:
       3s: aconsejaría
       3p: aconsejarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have advisedn}
       1s: he aconsejado
@@ -65,7 +65,7 @@ aconsejar:
       3s: ha aconsejado
       3p: han aconsejado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have advisedn}
       1s: habré aconsejado
@@ -75,7 +75,7 @@ aconsejar:
       3s: habrá aconsejado
       3p: habrán aconsejado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had advisedn}
       1s: había aconsejado
@@ -85,7 +85,7 @@ aconsejar:
       3s: había aconsejado
       3p: habían aconsejado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had advisedn}
       1s: hube aconsejado
@@ -95,7 +95,7 @@ aconsejar:
       3s: hubo aconsejado
       3p: hubieron aconsejado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have advisedn}
       1s: habría aconsejado
@@ -105,7 +105,7 @@ aconsejar:
       3s: habría aconsejado
       3p: habrían aconsejado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I advise, am advising'}
       1s: aconseje
@@ -115,7 +115,7 @@ aconsejar:
       3s: aconseje
       3p: aconsejen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I advised, was advising'}
       1s: aconsejara
@@ -125,7 +125,7 @@ aconsejar:
       3s: aconsejara
       3p: aconsejaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will advise}
       1s: aconsejare
@@ -135,7 +135,7 @@ aconsejar:
       3s: aconsejare
       3p: aconsejaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have advisedn, advised'}
       1s: haya aconsejado
@@ -145,7 +145,7 @@ aconsejar:
       3s: haya aconsejado
       3p: hayan aconsejado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have advisedn}
       1s: hubiere aconsejado
@@ -155,7 +155,7 @@ aconsejar:
       3s: hubiere aconsejado
       3p: hubieren aconsejado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had advisedn}
       1s: hubiera aconsejado
@@ -165,7 +165,7 @@ aconsejar:
       3s: hubiera aconsejado
       3p: hubieran aconsejado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Advise! Don't advise!}
       1s: ''
@@ -175,7 +175,7 @@ aconsejar:
       3s: aconsejad
       3p: aconsejen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Advise! Don't advise!}
       1s: ''

@@ -5,7 +5,7 @@ mandar:
   definitions: {en: to order}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I order, am ordering'}
       1s: mando
@@ -15,7 +15,7 @@ mandar:
       3s: manda
       3p: mandan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will order}
       1s: mandaré
@@ -25,7 +25,7 @@ mandar:
       3s: mandará
       3p: mandarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was ordering, used to order, ordered'}
       1s: mandaba
@@ -35,7 +35,7 @@ mandar:
       3s: mandaba
       3p: mandaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I ordered}
       1s: mandé
@@ -45,7 +45,7 @@ mandar:
       3s: mandó
       3p: mandaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would order}
       1s: mandaría
@@ -55,7 +55,7 @@ mandar:
       3s: mandaría
       3p: mandarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have ordered}
       1s: he mandado
@@ -65,7 +65,7 @@ mandar:
       3s: ha mandado
       3p: han mandado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have ordered}
       1s: habré mandado
@@ -75,7 +75,7 @@ mandar:
       3s: habrá mandado
       3p: habrán mandado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had ordered}
       1s: había mandado
@@ -85,7 +85,7 @@ mandar:
       3s: había mandado
       3p: habían mandado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had ordered}
       1s: hube mandado
@@ -95,7 +95,7 @@ mandar:
       3s: hubo mandado
       3p: hubieron mandado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have ordered}
       1s: habría mandado
@@ -105,7 +105,7 @@ mandar:
       3s: habría mandado
       3p: habrían mandado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I order, am ordering'}
       1s: mande
@@ -115,7 +115,7 @@ mandar:
       3s: mande
       3p: manden
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I ordered, was ordering'}
       1s: mandara
@@ -125,7 +125,7 @@ mandar:
       3s: mandara
       3p: mandaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will order}
       1s: mandare
@@ -135,7 +135,7 @@ mandar:
       3s: mandare
       3p: mandaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have ordered, ordered'}
       1s: haya mandado
@@ -145,7 +145,7 @@ mandar:
       3s: haya mandado
       3p: hayan mandado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have ordered}
       1s: hubiere mandado
@@ -155,7 +155,7 @@ mandar:
       3s: hubiere mandado
       3p: hubieren mandado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had ordered}
       1s: hubiera mandado
@@ -165,7 +165,7 @@ mandar:
       3s: hubiera mandado
       3p: hubieran mandado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Order! Don't order!}
       1s: ''
@@ -175,7 +175,7 @@ mandar:
       3s: mandad
       3p: manden
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Order! Don't order!}
       1s: ''

@@ -5,7 +5,7 @@ perseguir:
   definitions: {en: 'to pursue, chase, hunt down'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I pursue, am pursuing'}
       1s: persigo
@@ -15,7 +15,7 @@ perseguir:
       3s: persigue
       3p: persiguen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will pursue}
       1s: perseguiré
@@ -25,7 +25,7 @@ perseguir:
       3s: perseguirá
       3p: perseguirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was pursuing, used to pursue, pursued'}
       1s: perseguía
@@ -35,7 +35,7 @@ perseguir:
       3s: perseguía
       3p: perseguían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I pursued}
       1s: perseguí
@@ -45,7 +45,7 @@ perseguir:
       3s: persiguió
       3p: persiguieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would pursue}
       1s: perseguiría
@@ -55,7 +55,7 @@ perseguir:
       3s: perseguiría
       3p: perseguirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have pursued}
       1s: he perseguido
@@ -65,7 +65,7 @@ perseguir:
       3s: ha perseguido
       3p: han perseguido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have pursued}
       1s: habré perseguido
@@ -75,7 +75,7 @@ perseguir:
       3s: habrá perseguido
       3p: habrán perseguido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had pursued}
       1s: había perseguido
@@ -85,7 +85,7 @@ perseguir:
       3s: había perseguido
       3p: habían perseguido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had pursued}
       1s: hube perseguido
@@ -95,7 +95,7 @@ perseguir:
       3s: hubo perseguido
       3p: hubieron perseguido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have pursued}
       1s: habría perseguido
@@ -105,7 +105,7 @@ perseguir:
       3s: habría perseguido
       3p: habrían perseguido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I pursue, am pursuing'}
       1s: persiga
@@ -115,7 +115,7 @@ perseguir:
       3s: persiga
       3p: persigan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I pursued, was pursuing'}
       1s: persiguiera
@@ -125,7 +125,7 @@ perseguir:
       3s: persiguiera
       3p: persiguieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will pursue}
       1s: persiguiere
@@ -135,7 +135,7 @@ perseguir:
       3s: persiguiere
       3p: persiguieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have pursued, pursued'}
       1s: haya perseguido
@@ -145,7 +145,7 @@ perseguir:
       3s: haya perseguido
       3p: hayan perseguido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have pursued}
       1s: hubiere perseguido
@@ -155,7 +155,7 @@ perseguir:
       3s: hubiere perseguido
       3p: hubieren perseguido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had pursued}
       1s: hubiera perseguido
@@ -165,7 +165,7 @@ perseguir:
       3s: hubiera perseguido
       3p: hubieran perseguido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Pursue! Don't pursue!}
       1s: ''
@@ -175,7 +175,7 @@ perseguir:
       3s: perseguid
       3p: persigan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Pursue! Don't pursue!}
       1s: ''

@@ -5,7 +5,7 @@ perder:
   definitions: {en: to lose}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I lose, am losing'}
       1s: pierdo
@@ -15,7 +15,7 @@ perder:
       3s: pierde
       3p: pierden
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will lose}
       1s: perderé
@@ -25,7 +25,7 @@ perder:
       3s: perderá
       3p: perderán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was losing, used to lose, lost'}
       1s: perdía
@@ -35,7 +35,7 @@ perder:
       3s: perdía
       3p: perdían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I lost}
       1s: perdí
@@ -45,7 +45,7 @@ perder:
       3s: perdió
       3p: perdieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would lose}
       1s: perdería
@@ -55,7 +55,7 @@ perder:
       3s: perdería
       3p: perderían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have lost}
       1s: he perdido
@@ -65,7 +65,7 @@ perder:
       3s: ha perdido
       3p: han perdido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have lost}
       1s: habré perdido
@@ -75,7 +75,7 @@ perder:
       3s: habrá perdido
       3p: habrán perdido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had lost}
       1s: había perdido
@@ -85,7 +85,7 @@ perder:
       3s: había perdido
       3p: habían perdido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had lost}
       1s: hube perdido
@@ -95,7 +95,7 @@ perder:
       3s: hubo perdido
       3p: hubieron perdido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have lost}
       1s: habría perdido
@@ -105,7 +105,7 @@ perder:
       3s: habría perdido
       3p: habrían perdido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I lose, am losing'}
       1s: pierda
@@ -115,7 +115,7 @@ perder:
       3s: pierda
       3p: pierdan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I lost, was losing'}
       1s: perdiera
@@ -125,7 +125,7 @@ perder:
       3s: perdiera
       3p: perdieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will lose}
       1s: perdiere
@@ -135,7 +135,7 @@ perder:
       3s: perdiere
       3p: perdieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have lost, lost'}
       1s: haya perdido
@@ -145,7 +145,7 @@ perder:
       3s: haya perdido
       3p: hayan perdido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have lost}
       1s: hubiere perdido
@@ -155,7 +155,7 @@ perder:
       3s: hubiere perdido
       3p: hubieren perdido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had lost}
       1s: hubiera perdido
@@ -165,7 +165,7 @@ perder:
       3s: hubiera perdido
       3p: hubieran perdido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Lose! Don't lose!}
       1s: ''
@@ -175,7 +175,7 @@ perder:
       3s: perded
       3p: pierdan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Lose! Don't lose!}
       1s: ''

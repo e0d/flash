@@ -5,7 +5,7 @@ explorar:
   definitions: {en: to explore; to pioneer}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I explore, am exploring'}
       1s: exploro
@@ -15,7 +15,7 @@ explorar:
       3s: explora
       3p: exploran
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will explore}
       1s: exploraré
@@ -25,7 +25,7 @@ explorar:
       3s: explorará
       3p: explorarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was exploring, used to explore, explored'}
       1s: exploraba
@@ -35,7 +35,7 @@ explorar:
       3s: exploraba
       3p: exploraban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I explored}
       1s: exploré
@@ -45,7 +45,7 @@ explorar:
       3s: exploró
       3p: exploraron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would explore}
       1s: exploraría
@@ -55,7 +55,7 @@ explorar:
       3s: exploraría
       3p: explorarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have explored}
       1s: he explorado
@@ -65,7 +65,7 @@ explorar:
       3s: ha explorado
       3p: han explorado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have explored}
       1s: habré explorado
@@ -75,7 +75,7 @@ explorar:
       3s: habrá explorado
       3p: habrán explorado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had explored}
       1s: había explorado
@@ -85,7 +85,7 @@ explorar:
       3s: había explorado
       3p: habían explorado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had explored}
       1s: hube explorado
@@ -95,7 +95,7 @@ explorar:
       3s: hubo explorado
       3p: hubieron explorado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have explored}
       1s: habría explorado
@@ -105,7 +105,7 @@ explorar:
       3s: habría explorado
       3p: habrían explorado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I explore, am exploring'}
       1s: explore
@@ -115,7 +115,7 @@ explorar:
       3s: explore
       3p: exploren
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I explored, was exploring'}
       1s: explorara
@@ -125,7 +125,7 @@ explorar:
       3s: explorara
       3p: exploraran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will explore}
       1s: explorare
@@ -135,7 +135,7 @@ explorar:
       3s: explorare
       3p: exploraren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have explored, explored'}
       1s: haya explorado
@@ -145,7 +145,7 @@ explorar:
       3s: haya explorado
       3p: hayan explorado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have explored}
       1s: hubiere explorado
@@ -155,7 +155,7 @@ explorar:
       3s: hubiere explorado
       3p: hubieren explorado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had explored}
       1s: hubiera explorado
@@ -165,7 +165,7 @@ explorar:
       3s: hubiera explorado
       3p: hubieran explorado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Explore! Don't explore!}
       1s: ''
@@ -175,7 +175,7 @@ explorar:
       3s: explorad
       3p: exploren
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Explore! Don't explore!}
       1s: ''

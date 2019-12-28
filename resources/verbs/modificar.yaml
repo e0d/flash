@@ -5,7 +5,7 @@ modificar:
   definitions: {en: 'to modify, change'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I modify, am modifying'}
       1s: modifico
@@ -15,7 +15,7 @@ modificar:
       3s: modifica
       3p: modifican
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will modify}
       1s: modificaré
@@ -25,7 +25,7 @@ modificar:
       3s: modificará
       3p: modificarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was modifying, used to modify, modified'}
       1s: modificaba
@@ -35,7 +35,7 @@ modificar:
       3s: modificaba
       3p: modificaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I modified}
       1s: modifiqué
@@ -45,7 +45,7 @@ modificar:
       3s: modificó
       3p: modificaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would modify}
       1s: modificaría
@@ -55,7 +55,7 @@ modificar:
       3s: modificaría
       3p: modificarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have modified}
       1s: he modificado
@@ -65,7 +65,7 @@ modificar:
       3s: ha modificado
       3p: han modificado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have modified}
       1s: habré modificado
@@ -75,7 +75,7 @@ modificar:
       3s: habrá modificado
       3p: habrán modificado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had modified}
       1s: había modificado
@@ -85,7 +85,7 @@ modificar:
       3s: había modificado
       3p: habían modificado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had modified}
       1s: hube modificado
@@ -95,7 +95,7 @@ modificar:
       3s: hubo modificado
       3p: hubieron modificado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have modified}
       1s: habría modificado
@@ -105,7 +105,7 @@ modificar:
       3s: habría modificado
       3p: habrían modificado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I modify, am modifying'}
       1s: modifique
@@ -115,7 +115,7 @@ modificar:
       3s: modifique
       3p: modifiquen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I modified, was modifying'}
       1s: modificara
@@ -125,7 +125,7 @@ modificar:
       3s: modificara
       3p: modificaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will modify}
       1s: modificare
@@ -135,7 +135,7 @@ modificar:
       3s: modificare
       3p: modificaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have modified, modified'}
       1s: haya modificado
@@ -145,7 +145,7 @@ modificar:
       3s: haya modificado
       3p: hayan modificado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have modified}
       1s: hubiere modificado
@@ -155,7 +155,7 @@ modificar:
       3s: hubiere modificado
       3p: hubieren modificado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had modified}
       1s: hubiera modificado
@@ -165,7 +165,7 @@ modificar:
       3s: hubiera modificado
       3p: hubieran modificado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Modify! Don't modify!}
       1s: ''
@@ -175,7 +175,7 @@ modificar:
       3s: modificad
       3p: modifiquen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Modify! Don't modify!}
       1s: ''

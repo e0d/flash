@@ -5,7 +5,7 @@ esconderse:
   definitions: {en: 'to hide [oneself], be hidden'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I hide, am hiding'}
       1s: me escondo
@@ -15,7 +15,7 @@ esconderse:
       3s: se esconde
       3p: se esconden
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will hide}
       1s: me esconderé
@@ -25,7 +25,7 @@ esconderse:
       3s: se esconderá
       3p: se esconderán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was hiding, used to hide, hid'}
       1s: me escondía
@@ -35,7 +35,7 @@ esconderse:
       3s: se escondía
       3p: se escondían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I hid}
       1s: me escondí
@@ -45,7 +45,7 @@ esconderse:
       3s: se escondió
       3p: se escondieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would hide}
       1s: me escondería
@@ -55,7 +55,7 @@ esconderse:
       3s: se escondería
       3p: se esconderían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have hidden}
       1s: me he escondido
@@ -65,7 +65,7 @@ esconderse:
       3s: se ha escondido
       3p: se han escondido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have hidden}
       1s: me habré escondido
@@ -75,7 +75,7 @@ esconderse:
       3s: se habrá escondido
       3p: se habrán escondido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had hidden}
       1s: me había escondido
@@ -85,7 +85,7 @@ esconderse:
       3s: se había escondido
       3p: se habían escondido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had hidden}
       1s: me hube escondido
@@ -95,7 +95,7 @@ esconderse:
       3s: se hubo escondido
       3p: se hubieron escondido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have hidden}
       1s: me habría escondido
@@ -105,7 +105,7 @@ esconderse:
       3s: se habría escondido
       3p: se habrían escondido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I hide, am hiding'}
       1s: me esconda
@@ -115,7 +115,7 @@ esconderse:
       3s: se esconda
       3p: se escondan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I hid, was hiding'}
       1s: me escondiera
@@ -125,7 +125,7 @@ esconderse:
       3s: se escondiera
       3p: se escondieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will hide}
       1s: me escondiere
@@ -135,7 +135,7 @@ esconderse:
       3s: se escondiere
       3p: se escondieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have hidden, hid'}
       1s: me haya escondido
@@ -145,7 +145,7 @@ esconderse:
       3s: se haya escondido
       3p: se hayan escondido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have hidden}
       1s: me hubiere escondido
@@ -155,7 +155,7 @@ esconderse:
       3s: se hubiere escondido
       3p: se hubieren escondido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had hidden}
       1s: me hubiera escondido
@@ -165,7 +165,7 @@ esconderse:
       3s: se hubiera escondido
       3p: se hubieran escondido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Hide! Don't hide!}
       1s: ''
@@ -175,7 +175,7 @@ esconderse:
       3s: escondeos
       3p: escóndanse
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Hide! Don't hide!}
       1s: ''

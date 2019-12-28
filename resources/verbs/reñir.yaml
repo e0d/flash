@@ -5,7 +5,7 @@ reñir:
   definitions: {en: 'to quarrel, fight; to scold, tell off, reprimand'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I quarrel, am quarreling'}
       1s: riño
@@ -15,7 +15,7 @@ reñir:
       3s: riñe
       3p: riñen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will quarrel}
       1s: reñiré
@@ -25,7 +25,7 @@ reñir:
       3s: reñirá
       3p: reñirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was quarreling, used to quarrel, quarreled'}
       1s: reñía
@@ -35,7 +35,7 @@ reñir:
       3s: reñía
       3p: reñían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I quarreled}
       1s: reñí
@@ -45,7 +45,7 @@ reñir:
       3s: riñó
       3p: riñeron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would quarrel}
       1s: reñiría
@@ -55,7 +55,7 @@ reñir:
       3s: reñiría
       3p: reñirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have quarreled}
       1s: he reñido
@@ -65,7 +65,7 @@ reñir:
       3s: ha reñido
       3p: han reñido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have quarreled}
       1s: habré reñido
@@ -75,7 +75,7 @@ reñir:
       3s: habrá reñido
       3p: habrán reñido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had quarreled}
       1s: había reñido
@@ -85,7 +85,7 @@ reñir:
       3s: había reñido
       3p: habían reñido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had quarreled}
       1s: hube reñido
@@ -95,7 +95,7 @@ reñir:
       3s: hubo reñido
       3p: hubieron reñido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have quarreled}
       1s: habría reñido
@@ -105,7 +105,7 @@ reñir:
       3s: habría reñido
       3p: habrían reñido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I quarrel, am quarreling'}
       1s: riña
@@ -115,7 +115,7 @@ reñir:
       3s: riña
       3p: riñan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I quarreled, was quarreling'}
       1s: riñera
@@ -125,7 +125,7 @@ reñir:
       3s: riñera
       3p: riñeran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will quarrel}
       1s: riñere
@@ -135,7 +135,7 @@ reñir:
       3s: riñere
       3p: riñeren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have quarreled, quarreled'}
       1s: haya reñido
@@ -145,7 +145,7 @@ reñir:
       3s: haya reñido
       3p: hayan reñido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have quarreled}
       1s: hubiere reñido
@@ -155,7 +155,7 @@ reñir:
       3s: hubiere reñido
       3p: hubieren reñido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had quarreled}
       1s: hubiera reñido
@@ -165,7 +165,7 @@ reñir:
       3s: hubiera reñido
       3p: hubieran reñido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Quarrel! Don't quarrel!}
       1s: ''
@@ -175,7 +175,7 @@ reñir:
       3s: reñid
       3p: riñan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Quarrel! Don't quarrel!}
       1s: ''

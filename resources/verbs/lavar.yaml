@@ -5,7 +5,7 @@ lavar:
   definitions: {en: to wash}
   tenses:
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would wash}
       1s: lavaría
@@ -15,7 +15,7 @@ lavar:
       3s: lavaría
       3p: lavarían
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I wash, am washing'}
       1s: lavo
@@ -25,7 +25,7 @@ lavar:
       3s: lava
       3p: lavan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will wash}
       1s: lavaré
@@ -35,7 +35,7 @@ lavar:
       3s: lavará
       3p: lavarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was washing, used to wash, washed'}
       1s: lavaba
@@ -45,7 +45,7 @@ lavar:
       3s: lavaba
       3p: lavaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I washed}
       1s: lavé
@@ -55,7 +55,7 @@ lavar:
       3s: lavó
       3p: lavaron
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have washed}
       1s: he lavado
@@ -65,7 +65,7 @@ lavar:
       3s: ha lavado
       3p: han lavado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have washed}
       1s: habré lavado
@@ -75,7 +75,7 @@ lavar:
       3s: habrá lavado
       3p: habrán lavado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had washed}
       1s: había lavado
@@ -85,7 +85,7 @@ lavar:
       3s: había lavado
       3p: habían lavado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had washed}
       1s: hube lavado
@@ -95,7 +95,7 @@ lavar:
       3s: hubo lavado
       3p: hubieron lavado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have washed}
       1s: habría lavado
@@ -105,7 +105,7 @@ lavar:
       3s: habría lavado
       3p: habrían lavado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I wash, am washing'}
       1s: lave
@@ -115,7 +115,7 @@ lavar:
       3s: lave
       3p: laven
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I washed, was washing'}
       1s: lavara
@@ -125,7 +125,7 @@ lavar:
       3s: lavara
       3p: lavaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will wash}
       1s: lavare
@@ -135,7 +135,7 @@ lavar:
       3s: lavare
       3p: lavaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have washed, washed'}
       1s: haya lavado
@@ -145,7 +145,7 @@ lavar:
       3s: haya lavado
       3p: hayan lavado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have washed}
       1s: hubiere lavado
@@ -155,7 +155,7 @@ lavar:
       3s: hubiere lavado
       3p: hubieren lavado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had washed}
       1s: hubiera lavado
@@ -165,7 +165,7 @@ lavar:
       3s: hubiera lavado
       3p: hubieran lavado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Wash! Don't wash!}
       1s: ''
@@ -175,7 +175,7 @@ lavar:
       3s: lavad
       3p: laven
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Wash! Don't wash!}
       1s: ''

@@ -5,7 +5,7 @@ ofender:
   definitions: {en: to offend}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I offend, am offending'}
       1s: ofendo
@@ -15,7 +15,7 @@ ofender:
       3s: ofende
       3p: ofenden
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will offend}
       1s: ofenderé
@@ -25,7 +25,7 @@ ofender:
       3s: ofenderá
       3p: ofenderán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was offending, used to offend, offended'}
       1s: ofendía
@@ -35,7 +35,7 @@ ofender:
       3s: ofendía
       3p: ofendían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I offended}
       1s: ofendí
@@ -45,7 +45,7 @@ ofender:
       3s: ofendió
       3p: ofendieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would offend}
       1s: ofendería
@@ -55,7 +55,7 @@ ofender:
       3s: ofendería
       3p: ofenderían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have offended}
       1s: he ofendido
@@ -65,7 +65,7 @@ ofender:
       3s: ha ofendido
       3p: han ofendido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have offended}
       1s: habré ofendido
@@ -75,7 +75,7 @@ ofender:
       3s: habrá ofendido
       3p: habrán ofendido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had offended}
       1s: había ofendido
@@ -85,7 +85,7 @@ ofender:
       3s: había ofendido
       3p: habían ofendido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had offended}
       1s: hube ofendido
@@ -95,7 +95,7 @@ ofender:
       3s: hubo ofendido
       3p: hubieron ofendido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have offended}
       1s: habría ofendido
@@ -105,7 +105,7 @@ ofender:
       3s: habría ofendido
       3p: habrían ofendido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I offend, am offending'}
       1s: ofenda
@@ -115,7 +115,7 @@ ofender:
       3s: ofenda
       3p: ofendan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I offended, was offending'}
       1s: ofendiera
@@ -125,7 +125,7 @@ ofender:
       3s: ofendiera
       3p: ofendieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will offend}
       1s: ofendiere
@@ -135,7 +135,7 @@ ofender:
       3s: ofendiere
       3p: ofendieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have offended, offended'}
       1s: haya ofendido
@@ -145,7 +145,7 @@ ofender:
       3s: haya ofendido
       3p: hayan ofendido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have offended}
       1s: hubiere ofendido
@@ -155,7 +155,7 @@ ofender:
       3s: hubiere ofendido
       3p: hubieren ofendido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had offended}
       1s: hubiera ofendido
@@ -165,7 +165,7 @@ ofender:
       3s: hubiera ofendido
       3p: hubieran ofendido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Offend! Don't offend!}
       1s: ''
@@ -175,7 +175,7 @@ ofender:
       3s: ofended
       3p: ofendan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Offend! Don't offend!}
       1s: ''

@@ -5,7 +5,7 @@ acostumbrar:
   definitions: {en: 'to be accustomed to, be in the habit of; to get'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I am accustomed to}
       1s: acostumbro
@@ -15,7 +15,7 @@ acostumbrar:
       3s: acostumbra
       3p: acostumbran
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will speak}
       1s: acostumbraré
@@ -25,7 +25,7 @@ acostumbrar:
       3s: acostumbrará
       3p: acostumbrarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was accustomed to, used to be accustomed to, was accustomed
           to'}
@@ -36,7 +36,7 @@ acostumbrar:
       3s: acostumbraba
       3p: acostumbraban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I was accustomed to}
       1s: acostumbré
@@ -46,7 +46,7 @@ acostumbrar:
       3s: acostumbró
       3p: acostumbraron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would be accustomed to}
       1s: acostumbraría
@@ -56,7 +56,7 @@ acostumbrar:
       3s: acostumbraría
       3p: acostumbrarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have been accustomed to}
       1s: he acostumbrado
@@ -66,7 +66,7 @@ acostumbrar:
       3s: ha acostumbrado
       3p: han acostumbrado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have been accustomed to}
       1s: habré acostumbrado
@@ -76,7 +76,7 @@ acostumbrar:
       3s: habrá acostumbrado
       3p: habrán acostumbrado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had been accustomed to}
       1s: había acostumbrado
@@ -86,7 +86,7 @@ acostumbrar:
       3s: había acostumbrado
       3p: habían acostumbrado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had been accustomed to}
       1s: hube acostumbrado
@@ -96,7 +96,7 @@ acostumbrar:
       3s: hubo acostumbrado
       3p: hubieron acostumbrado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have been accustomed to}
       1s: habría acostumbrado
@@ -106,7 +106,7 @@ acostumbrar:
       3s: habría acostumbrado
       3p: habrían acostumbrado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I am accustomed to}
       1s: acostumbre
@@ -116,7 +116,7 @@ acostumbrar:
       3s: acostumbre
       3p: acostumbren
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I was accustomed to, was accustomed to'}
       1s: acostumbrara
@@ -126,7 +126,7 @@ acostumbrar:
       3s: acostumbrara
       3p: acostumbraran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will be accustomed to}
       1s: acostumbrare
@@ -136,7 +136,7 @@ acostumbrar:
       3s: acostumbrare
       3p: acostumbraren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have been accustomed to, was accustomed to'}
       1s: haya acostumbrado
@@ -146,7 +146,7 @@ acostumbrar:
       3s: haya acostumbrado
       3p: hayan acostumbrado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have been accustomed to}
       1s: hubiere acostumbrado
@@ -156,7 +156,7 @@ acostumbrar:
       3s: hubiere acostumbrado
       3p: hubieren acostumbrado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had been accustomed to}
       1s: hubiera acostumbrado
@@ -166,7 +166,7 @@ acostumbrar:
       3s: hubiera acostumbrado
       3p: hubieran acostumbrado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Be accustomed to! Don't be accustomed to!}
       1s: ''
@@ -176,7 +176,7 @@ acostumbrar:
       3s: acostumbrad
       3p: acostumbren
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Be accustomed to! Don't be accustomed to!}
       1s: ''

@@ -5,7 +5,7 @@ volar:
   definitions: {en: to fly}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I fly, am flying'}
       1s: vuelo
@@ -15,7 +15,7 @@ volar:
       3s: vuela
       3p: vuelan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will fly}
       1s: volaré
@@ -25,7 +25,7 @@ volar:
       3s: volará
       3p: volarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was flying, used to fly, flew'}
       1s: volaba
@@ -35,7 +35,7 @@ volar:
       3s: volaba
       3p: volaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I flew}
       1s: volé
@@ -45,7 +45,7 @@ volar:
       3s: voló
       3p: volaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would fly}
       1s: volaría
@@ -55,7 +55,7 @@ volar:
       3s: volaría
       3p: volarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have flown}
       1s: he volado
@@ -65,7 +65,7 @@ volar:
       3s: ha volado
       3p: han volado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have flown}
       1s: habré volado
@@ -75,7 +75,7 @@ volar:
       3s: habrá volado
       3p: habrán volado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had flown}
       1s: había volado
@@ -85,7 +85,7 @@ volar:
       3s: había volado
       3p: habían volado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had flown}
       1s: hube volado
@@ -95,7 +95,7 @@ volar:
       3s: hubo volado
       3p: hubieron volado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have flown}
       1s: habría volado
@@ -105,7 +105,7 @@ volar:
       3s: habría volado
       3p: habrían volado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I fly, am flying'}
       1s: vuele
@@ -115,7 +115,7 @@ volar:
       3s: vuele
       3p: vuelen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I flew, was flying'}
       1s: volara
@@ -125,7 +125,7 @@ volar:
       3s: volara
       3p: volaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will fly}
       1s: volare
@@ -135,7 +135,7 @@ volar:
       3s: volare
       3p: volaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have flown, flew'}
       1s: haya volado
@@ -145,7 +145,7 @@ volar:
       3s: haya volado
       3p: hayan volado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have flown}
       1s: hubiere volado
@@ -155,7 +155,7 @@ volar:
       3s: hubiere volado
       3p: hubieren volado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had flown}
       1s: hubiera volado
@@ -165,7 +165,7 @@ volar:
       3s: hubiera volado
       3p: hubieran volado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Fly! Don't fly!}
       1s: ''
@@ -175,7 +175,7 @@ volar:
       3s: volad
       3p: vuelen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Fly! Don't fly!}
       1s: ''

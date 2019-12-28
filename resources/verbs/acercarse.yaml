@@ -5,7 +5,7 @@ acercarse:
   definitions: {en: to approach}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I approach, am approaching'}
       1s: me acerco
@@ -15,7 +15,7 @@ acercarse:
       3s: se acerca
       3p: se acercan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will approach}
       1s: me acercaré
@@ -25,7 +25,7 @@ acercarse:
       3s: se acercará
       3p: se acercarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was approaching, used to approach, approached'}
       1s: me acercaba
@@ -35,7 +35,7 @@ acercarse:
       3s: se acercaba
       3p: se acercaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I approached}
       1s: me acerqué
@@ -45,7 +45,7 @@ acercarse:
       3s: se acercó
       3p: se acercaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would approach}
       1s: me acercaría
@@ -55,7 +55,7 @@ acercarse:
       3s: se acercaría
       3p: se acercarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have approached}
       1s: me he acercado
@@ -65,7 +65,7 @@ acercarse:
       3s: se ha acercado
       3p: se han acercado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have approached}
       1s: me habré acercado
@@ -75,7 +75,7 @@ acercarse:
       3s: se habrá acercado
       3p: se habrán acercado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had approached}
       1s: me había acercado
@@ -85,7 +85,7 @@ acercarse:
       3s: se había acercado
       3p: se habían acercado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had approached}
       1s: me hube acercado
@@ -95,7 +95,7 @@ acercarse:
       3s: se hubo acercado
       3p: se hubieron acercado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have approached}
       1s: me habría acercado
@@ -105,7 +105,7 @@ acercarse:
       3s: se habría acercado
       3p: se habrían acercado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I approach, am approaching'}
       1s: me acerque
@@ -115,7 +115,7 @@ acercarse:
       3s: se acerque
       3p: se acerquen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I approached, was approaching'}
       1s: me acercara
@@ -125,7 +125,7 @@ acercarse:
       3s: se acercara
       3p: se acercaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will approach}
       1s: me acercare
@@ -135,7 +135,7 @@ acercarse:
       3s: se acercare
       3p: se acercaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have approached, approached'}
       1s: me haya acercado
@@ -145,7 +145,7 @@ acercarse:
       3s: se haya acercado
       3p: se hayan acercado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have approached}
       1s: me hubiere acercado
@@ -155,7 +155,7 @@ acercarse:
       3s: se hubiere acercado
       3p: se hubieren acercado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had approached}
       1s: me hubiera acercado
@@ -165,7 +165,7 @@ acercarse:
       3s: se hubiera acercado
       3p: se hubieran acercado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Approach! Don't approach!}
       1s: ''
@@ -175,7 +175,7 @@ acercarse:
       3s: acercaos
       3p: acérquense
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Approach! Don't approach!}
       1s: ''

@@ -5,7 +5,7 @@ confesar:
   definitions: {en: to confess}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I confess, am confessing'}
       1s: confieso
@@ -15,7 +15,7 @@ confesar:
       3s: confiesa
       3p: confiesan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will confess}
       1s: confesaré
@@ -25,7 +25,7 @@ confesar:
       3s: confesará
       3p: confesarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was confessing, used to confess, confessed'}
       1s: confesaba
@@ -35,7 +35,7 @@ confesar:
       3s: confesaba
       3p: confesaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I confessed}
       1s: confesé
@@ -45,7 +45,7 @@ confesar:
       3s: confesó
       3p: confesaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would confess}
       1s: confesaría
@@ -55,7 +55,7 @@ confesar:
       3s: confesaría
       3p: confesarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have confessed}
       1s: he confesado
@@ -65,7 +65,7 @@ confesar:
       3s: ha confesado
       3p: han confesado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have confessed}
       1s: habré confesado
@@ -75,7 +75,7 @@ confesar:
       3s: habrá confesado
       3p: habrán confesado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had confessed}
       1s: había confesado
@@ -85,7 +85,7 @@ confesar:
       3s: había confesado
       3p: habían confesado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had confessed}
       1s: hube confesado
@@ -95,7 +95,7 @@ confesar:
       3s: hubo confesado
       3p: hubieron confesado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have confessed}
       1s: habría confesado
@@ -105,7 +105,7 @@ confesar:
       3s: habría confesado
       3p: habrían confesado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I confess, am confessing'}
       1s: confiese
@@ -115,7 +115,7 @@ confesar:
       3s: confiese
       3p: confiesen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I confessed, was confessing'}
       1s: confesara
@@ -125,7 +125,7 @@ confesar:
       3s: confesara
       3p: confesaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will confess}
       1s: confesare
@@ -135,7 +135,7 @@ confesar:
       3s: confesare
       3p: confesaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have confessed, confessed'}
       1s: haya confesado
@@ -145,7 +145,7 @@ confesar:
       3s: haya confesado
       3p: hayan confesado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have confessed}
       1s: hubiere confesado
@@ -155,7 +155,7 @@ confesar:
       3s: hubiere confesado
       3p: hubieren confesado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had confessed}
       1s: hubiera confesado
@@ -165,7 +165,7 @@ confesar:
       3s: hubiera confesado
       3p: hubieran confesado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Confess! Don't confess!}
       1s: ''
@@ -175,7 +175,7 @@ confesar:
       3s: confesad
       3p: confiesen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Confess! Don't confess!}
       1s: ''

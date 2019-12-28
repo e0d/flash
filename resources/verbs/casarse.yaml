@@ -5,7 +5,7 @@ casarse:
   definitions: {en: 'to marry [someone], get married [to someone]'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I marry, am marrying'}
       1s: me caso
@@ -15,7 +15,7 @@ casarse:
       3s: se casa
       3p: se casan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will marry}
       1s: me casaré
@@ -25,7 +25,7 @@ casarse:
       3s: se casará
       3p: se casarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was marrying, used to marry, married'}
       1s: me casaba
@@ -35,7 +35,7 @@ casarse:
       3s: se casaba
       3p: se casaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I married}
       1s: me casé
@@ -45,7 +45,7 @@ casarse:
       3s: se casó
       3p: se casaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would marry}
       1s: me casaría
@@ -55,7 +55,7 @@ casarse:
       3s: se casaría
       3p: se casarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have married}
       1s: me he casado
@@ -65,7 +65,7 @@ casarse:
       3s: se ha casado
       3p: se han casado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have married}
       1s: me habré casado
@@ -75,7 +75,7 @@ casarse:
       3s: se habrá casado
       3p: se habrán casado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had married}
       1s: me había casado
@@ -85,7 +85,7 @@ casarse:
       3s: se había casado
       3p: se habían casado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had married}
       1s: me hube casado
@@ -95,7 +95,7 @@ casarse:
       3s: se hubo casado
       3p: se hubieron casado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have married}
       1s: me habría casado
@@ -105,7 +105,7 @@ casarse:
       3s: se habría casado
       3p: se habrían casado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I marry, am marrying'}
       1s: me case
@@ -115,7 +115,7 @@ casarse:
       3s: se case
       3p: se casen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I married, was marrying'}
       1s: me casara
@@ -125,7 +125,7 @@ casarse:
       3s: se casara
       3p: se casaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will marry}
       1s: me casare
@@ -135,7 +135,7 @@ casarse:
       3s: se casare
       3p: se casaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have married, married'}
       1s: me haya casado
@@ -145,7 +145,7 @@ casarse:
       3s: se haya casado
       3p: se hayan casado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have married}
       1s: me hubiere casado
@@ -155,7 +155,7 @@ casarse:
       3s: se hubiere casado
       3p: se hubieren casado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had married}
       1s: me hubiera casado
@@ -165,7 +165,7 @@ casarse:
       3s: se hubiera casado
       3p: se hubieran casado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Marry! Don't marry!}
       1s: ''
@@ -175,7 +175,7 @@ casarse:
       3s: casaos
       3p: cásense
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Marry! Don't marry!}
       1s: ''

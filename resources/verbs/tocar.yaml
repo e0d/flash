@@ -5,7 +5,7 @@ tocar:
   definitions: {en: to touch; to play}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I touch, am touching'}
       1s: toco
@@ -15,7 +15,7 @@ tocar:
       3s: toca
       3p: tocan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will touch}
       1s: tocaré
@@ -25,7 +25,7 @@ tocar:
       3s: tocará
       3p: tocarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was touching, used to touch, touched'}
       1s: tocaba
@@ -35,7 +35,7 @@ tocar:
       3s: tocaba
       3p: tocaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I touched}
       1s: toqué
@@ -45,7 +45,7 @@ tocar:
       3s: tocó
       3p: tocaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would touch}
       1s: tocaría
@@ -55,7 +55,7 @@ tocar:
       3s: tocaría
       3p: tocarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have touched}
       1s: he tocado
@@ -65,7 +65,7 @@ tocar:
       3s: ha tocado
       3p: han tocado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have touched}
       1s: habré tocado
@@ -75,7 +75,7 @@ tocar:
       3s: habrá tocado
       3p: habrán tocado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had touched}
       1s: había tocado
@@ -85,7 +85,7 @@ tocar:
       3s: había tocado
       3p: habían tocado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had touched}
       1s: hube tocado
@@ -95,7 +95,7 @@ tocar:
       3s: hubo tocado
       3p: hubieron tocado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have touched}
       1s: habría tocado
@@ -105,7 +105,7 @@ tocar:
       3s: habría tocado
       3p: habrían tocado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I touch, am touching'}
       1s: toque
@@ -115,7 +115,7 @@ tocar:
       3s: toque
       3p: toquen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I touched, was touching'}
       1s: tocara
@@ -125,7 +125,7 @@ tocar:
       3s: tocara
       3p: tocaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will touch}
       1s: tocare
@@ -135,7 +135,7 @@ tocar:
       3s: tocare
       3p: tocaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have touched, touched'}
       1s: haya tocado
@@ -145,7 +145,7 @@ tocar:
       3s: haya tocado
       3p: hayan tocado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have touched}
       1s: hubiere tocado
@@ -155,7 +155,7 @@ tocar:
       3s: hubiere tocado
       3p: hubieren tocado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had touched}
       1s: hubiera tocado
@@ -165,7 +165,7 @@ tocar:
       3s: hubiera tocado
       3p: hubieran tocado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Touch! Don't touch!}
       1s: ''
@@ -175,7 +175,7 @@ tocar:
       3s: tocad
       3p: toquen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Touch! Don't touch!}
       1s: ''

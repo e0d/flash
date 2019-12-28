@@ -5,7 +5,7 @@ aplaudir:
   definitions: {en: 'to applaud, cheer, clap'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I applaud, am applauding'}
       1s: aplaudo
@@ -15,7 +15,7 @@ aplaudir:
       3s: aplaude
       3p: aplauden
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will applaud}
       1s: aplaudiré
@@ -25,7 +25,7 @@ aplaudir:
       3s: aplaudirá
       3p: aplaudirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was applauding, used to applaud, applauded'}
       1s: aplaudía
@@ -35,7 +35,7 @@ aplaudir:
       3s: aplaudía
       3p: aplaudían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I applauded}
       1s: aplaudí
@@ -45,7 +45,7 @@ aplaudir:
       3s: aplaudió
       3p: aplaudieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would applaud}
       1s: aplaudiría
@@ -55,7 +55,7 @@ aplaudir:
       3s: aplaudiría
       3p: aplaudirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have applauded}
       1s: he aplaudido
@@ -65,7 +65,7 @@ aplaudir:
       3s: ha aplaudido
       3p: han aplaudido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have applauded}
       1s: habré aplaudido
@@ -75,7 +75,7 @@ aplaudir:
       3s: habrá aplaudido
       3p: habrán aplaudido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had applauded}
       1s: había aplaudido
@@ -85,7 +85,7 @@ aplaudir:
       3s: había aplaudido
       3p: habían aplaudido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had applauded}
       1s: hube aplaudido
@@ -95,7 +95,7 @@ aplaudir:
       3s: hubo aplaudido
       3p: hubieron aplaudido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have applauded}
       1s: habría aplaudido
@@ -105,7 +105,7 @@ aplaudir:
       3s: habría aplaudido
       3p: habrían aplaudido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I applaud, am applauding'}
       1s: aplauda
@@ -115,7 +115,7 @@ aplaudir:
       3s: aplauda
       3p: aplaudan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I applauded, was applauding'}
       1s: aplaudiera
@@ -125,7 +125,7 @@ aplaudir:
       3s: aplaudiera
       3p: aplaudieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will applaud}
       1s: aplaudiere
@@ -135,7 +135,7 @@ aplaudir:
       3s: aplaudiere
       3p: aplaudieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have applauded, applauded'}
       1s: haya aplaudido
@@ -145,7 +145,7 @@ aplaudir:
       3s: haya aplaudido
       3p: hayan aplaudido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have applauded}
       1s: hubiere aplaudido
@@ -155,7 +155,7 @@ aplaudir:
       3s: hubiere aplaudido
       3p: hubieren aplaudido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had applauded}
       1s: hubiera aplaudido
@@ -165,7 +165,7 @@ aplaudir:
       3s: hubiera aplaudido
       3p: hubieran aplaudido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Applaud! Don't applaud!}
       1s: ''
@@ -175,7 +175,7 @@ aplaudir:
       3s: aplaudid
       3p: aplaudan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Applaud! Don't applaud!}
       1s: ''

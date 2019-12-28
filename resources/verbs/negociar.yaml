@@ -5,7 +5,7 @@ negociar:
   definitions: {en: to negotiate}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I negotiate, am negotiating'}
       1s: negocio
@@ -15,7 +15,7 @@ negociar:
       3s: negocia
       3p: negocian
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will negotiate}
       1s: negociaré
@@ -25,7 +25,7 @@ negociar:
       3s: negociará
       3p: negociarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was negotiating, used to negotiate, negotiated'}
       1s: negociaba
@@ -35,7 +35,7 @@ negociar:
       3s: negociaba
       3p: negociaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I negotiated}
       1s: negocié
@@ -45,7 +45,7 @@ negociar:
       3s: negoció
       3p: negociaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would negotiate}
       1s: negociaría
@@ -55,7 +55,7 @@ negociar:
       3s: negociaría
       3p: negociarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have negotiated}
       1s: he negociado
@@ -65,7 +65,7 @@ negociar:
       3s: ha negociado
       3p: han negociado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have negotiated}
       1s: habré negociado
@@ -75,7 +75,7 @@ negociar:
       3s: habrá negociado
       3p: habrán negociado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had negotiated}
       1s: había negociado
@@ -85,7 +85,7 @@ negociar:
       3s: había negociado
       3p: habían negociado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had negotiated}
       1s: hube negociado
@@ -95,7 +95,7 @@ negociar:
       3s: hubo negociado
       3p: hubieron negociado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have negotiated}
       1s: habría negociado
@@ -105,7 +105,7 @@ negociar:
       3s: habría negociado
       3p: habrían negociado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I negotiate, am negotiating'}
       1s: negocie
@@ -115,7 +115,7 @@ negociar:
       3s: negocie
       3p: negocien
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I negotiated, was negotiating'}
       1s: negociara
@@ -125,7 +125,7 @@ negociar:
       3s: negociara
       3p: negociaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will negotiate}
       1s: negociare
@@ -135,7 +135,7 @@ negociar:
       3s: negociare
       3p: negociaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have negotiated, negotiated'}
       1s: haya negociado
@@ -145,7 +145,7 @@ negociar:
       3s: haya negociado
       3p: hayan negociado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have negotiated}
       1s: hubiere negociado
@@ -155,7 +155,7 @@ negociar:
       3s: hubiere negociado
       3p: hubieren negociado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had negotiated}
       1s: hubiera negociado
@@ -165,7 +165,7 @@ negociar:
       3s: hubiera negociado
       3p: hubieran negociado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Negotiate! Don't negotiate!}
       1s: ''
@@ -175,7 +175,7 @@ negociar:
       3s: negociad
       3p: negocien
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Negotiate! Don't negotiate!}
       1s: ''

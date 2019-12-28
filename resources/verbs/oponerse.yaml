@@ -5,7 +5,7 @@ oponerse:
   definitions: {en: 'to put on [clothing]; to put/place [oneself]; to turn/get/become'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I put on, am putting on'}
       1s: me opongo
@@ -15,7 +15,7 @@ oponerse:
       3s: se opone
       3p: se oponen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will put on}
       1s: me opondré
@@ -25,7 +25,7 @@ oponerse:
       3s: se opondrá
       3p: se opondrán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was putting on, used to put on, put on'}
       1s: me oponía
@@ -35,7 +35,7 @@ oponerse:
       3s: se oponía
       3p: se oponían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I put on}
       1s: me opuse
@@ -45,7 +45,7 @@ oponerse:
       3s: se opuso
       3p: se opusieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would put on}
       1s: me opondría
@@ -55,7 +55,7 @@ oponerse:
       3s: se opondría
       3p: se opondrían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have put on}
       1s: me he opuesto
@@ -65,7 +65,7 @@ oponerse:
       3s: se ha opuesto
       3p: se han opuesto
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have put on}
       1s: me habré opuesto
@@ -75,7 +75,7 @@ oponerse:
       3s: se habrá opuesto
       3p: se habrán opuesto
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had put on}
       1s: me había opuesto
@@ -85,7 +85,7 @@ oponerse:
       3s: se había opuesto
       3p: se habían opuesto
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had put on}
       1s: me hube opuesto
@@ -95,7 +95,7 @@ oponerse:
       3s: se hubo opuesto
       3p: se hubieron opuesto
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have put on}
       1s: me habría opuesto
@@ -105,7 +105,7 @@ oponerse:
       3s: se habría opuesto
       3p: se habrían opuesto
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I put on, am putting on'}
       1s: me oponga
@@ -115,7 +115,7 @@ oponerse:
       3s: se oponga
       3p: se opongan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I put on, was putting on'}
       1s: me opusiera
@@ -125,7 +125,7 @@ oponerse:
       3s: se opusiera
       3p: se opusieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will put on}
       1s: me opusiere
@@ -135,7 +135,7 @@ oponerse:
       3s: se opusiere
       3p: se opusieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have put on, put on'}
       1s: me haya opuesto
@@ -145,7 +145,7 @@ oponerse:
       3s: se haya opuesto
       3p: se hayan opuesto
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have put on}
       1s: me hubiere opuesto
@@ -155,7 +155,7 @@ oponerse:
       3s: se hubiere opuesto
       3p: se hubieren opuesto
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had put on}
       1s: me hubiera opuesto
@@ -165,7 +165,7 @@ oponerse:
       3s: se hubiera opuesto
       3p: se hubieran opuesto
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Put on! Don't put on!}
       1s: ''
@@ -175,7 +175,7 @@ oponerse:
       3s: oponeos
       3p: opónganse
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Put on! Don't put on!}
       1s: ''

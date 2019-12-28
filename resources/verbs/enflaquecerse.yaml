@@ -5,7 +5,7 @@ enflaquecerse:
   definitions: {en: to get thin; lose weight; to grow weak}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I get thin, am getting thin'}
       1s: me enflaquezco
@@ -15,7 +15,7 @@ enflaquecerse:
       3s: se enflaquece
       3p: se enflaquecen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will get thin}
       1s: me enflaqueceré
@@ -25,7 +25,7 @@ enflaquecerse:
       3s: se enflaquecerá
       3p: se enflaquecerán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was getting thin, used to get thin, got thin'}
       1s: me enflaquecía
@@ -35,7 +35,7 @@ enflaquecerse:
       3s: se enflaquecía
       3p: se enflaquecían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I got thin}
       1s: me enflaquecí
@@ -45,7 +45,7 @@ enflaquecerse:
       3s: se enflaqueció
       3p: se enflaquecieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would get thin}
       1s: me enflaquecería
@@ -55,7 +55,7 @@ enflaquecerse:
       3s: se enflaquecería
       3p: se enflaquecerían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have gotten thin}
       1s: me he enflaquecido
@@ -65,7 +65,7 @@ enflaquecerse:
       3s: se ha enflaquecido
       3p: se han enflaquecido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have gotten thin}
       1s: me habré enflaquecido
@@ -75,7 +75,7 @@ enflaquecerse:
       3s: se habrá enflaquecido
       3p: se habrán enflaquecido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had gotten thin}
       1s: me había enflaquecido
@@ -85,7 +85,7 @@ enflaquecerse:
       3s: se había enflaquecido
       3p: se habían enflaquecido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had gotten thin}
       1s: me hube enflaquecido
@@ -95,7 +95,7 @@ enflaquecerse:
       3s: se hubo enflaquecido
       3p: se hubieron enflaquecido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have gotten thin}
       1s: me habría enflaquecido
@@ -105,7 +105,7 @@ enflaquecerse:
       3s: se habría enflaquecido
       3p: se habrían enflaquecido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I get thin, am getting thin'}
       1s: me enflaquezca
@@ -115,7 +115,7 @@ enflaquecerse:
       3s: se enflaquezca
       3p: se enflaquezcan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I got thin, was getting thin'}
       1s: me enflaqueciera
@@ -125,7 +125,7 @@ enflaquecerse:
       3s: se enflaqueciera
       3p: se enflaquecieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will get thin}
       1s: me enflaqueciere
@@ -135,7 +135,7 @@ enflaquecerse:
       3s: se enflaqueciere
       3p: se enflaquecieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have gotten thin, gotten thin'}
       1s: me haya enflaquecido
@@ -145,7 +145,7 @@ enflaquecerse:
       3s: se haya enflaquecido
       3p: se hayan enflaquecido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have gotten thin}
       1s: me hubiere enflaquecido
@@ -155,7 +155,7 @@ enflaquecerse:
       3s: se hubiere enflaquecido
       3p: se hubieren enflaquecido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had gotten thin}
       1s: me hubiera enflaquecido
@@ -165,7 +165,7 @@ enflaquecerse:
       3s: se hubiera enflaquecido
       3p: se hubieran enflaquecido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Get thin! Don't get thin!}
       1s: ''
@@ -175,7 +175,7 @@ enflaquecerse:
       3s: enflaqueceos
       3p: enflaquézcanse
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Get thin! Don't get thin!}
       1s: ''

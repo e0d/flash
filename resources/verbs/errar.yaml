@@ -5,7 +5,7 @@ errar:
   definitions: {en: 'to err, make an error'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I err, am erring'}
       1s: yerro
@@ -15,7 +15,7 @@ errar:
       3s: yerra
       3p: yerran
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will err}
       1s: erraré
@@ -25,7 +25,7 @@ errar:
       3s: errará
       3p: errarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was erring, used to err, erred'}
       1s: erraba
@@ -35,7 +35,7 @@ errar:
       3s: erraba
       3p: erraban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I erred}
       1s: erré
@@ -45,7 +45,7 @@ errar:
       3s: erró
       3p: erraron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would err}
       1s: erraría
@@ -55,7 +55,7 @@ errar:
       3s: erraría
       3p: errarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have erred}
       1s: he errado
@@ -65,7 +65,7 @@ errar:
       3s: ha errado
       3p: han errado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have erred}
       1s: habré errado
@@ -75,7 +75,7 @@ errar:
       3s: habrá errado
       3p: habrán errado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had erred}
       1s: había errado
@@ -85,7 +85,7 @@ errar:
       3s: había errado
       3p: habían errado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had erred}
       1s: hube errado
@@ -95,7 +95,7 @@ errar:
       3s: hubo errado
       3p: hubieron errado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have erred}
       1s: habría errado
@@ -105,7 +105,7 @@ errar:
       3s: habría errado
       3p: habrían errado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I err, am erring'}
       1s: yerre
@@ -115,7 +115,7 @@ errar:
       3s: yerre
       3p: yerren
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I erred, was erring'}
       1s: errara
@@ -125,7 +125,7 @@ errar:
       3s: errara
       3p: erraran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will err}
       1s: errare
@@ -135,7 +135,7 @@ errar:
       3s: errare
       3p: erraren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have erred, erred'}
       1s: haya errado
@@ -145,7 +145,7 @@ errar:
       3s: haya errado
       3p: hayan errado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have erred}
       1s: hubiere errado
@@ -155,7 +155,7 @@ errar:
       3s: hubiere errado
       3p: hubieren errado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had erred}
       1s: hubiera errado
@@ -165,7 +165,7 @@ errar:
       3s: hubiera errado
       3p: hubieran errado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Err! Don't err!}
       1s: ''
@@ -175,7 +175,7 @@ errar:
       3s: errad
       3p: yerren
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Err! Don't err!}
       1s: ''

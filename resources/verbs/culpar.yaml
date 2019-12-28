@@ -5,7 +5,7 @@ culpar:
   definitions: {en: 'to blame, accuse; to condemn'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I blame, am blaming'}
       1s: culpo
@@ -15,7 +15,7 @@ culpar:
       3s: culpa
       3p: culpan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will blame}
       1s: culparé
@@ -25,7 +25,7 @@ culpar:
       3s: culpará
       3p: culparán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was blaming, used to blame, blamed'}
       1s: culpaba
@@ -35,7 +35,7 @@ culpar:
       3s: culpaba
       3p: culpaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I blamed}
       1s: culpé
@@ -45,7 +45,7 @@ culpar:
       3s: culpó
       3p: culparon
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would blame}
       1s: culparía
@@ -55,7 +55,7 @@ culpar:
       3s: culparía
       3p: culparían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have blamed}
       1s: he culpado
@@ -65,7 +65,7 @@ culpar:
       3s: ha culpado
       3p: han culpado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have blamed}
       1s: habré culpado
@@ -75,7 +75,7 @@ culpar:
       3s: habrá culpado
       3p: habrán culpado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had blamed}
       1s: había culpado
@@ -85,7 +85,7 @@ culpar:
       3s: había culpado
       3p: habían culpado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had blamed}
       1s: hube culpado
@@ -95,7 +95,7 @@ culpar:
       3s: hubo culpado
       3p: hubieron culpado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have blamed}
       1s: habría culpado
@@ -105,7 +105,7 @@ culpar:
       3s: habría culpado
       3p: habrían culpado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I blame, am blaming'}
       1s: culpe
@@ -115,7 +115,7 @@ culpar:
       3s: culpe
       3p: culpen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I blamed, was blaming'}
       1s: culpara
@@ -125,7 +125,7 @@ culpar:
       3s: culpara
       3p: culparan
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will blame}
       1s: culpare
@@ -135,7 +135,7 @@ culpar:
       3s: culpare
       3p: culparen
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have blamed, blamed'}
       1s: haya culpado
@@ -145,7 +145,7 @@ culpar:
       3s: haya culpado
       3p: hayan culpado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have blamed}
       1s: hubiere culpado
@@ -155,7 +155,7 @@ culpar:
       3s: hubiere culpado
       3p: hubieren culpado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had blamed}
       1s: hubiera culpado
@@ -165,7 +165,7 @@ culpar:
       3s: hubiera culpado
       3p: hubieran culpado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Blame! Don't blame!}
       1s: ''
@@ -175,7 +175,7 @@ culpar:
       3s: culpad
       3p: culpen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Blame! Don't blame!}
       1s: ''

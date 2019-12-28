@@ -5,7 +5,7 @@ investigar:
   definitions: {en: to investigate}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I investigate, am investigating'}
       1s: investigo
@@ -15,7 +15,7 @@ investigar:
       3s: investiga
       3p: investigan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will investigate}
       1s: investigaré
@@ -25,7 +25,7 @@ investigar:
       3s: investigará
       3p: investigarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was investigating, used to investigate, investigated'}
       1s: investigaba
@@ -35,7 +35,7 @@ investigar:
       3s: investigaba
       3p: investigaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I investigated}
       1s: investigué
@@ -45,7 +45,7 @@ investigar:
       3s: investigó
       3p: investigaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would investigate}
       1s: investigaría
@@ -55,7 +55,7 @@ investigar:
       3s: investigaría
       3p: investigarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have investigated}
       1s: he investigado
@@ -65,7 +65,7 @@ investigar:
       3s: ha investigado
       3p: han investigado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have investigated}
       1s: habré investigado
@@ -75,7 +75,7 @@ investigar:
       3s: habrá investigado
       3p: habrán investigado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had investigated}
       1s: había investigado
@@ -85,7 +85,7 @@ investigar:
       3s: había investigado
       3p: habían investigado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had investigated}
       1s: hube investigado
@@ -95,7 +95,7 @@ investigar:
       3s: hubo investigado
       3p: hubieron investigado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have investigated}
       1s: habría investigado
@@ -105,7 +105,7 @@ investigar:
       3s: habría investigado
       3p: habrían investigado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I investigate, am investigating'}
       1s: investigue
@@ -115,7 +115,7 @@ investigar:
       3s: investigue
       3p: investiguen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I investigated, was investigating'}
       1s: investigara
@@ -125,7 +125,7 @@ investigar:
       3s: investigara
       3p: investigaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will investigate}
       1s: investigare
@@ -135,7 +135,7 @@ investigar:
       3s: investigare
       3p: investigaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have investigated, investigated'}
       1s: haya investigado
@@ -145,7 +145,7 @@ investigar:
       3s: haya investigado
       3p: hayan investigado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have investigated}
       1s: hubiere investigado
@@ -155,7 +155,7 @@ investigar:
       3s: hubiere investigado
       3p: hubieren investigado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had investigated}
       1s: hubiera investigado
@@ -165,7 +165,7 @@ investigar:
       3s: hubiera investigado
       3p: hubieran investigado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Investigate! Don't investigate!}
       1s: ''
@@ -175,7 +175,7 @@ investigar:
       3s: investigad
       3p: investiguen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Investigate! Don't investigate!}
       1s: ''

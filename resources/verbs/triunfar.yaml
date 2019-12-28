@@ -5,7 +5,7 @@ triunfar:
   definitions: {en: 'to triumph, win'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I triumph, am triumphing'}
       1s: triunfo
@@ -15,7 +15,7 @@ triunfar:
       3s: triunfa
       3p: triunfan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will triumph}
       1s: triunfaré
@@ -25,7 +25,7 @@ triunfar:
       3s: triunfará
       3p: triunfarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was triumphing, used to triumph, triumphed'}
       1s: triunfaba
@@ -35,7 +35,7 @@ triunfar:
       3s: triunfaba
       3p: triunfaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I triumphed}
       1s: triunfé
@@ -45,7 +45,7 @@ triunfar:
       3s: triunfó
       3p: triunfaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would triumph}
       1s: triunfaría
@@ -55,7 +55,7 @@ triunfar:
       3s: triunfaría
       3p: triunfarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have triumphed}
       1s: he triunfado
@@ -65,7 +65,7 @@ triunfar:
       3s: ha triunfado
       3p: han triunfado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have triumphed}
       1s: habré triunfado
@@ -75,7 +75,7 @@ triunfar:
       3s: habrá triunfado
       3p: habrán triunfado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had triumphed}
       1s: había triunfado
@@ -85,7 +85,7 @@ triunfar:
       3s: había triunfado
       3p: habían triunfado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had triumphed}
       1s: hube triunfado
@@ -95,7 +95,7 @@ triunfar:
       3s: hubo triunfado
       3p: hubieron triunfado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have triumphed}
       1s: habría triunfado
@@ -105,7 +105,7 @@ triunfar:
       3s: habría triunfado
       3p: habrían triunfado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I triumph, am triumphing'}
       1s: triunfe
@@ -115,7 +115,7 @@ triunfar:
       3s: triunfe
       3p: triunfen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I triumphed, was triumphing'}
       1s: triunfara
@@ -125,7 +125,7 @@ triunfar:
       3s: triunfara
       3p: triunfaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will triumph}
       1s: triunfare
@@ -135,7 +135,7 @@ triunfar:
       3s: triunfare
       3p: triunfaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have triumphed, triumphed'}
       1s: haya triunfado
@@ -145,7 +145,7 @@ triunfar:
       3s: haya triunfado
       3p: hayan triunfado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have triumphed}
       1s: hubiere triunfado
@@ -155,7 +155,7 @@ triunfar:
       3s: hubiere triunfado
       3p: hubieren triunfado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had triumphed}
       1s: hubiera triunfado
@@ -165,7 +165,7 @@ triunfar:
       3s: hubiera triunfado
       3p: hubieran triunfado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Triumph! Don't triumph!}
       1s: ''
@@ -175,7 +175,7 @@ triunfar:
       3s: triunfad
       3p: triunfen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Triumph! Don't triumph!}
       1s: ''

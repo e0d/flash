@@ -5,7 +5,7 @@ regir:
   definitions: {en: 'to rule, govern, be in charge of, be at the head of'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I rule, am ruling'}
       1s: rijo
@@ -15,7 +15,7 @@ regir:
       3s: rige
       3p: rigen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will rule}
       1s: regiré
@@ -25,7 +25,7 @@ regir:
       3s: regirá
       3p: regirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was ruling, used to rule, ruled'}
       1s: regía
@@ -35,7 +35,7 @@ regir:
       3s: regía
       3p: regían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I ruled}
       1s: regí
@@ -45,7 +45,7 @@ regir:
       3s: rigió
       3p: rigieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would rule}
       1s: regiría
@@ -55,7 +55,7 @@ regir:
       3s: regiría
       3p: regirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have ruled}
       1s: he regido
@@ -65,7 +65,7 @@ regir:
       3s: ha regido
       3p: han regido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have ruled}
       1s: habré regido
@@ -75,7 +75,7 @@ regir:
       3s: habrá regido
       3p: habrán regido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had ruled}
       1s: había regido
@@ -85,7 +85,7 @@ regir:
       3s: había regido
       3p: habían regido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had ruled}
       1s: hube regido
@@ -95,7 +95,7 @@ regir:
       3s: hubo regido
       3p: hubieron regido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have ruled}
       1s: habría regido
@@ -105,7 +105,7 @@ regir:
       3s: habría regido
       3p: habrían regido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I rule, am ruling'}
       1s: rija
@@ -115,7 +115,7 @@ regir:
       3s: rija
       3p: rijan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I ruled, was ruling'}
       1s: rigiera
@@ -125,7 +125,7 @@ regir:
       3s: rigiera
       3p: rigieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will rule}
       1s: rigiere
@@ -135,7 +135,7 @@ regir:
       3s: rigiere
       3p: rigieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have ruled, ruled'}
       1s: haya regido
@@ -145,7 +145,7 @@ regir:
       3s: haya regido
       3p: hayan regido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have ruled}
       1s: hubiere regido
@@ -155,7 +155,7 @@ regir:
       3s: hubiere regido
       3p: hubieren regido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had ruled}
       1s: hubiera regido
@@ -165,7 +165,7 @@ regir:
       3s: hubiera regido
       3p: hubieran regido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Rule! Don't rule!}
       1s: ''
@@ -175,7 +175,7 @@ regir:
       3s: regid
       3p: rijan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Rule! Don't rule!}
       1s: ''

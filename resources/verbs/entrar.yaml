@@ -5,7 +5,7 @@ entrar:
   definitions: {en: 'to enter, go in, come in'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I enter, am entering'}
       1s: entro
@@ -15,7 +15,7 @@ entrar:
       3s: entra
       3p: entran
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will enter}
       1s: entraré
@@ -25,7 +25,7 @@ entrar:
       3s: entrará
       3p: entrarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was entering, used to enter, entered'}
       1s: entraba
@@ -35,7 +35,7 @@ entrar:
       3s: entraba
       3p: entraban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I entered}
       1s: entré
@@ -45,7 +45,7 @@ entrar:
       3s: entró
       3p: entraron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would enter}
       1s: entraría
@@ -55,7 +55,7 @@ entrar:
       3s: entraría
       3p: entrarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have entered}
       1s: he entrado
@@ -65,7 +65,7 @@ entrar:
       3s: ha entrado
       3p: han entrado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have entered}
       1s: habré entrado
@@ -75,7 +75,7 @@ entrar:
       3s: habrá entrado
       3p: habrán entrado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had entered}
       1s: había entrado
@@ -85,7 +85,7 @@ entrar:
       3s: había entrado
       3p: habían entrado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had entered}
       1s: hube entrado
@@ -95,7 +95,7 @@ entrar:
       3s: hubo entrado
       3p: hubieron entrado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have entered}
       1s: habría entrado
@@ -105,7 +105,7 @@ entrar:
       3s: habría entrado
       3p: habrían entrado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I enter, am entering'}
       1s: entre
@@ -115,7 +115,7 @@ entrar:
       3s: entre
       3p: entren
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I entered, was entering'}
       1s: entrara
@@ -125,7 +125,7 @@ entrar:
       3s: entrara
       3p: entraran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will enter}
       1s: entrare
@@ -135,7 +135,7 @@ entrar:
       3s: entrare
       3p: entraren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have entered, entered'}
       1s: haya entrado
@@ -145,7 +145,7 @@ entrar:
       3s: haya entrado
       3p: hayan entrado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have entered}
       1s: hubiere entrado
@@ -155,7 +155,7 @@ entrar:
       3s: hubiere entrado
       3p: hubieren entrado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had entered}
       1s: hubiera entrado
@@ -165,7 +165,7 @@ entrar:
       3s: hubiera entrado
       3p: hubieran entrado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Enter! Don't enter!}
       1s: ''
@@ -175,7 +175,7 @@ entrar:
       3s: entrad
       3p: entren
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Enter! Don't enter!}
       1s: ''

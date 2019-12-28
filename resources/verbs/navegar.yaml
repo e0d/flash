@@ -5,7 +5,7 @@ navegar:
   definitions: {en: 'to navigate, sail'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I navigate, am navigating'}
       1s: navego
@@ -15,7 +15,7 @@ navegar:
       3s: navega
       3p: navegan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will navigate}
       1s: navegaré
@@ -25,7 +25,7 @@ navegar:
       3s: navegará
       3p: navegarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was navigating, used to navigate, navigated'}
       1s: navegaba
@@ -35,7 +35,7 @@ navegar:
       3s: navegaba
       3p: navegaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I navigated}
       1s: navegué
@@ -45,7 +45,7 @@ navegar:
       3s: navegó
       3p: navegaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would navigate}
       1s: navegaría
@@ -55,7 +55,7 @@ navegar:
       3s: navegaría
       3p: navegarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have navigated}
       1s: he navegado
@@ -65,7 +65,7 @@ navegar:
       3s: ha navegado
       3p: han navegado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have navigated}
       1s: habré navegado
@@ -75,7 +75,7 @@ navegar:
       3s: habrá navegado
       3p: habrán navegado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had navigated}
       1s: había navegado
@@ -85,7 +85,7 @@ navegar:
       3s: había navegado
       3p: habían navegado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had navigated}
       1s: hube navegado
@@ -95,7 +95,7 @@ navegar:
       3s: hubo navegado
       3p: hubieron navegado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have navigated}
       1s: habría navegado
@@ -105,7 +105,7 @@ navegar:
       3s: habría navegado
       3p: habrían navegado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I navigate, am navigating'}
       1s: navegue
@@ -115,7 +115,7 @@ navegar:
       3s: navegue
       3p: naveguen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I navigated, was navigating'}
       1s: navegara
@@ -125,7 +125,7 @@ navegar:
       3s: navegara
       3p: navegaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will navigate}
       1s: navegare
@@ -135,7 +135,7 @@ navegar:
       3s: navegare
       3p: navegaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have navigated, navigated'}
       1s: haya navegado
@@ -145,7 +145,7 @@ navegar:
       3s: haya navegado
       3p: hayan navegado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have navigated}
       1s: hubiere navegado
@@ -155,7 +155,7 @@ navegar:
       3s: hubiere navegado
       3p: hubieren navegado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had navigated}
       1s: hubiera navegado
@@ -165,7 +165,7 @@ navegar:
       3s: hubiera navegado
       3p: hubieran navegado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Navigate! Don't navigate!}
       1s: ''
@@ -175,7 +175,7 @@ navegar:
       3s: navegad
       3p: naveguen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Navigate! Don't navigate!}
       1s: ''

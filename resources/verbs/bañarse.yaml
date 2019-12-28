@@ -5,7 +5,7 @@ bañarse:
   definitions: {en: 'to take a bath, bathe [oneself]'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I take a bath, am taking a bath'}
       1s: me baño
@@ -15,7 +15,7 @@ bañarse:
       3s: se baña
       3p: se bañan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will take a bath}
       1s: me bañaré
@@ -25,7 +25,7 @@ bañarse:
       3s: se bañará
       3p: se bañarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was taking a bath, used to take a bath, took a bath'}
       1s: me bañaba
@@ -35,7 +35,7 @@ bañarse:
       3s: se bañaba
       3p: se bañaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I took a bath}
       1s: me bañé
@@ -45,7 +45,7 @@ bañarse:
       3s: se bañó
       3p: se bañaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would take a bath}
       1s: me bañaría
@@ -55,7 +55,7 @@ bañarse:
       3s: se bañaría
       3p: se bañarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have taken a bath}
       1s: me he bañado
@@ -65,7 +65,7 @@ bañarse:
       3s: se ha bañado
       3p: se han bañado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have taken a bath}
       1s: me habré bañado
@@ -75,7 +75,7 @@ bañarse:
       3s: se habrá bañado
       3p: se habrán bañado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had taken a bath}
       1s: me había bañado
@@ -85,7 +85,7 @@ bañarse:
       3s: se había bañado
       3p: se habían bañado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had taken a bath}
       1s: me hube bañado
@@ -95,7 +95,7 @@ bañarse:
       3s: se hubo bañado
       3p: se hubieron bañado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have taken a bath}
       1s: me habría bañado
@@ -105,7 +105,7 @@ bañarse:
       3s: se habría bañado
       3p: se habrían bañado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I take a bath, am taking a bath'}
       1s: me bañe
@@ -115,7 +115,7 @@ bañarse:
       3s: se bañe
       3p: se bañen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I took a bath, was taking a bath'}
       1s: me bañara
@@ -125,7 +125,7 @@ bañarse:
       3s: se bañara
       3p: se bañaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will take a bath}
       1s: me bañare
@@ -135,7 +135,7 @@ bañarse:
       3s: se bañare
       3p: se bañaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have taken a bath, took a bath'}
       1s: me haya bañado
@@ -145,7 +145,7 @@ bañarse:
       3s: se haya bañado
       3p: se hayan bañado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have taken a bath}
       1s: me hubiere bañado
@@ -155,7 +155,7 @@ bañarse:
       3s: se hubiere bañado
       3p: se hubieren bañado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had taken a bath}
       1s: me hubiera bañado
@@ -165,7 +165,7 @@ bañarse:
       3s: se hubiera bañado
       3p: se hubieran bañado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Take a bath! Don't take a bath!}
       1s: ''
@@ -175,7 +175,7 @@ bañarse:
       3s: bañaos
       3p: báñense
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Take a bath! Don't take a bath!}
       1s: ''

@@ -5,7 +5,7 @@ dar:
   definitions: {en: to give}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I give, am giving'}
       1s: doy
@@ -15,7 +15,7 @@ dar:
       3s: da
       3p: dan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will give}
       1s: daré
@@ -25,7 +25,7 @@ dar:
       3s: dará
       3p: darán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was giving, used to give, gave'}
       1s: daba
@@ -35,7 +35,7 @@ dar:
       3s: daba
       3p: daban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I gave}
       1s: di
@@ -45,7 +45,7 @@ dar:
       3s: dio
       3p: dieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would give}
       1s: daría
@@ -55,7 +55,7 @@ dar:
       3s: daría
       3p: darían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have given}
       1s: he dado
@@ -65,7 +65,7 @@ dar:
       3s: ha dado
       3p: han dado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have given}
       1s: habré dado
@@ -75,7 +75,7 @@ dar:
       3s: habrá dado
       3p: habrán dado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had given}
       1s: había dado
@@ -85,7 +85,7 @@ dar:
       3s: había dado
       3p: habían dado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had given}
       1s: hube dado
@@ -95,7 +95,7 @@ dar:
       3s: hubo dado
       3p: hubieron dado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have given}
       1s: habría dado
@@ -105,7 +105,7 @@ dar:
       3s: habría dado
       3p: habrían dado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I give, am giving'}
       1s: dé
@@ -115,7 +115,7 @@ dar:
       3s: dé
       3p: den
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I gave, was giving'}
       1s: diera
@@ -125,7 +125,7 @@ dar:
       3s: diera
       3p: dieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will give}
       1s: diere
@@ -135,7 +135,7 @@ dar:
       3s: diere
       3p: dieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have given, gave'}
       1s: haya dado
@@ -145,7 +145,7 @@ dar:
       3s: haya dado
       3p: hayan dado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have given}
       1s: hubiere dado
@@ -155,7 +155,7 @@ dar:
       3s: hubiere dado
       3p: hubieren dado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had given}
       1s: hubiera dado
@@ -165,7 +165,7 @@ dar:
       3s: hubiera dado
       3p: hubieran dado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Give! Don't give!}
       1s: ''
@@ -175,7 +175,7 @@ dar:
       3s: dad
       3p: den
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Give! Don't give!}
       1s: ''

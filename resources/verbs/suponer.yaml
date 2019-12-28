@@ -5,7 +5,7 @@ suponer:
   definitions: {en: to suppose}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I suppose, am supposing'}
       1s: supongo
@@ -15,7 +15,7 @@ suponer:
       3s: supone
       3p: suponen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will suppose}
       1s: supondré
@@ -25,7 +25,7 @@ suponer:
       3s: supondrá
       3p: supondrán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was supposing, used to suppose, supposed'}
       1s: suponía
@@ -35,7 +35,7 @@ suponer:
       3s: suponía
       3p: suponían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I supposed}
       1s: supuse
@@ -45,7 +45,7 @@ suponer:
       3s: supuso
       3p: supusieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would suppose}
       1s: supondría
@@ -55,7 +55,7 @@ suponer:
       3s: supondría
       3p: supondrían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have supposed}
       1s: he supuesto
@@ -65,7 +65,7 @@ suponer:
       3s: ha supuesto
       3p: han supuesto
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have supposed}
       1s: habré supuesto
@@ -75,7 +75,7 @@ suponer:
       3s: habrá supuesto
       3p: habrán supuesto
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had supposed}
       1s: había supuesto
@@ -85,7 +85,7 @@ suponer:
       3s: había supuesto
       3p: habían supuesto
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had supposed}
       1s: hube supuesto
@@ -95,7 +95,7 @@ suponer:
       3s: hubo supuesto
       3p: hubieron supuesto
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have supposed}
       1s: habría supuesto
@@ -105,7 +105,7 @@ suponer:
       3s: habría supuesto
       3p: habrían supuesto
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I suppose, am supposing'}
       1s: suponga
@@ -115,7 +115,7 @@ suponer:
       3s: suponga
       3p: supongan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I supposed, was supposing'}
       1s: supusiera
@@ -125,7 +125,7 @@ suponer:
       3s: supusiera
       3p: supusieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will suppose}
       1s: supusiere
@@ -135,7 +135,7 @@ suponer:
       3s: supusiere
       3p: supusieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have supposed, supposed'}
       1s: haya supuesto
@@ -145,7 +145,7 @@ suponer:
       3s: haya supuesto
       3p: hayan supuesto
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have supposed}
       1s: hubiere supuesto
@@ -155,7 +155,7 @@ suponer:
       3s: hubiere supuesto
       3p: hubieren supuesto
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had supposed}
       1s: hubiera supuesto
@@ -165,7 +165,7 @@ suponer:
       3s: hubiera supuesto
       3p: hubieran supuesto
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Suppose! Don't suppose!}
       1s: ''
@@ -175,7 +175,7 @@ suponer:
       3s: suponed
       3p: supongan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Suppose! Don't suppose!}
       1s: ''

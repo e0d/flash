@@ -5,7 +5,7 @@ obtener:
   definitions: {en: 'to obtain, get'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I obtain, am obtaining'}
       1s: obtengo
@@ -15,7 +15,7 @@ obtener:
       3s: obtiene
       3p: obtienen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will obtain}
       1s: obtendré
@@ -25,7 +25,7 @@ obtener:
       3s: obtendrá
       3p: obtendrán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was obtaining, used to obtain, obtained'}
       1s: obtenía
@@ -35,7 +35,7 @@ obtener:
       3s: obtenía
       3p: obtenían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I obtained}
       1s: obtuve
@@ -45,7 +45,7 @@ obtener:
       3s: obtuvo
       3p: obtuvieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would obtain}
       1s: obtendría
@@ -55,7 +55,7 @@ obtener:
       3s: obtendría
       3p: obtendrían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have obtained}
       1s: he obtenido
@@ -65,7 +65,7 @@ obtener:
       3s: ha obtenido
       3p: han obtenido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have obtained}
       1s: habré obtenido
@@ -75,7 +75,7 @@ obtener:
       3s: habrá obtenido
       3p: habrán obtenido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had obtained}
       1s: había obtenido
@@ -85,7 +85,7 @@ obtener:
       3s: había obtenido
       3p: habían obtenido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had obtained}
       1s: hube obtenido
@@ -95,7 +95,7 @@ obtener:
       3s: hubo obtenido
       3p: hubieron obtenido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have obtained}
       1s: habría obtenido
@@ -105,7 +105,7 @@ obtener:
       3s: habría obtenido
       3p: habrían obtenido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I obtain, am obtaining'}
       1s: obtenga
@@ -115,7 +115,7 @@ obtener:
       3s: obtenga
       3p: obtengan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I obtained, was obtaining'}
       1s: obtuviera
@@ -125,7 +125,7 @@ obtener:
       3s: obtuviera
       3p: obtuvieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will obtain}
       1s: obtuviere
@@ -135,7 +135,7 @@ obtener:
       3s: obtuviere
       3p: obtuvieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have obtained, obtained'}
       1s: haya obtenido
@@ -145,7 +145,7 @@ obtener:
       3s: haya obtenido
       3p: hayan obtenido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have obtained}
       1s: hubiere obtenido
@@ -155,7 +155,7 @@ obtener:
       3s: hubiere obtenido
       3p: hubieren obtenido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had obtained}
       1s: hubiera obtenido
@@ -165,7 +165,7 @@ obtener:
       3s: hubiera obtenido
       3p: hubieran obtenido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Obtain! Don't obtain!}
       1s: ''
@@ -175,7 +175,7 @@ obtener:
       3s: obtened
       3p: obtengan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Obtain! Don't obtain!}
       1s: ''

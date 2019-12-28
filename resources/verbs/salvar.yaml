@@ -5,7 +5,7 @@ salvar:
   definitions: {en: 'to save, rescue; to except, exclude'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I save, am saving'}
       1s: salvo
@@ -15,7 +15,7 @@ salvar:
       3s: salva
       3p: salvan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will save}
       1s: salvaré
@@ -25,7 +25,7 @@ salvar:
       3s: salvará
       3p: salvarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was saving, used to save, saved'}
       1s: salvaba
@@ -35,7 +35,7 @@ salvar:
       3s: salvaba
       3p: salvaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I saved}
       1s: salvé
@@ -45,7 +45,7 @@ salvar:
       3s: salvó
       3p: salvaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would save}
       1s: salvaría
@@ -55,7 +55,7 @@ salvar:
       3s: salvaría
       3p: salvarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have saved}
       1s: he salvado
@@ -65,7 +65,7 @@ salvar:
       3s: ha salvado
       3p: han salvado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have saved}
       1s: habré salvado
@@ -75,7 +75,7 @@ salvar:
       3s: habrá salvado
       3p: habrán salvado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had saved}
       1s: había salvado
@@ -85,7 +85,7 @@ salvar:
       3s: había salvado
       3p: habían salvado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had saved}
       1s: hube salvado
@@ -95,7 +95,7 @@ salvar:
       3s: hubo salvado
       3p: hubieron salvado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have saved}
       1s: habría salvado
@@ -105,7 +105,7 @@ salvar:
       3s: habría salvado
       3p: habrían salvado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I save, am saving'}
       1s: salve
@@ -115,7 +115,7 @@ salvar:
       3s: salve
       3p: salven
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I saved, was saving'}
       1s: salvara
@@ -125,7 +125,7 @@ salvar:
       3s: salvara
       3p: salvaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will save}
       1s: salvare
@@ -135,7 +135,7 @@ salvar:
       3s: salvare
       3p: salvaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have saved, saved'}
       1s: haya salvado
@@ -145,7 +145,7 @@ salvar:
       3s: haya salvado
       3p: hayan salvado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have saved}
       1s: hubiere salvado
@@ -155,7 +155,7 @@ salvar:
       3s: hubiere salvado
       3p: hubieren salvado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had saved}
       1s: hubiera salvado
@@ -165,7 +165,7 @@ salvar:
       3s: hubiera salvado
       3p: hubieran salvado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Save! Don't save!}
       1s: ''
@@ -175,7 +175,7 @@ salvar:
       3s: salvad
       3p: salven
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Save! Don't save!}
       1s: ''

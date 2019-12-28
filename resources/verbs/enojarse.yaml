@@ -5,7 +5,7 @@ enojarse:
   definitions: {en: 'to get angry, get upset, lose one''s temper'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I get angry, am getting angry'}
       1s: me enojo
@@ -15,7 +15,7 @@ enojarse:
       3s: se enoja
       3p: se enojan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will get angry}
       1s: me enojaré
@@ -25,7 +25,7 @@ enojarse:
       3s: se enojará
       3p: se enojarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was getting angry, used to get angry, got angry'}
       1s: me enojaba
@@ -35,7 +35,7 @@ enojarse:
       3s: se enojaba
       3p: se enojaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I got angry}
       1s: me enojé
@@ -45,7 +45,7 @@ enojarse:
       3s: se enojó
       3p: se enojaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would get angry}
       1s: me enojaría
@@ -55,7 +55,7 @@ enojarse:
       3s: se enojaría
       3p: se enojarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have gotten angry}
       1s: me he enojado
@@ -65,7 +65,7 @@ enojarse:
       3s: se ha enojado
       3p: se han enojado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have gotten angry}
       1s: me habré enojado
@@ -75,7 +75,7 @@ enojarse:
       3s: se habrá enojado
       3p: se habrán enojado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had gotten angry}
       1s: me había enojado
@@ -85,7 +85,7 @@ enojarse:
       3s: se había enojado
       3p: se habían enojado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had gotten angry}
       1s: me hube enojado
@@ -95,7 +95,7 @@ enojarse:
       3s: se hubo enojado
       3p: se hubieron enojado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have gotten angry}
       1s: me habría enojado
@@ -105,7 +105,7 @@ enojarse:
       3s: se habría enojado
       3p: se habrían enojado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I get angry, am getting angry'}
       1s: me enoje
@@ -115,7 +115,7 @@ enojarse:
       3s: se enoje
       3p: se enojen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I got angry, was getting angry'}
       1s: me enojara
@@ -125,7 +125,7 @@ enojarse:
       3s: se enojara
       3p: se enojaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will get angry}
       1s: me enojare
@@ -135,7 +135,7 @@ enojarse:
       3s: se enojare
       3p: se enojaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have gotten angry, got angry'}
       1s: me haya enojado
@@ -145,7 +145,7 @@ enojarse:
       3s: se haya enojado
       3p: se hayan enojado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have gotten angry}
       1s: me hubiere enojado
@@ -155,7 +155,7 @@ enojarse:
       3s: se hubiere enojado
       3p: se hubieren enojado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had gotten angry}
       1s: me hubiera enojado
@@ -165,7 +165,7 @@ enojarse:
       3s: se hubiera enojado
       3p: se hubieran enojado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Get angry! Don't get angry!}
       1s: ''
@@ -175,7 +175,7 @@ enojarse:
       3s: enojaos
       3p: enójense
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Get angry! Don't get angry!}
       1s: ''

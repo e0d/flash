@@ -5,7 +5,7 @@ producir:
   definitions: {en: to produce}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I produce, am producing'}
       1s: produzco
@@ -15,7 +15,7 @@ producir:
       3s: produce
       3p: producen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will produce}
       1s: produciré
@@ -25,7 +25,7 @@ producir:
       3s: producirá
       3p: producirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was producing, used to produce, produced'}
       1s: producía
@@ -35,7 +35,7 @@ producir:
       3s: producía
       3p: producían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I produced}
       1s: produje
@@ -45,7 +45,7 @@ producir:
       3s: produjo
       3p: produjeron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would produce}
       1s: produciría
@@ -55,7 +55,7 @@ producir:
       3s: produciría
       3p: producirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have produced}
       1s: he producido
@@ -65,7 +65,7 @@ producir:
       3s: ha producido
       3p: han producido
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have produced}
       1s: habré producido
@@ -75,7 +75,7 @@ producir:
       3s: habrá producido
       3p: habrán producido
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had produced}
       1s: había producido
@@ -85,7 +85,7 @@ producir:
       3s: había producido
       3p: habían producido
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had produced}
       1s: hube producido
@@ -95,7 +95,7 @@ producir:
       3s: hubo producido
       3p: hubieron producido
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have produced}
       1s: habría producido
@@ -105,7 +105,7 @@ producir:
       3s: habría producido
       3p: habrían producido
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I produce, am producing'}
       1s: produzca
@@ -115,7 +115,7 @@ producir:
       3s: produzca
       3p: produzcan
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I produced, was producing'}
       1s: produjera
@@ -125,7 +125,7 @@ producir:
       3s: produjera
       3p: produjeran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will produce}
       1s: produjere
@@ -135,7 +135,7 @@ producir:
       3s: produjere
       3p: produjeren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have produced, produced'}
       1s: haya producido
@@ -145,7 +145,7 @@ producir:
       3s: haya producido
       3p: hayan producido
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have produced}
       1s: hubiere producido
@@ -155,7 +155,7 @@ producir:
       3s: hubiere producido
       3p: hubieren producido
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had produced}
       1s: hubiera producido
@@ -165,7 +165,7 @@ producir:
       3s: hubiera producido
       3p: hubieran producido
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Produce! Don't produce!}
       1s: ''
@@ -175,7 +175,7 @@ producir:
       3s: producid
       3p: produzcan
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Produce! Don't produce!}
       1s: ''

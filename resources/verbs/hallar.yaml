@@ -5,7 +5,7 @@ hallar:
   definitions: {en: to find; to discover; to locate; to find out}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I find, am finding'}
       1s: hallo
@@ -15,7 +15,7 @@ hallar:
       3s: halla
       3p: hallan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will find}
       1s: hallaré
@@ -25,7 +25,7 @@ hallar:
       3s: hallará
       3p: hallarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was finding, used to find, found'}
       1s: hallaba
@@ -35,7 +35,7 @@ hallar:
       3s: hallaba
       3p: hallaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I found}
       1s: hallé
@@ -45,7 +45,7 @@ hallar:
       3s: halló
       3p: hallaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would find}
       1s: hallaría
@@ -55,7 +55,7 @@ hallar:
       3s: hallaría
       3p: hallarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have found}
       1s: he hallado
@@ -65,7 +65,7 @@ hallar:
       3s: ha hallado
       3p: han hallado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have found}
       1s: habré hallado
@@ -75,7 +75,7 @@ hallar:
       3s: habrá hallado
       3p: habrán hallado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had found}
       1s: había hallado
@@ -85,7 +85,7 @@ hallar:
       3s: había hallado
       3p: habían hallado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had found}
       1s: hube hallado
@@ -95,7 +95,7 @@ hallar:
       3s: hubo hallado
       3p: hubieron hallado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have found}
       1s: habría hallado
@@ -105,7 +105,7 @@ hallar:
       3s: habría hallado
       3p: habrían hallado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I find, am finding'}
       1s: halle
@@ -115,7 +115,7 @@ hallar:
       3s: halle
       3p: hallen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I found, was finding'}
       1s: hallara
@@ -125,7 +125,7 @@ hallar:
       3s: hallara
       3p: hallaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will find}
       1s: hallare
@@ -135,7 +135,7 @@ hallar:
       3s: hallare
       3p: hallaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have found, found'}
       1s: haya hallado
@@ -145,7 +145,7 @@ hallar:
       3s: haya hallado
       3p: hayan hallado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have found}
       1s: hubiere hallado
@@ -155,7 +155,7 @@ hallar:
       3s: hubiere hallado
       3p: hubieren hallado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had found}
       1s: hubiera hallado
@@ -165,7 +165,7 @@ hallar:
       3s: hubiera hallado
       3p: hubieran hallado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Find! Don't find!}
       1s: ''
@@ -175,7 +175,7 @@ hallar:
       3s: hallad
       3p: hallen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Find! Don't find!}
       1s: ''

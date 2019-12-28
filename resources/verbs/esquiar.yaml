@@ -5,7 +5,7 @@ esquiar:
   definitions: {en: to ski}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I ski, am skiing'}
       1s: esquío
@@ -15,7 +15,7 @@ esquiar:
       3s: esquía
       3p: esquían
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will ski}
       1s: esquiaré
@@ -25,7 +25,7 @@ esquiar:
       3s: esquiará
       3p: esquiarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was skiing, used to ski, skied'}
       1s: esquiaba
@@ -35,7 +35,7 @@ esquiar:
       3s: esquiaba
       3p: esquiaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I skied}
       1s: esquié
@@ -45,7 +45,7 @@ esquiar:
       3s: esquió
       3p: esquiaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would ski}
       1s: esquiaría
@@ -55,7 +55,7 @@ esquiar:
       3s: esquiaría
       3p: esquiarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have skied}
       1s: he esquiado
@@ -65,7 +65,7 @@ esquiar:
       3s: ha esquiado
       3p: han esquiado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have skied}
       1s: habré esquiado
@@ -75,7 +75,7 @@ esquiar:
       3s: habrá esquiado
       3p: habrán esquiado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had skied}
       1s: había esquiado
@@ -85,7 +85,7 @@ esquiar:
       3s: había esquiado
       3p: habían esquiado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had skied}
       1s: hube esquiado
@@ -95,7 +95,7 @@ esquiar:
       3s: hubo esquiado
       3p: hubieron esquiado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have skied}
       1s: habría esquiado
@@ -105,7 +105,7 @@ esquiar:
       3s: habría esquiado
       3p: habrían esquiado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I ski, am skiing'}
       1s: esquíe
@@ -115,7 +115,7 @@ esquiar:
       3s: esquíe
       3p: esquíen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I skied, was skiing'}
       1s: esquiara
@@ -125,7 +125,7 @@ esquiar:
       3s: esquiara
       3p: esquiaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will ski}
       1s: esquiare
@@ -135,7 +135,7 @@ esquiar:
       3s: esquiare
       3p: esquiaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have skied, skied'}
       1s: haya esquiado
@@ -145,7 +145,7 @@ esquiar:
       3s: haya esquiado
       3p: hayan esquiado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have skied}
       1s: hubiere esquiado
@@ -155,7 +155,7 @@ esquiar:
       3s: hubiere esquiado
       3p: hubieren esquiado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had skied}
       1s: hubiera esquiado
@@ -165,7 +165,7 @@ esquiar:
       3s: hubiera esquiado
       3p: hubieran esquiado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Ski! Don't ski!}
       1s: ''
@@ -175,7 +175,7 @@ esquiar:
       3s: esquiad
       3p: esquíen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Ski! Don't ski!}
       1s: ''

@@ -5,7 +5,7 @@ sonreír:
   definitions: {en: to smile}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I smile, am smiling'}
       1s: sonrío
@@ -15,7 +15,7 @@ sonreír:
       3s: sonríe
       3p: sonríen
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will smile}
       1s: sonreiré
@@ -25,7 +25,7 @@ sonreír:
       3s: sonreirá
       3p: sonreirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was smiling, used to smile, smiled'}
       1s: sonreía
@@ -35,7 +35,7 @@ sonreír:
       3s: sonreía
       3p: sonreían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I smiled}
       1s: sonreí
@@ -45,7 +45,7 @@ sonreír:
       3s: sonrió
       3p: sonrieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would smile}
       1s: sonreiría
@@ -55,7 +55,7 @@ sonreír:
       3s: sonreiría
       3p: sonreirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have smiled}
       1s: he sonreído
@@ -65,7 +65,7 @@ sonreír:
       3s: ha sonreído
       3p: han sonreído
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have smiled}
       1s: habré sonreído
@@ -75,7 +75,7 @@ sonreír:
       3s: habrá sonreído
       3p: habrán sonreído
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had smiled}
       1s: había sonreído
@@ -85,7 +85,7 @@ sonreír:
       3s: había sonreído
       3p: habían sonreído
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had smiled}
       1s: hube sonreído
@@ -95,7 +95,7 @@ sonreír:
       3s: hubo sonreído
       3p: hubieron sonreído
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have smiled}
       1s: habría sonreído
@@ -105,7 +105,7 @@ sonreír:
       3s: habría sonreído
       3p: habrían sonreído
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I smile, am smiling'}
       1s: sonría
@@ -115,7 +115,7 @@ sonreír:
       3s: sonría
       3p: sonrían
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I smiled, was smiling'}
       1s: sonriera
@@ -125,7 +125,7 @@ sonreír:
       3s: sonriera
       3p: sonrieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will smile}
       1s: sonriere
@@ -135,7 +135,7 @@ sonreír:
       3s: sonriere
       3p: sonrieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have smiled, smiled'}
       1s: haya sonreído
@@ -145,7 +145,7 @@ sonreír:
       3s: haya sonreído
       3p: hayan sonreído
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have smiled}
       1s: hubiere sonreído
@@ -155,7 +155,7 @@ sonreír:
       3s: hubiere sonreído
       3p: hubieren sonreído
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had smiled}
       1s: hubiera sonreído
@@ -165,7 +165,7 @@ sonreír:
       3s: hubiera sonreído
       3p: hubieran sonreído
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Smile! Don't smile!}
       1s: ''
@@ -175,7 +175,7 @@ sonreír:
       3s: sonreíd
       3p: sonrían
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Smile! Don't smile!}
       1s: ''

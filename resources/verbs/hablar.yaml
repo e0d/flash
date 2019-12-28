@@ -5,7 +5,7 @@ hablar:
   definitions: {en: to speak}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I speak, am speaking'}
       1s: hablo
@@ -15,7 +15,7 @@ hablar:
       3s: habla
       3p: hablan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will speak}
       1s: hablaré
@@ -25,7 +25,7 @@ hablar:
       3s: hablará
       3p: hablarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was speaking, used to speak, spoke'}
       1s: hablaba
@@ -35,7 +35,7 @@ hablar:
       3s: hablaba
       3p: hablaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I spoke}
       1s: hablé
@@ -45,7 +45,7 @@ hablar:
       3s: habló
       3p: hablaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would speak}
       1s: hablaría
@@ -55,7 +55,7 @@ hablar:
       3s: hablaría
       3p: hablarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have spoken}
       1s: he hablado
@@ -65,7 +65,7 @@ hablar:
       3s: ha hablado
       3p: han hablado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have spoken}
       1s: habré hablado
@@ -75,7 +75,7 @@ hablar:
       3s: habrá hablado
       3p: habrán hablado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had spoken}
       1s: había hablado
@@ -85,7 +85,7 @@ hablar:
       3s: había hablado
       3p: habían hablado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had spoken}
       1s: hube hablado
@@ -95,7 +95,7 @@ hablar:
       3s: hubo hablado
       3p: hubieron hablado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have spoken}
       1s: habría hablado
@@ -105,7 +105,7 @@ hablar:
       3s: habría hablado
       3p: habrían hablado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I speak, am speaking'}
       1s: hable
@@ -115,7 +115,7 @@ hablar:
       3s: hable
       3p: hablen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I spoke, was speaking'}
       1s: hablara
@@ -125,7 +125,7 @@ hablar:
       3s: hablara
       3p: hablaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will speak}
       1s: hablare
@@ -135,7 +135,7 @@ hablar:
       3s: hablare
       3p: hablaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have spoken, spoke'}
       1s: haya hablado
@@ -145,7 +145,7 @@ hablar:
       3s: haya hablado
       3p: hayan hablado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have spoken}
       1s: hubiere hablado
@@ -155,7 +155,7 @@ hablar:
       3s: hubiere hablado
       3p: hubieren hablado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had spoken}
       1s: hubiera hablado
@@ -165,7 +165,7 @@ hablar:
       3s: hubiera hablado
       3p: hubieran hablado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Speak! Don't speak!}
       1s: ''
@@ -175,7 +175,7 @@ hablar:
       3s: hablad
       3p: hablen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Speak! Don't speak!}
       1s: ''

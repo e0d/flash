@@ -5,7 +5,7 @@ regatear:
   definitions: {en: 'to haggle (over), bargain (over)'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I haggle, am haggling'}
       1s: regateo
@@ -15,7 +15,7 @@ regatear:
       3s: regatea
       3p: regatean
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will haggle}
       1s: regatearé
@@ -25,7 +25,7 @@ regatear:
       3s: regateará
       3p: regatearán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was haggling, used to haggle, haggled'}
       1s: regateaba
@@ -35,7 +35,7 @@ regatear:
       3s: regateaba
       3p: regateaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I haggled}
       1s: regateé
@@ -45,7 +45,7 @@ regatear:
       3s: regateó
       3p: regatearon
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would haggle}
       1s: regatearía
@@ -55,7 +55,7 @@ regatear:
       3s: regatearía
       3p: regatearían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have haggled}
       1s: he regateado
@@ -65,7 +65,7 @@ regatear:
       3s: ha regateado
       3p: han regateado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have haggled}
       1s: habré regateado
@@ -75,7 +75,7 @@ regatear:
       3s: habrá regateado
       3p: habrán regateado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had haggled}
       1s: había regateado
@@ -85,7 +85,7 @@ regatear:
       3s: había regateado
       3p: habían regateado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had haggled}
       1s: hube regateado
@@ -95,7 +95,7 @@ regatear:
       3s: hubo regateado
       3p: hubieron regateado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have haggled}
       1s: habría regateado
@@ -105,7 +105,7 @@ regatear:
       3s: habría regateado
       3p: habrían regateado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I haggle, am haggling'}
       1s: regatee
@@ -115,7 +115,7 @@ regatear:
       3s: regatee
       3p: regateen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I haggled, was haggling'}
       1s: regateara
@@ -125,7 +125,7 @@ regatear:
       3s: regateara
       3p: regatearan
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will haggle}
       1s: regateare
@@ -135,7 +135,7 @@ regatear:
       3s: regateare
       3p: regatearen
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have haggled, haggled'}
       1s: haya regateado
@@ -145,7 +145,7 @@ regatear:
       3s: haya regateado
       3p: hayan regateado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have haggled}
       1s: hubiere regateado
@@ -155,7 +155,7 @@ regatear:
       3s: hubiere regateado
       3p: hubieren regateado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had haggled}
       1s: hubiera regateado
@@ -165,7 +165,7 @@ regatear:
       3s: hubiera regateado
       3p: hubieran regateado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Haggle! Don't haggle!}
       1s: ''
@@ -175,7 +175,7 @@ regatear:
       3s: regatead
       3p: regateen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Haggle! Don't haggle!}
       1s: ''

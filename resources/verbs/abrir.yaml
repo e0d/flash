@@ -5,7 +5,7 @@ abrir:
   definitions: {en: to open}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I open, am opening'}
       1s: abro
@@ -15,7 +15,7 @@ abrir:
       3s: abre
       3p: abren
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will open}
       1s: abriré
@@ -25,7 +25,7 @@ abrir:
       3s: abrirá
       3p: abrirán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was opening, used to open, opened'}
       1s: abría
@@ -35,7 +35,7 @@ abrir:
       3s: abría
       3p: abrían
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I opened}
       1s: abrí
@@ -45,7 +45,7 @@ abrir:
       3s: abrió
       3p: abrieron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would open}
       1s: abriría
@@ -55,7 +55,7 @@ abrir:
       3s: abriría
       3p: abrirían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have opened}
       1s: he abierto
@@ -65,7 +65,7 @@ abrir:
       3s: ha abierto
       3p: han abierto
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have opened}
       1s: habré abierto
@@ -75,7 +75,7 @@ abrir:
       3s: habrá abierto
       3p: habrán abierto
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had opened}
       1s: había abierto
@@ -85,7 +85,7 @@ abrir:
       3s: había abierto
       3p: habían abierto
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had opened}
       1s: hube abierto
@@ -95,7 +95,7 @@ abrir:
       3s: hubo abierto
       3p: hubieron abierto
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have opened}
       1s: habría abierto
@@ -105,7 +105,7 @@ abrir:
       3s: habría abierto
       3p: habrían abierto
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I open, am opening'}
       1s: abra
@@ -115,7 +115,7 @@ abrir:
       3s: abra
       3p: abran
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I opened, was opening'}
       1s: abriera
@@ -125,7 +125,7 @@ abrir:
       3s: abriera
       3p: abrieran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will open}
       1s: abriere
@@ -135,7 +135,7 @@ abrir:
       3s: abriere
       3p: abrieren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have opened, opened'}
       1s: haya abierto
@@ -145,7 +145,7 @@ abrir:
       3s: haya abierto
       3p: hayan abierto
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have opened}
       1s: hubiere abierto
@@ -155,7 +155,7 @@ abrir:
       3s: hubiere abierto
       3p: hubieren abierto
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had opened}
       1s: hubiera abierto
@@ -165,7 +165,7 @@ abrir:
       3s: hubiera abierto
       3p: hubieran abierto
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Open! Don't open!}
       1s: ''
@@ -175,7 +175,7 @@ abrir:
       3s: abrid
       3p: abran
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Open! Don't open!}
       1s: ''

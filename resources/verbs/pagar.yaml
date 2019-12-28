@@ -5,7 +5,7 @@ pagar:
   definitions: {en: 'to pay, pay for'}
   tenses:
   - Presente Indicativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I pay, am paying'}
       1s: pago
@@ -15,7 +15,7 @@ pagar:
       3s: paga
       3p: pagan
   - Futuro Indicativo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will pay}
       1s: pagaré
@@ -25,7 +25,7 @@ pagar:
       3s: pagará
       3p: pagarán
   - Imperfecto Indicativo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: 'I was paying, used to pay, paid'}
       1s: pagaba
@@ -35,7 +35,7 @@ pagar:
       3s: pagaba
       3p: pagaban
   - Pretérito Indicativo:
-      names: {en: Preterite, es: Pretérito}
+      tenses: {en: Preterite, es: Pretérito}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I paid}
       1s: pagué
@@ -45,7 +45,7 @@ pagar:
       3s: pagó
       3p: pagaron
   - Condicional Indicativo:
-      names: {en: Conditional, es: Condicional}
+      tenses: {en: Conditional, es: Condicional}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would pay}
       1s: pagaría
@@ -55,7 +55,7 @@ pagar:
       3s: pagaría
       3p: pagarían
   - Presente perfecto Indicativo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I have paid}
       1s: he pagado
@@ -65,7 +65,7 @@ pagar:
       3s: ha pagado
       3p: han pagado
   - Futuro perfecto Indicativo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I will have paid}
       1s: habré pagado
@@ -75,7 +75,7 @@ pagar:
       3s: habrá pagado
       3p: habrán pagado
   - Pluscuamperfecto Indicativo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had paid}
       1s: había pagado
@@ -85,7 +85,7 @@ pagar:
       3s: había pagado
       3p: habían pagado
   - Pretérito anterior Indicativo:
-      names: {en: Preterite (Archaic), es: Pretérito anterior}
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I had paid}
       1s: hube pagado
@@ -95,7 +95,7 @@ pagar:
       3s: hubo pagado
       3p: hubieron pagado
   - Condicional perfecto Indicativo:
-      names: {en: Conditional Perfect, es: Condicional perfecto}
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
       moods: {en: Indicative, es: Indicativo}
       samples: {en: I would have paid}
       1s: habría pagado
@@ -105,7 +105,7 @@ pagar:
       3s: habría pagado
       3p: habrían pagado
   - Presente Subjuntivo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I pay, am paying'}
       1s: pague
@@ -115,7 +115,7 @@ pagar:
       3s: pague
       3p: paguen
   - Imperfecto Subjuntivo:
-      names: {en: Imperfect, es: Imperfecto}
+      tenses: {en: Imperfect, es: Imperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I paid, was paying'}
       1s: pagara
@@ -125,7 +125,7 @@ pagar:
       3s: pagara
       3p: pagaran
   - Futuro Subjuntivo:
-      names: {en: Future, es: Futuro}
+      tenses: {en: Future, es: Futuro}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will pay}
       1s: pagare
@@ -135,7 +135,7 @@ pagar:
       3s: pagare
       3p: pagaren
   - Presente perfecto Subjuntivo:
-      names: {en: Present Perfect, es: Presente perfecto}
+      tenses: {en: Present Perfect, es: Presente perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have paid, paid'}
       1s: haya pagado
@@ -145,7 +145,7 @@ pagar:
       3s: haya pagado
       3p: hayan pagado
   - Futuro perfecto Subjuntivo:
-      names: {en: Future Perfect, es: Futuro perfecto}
+      tenses: {en: Future Perfect, es: Futuro perfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have paid}
       1s: hubiere pagado
@@ -155,7 +155,7 @@ pagar:
       3s: hubiere pagado
       3p: hubieren pagado
   - Pluscuamperfecto Subjuntivo:
-      names: {en: Past Perfect, es: Pluscuamperfecto}
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
       moods: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had paid}
       1s: hubiera pagado
@@ -165,7 +165,7 @@ pagar:
       3s: hubiera pagado
       3p: hubieran pagado
   - Presente Imperativo Afirmativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Pay! Don't pay!}
       1s: ''
@@ -175,7 +175,7 @@ pagar:
       3s: pagad
       3p: paguen
   - Presente Imperativo Negativo:
-      names: {en: Present, es: Presente}
+      tenses: {en: Present, es: Presente}
       moods: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Pay! Don't pay!}
       1s: ''
