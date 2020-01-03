@@ -171,8 +171,8 @@ votar:
       1s: ''
       1p: ''
       2s: vota
-      2p: vote
-      3s: votad
+      2p: votad
+      3s: vote
       3p: voten
   - Presente Imperativo Negativo:
       tenses: {en: Present, es: Presente}
@@ -181,6 +181,6 @@ votar:
       1s: ''
       1p: ''
       2s: no votes
-      2p: no vote
-      3s: no votéis
+      2p: no votéis
+      3s: no vote
       3p: no voten

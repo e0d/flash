@@ -171,8 +171,8 @@ maquillarse:
       1s: ''
       1p: ''
       2s: no te maquíllate
-      2p: no te maquíllese
-      3s: maquillaos
+      2p: maquillaos
+      3s: no te maquíllese
       3p: maquíllense
   - Presente Imperativo Negativo:
       tenses: {en: Present, es: Presente}
@@ -181,6 +181,6 @@ maquillarse:
       1s: ''
       1p: ''
       2s: no te maquilles
-      2p: no se maquille
-      3s: no os maquilléis
+      2p: no os maquilléis
+      3s: no se maquille
       3p: no se maquillen

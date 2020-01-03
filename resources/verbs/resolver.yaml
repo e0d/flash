@@ -171,8 +171,8 @@ resolver:
       1s: ''
       1p: ''
       2s: resuelve
-      2p: resuelva
-      3s: resolved
+      2p: resolved
+      3s: resuelva
       3p: resuelvan
   - Presente Imperativo Negativo:
       tenses: {en: Present, es: Presente}
@@ -181,6 +181,6 @@ resolver:
       1s: ''
       1p: ''
       2s: no resuelvas
-      2p: no resuelva
-      3s: no resolváis
+      2p: no resolváis
+      3s: no resuelva
       3p: no resuelvan
